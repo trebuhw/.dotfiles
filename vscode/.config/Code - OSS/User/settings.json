@@ -1,0 +1,43 @@
+{
+	"files.autoSave": "afterDelay",
+	"editor.formatOnSave": true,
+	"editor.wordWrap": "on",
+	"editor.linkedEditing": true,
+	"editor.cursorBlinking": "expand",
+	"editor.bracketPairColorization.enabled": true,
+	"workbench.colorCustomizations": {
+		"editorBracketHighlight.foreground1": "#ffd700",
+		"editorBracketHighlight.foreground2": "#ff00ff",
+		"editorBracketHighlight.foreground3": "#00bfff",
+		"editorBracketHighlight.foreground4": "#7cfc00",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#ff0000"
+	},
+	"workbench.iconTheme": "catppuccin-mocha",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.arrowParens": "avoid",
+	"prettier.jsxSingleQuote": true,
+	"prettier.bracketSameLine": true,
+	"prettier.semi": false,
+	"prettier.useTabs": true,
+	"emmet.syntaxProfiles": {
+		"html": {
+			"inline_break": 2
+		}
+	},
+	"emmet.variables": {
+		"lang": "pl"
+	},
+	"editor.fontFamily": "'FiraCode Nerd Font', 'JetBrainsMono Nerd Font', 'Droid Sans Mono', 'monospace', monospace",
+	"telemetry.telemetryLevel": "off",
+	"security.workspace.trust.untrustedFiles": "open",
+	"git.autofetch": true,
+	"[nix]": {
+		"editor.insertSpaces": true,
+		"editor.tabSize": 2
+	},
+	"editor.fontSize": 16,
+	"workbench.colorTheme": "Catppuccin Mocha",
+	"explorer.confirmDelete": false,
+	"window.confirmSaveUntitledWorkspace": false,
+	"git.openRepositoryInParentFolders": "never"
+}

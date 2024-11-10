@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+CPUTemp=$(sensors | grep 'temp1' | awk '{ print substr ($0, 16 ) }' | awk 'FNR == 3 {print}')
+
+notify-send -t 8000 "$(
+fastfetch | grep OS
+fastfetch | grep Kernel
+fastfetch | grep CPU | awk '{print $1, $2, $4}'
+fastfetch | grep Memory
+fastfetch | grep Uptime
+printf "🌡️ CPU: $CPUTemp"
+)"

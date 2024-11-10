@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+hyprpaper -c $HOME/.config/hypr/hyprpaper.conf &
+
+
+notify-send "Wallpaper change"

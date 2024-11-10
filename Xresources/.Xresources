@@ -1,0 +1,160 @@
+!! Transparency (0-1):
+st.alpha: 0.9
+! st.alphaOffset: 1.0
+
+!! Set a default font and font size as below:
+st.font: FiraCode Nerd Font-12;
+
+! st.termname: st-256color
+! st.borderpx: 2
+
+!! Set the background, foreground and cursor colors as below:
+
+!! Catppuccin Mocha theme
+*.background: #1E1E2E
+*.foreground: #CDD6F4
+*.cursorColor: #F5E0DC
+*.color0: #45475A
+*.color8: #585B70
+*.color1: #F38BA8
+*.color9: #F38BA8
+*.color2: #A6E3A1
+*.color10: #A6E3A1
+*.color3: #F9E2AF
+*.color11: #F9E2AF
+*.color4: #89B4FA
+*.color12: #89B4FA
+*.color5: #F5C2E7
+*.color13: #F5C2E7
+*.color6: #94E2D5
+*.color14: #94E2D5
+*.color7: #BAC2DE
+*.color15: #A6ADC8
+
+!! DWM - May colors
+!*.foreground: #F8F8F2
+!*.background: #282A36
+!*.cursorColor: white
+!*.color0:     #000000
+!*.color8:     #4D4D4D
+!*.color1:     #FF5555
+!*.color9:     #FF6E67
+!*.color2:     #50FA7B
+!*.color10:    #5AF78E
+!*.color3:     #F1FA8C
+!*.color11:    #F4F99D
+!*.color4:     #0087ff
+!*.color12:    #0087ff
+!*.color5:     #FF79C6
+!*.color14:    #9AEDFE
+!*.color7:     #BFBFBF
+!*.color15:    #E6E6E6
+
+!! Dracula
+!*.foreground: #F8F8F2
+!*.background: #282A36
+!*.cursorColor: white
+!*.color0:     #000000
+!*.color8:     #4D4D4D
+!*.color1:     #FF5555
+!*.color9:     #FF6E67
+!*.color2:     #50FA7B
+!*.color10:    #5AF78E
+!*.color3:     #F1FA8C
+!*.color11:    #F4F99D
+!*.color4:     #BD93F9
+!*.color12:    #CAA9FA
+!*.color5:     #FF79C6
+!*.color14:    #9AEDFE
+!*.color7:     #BFBFBF
+!*.color15:    #E6E6E6
+
+! ------------------------------------------------------------------------------
+! xterm theme
+! xrdb ~/.Xresources - load file
+! xrdb -merge ~/.Xresources - reload file
+! ------------------------------------------------------------------------------
+
+xterm*faceName: JetBrainsMono Nerd Font
+xterm*faceSize: 12
+XTerm*cursorBlink: false
+xterm*selectToClipboard: true
+xterm*loginShell: true
+xterm*vt100*geometry: 100x30
+xterm*saveLines: 50000
+xterm*charClass: 33:48,35:48,37:48,43:48,45-47:48,64:48,95:48,126:48
+xterm*termName: xterm-256color
+xterm*eightBitInput: false
+xterm*.foreground: #F8F8F2
+xterm*.background: #282A36
+xterm*.color0:     #000000
+xterm*.color8:     #4D4D4D
+xterm*.color1:     #FF5555
+xterm*.color9:     #FF6E67
+xterm*.color2:     #50FA7B
+xterm*.color10:    #5AF78E
+xterm*.color3:     #F1FA8C
+xterm*.color11:    #F4F99D
+xterm*.color4:     #BD93F9
+xterm*.color12:    #CAA9FA
+xterm*.color5:     #FF79C6
+xterm*.color13:    #FF92D0
+xterm*.color6:     #8BE9FD
+xterm*.color14:    #9AEDFE
+xterm*.color7:     #BFBFBF
+xterm*.color15:    #E6E6E6
+xterm*boldMode: false
+xterm*colorBDMode: true
+xterm*colorBD: #E6E6E6
+
+! special
+URxvt.background: #1E1E2E
+URxvt.foreground: #CDD6F4
+URxvt.cursorColor: #F5E0DC
+
+! black
+URxvt.color0: #45475A
+URxvt.color8: #585B70
+
+! red
+URxvt.color1: #F38BA8
+URxvt.color9: #F38BA8
+
+! green
+URxvt.color2: #A6E3A1
+URxvt.color10: #A6E3A1
+
+! yellow
+URxvt.color3: #F9E2AF
+URxvt.color11: #F9E2AF
+
+! blue
+URxvt.color4: #89B4FA
+URxvt.color12: #89B4FA
+
+! magenta
+URxvt.color5: #F5C2E7
+URxvt.color13: #F5C2E7
+
+! cyan
+URxvt.color6: #94E2D5
+URxvt.color14: #94E2D5
+
+! white
+URxvt.color7: #BAC2DE
+URxvt.color15: #A6ADC8
+
+!! URxvt Appearance
+URxvt.letterSpace: 0
+URxvt.lineSpace: 0
+URxvt.geometry: 92x24
+URxvt.internalBorder: 24
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: false
+URxvt.saveline: 2048
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.urgentOnBell: true
+URxvt.depth: 24
+URxvt.iso14755: false
+

@@ -1,0 +1,11 @@
+
+# Uruchomienie skryptu slstatus.sh dla DWM
+# if [ -x ~/.config/suckless/scripts/slstaus.sh ]; then
+#     ~/.config/suckless/scripts/slstaus.sh &
+# fi
+#
+# Display
+# xrandr --output Virtual-1 --mode 1920x1080 &
+#
+export GTK_THEME=Catppuccin-Mocha-Standard-Blue-Dark
+slstatus &

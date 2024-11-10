@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Catppuccin Mocha.sublime-color-scheme",
+	"theme": "Default Dark.sublime-theme",
+	"dark_color_scheme": "Breakers.sublime-color-scheme",
+	"light_color_scheme": "Breakers.sublime-color-scheme",
+	"font_face": "JetBrainsMono Nerd Font",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"dark_theme": "Adaptive.sublime-theme",
+	"light_theme": "Adaptive.sublime-theme",
+	"index_files": true,
+}
