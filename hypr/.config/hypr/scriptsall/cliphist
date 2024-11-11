@@ -1,3 +1,0 @@
-#!/bin/bash
-
-cliphist list | tofi -c ~/.config/hypr/tofi/config --prompt-text="  " | cliphist decode | wl-copy ;

@@ -1,8 +1,0 @@
-#!/bin/bash
-
-pkill waybar
-
-$HOME/.config/hypr/scripts/statusbar
-
-exit
-

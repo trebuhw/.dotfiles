@@ -1,5 +1,0 @@
-#!/bin/bash
-
-grim -g "$(slurp)" $(xdg-user-dir PICTURES)/Screenshots/$(date +'%y%m%d.%H%M%S.grim.png')
-
-exit 0

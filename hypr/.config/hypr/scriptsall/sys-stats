@@ -1,9 +1,0 @@
-#!/usr/bin/env bash
-
-CPUTemp=$(sensors | grep 'temp1' | awk '{ print substr ($0, 16 ) }' | awk 'FNR == 3 {print}')
-
-notify-send -t 8000 "$(
-free -m | awk 'NR==2{printf "󰒋 MEM: %s / %sMB (%.2f%%)\n", $3,$2,$3*100/$2 }'
-top -bn1 | grep load | awk '{print "󱑍  "$3,  "-   "$5}'| sed 's/,//'
-printf "🌡️ CPU: $CPUTemp"
-)"
