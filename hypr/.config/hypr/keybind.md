@@ -9,6 +9,7 @@
      + c           -> galculator
      + print       -> screnshots
      + s           -> cliphist
+     + m           -> rofi emoji
      + i           -> rofi wifi
      + Shift + q   -> rofi power
      + Shift + b   -> waypaper
