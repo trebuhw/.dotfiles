@@ -138,7 +138,7 @@ quick_search_mode=2
 select_flags=6
 
 [Panelize]
-Znajdź pliki *.orig po łataniu=find . -name \\*.orig -print
-Modyfikowane pliki git=git ls-files --modified
-Znajdź odrzuty po łataniu=find . -name \\*.rej -print
 Znajdź programy SUID i SGID=find . \\( \\( -perm -04000 -a -perm /011 \\) -o \\( -perm -02000 -a -perm /01 \\) \\) -print
+Znajdź pliki *.orig po łataniu=find . -name \\*.orig -print
+Znajdź odrzuty po łataniu=find . -name \\*.rej -print
+Modyfikowane pliki git=git ls-files --modified
