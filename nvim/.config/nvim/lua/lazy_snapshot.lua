@@ -51,4 +51,5 @@ return {
   { "windwp/nvim-autopairs", commit = "096d0baecc34f6c5d8a6dd25851e9d5ad338209b", optional = true },
   { "windwp/nvim-ts-autotag", commit = "a65b202cfd08e0e69e531eab737205ff5bc082a4", optional = true },
   { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
+  { "shaunsingh/nord.nvim"}
 }

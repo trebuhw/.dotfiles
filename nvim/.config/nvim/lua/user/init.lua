@@ -18,7 +18,8 @@ return {
   },
 
   -- Set colorscheme to use
-  colorscheme = "catppuccin-mocha",
+    colorscheme = "catppuccin-mocha",
+  -- colorscheme = "nord",
   -- colorscheme = "astrodark",
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
