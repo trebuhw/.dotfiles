@@ -9,8 +9,8 @@ term=foot
 columns=5
 
 ## Geometry
-width=60%
-height=40%
+width=85%
+height=85%
 location=bottom_left
 orientation=vertical
 halign=fill
