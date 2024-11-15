@@ -193,9 +193,12 @@ alias cdss='cd ~/.config/suckless/scripts/ && ll'
 alias cdhs='cd ~/.config/hypr/scripts/ && ll'
 alias brc='nvim ~/bashrc'
 alias ptt='pdftotext -layout'
-alias backup='~/.config/suckless/scripts/rsync-backup.sh'
-alias rsdwm='rsync -av ~/.config/dwm/ ~/Dokumenty/GitHub/dwm-install/files/.config/dwm/'
 alias mpdf='gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile=' # Merge pdf. Podać nazwa po połączeniu potem nazwy złączanych plików.
+
+# Rsync
+alias rsd='rsync -rv ~/Dokumenty/ ~/Archiwum/Linux/Dokumenty/'
+alias sync='rsync -rlpva --delete'
+alias gitsync='rsync -av --exclude="*git*" ~/Dokumenty/GitHub/dwm-install/ ~/Dokumenty/GitHub/dwm/'
 
 # Aliases GITBARE
 alias gb='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME' # git --bare
@@ -215,7 +218,3 @@ alias mgpull='$HOME/Dokumenty/Git/my-git-pull.sh'
 #alias gbp='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME push'
 #alias gbpull='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME pull'
 alias gbf='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME fetch origin' # reset scalanie - merge 
-# Aliases rsync
-alias sync='rsync -rlpva --delete'
-alias synchypr='rsync -rlpva ~/.config/hypr/ ~/Dokumenty/GitHub/hypr/' #rsync hypr config to GIT repos
-alias gitsync='rsync -av --exclude="*git*" ~/Dokumenty/GitHub/dwm-install/ ~/Dokumenty/GitHub/dwm/'
