@@ -1,47 +1,77 @@
-* {
-    font-family: "FiraCode Nerd Font ", monospace;
-    font-size: 15px;
+*{
+font-family: "FiraCode Nerd Font";
+min-height: 0;
+font-size: 15px;
+font-feature-settings: '"zero", "ss01", "ss02", "ss03", "ss04", "ss05", "cv31"';
+padding: 0px;
+margin-top: 1px;
+margin-bottom: 1px;
 }
 
-window {
-    background-color: #585b70;
-}
 
-#input {
-    margin: 5px;
-    border-radius: 0px;
-    border: none;
-    background-color: #45475a;
-    color: white;
-}
-
-#inner-box {
-    background-color: #313244;
+#window {
+	background-color: --wofi-color0;
+	/*background-color: rgba(50, 50, 50, 0.8);*/
+	color: --wofi-color2;
+	/*border: 2px solid --wofi-color1;*/
+	border-radius: 0px;
 }
 
 #outer-box {
-    margin: 2px;
-    padding: 10px;
-    background-color: #1E1E2F;
+	padding: 20px;
+}
+
+#input {
+	background-color: --wofi-color1;
+	/*border: 1px solid --wofi-color3;*/
+	padding: 8px 12px;
 }
 
 #scroll {
-    margin: 5px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#inner-box {
+}
+
+#img {
+	padding-right: 10px;
+  background-color: --wofi-color0;
+}
+
+#img:selected {
+	padding-right: 10px;
+  background-color: --wofi-color2;
 }
 
 #text {
-    padding: 4px;
-    color: white;
-}
-
-#entry:nth-child(even){
-    background-color: #45475a;
-}
-
-#entry:selected {
-    background-color: #6c7086;
+	color: --wofi-color2;
 }
 
 #text:selected {
-    background: transparent;
+	color: --wofi-color0;
+  background-color: --wofi-color2;
+
+}
+
+#entry {
+	padding: 6px;
+}
+
+#entry:selected {
+	background-color: --wofi-color2;
+	/*background: linear-gradient(90deg, #d9e0ee, #d9e0ee);*/
+	/*color: --wofi-color0;*/
+}
+
+#unselected {
+}
+
+#selected {
+}
+
+#input, #entry:selected {
+	border-radius: 8px;
+	border: 1px solid --wofi-color2;
 }
