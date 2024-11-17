@@ -19,7 +19,10 @@ alias br='sudo systemctl restart bluetooth'
 alias btinfo="bluetoothctl info"
 alias think="bluetoothctl info | awk '/Name:/ || /Battery Percentage:/' | bat "
 alias logout='pkill -KILL -u hubert'
-alias bs='brightnessctl set'
+alias vs='amixer sset "Master" ' #podać X%
+alias bs='brightnessctl set' # podać X%
+alias vs4='amixer sset "Master" 40%' #ustawia volume na 40%
+alias bs3='brightnessctl set 30%' # ustawia brightness na 30%
 alias bi='brightnessctl i'
 alias am='alsamixer'
 
