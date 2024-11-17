@@ -22,7 +22,8 @@
      + v           -> floating window
      + f           -> fulscreen window
      + y           -> pin window
-     + j           -> split window
+     + p           -> pseudo split window
+     + j           -> split window (vertical or horizontal)
      + k           -> group window
      + tab         -> change group
      + Shift +g    -> gaps +5
