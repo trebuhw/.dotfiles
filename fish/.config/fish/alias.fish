@@ -25,7 +25,6 @@ alias am='alsamixer'
 
 #fix obvious typo's
 alias cd..='cd ..'
-alias wal='cd $HOME/Obrazy/Wallpaper'
 alias cp='cp -riv'
 alias mv='mv -iv'
 alias rm="trash-put -v" # trash-cli przenosi pliki do kosza
@@ -61,12 +60,15 @@ alias ssr='sudo snapper rollback' # Polecenie wydawane tylko w momencie kiedy sy
 alias ssba='sudo btrfs-assistant' # Graficzne narzedzie snappera
 alias ssg='sudo snapper-gui' # Graficzne narzędie snapper
 
-#alias tldr='tldr -t ocean'
+## Tldr
+# alias tldr='tldr -t ocean'
 # alias tldr='tldr --color always' # Install OpenSuse tealdeer run tldr -h
 
+## Search
 alias find='find -name'
 alias locate='locate -b'
 
+## Shel change
 alias tobash="sudo chsh $USER -s /bin/bash && echo 'Now log out.'"
 alias tofish="sudo chsh $USER -s /usr/bin/fish && echo 'Now log out.'"
 
@@ -121,10 +123,10 @@ alias ffr='$HOME/.config/scripts/fzf_speed/run/fzf-run.sh'
 alias ffe='$HOME/.config/scripts/fzf_speed/edit/fzf-edit.sh'
 alias ffes='$HOME/.config/scripts/fzf-scripts.sh'
 alias ffcp='cliphist list | fzf | cliphist decode | wl-copy'
-alias i30='nvim $HOME/Dokumenty/"i30_info.txt"'
 alias nbfcc='cd /opt/nbfc/Configs && ll'
 alias nbfce='sudo nvim /opt/nbfc/Configs/Dell\ Vostro\ 7580.xml'
-alias nf='neofetch'
+alias hwi='hyprprop' # hyprland wayland, info run program
+alias app='hyprctl clients' # class i id window
 alias wi='xprop' # info run program
 alias wg='xwininfo' # geometry winows
 alias bg='sxiv -t $HOME/Obrazy/Wallpaper/'
@@ -135,7 +137,6 @@ alias rb="systemctl reboot"
 alias rh="hyprctl dispatch exit"
 #alias r='ranger'
 alias r='~/.config/dwm/scripts/ranger.sh'
-#alias y='$HOME/Pobrane/git/yazi/yazi/target/release/yazi'
 alias y='yazi'
 alias rs='ranger --confdir=$HOME/.config/ranger.st/'
 alias b="btop"
@@ -143,9 +144,7 @@ alias c="cal -y"
 alias pcinfo="inxi -Fxz"
 alias nm="nmtui"
 alias nma='nm-applet'
-#alias nt='SpeedTest++'
 alias nt='speedtest-cli'
-alias hnt='cd $HOME/.config/scripts&&./fast'
 alias wcolor="$HOME/.config/scripts/grim-gcolor.sh"
 alias cis="$HOME/.config/scripts/grim-copyimg.sh"
 alias cl="clear"
@@ -162,36 +161,32 @@ alias pp='pacman -Qqet' # pacman - zainstalowane pakiety
 alias pq='pacman -Q' # pacman - zainstalowane programy
 alias oi="grep -i installed /var/log/pacman.log"
 alias uo='pacman -Rsn $(pacman -Qdtq)' # usówanie osieroconych pakietów
-alias app='hyprctl clients' # class i id window
 alias power='powerprofilesctl' # Zarządzani power pc systemctl enable/start power-profiles-daemon.service
 alias rk='du -sh *'
 alias mpdf='gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile=' # Merge pdf. Podać nazwa po połączeniu potem nazwy złączanych plików.
 alias sddmb='sudo cp $HOME/.background.jpg /usr/share/sddm/themess/arcolinux-simplicity/images/background.jpg'
 alias picker='hyprpicker -an'
 alias cc='rm /home/hubert/.cache/cliphist/db' # Clear list cliphist - historia kopiowania, numeracja elementów skopiowanych będzię kontynuowana 
-#alias cc='cliphist wipe && rm /home/hubert/.cache/cliphist/db' # Clear list cliphist - historia kopiowania, numeracja elementów skopiowanych będzię kontynuowana 
 alias chwipe='cliphist wipe' # Clear list cliphist - historia kopiowania, numeracja elementów skopiowanych będzię kontynuowana 
 alias chdel='rm /home/hubert/.cache/cliphist/db' # Cliphist usunięcie  bazy - numeracja skopiowanych będzię kontynuowana od nowa
 alias umount='sudo umount -dflnrv' # Podaj ścieżkę zamontowanego katalogu
 alias mocp='mocp -C $HOME/.config/moc/config.example'
 alias ff='fastfetch -l none'
 alias td='sudo hdparm -t' # test prędkości dysku użycie sudo hdparm -t /dev/sda
-alias hc='nvim ~/.config/hypr/hyprland.conf'
-alias af='nvim ~/.config/fish/alias.fish'
-alias exp='~/.config/hypr/scripts/export-archiv'
-alias cdh='cd ~/ && ls'
-alias cdcl='cd ~/Cloud/ && ls'
-alias cdd='cd ~/Dokumenty/ && ls'
-alias cdo='cd ~/Obrazy/ && ls'
-alias cdp='cd ~/Pobrane/ && ls'
-alias cdc='cd ~/.config && ls'
-alias cddw='cd ~/.config/suckless/dwm/ && ll'
-alias cds='cd ~/.config/suckless/ && ll'
-alias cdbg='cd ~/.config/dwm/bg/ && ls'
-alias cdf='cd ~/.config/fish/ && ls'
-alias cdss='cd ~/.config/suckless/scripts/ && ll'
-alias cdhs='cd ~/.config/hypr/scripts/ && ll'
-alias brc='nvim ~/bashrc'
+alias cdh='cd ~/ && la'
+alias cdd='cd ~/Dokumenty/ && la'
+alias cdg='cd ~/Dokumenty/GitHub/ && la'
+alias cdo='cd ~/Obrazy/ && la'
+alias cdm='cd ~/Muzyka/ && la'
+alias cdp='cd ~/Pobrane/ && la'
+alias cdc='cd ~/.config && la'
+alias cddw='cd ~/.config/suckless/dwm/ && la'
+alias cds='cd ~/.config/suckless/ && la'
+alias cdbg='cd ~/.config/dwm/bg/ && la'
+alias cdf='cd ~/.config/fish/ && la'
+alias cdss='cd ~/.config/suckless/scripts/ && la'
+alias cdhs='cd ~/.config/hypr/scripts/ && la'
+alias brc='nvim ~/.bashrc'
 alias ptt='pdftotext -layout'
 alias mpdf='gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile=' # Merge pdf. Podać nazwa po połączeniu potem nazwy złączanych plików.
 
