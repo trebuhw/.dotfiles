@@ -44,7 +44,8 @@
      + nr worspace             -> go nr workspace
      + ctrl nr worspace        -> move to go nr workspace
      + ctrl + Shift + arrow    -> resize windows
-     + mouse right     -> resize window
-     + mouse left      -> move window
-
+     + mouse right             -> resize window
+     + mouse left              -> move window
+     + Shift + n               -> move widow to scratchpads
+     + n                       -> vosible scratchpads
 

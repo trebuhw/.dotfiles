@@ -3,7 +3,7 @@ st.alpha: 0.9
 ! st.alphaOffset: 1.0
 
 !! Set a default font and font size as below:
-st.font: FiraCode Nerd Font-12;
+st.font: SFMono Nerd Font Mono-12;
 
 ! st.termname: st-256color
 ! st.borderpx: 2
@@ -75,7 +75,7 @@ st.font: FiraCode Nerd Font-12;
 ! xrdb -merge ~/.Xresources - reload file
 ! ------------------------------------------------------------------------------
 
-xterm*faceName: JetBrainsMono Nerd Font
+xterm*faceName: SFMono Nerd Font Mono
 xterm*faceSize: 12
 XTerm*cursorBlink: false
 xterm*selectToClipboard: true

@@ -1,4 +1,4 @@
 #!/usr/bin/bash
 
-amixer sset 'Master' 40% &
+amixer sset 'Master' 50% &
 brightnessctl set 30%

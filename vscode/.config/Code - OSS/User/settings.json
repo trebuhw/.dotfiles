@@ -27,7 +27,7 @@
 	"emmet.variables": {
 		"lang": "pl"
 	},
-	"editor.fontFamily": "'FiraCode Nerd Font', 'JetBrainsMono Nerd Font', 'Droid Sans Mono', 'monospace', monospace",
+	"editor.fontFamily": "'SFMono Nerd Font Mono'",
 	"telemetry.telemetryLevel": "off",
 	"security.workspace.trust.untrustedFiles": "open",
 	"git.autofetch": true,
@@ -35,7 +35,7 @@
 		"editor.insertSpaces": true,
 		"editor.tabSize": 2
 	},
-	"editor.fontSize": 16,
+	"editor.fontSize": 18,
 	"workbench.colorTheme": "Catppuccin Mocha",
 	"explorer.confirmDelete": false,
 	"window.confirmSaveUntitledWorkspace": false,

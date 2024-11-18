@@ -1,9 +1,9 @@
 @import url("./mocha.css");
 * {
 	/* `otf-font-awesome` is required to be installed for icons */
-	font-family: "FiraCode Nerd Font";
-	font-size: 10pt;
-	font-weight: 900;
+	font-family: "SFMono Nerd Font Mono";
+	font-size: 11pt;
+	/*font-weight: 900;*/
 	margin: 0;
 	padding: 0;
 	transition-property: background-color;
@@ -190,7 +190,7 @@ window#waybar.hidden {
 }
 
 #pulseaudio {
-	color: #7d9bba;
+	color: #fab387;
 }
 
 #backlight {

@@ -1,7 +1,7 @@
 ignore-empty-password
 disable-caps-lock-text
-font=Cantarelle Regular
-#font-size=9
+font=SFMono Nerd Font Mono
+font-size=12
 
 screenshots
 effect-blur=7x5

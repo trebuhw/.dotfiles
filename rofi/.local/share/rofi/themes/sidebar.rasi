@@ -1,6 +1,6 @@
 * {
     background: #1e1e2e;
-    foreground: #E5E9F0;
+    foreground: #cdd6f4;
     border-color: @background;
     bg-selected: #45475a;
     grey: #585b70;
@@ -65,7 +65,7 @@ element-icon {
    text-color: @foreground;
    placeholder: "Search";
    placeholder-color: @grey;
-   font: "FiraCode Nerd Font Regular 12";
+   font: "SFMono Nerd Font Mono Regular 13";
 }
 
 #prompt {
@@ -73,6 +73,6 @@ element-icon {
    padding: 0 4px;
    margin: 0 5px 0 0;
    text-color: @foreground;
-   font: "FiraCode Nerd Font Regular 12";
+   font: "SFMono Nerd Font Mono Regular 13";
 }
 
