@@ -3,7 +3,7 @@ st.alpha: 0.9
 ! st.alphaOffset: 1.0
 
 !! Set a default font and font size as below:
-st.font: SFMono Nerd Font Mono-12;
+st.font: SFMono Nerd Font Mono-13;
 
 ! st.termname: st-256color
 ! st.borderpx: 2
@@ -76,7 +76,7 @@ st.font: SFMono Nerd Font Mono-12;
 ! ------------------------------------------------------------------------------
 
 xterm*faceName: SFMono Nerd Font Mono
-xterm*faceSize: 12
+xterm*faceSize: 13
 XTerm*cursorBlink: false
 xterm*selectToClipboard: true
 xterm*loginShell: true
