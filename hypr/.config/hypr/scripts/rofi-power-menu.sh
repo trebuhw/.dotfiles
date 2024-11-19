@@ -1,14 +1,14 @@
 #!/bin/bash
 
-chosen=$(printf " Lock\n󰍃 Logout\n󰛧 Screenoff\n󰈆 Suspend\n Restart\n󰐥 Shutdown" | rofi -dmenu -i -p " ")
+chosen=$(printf " LOCK\n󰍃 LOGOUT\n󰛧 SCREENOFF\n󰈆 SUSPEND\n REBOOT\n󰐥 POWEROFF" | rofi -dmenu -i -p " ")
 
 case "$chosen" in
-	" Lock") ~/.config/hypr/scripts/lock;;
-	"󰍃 Logout") killall Hyprland;;
-	"󰛧 Screenoff") ~/.config/hypr/scripts/offscreen;;
-	"󰈆 Suspend") systemctl suspend ;;
-	" Restart") systemctl reboot ;;
-	"󰐥 Shutdown") systemctl poweroff;;
+	" LOCK") ~/.config/hypr/scripts/lock;;
+	"󰍃 LOGOUT") killall Hyprland;;
+	"󰛧 SCREENOFF") ~/.config/hypr/scripts/offscreen;;
+	"󰈆 SUSPEND") systemctl suspend ;;
+	" REBOOT") systemctl reboot ;;
+	"󰐥 POWEROFF") systemctl poweroff;;
 	*) exit 1 ;;
 esac
 
