@@ -1,5 +1,5 @@
 FileManager=Thunar
-TerminalEmulator=kitty
+TerminalEmulator=foot
 MailReader=thunderbird
 WebBrowser=google-chrome-stable
 
