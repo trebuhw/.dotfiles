@@ -1,9 +1,13 @@
+
+# Get editor completions based on the config schema
+"$schema" = 'https://starship.rs/config-schema.json'
+
 # Don't print a new line at the start of the prompt
 add_newline = true
 
 # Use custom format
 format = """
-[╭─](white) $os$directory$package$java$python$git_branch$fill$battery$cmd_duration$time
+[╭─](white) $os$directory$package$java$python$git_branch$git_status$fill$battery$cmd_duration$time
 [╰─](white) $character """
 
 # Use custom format
@@ -98,10 +102,52 @@ python_binary = "python3"
 pyenv_version_name = true
 
 # git settings
+#[git_branch]
+#symbol = " "
+#format = '[ $symbol $branch ]($style)'
+#truncation_length = 4
+#truncation_symbol = ""
+
+#[git_status]
+#style = "bold fg:#f38ba8"
+# format = '[($all_status$ahead_behind )]($style)'
+
+# git: [master|✚ 1]
 [git_branch]
 symbol = " "
-truncation_length = 4
-truncation_symbol = ""
+format = " [$symbol $branch ]($style)"
+style = "bold fg:#f38ba8"
+only_attached = true
+
+[git_commit]
+format = " [$hash]($style)"
+style = "bold fg:#f38ba8"
+only_detached = true
+
+[git_state]
+format = "[|$state:$progress_current/$progress_total]($style)"
+style = "bold fg:#f38ba8"
+
+# this is meant to work as closely as possible like
+# github.com:magicmonty/bash-git-prompt
+[git_status]
+format = "[(\\[$conflicted$staged$modified$deleted$renamed$untracked$stashed$ahead_behind\\])]($style)"
+style = "bold fg:#f38ba8"
+
+ahead    = "↑${count}($style)"
+diverged = "↑${ahead_count}↓${behind_count}"
+behind   = "↓${count}"
+
+conflicted = "[x$countx]($style)"
+staged     = "[+$count]($style)"
+modified   = "[+$count]($style)"
+deleted    = "[-$count]($style)"
+renamed    = "[»$count]($style)"
+untracked  = "[??$count]($style)"
+stashed    = "[⚑$count]($style)"
+
+
+
 
 # Fill
 [fill]
