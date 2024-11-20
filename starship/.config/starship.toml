@@ -21,15 +21,15 @@ scan_timeout = 10
 # Username settings
 [username]
 show_always = true
-style_root = "bold red"
-style_user = "bold yellow"
+style_root = "bold fg:#f38ba8"
+style_user = "bold fg:#f9e2af"
 format = "[$user]($style) "
 disabled = false
 
 # Hostname settings
 [hostname]
 ssh_only = false
-format =  "on [$hostname](bold red)"
+format =  "on [$hostname](bold fg:#f38ba8)"
 trim_at = ".companyname.com"
 disabled = false
 
@@ -77,11 +77,11 @@ Windows = " "
 # Directory indicator
 [directory]
 read_only = "󰌾 "
-style = "bold cyan"
-read_only_style = "red"
+style = "bold fg:#89b4fa"
+read_only_style = "fg:#f38ba8"
 truncation_length = 8
 truncation_symbol = "…/"
-format = "[$read_only]($read_only_style)[$path]($style) "
+format = "[$path ]($style)[$read_only]($read_only_style) "
 disabled = false
 
 # Package Version Config
@@ -97,7 +97,7 @@ format = "via [${symbol}${version}]($style) "
 # Python settings
 [python]
 symbol = " "
-style = "yellow bold"
+style = "fg:#f9e2af bold"
 python_binary = "python3"
 pyenv_version_name = true
 
@@ -144,12 +144,9 @@ renamed    = "[»$count]($style)"
 untracked  = "[?$count]($style)"
 stashed    = "[⚑$count]($style)"
 
-
-
-
 # Fill
 [fill]
-style = 'green'
+style = "fg:#cdd6f4"
 symbol = " "
 disabled = false
 
@@ -161,20 +158,20 @@ discharging_symbol = "󰂎"
 
 [[battery.display]]
 threshold = 10
-style = "bold red"
+style = "bold fg:#f38ba8"
 
 # cmd_duration config
 [cmd_duration]
 show_milliseconds = true
-style = "bold yellow"
+style = "bold fg:#f9e2af"
 format = "took: [$duration]($style) "
 
 # Charakter config
 [character]
 format = "$symbol"
-success_symbol = "[❯](bold green)"
-error_symbol = "[✗](bold red) "
-vicmd_symbol = "[❮](bold green)"
+success_symbol = "[❯](bold fg:#a6e3a1)"
+error_symbol = "[✗](bold fg:#f38ba8) "
+vicmd_symbol = "[❮](bold fg:#a6e3a1)"
 disabled = false
 
 #[time]
