@@ -112,38 +112,36 @@ pyenv_version_name = true
 #style = "bold fg:#f38ba8"
 # format = '[($all_status$ahead_behind )]($style)'
 
-# git: [master|✚ 1]
+# git: [master|+ 1]
 [git_branch]
 symbol = " "
 format = " [$symbol $branch ]($style)"
-style = "bold fg:#f38ba8"
+style = "fg:#f38ba8"
 only_attached = true
 
 [git_commit]
 format = " [$hash]($style)"
-style = "bold fg:#f38ba8"
+style = "fg:#f38ba8"
 only_detached = true
 
 [git_state]
 format = "[|$state:$progress_current/$progress_total]($style)"
-style = "bold fg:#f38ba8"
+style = "fg:#f38ba8"
 
-# this is meant to work as closely as possible like
-# github.com:magicmonty/bash-git-prompt
 [git_status]
 format = "[(\\[$conflicted$staged$modified$deleted$renamed$untracked$stashed$ahead_behind\\])]($style)"
-style = "bold fg:#f38ba8"
+style = "fg:#f38ba8"
 
 ahead    = "↑${count}($style)"
 diverged = "↑${ahead_count}↓${behind_count}"
 behind   = "↓${count}"
 
-conflicted = "[x$countx]($style)"
+conflicted = "[x$count]($style)"
 staged     = "[+$count]($style)"
 modified   = "[+$count]($style)"
 deleted    = "[-$count]($style)"
 renamed    = "[»$count]($style)"
-untracked  = "[??$count]($style)"
+untracked  = "[?$count]($style)"
 stashed    = "[⚑$count]($style)"
 
 
