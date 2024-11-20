@@ -1,0 +1,91 @@
+#!/bin/bash
+
+# Files
+CONFIG="$HOME/.config/wofi/config"
+STYLE="$HOME/.config/wofi/style.css"
+COLORS="$HOME/.config/wofi/colors"
+
+WAYBARSTYLE="$HOME/.config/waybar/style.css"
+WAYBARCONFIG="$HOME/.config/waybar/config-hypr"
+WOFIFILE="$HOME/.config/waybar/config-hypr"
+
+# wofi window config (in %)
+WIDTH=12
+HEIGHT=50
+
+## Wofi Command
+wofi_command="wofi --show dmenu \
+			--prompt choose...
+			--conf $CONFIG --style $STYLE --color $COLORS \
+			--width=$WIDTH% --height=$HEIGHT% \
+			--cache-file=/dev/null \
+			--hide-scroll --no-actions \
+			--matching=fuzzy"
+
+
+menu(){
+printf "1. ALL\n" 
+printf "2. COLOR\n" 
+printf "3. COLOR-ICON\n" 
+printf "4. DEFAULT\n"
+printf "5. DUAL\n"
+printf "6. GNOME\n"
+printf "7. PLASMA\n"
+printf "8. SIMPLE\n"
+}
+
+main() {
+    choice=$(menu | ${wofi_command} | cut -d. -f1)
+    case $choice in
+        1)
+            ln -sf "$HOME/.config/waybar/configs/all-config-hypr" "$WAYBARCONFIG"
+            ;;
+        2)
+            ln -sf "$HOME/.config/waybar/configs/color.config-hypr" "$WAYBARCONFIG"
+            ;;
+        3)
+            ln -sf "$HOME/.config/waybar/configs/color-icon-config-hypr" "$WAYBARCONFIG"
+            ;;
+        4)
+            ln -sf "$HOME/.config/waybar/configs/config-default" "$WAYBARCONFIG"
+            ;;
+        5)
+            ln -sf "$HOME/.config/waybar/configs/config-dual" "$WAYBARCONFIG"
+            ;;
+	    6)
+            ln -sf "$HOME/.config/waybar/configs/config-gnome" "$WAYBARCONFIG"
+            ;;
+        7)    
+            ln -sf "$HOME/.config/waybar/configs/config-plasma" "$WAYBARCONFIG"
+            ;;
+        8)
+             ln -sf "$HOME/.config/waybar/configs/config-simple" "$WAYBARCONFIG"
+             ;;
+        9)    
+
+             if pgrep -x "waybar" >/dev/null; then
+                killall waybar
+                exit
+            fi
+            ;;        
+        *)
+            ;;
+    esac
+}
+
+# Check if wofi is already running
+if pidof wofi >/dev/null; then
+    killall wofi
+    exit 0
+else
+    main
+fi
+
+# Restart Waybar and run other scripts if a choice was made
+if [[ -n "$choice" ]]; then
+    # Restart Waybar
+    killall waybar
+fi
+
+exec ~/.config/hypr/scripts/WaybarRestart.sh &
+                
