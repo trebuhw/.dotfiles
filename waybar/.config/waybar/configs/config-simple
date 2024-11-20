@@ -1,6 +1,6 @@
 {
 
-"include": "~/.config/hypr/waybar/modules",
+//"include": "~/.config/waybar/modules/",
 "layer": "top",
 //"mode": "dock",
 "exclusive": true,
@@ -14,35 +14,22 @@
 "margin-right": 8,
 
 "modules-left": [
+	"custom/menu", 
 	//"wlr/workspaces",
 	"hyprland/workspaces",
-	"cpu", 
-	"temperature", 
-	"memory",
 	],
-	//"disk",
-	//"custom/weather",
-	//],
-  
 "modules-center": [
 	"clock",
-	], 
-
+	"custom/light_dark",
+	],
 "modules-right": [
-	//"hyprland/window", 
-	"tray",
-	"cava",  
 	"backlight",
-	"pulseaudio",
-		//"wireplumber", 
-	//"pulseaudio#microphone",
-	//"custom/light_dark", 
-	"keyboard-state",
-	"custom/zypper",
-	//"battery",
-	//"custom/light_dark", 
-	//"custom/power",
-	"network",
+	"keyboard-state", 
+	"pulseaudio", 
+	"bluetooth", 
+	"network", 
 	"battery",
 	],
+
+
 }
