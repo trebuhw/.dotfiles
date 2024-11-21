@@ -1,21 +1,7 @@
 {
-    "userDataProfilesMigration": true,
-    "profileAssociations": {
-        "workspaces": {
-            "file:///home/hubert/.config": "__default__profile__",
-            "file:///home/hubert/.config/Code/Code.code-workspace": "__default__profile__",
-            "file:///home/hubert/.config/sublime-text/Packages": "__default__profile__",
-            "file:///home/hubert/Dokumenty/GitHub/.dotfiles-old": "__default__profile__",
-            "file:///home/hubert/Dokumenty/GitHub/nixos": "__default__profile__",
-            "file:///home/hubert/Pobrane/git": "__default__profile__",
-            "file:///home/hubert/.config/Code/Workspaces/1703679242357/workspace.json": "__default__profile__",
-            "file:///home/hubert/.config/Code%20-%20OSS/Workspaces/1703679242357/workspace.json": "__default__profile__",
-            "file:///home/hubert/.config/Code%20-%20OSS/Workspaces/1729869920742/workspace.json": "__default__profile__"
-        },
-        "emptyWindows": {}
-    },
-    "profileAssociationsMigration": true,
+    "telemetry.sqmId": "",
     "telemetry.machineId": "37b9024711381d2a08376bb7c529fbc09204d8e3a0604949d43c9d24d2cc918e",
+    "telemetry.devDeviceId": "55575f30-cdc9-4fb6-91c9-459536271169",
     "backupWorkspaces": {
         "workspaces": [
             {
@@ -24,7 +10,34 @@
             }
         ],
         "folders": [],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1732220537120"
+            }
+        ]
+    },
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/hubert/.config/Code%20-%20OSS/Workspaces/1729869920742/workspace.json": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "workspaceIdentifier": {
+                "id": "4cf924c4d1757d75f90ebc4cbb7d08c7",
+                "configURIPath": "file:///home/hubert/.config/Code%20-%20OSS/Workspaces/1729869920742/workspace.json"
+            },
+            "backupPath": "/home/hubert/.config/Code - OSS/Backups/4cf924c4d1757d75f90ebc4cbb7d08c7",
+            "uiState": {
+                "mode": 1,
+                "x": 7,
+                "y": 46,
+                "width": 1906,
+                "height": 1027
+            }
+        },
+        "openedWindows": []
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -76,146 +89,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hubert/.local",
-                                        "path": "/home/hubert/.local",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.local"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hubert/Pobrane/git",
-                                        "path": "/home/hubert/Pobrane/git",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Pobrane/git"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hubert/Dokumenty/GitHub/nixos",
-                                        "path": "/home/hubert/Dokumenty/GitHub/nixos",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Dokumenty/GitHub/nixos"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hubert/Dokumenty/GitHub/.dotfiles-old",
-                                        "path": "/home/hubert/Dokumenty/GitHub/.dotfiles-old",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Dokumenty/GitHub/.dotfiles-old"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hubert/.config/sublime-text/Packages",
-                                        "path": "/home/hubert/.config/sublime-text/Packages",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/sublime-text/Packages"
-                                },
-                                {
-                                    "id": "openRecentWorkspace",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hubert/.config/Code/Code.code-workspace",
-                                        "path": "/home/hubert/.config/Code/Code.code-workspace",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/Code/Code (Workspace)"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///etc/snap-pac.ini",
-                                        "path": "/etc/snap-pac.ini",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/etc/snap-pac.ini"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hubert/paru/paru.txt",
-                                        "path": "/home/hubert/paru/paru.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/paru/paru.txt"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hubert/Pobrane/dwm-main/files/home/.xprofile",
-                                        "path": "/home/hubert/Pobrane/dwm-main/files/home/.xprofile",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Pobrane/dwm-main/files/home/.xprofile"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hubert/Dokumenty/Theme/Catppuccin-Mocha/Catppucin-mocha-theme-pallet.txt",
-                                        "path": "/home/hubert/Dokumenty/Theme/Catppuccin-Mocha/Catppucin-mocha-theme-pallet.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Dokumenty/Theme/Catppuccin-Mocha/Catppucin-mocha-theme-pallet.txt"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hubert/.config/dwm/patch/dwm-floatrules-20210801-138b405.diff",
-                                        "path": "/home/hubert/.config/dwm/patch/dwm-floatrules-20210801-138b405.diff",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/dwm/patch/dwm-floatrules-20210801-138b405.diff"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/hubert/README.md",
-                                        "path": "/home/hubert/README.md",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/README.md"
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -254,11 +128,13 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As..."
+                        "label": "Save &&As...",
+                        "enabled": false
                     },
                     {
                         "id": "saveAll",
@@ -359,11 +235,13 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor"
+                        "label": "&&Close Editor",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeFolder",
@@ -412,11 +290,13 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find"
+                        "label": "&&Find",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace"
+                        "label": "&&Replace",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1803,28 +1683,9 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 271,
+            "sideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }
-    },
-    "windowsState": {
-        "lastActiveWindow": {
-            "workspaceIdentifier": {
-                "id": "4cf924c4d1757d75f90ebc4cbb7d08c7",
-                "configURIPath": "file:///home/hubert/.config/Code%20-%20OSS/Workspaces/1729869920742/workspace.json"
-            },
-            "backupPath": "/home/hubert/.config/Code - OSS/Backups/4cf924c4d1757d75f90ebc4cbb7d08c7",
-            "uiState": {
-                "mode": 1,
-                "x": 7,
-                "y": 49,
-                "width": 1906,
-                "height": 1024
-            }
-        },
-        "openedWindows": []
-    },
-    "telemetry.sqmId": "",
-    "telemetry.devDeviceId": "60e91cd9-f82f-4d36-b635-588c96239403"
+    }
 }

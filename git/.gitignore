@@ -1,6 +1,6 @@
 .bash_history
 .cache
-.config/"Code - OSS"
+.config/Code*/User/History/*
 .config/fastfetch/config.jsonc.1
 .config/galculator/
 .config/geany/
@@ -13,6 +13,7 @@
 .config/user-dirs.locale
 .dmrc
 .dotfiles
+*.log
 .emcs
 .git-credentials
 .gnupg
@@ -22,7 +23,6 @@
 .pki
 .ssh/
 .thunderbird
-.vscode-oss
 .wget-hsts
 .Xauthority
 .xim.template
@@ -41,5 +41,4 @@ Pobrane
 Pulpit
 Szablony
 Wideo
-"vscode/config/Code - OSS/User/History/"
 
