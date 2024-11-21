@@ -60,42 +60,42 @@ right_format = """
 add_newline = true
 
 # Color Palette
-palette = "Power10"
+palette = "Mocha"
 
-[palettes.Power10]
+[palettes.Mocha]
 # only lowercase names
-greydimmed = '#424242'
-greydarker = '#242424'
-ossymbol = '#AAAAAA' # dimmed white
-user = 'green'
-userroot = 'red'
-sshsymbol = 'green'
-hostname = 'green'
-sudo = 'red'
-directory = 'cyan'
-php = '#7a86b8' # light blue
-python = 'yellow'
+greydimmed = '#45475a'
+greydarker = '#313244'
+ossymbol = '#cdd6f4' # dimmed white
+user = '#a6e3a1'
+userroot = '#f38ba8'
+sshsymbol = '#a6e3a1'
+hostname = '#a6e3a1'
+sudo = '#f38ba8'
+directory = '#89b4fa'
+php = '#89b4fa' # light blue
+python = '#f9e2af'
 # git start ---
-orangegit = '#E04D27'
-conflicted = 'red'
-ahead = 'yellow'
-behind = 'yellow'
-diverged = 'yellow'
-uptodate = 'green'
-untracked = 'red'
-stashed = '#A52A2A' # redbrown
-modified = '#C8AC00' # darker yellow
-staged = 'green'
-renamed = 'yellow'
-deleted = 'orange'
+orangegit = '#f38ba8'
+conflicted = '#f38ba8'
+ahead = '#f9e2af'
+behind = '#f9e2af'
+diverged = '#f9e2af'
+uptodate = '#a6e3a1'
+untracked = '#f38ba8'
+stashed = '#f2cdcd' # redbrown
+modified = '#f5e0dc' # darker yellow
+staged = '#a6e3a1'
+renamed = '#f9e2af'
+deleted = '#fab387'
 # git end ---
-jobs = 'blue'
-memory = 'purple'
-duration = 'yellow'
-fill = '#424242' # greydimmed
-status = 'red'
-localip = 'green'
-shell = '#424242' # greydimmed
+jobs = '#89b4fa'
+memory = '#cba6f7'
+duration = '#f9e2af'
+fill = '#45475a' # greydimmed
+status = '#f38ba8'
+localip = '#a6e3a1'
+shell = '#45475a' # greydimmed
 
 # Customization and activation of some modules:
 # Listed in the order of their position in the module rows above
