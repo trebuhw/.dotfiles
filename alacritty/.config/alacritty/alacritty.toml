@@ -78,7 +78,7 @@ color = "#F5E0DC"
 style = "Beam"
 
 [font]
-size = 13
+size = 12
 
 [font.bold]
 #family = "JetBrainsMono Nerd Font"
