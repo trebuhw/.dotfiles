@@ -1,5 +1,5 @@
 *{
-font-family: "SFMono Nerd Font Mono";
+font-family: "SFMono";
 /*font-weight: bold;*/
 min-height: 0px;
 /* set font-size to 100% if font scaling is set to 1.00 using nwg-look */
@@ -14,10 +14,14 @@ window#waybar {
     background: rgba(30,30,47,1.0);
     /*background: #1e1e2f;*/
     /*background: rgba(0, 0, 0, 0);*/
+    /*background: transparent;*/
     /*border-bottom: 1px solid @unfocused_borders;*/
     /*border-radius: 10px;*/
-    /*color: #cba6f7;*/
-    /*border: 1px solid #cba6f7;*/
+    /*color: #b4befe;*/
+    /*border: 1px solid #b4befe;*/
+    /*border-style: solid;*/
+    /*border-width: 1px;*/
+    /*border-color: #b4befe;*/
 }
 
 window#waybar.hidden {

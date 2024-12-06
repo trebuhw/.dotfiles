@@ -1,9 +1,17 @@
+[mc.esc.timeout]
+0=1000000
+
 [cmdline]
-0=
-1=q
+0=q
+1=nv .bashrc
+2=mceditor .bashrc
+3=select-editor
+4=
 
 [Dir Hist New Right Panel]
 0=/home/hubert
 
 [Dir Hist New Left Panel]
-0=/home/hubert
+0=/home/hubert/.dotfiles/bash
+1=/home/hubert/.dotfiles
+2=/home/hubert

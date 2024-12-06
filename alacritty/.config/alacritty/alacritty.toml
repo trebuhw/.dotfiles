@@ -82,22 +82,22 @@ size = 12
 
 [font.bold]
 #family = "JetBrainsMono Nerd Font"
-family = "SFMono Nerd Font Mono"
+family = "SFMono"
 style = "Bold"
 
 [font.bold_italic]
 #family = "JetBrainsMono Nerd Font"
-family = "SFMono Nerd Font Mono"
+family = "SFMono"
 style = "Bold Italic"
 
 [font.italic]
 #family = "JetBrainsMono Nerd Font"
-family = "SFMono Nerd Font Mono"
+family = "SFMono"
 style = "Italic"
 
 [font.normal]
 #family = "JetBrainsMono Nerd Font"
-family = "SFMono Nerd Font Mono"
+family = "SFMono"
 style = "Regular"
 
 [scrolling]

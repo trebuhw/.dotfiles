@@ -29,18 +29,27 @@
 "modules-right": [
 	"tray", 
  	"custom/weather",
-	"clock",
 	"cpu", 
 	"temperature", 
 	"memory",  
 	"backlight",
-	"battery",
 	"pulseaudio",
 	//"wireplumber", 
 	"pulseaudio#microphone",
 	"custom/updater",
 	"keyboard-state", 
 	"custom/cycle_wall",
+	"battery",
+	"clock",
 	"custom/power",
 	],
+
+//Modules
+
+
+  "custom/power": {
+    "format": "",
+    "tooltip": false,
+    "on-click": "wlogout"
+    },
 }

@@ -1,7 +1,7 @@
 @import url("./mocha.css");
 * {
 	/* `otf-font-awesome` is required to be installed for icons */
-	font-family: "SFMono Nerd Font Mono";
+	font-family: "SFMono";
 	font-size: 11pt;
 	/*font-weight: 900;*/
 	margin: 0;

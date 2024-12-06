@@ -2,9 +2,11 @@
 
 configuration {
   show-icons: true;
-  icon-theme: "Papirus";
+  /**icon-theme: "WhiteSur-dark";**/
+  icon-theme: "Fluent dark";
   display-drun: "  ";
   display-window: "﩯 ";
   display-combi: "  ";
+  font: "SFMono Regular 12";
 }
 @theme "/home/hubert/.local/share/rofi/themes/sidebar.rasi"
