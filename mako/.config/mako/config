@@ -2,7 +2,8 @@ max-visible=10
 layer=top
 # font=Sarasa UI SC 10
 font=SFMono Nerd Font Mono 11
-border-radius=7
+border-radius=1
+border-size=1
 max-icon-size=48
 default-timeout=10000
 anchor=top-right
@@ -16,7 +17,8 @@ margin=20
 ## Catppucin Mocha theme Colors
 background-color=#1e1e2e
 text-color=#cdd6f4
-border-color=#89b4fa
+border-color=#cdd6f4
+#border-color=#89b4fa
 progress-color=over #313244
 
 [urgency=high]

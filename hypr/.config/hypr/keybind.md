@@ -3,7 +3,7 @@
      + x               -> foot
      + Return          -> foot
      + Shift + x       -> kitty
-     + Return + Shift  -> kitty
+     + Shift + Return  -> kitty
      + w               -> google chrome
      + e               -> thunar
      + d               -> rofi
