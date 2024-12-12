@@ -139,10 +139,9 @@ tooltip label {
   border-radius: 10px;
 }
 
-
-
 #temperature.critical {
-  background-color: #ff0000;
+/*  background-color: #ff0000;*/
+    color: #f38ba8;
 }
 
 @keyframes blink {
