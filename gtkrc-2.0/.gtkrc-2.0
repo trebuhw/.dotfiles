@@ -4,7 +4,7 @@
 include "/home/hubert/.gtkrc-2.0.mine"
 gtk-theme-name="Catppuccin-Mocha-Standard-Blue-Dark"
 gtk-icon-theme-name="Fluent-dark"
-gtk-font-name="SF Mono 11"
+gtk-font-name="SFMono Nerd Font Mono 11"
 gtk-cursor-theme-name="McMojave-cursors"
 gtk-cursor-theme-size=24
 gtk-toolbar-style=GTK_TOOLBAR_ICONS

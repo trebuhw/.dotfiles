@@ -73,6 +73,6 @@ element-icon {
    padding: 0 4px;
    margin: 0 5px 0 0;
    text-color: @foreground;
-   font: "SFMono Regular 12";
+   font: "SFMono Nerd Font Mono Regular 12";
 }
 
