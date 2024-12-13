@@ -23,6 +23,7 @@ $python\
 $docker_context\
 [](fg:blue bg:purple)\
 $time\
+$cmd_duration\
 [ ](fg:purple)\
 $line_break$character"""
 
@@ -189,3 +190,16 @@ vimcmd_symbol = '[](bold fg:creen)'
 vimcmd_replace_one_symbol = '[](bold fg:purple)'
 vimcmd_replace_symbol = '[](bold fg:purple)'
 vimcmd_visual_symbol = '[](bold fg:lavender)'
+
+# cmd_duration config
+[cmd_duration]
+disabled = false
+show_milliseconds = true
+style = "bg:peach"
+format = '[[> $duration](fg:mantle bg:purple)]($style)'
+
+[fill]
+style = 'fg:fill'
+symbol = " " # "\u2500" "─" # no line: ' '
+#symbol = "\u2500" # "\u2500" "─" # no line: ' '
+
