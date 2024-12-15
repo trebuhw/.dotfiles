@@ -4,8 +4,8 @@
 
 THEME='Catppuccin-Mocha-Standart-Blue-Dark'
 ICONS='Papirus-Dark'
-FONT='FiraCode Nerd Font 11'
-CURSOR='McMojave-cursors'
+FONT='JetBrainsNerd Nerd Font 10'
+CURSOR='Bibata-Modern-Ice'
 
 SCHEMA='gsettings set org.gnome.desktop.interface'
 
