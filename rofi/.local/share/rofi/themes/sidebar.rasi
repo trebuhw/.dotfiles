@@ -65,7 +65,7 @@ element-icon {
    text-color: @foreground;
    placeholder: "Search";
    placeholder-color: @grey;
-   font: "SFMono Regular 12";
+   font: "JetBrainsMono Nerd Font 12";
 }
 
 #prompt {
@@ -73,6 +73,6 @@ element-icon {
    padding: 0 4px;
    margin: 0 5px 0 0;
    text-color: @foreground;
-   font: "SFMono Nerd Font Mono Regular 12";
+   font: "JetBrainsMono Nerd Font 11";
 }
 
