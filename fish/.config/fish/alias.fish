@@ -119,6 +119,7 @@ alias sysfailed="systemctl list-units --failed"
 alias v='nvim'
 alias nv='nvim'
 alias vim='vim'
+alias fzf='fzf --preview "bat --color=always {}"'
 alias ffa='$HOME/.config/scripts/fzf-run-app.sh'
 alias ffc='$HOME/.config/scripts/fzf-config.sh'
 alias ffl='$HOME/.config/scripts/fzf-import-rofi.sh'
@@ -148,7 +149,8 @@ alias c="cal -y"
 alias pcinfo="inxi -Fxz"
 alias nm="nmtui"
 alias nma='nm-applet'
-alias nt='speedtest-cli'
+#alias nt='speedtest-cli'
+alias nt='speedtest' # Ookla speedtest > paru ookla-speedtest-bin
 alias wcolor="$HOME/.config/scripts/grim-gcolor.sh"
 alias cis="$HOME/.config/scripts/grim-copyimg.sh"
 alias cl="clear"
