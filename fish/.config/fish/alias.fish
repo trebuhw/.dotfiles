@@ -157,6 +157,7 @@ alias cl="clear"
 alias ag="alias | grep"
 alias hg='history | grep '
 alias pogoda='curl wttr.in/Swidnica'
+alias paru='paru --bottomup'
 alias spi='sudo pacman -S '
 alias sps='sudo pacman -Ss '
 alias spq='sudo pacman -Q '
