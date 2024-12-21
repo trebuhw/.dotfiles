@@ -27,7 +27,7 @@
 	"emmet.variables": {
 		"lang": "pl"
 	},
-	"editor.fontFamily": "'FiraCode Nerd Font', 'JetBrainsMono Nerd Font', 'Droid Sans Mono', 'monospace', monospace",
+	"editor.fontFamily": "'JetBrainsMono Nerd Font', 'Droid Sans Mono', 'monospace', monospace",
 	"telemetry.telemetryLevel": "off",
 	"security.workspace.trust.untrustedFiles": "open",
 	"git.autofetch": true,

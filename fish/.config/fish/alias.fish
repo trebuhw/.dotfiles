@@ -41,20 +41,20 @@ alias mkdir='mkdir -vp'
 alias pdw='pwd'
 
 ## zypper
-alias zyp='sudo zypper'
-alias up='sudo zypper refresh && sudo zypper update && sudo zypper dist-upgrade'
-alias dup='sudo zypper refresh && sudo zypper dist-upgrade'
-alias zin='sudo zypper install --no-recommends'
-alias zrm='sudo zypper remove -u'
-alias zse='sudo zypper search'
-alias zsi='zypper search -i' # show installed Packages
-alias zre='sudo zypper repos'
-alias zrf='sudo zypper refresh'
-alias zdr='sudo zypper mr -d' #disablerepo, dr - Wyłączenie wybranego repozytorium podać nazwę
-alias zer='sudo zypper mr -e' #removerepo, er - Włączenie wybranego repozytorium podać nazwę
-alias zrr='sudo zypper rr' #removerepo, rr - Usuwanie wybranego repozytorium
-alias zcd='sudo zypper packages --unneeded' # Usówanie osieroconych pakietów
-alias zcl='sudo zypper clean --all' # Clean repo, key repo, cache
+#alias zyp='sudo zypper'
+#alias up='sudo zypper refresh && sudo zypper update && sudo zypper dist-upgrade'
+#alias dup='sudo zypper refresh && sudo zypper dist-upgrade'
+#alias zin='sudo zypper install --no-recommends'
+#alias zrm='sudo zypper remove -u'
+#alias zse='sudo zypper search'
+#alias zsi='zypper search -i' # show installed Packages
+#alias zre='sudo zypper repos'
+#alias zrf='sudo zypper refresh'
+#alias zdr='sudo zypper mr -d' #disablerepo, dr - Wyłączenie wybranego repozytorium podać nazwę
+#alias zer='sudo zypper mr -e' #removerepo, er - Włączenie wybranego repozytorium podać nazwę
+#alias zrr='sudo zypper rr' #removerepo, rr - Usuwanie wybranego repozytorium
+#alias zcd='sudo zypper packages --unneeded' # Usówanie osieroconych pakietów
+#alias zcl='sudo zypper clean --all' # Clean repo, key repo, cache
 
 ## Snapper
 alias ssl='sudo snapper list'
@@ -158,6 +158,7 @@ alias ag="alias | grep"
 alias hg='history | grep '
 alias pogoda='curl wttr.in/Swidnica'
 alias paru='paru --bottomup'
+alias up='paru -Syu'
 alias spi='sudo pacman -S '
 alias sps='sudo pacman -Ss '
 alias spq='sudo pacman -Q '

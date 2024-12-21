@@ -6,10 +6,9 @@
 	"installed_packages":
 	[
 		"Color Highlight",
-		"Gruvbox Dark",
+		"ColorHelper",
+		"MarkdownLivePreview",
 		"MarkdownPreview",
-		"Nix",
 		"Package Control",
-		"SyntaxHighlighter Reloaded Color Scheme",
 	],
 }
