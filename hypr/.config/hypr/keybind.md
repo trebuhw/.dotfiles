@@ -9,6 +9,7 @@
      + d               -> rofi
      + Shift + d       -> wofi
      + c               -> galculator
+     + Shift + m       -> mocp
      + print           -> screnshots
      + s               -> cliphist
      + m               -> rofi emoji
@@ -20,7 +21,6 @@
      + Shift + z       -> keybind hyprland
      + ctrl + m        -> reset vol & bri to default value (40%, 30%)
      + Shift + u       -> yay update
-     + Shift + m       -> exit hyprland
      + q               -> kill active window
     ## Windows
      + v               -> floating window
