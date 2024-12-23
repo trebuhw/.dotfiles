@@ -1,9 +1,9 @@
     # Hyprland keybinds
     ## Programs
-     + x               -> foot
-     + Return          -> foot
-     + Shift + x       -> kitty
-     + Shift + Return  -> kitty
+     + x               -> kitty
+     + Return          -> kitty
+     + Shift + x       -> foot
+     + Shift + Return  -> lite-xl
      + w               -> google chrome
      + e               -> thunar
      + d               -> rofi

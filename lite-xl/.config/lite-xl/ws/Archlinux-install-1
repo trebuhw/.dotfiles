@@ -1,0 +1,1 @@
+return { path = "/home/hubert/Dokumenty/Archlinux-install", documents = {["active_view"]=1,["views"]={[1]={["scroll"]={["x"]=0,["y"]=0,["to"]={["x"]=0,["y"]=0}},["module"]="core.emptyview",["active"]=true,["type"]="view"}},["type"]="leaf"}, directories = {} }

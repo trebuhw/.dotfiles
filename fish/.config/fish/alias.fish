@@ -101,7 +101,7 @@ alias jctl="journalctl -p 3 -xb"
 #know what you do in these files
 alias ngrub="sudo $EDITOR /etc/default/grub"
 alias nconfgrub="sudo $EDITOR /boot/grub/grub.cfg"
-alias upgrub="grub2-mkconfig -o /boot/grub2/grub.cfg"
+alias upgrub="grub-mkconfig -o /boot/grub/grub.cfg"
 alias nmkinitcpio="sudo $EDITOR /etc/mkinitcpio.conf"
 alias nfstab="sudo $EDITOR /etc/fstab"
 alias nhosts="sudo $EDITOR /etc/hosts"
@@ -119,6 +119,7 @@ alias sysfailed="systemctl list-units --failed"
 alias v='nvim'
 alias nv='nvim'
 alias vim='vim'
+alias lx='lite-xl'
 alias fzf='fzf --preview "bat --color=always {}"'
 alias ffa='$HOME/.config/scripts/fzf-run-app.sh'
 alias ffc='$HOME/.config/scripts/fzf-config.sh'
@@ -219,7 +220,7 @@ alias gbc='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME commit -am'
 alias gbpush='$HOME/Dokumenty/Git/gitbare-push.sh'
 alias gbpull='$HOME/Dokumenty/Git/gitbare-pull.sh'
 alias mgc='$HOME/Dokumenty/Git/my-git-clone.sh'
-alias gc='git clone --dept=1'
+alias gc='git clone --dept=1 ' # ssh > git@github.com:trebuhw/dwm.git | https > https://github.com/trebuchw/dwm.git 
 alias mga='git add'
 alias mgs='git status'
 alias mgcom='git commit -am'
