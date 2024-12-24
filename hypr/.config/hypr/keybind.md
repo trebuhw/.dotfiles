@@ -1,8 +1,8 @@
     # Hyprland keybinds
     ## Programs
-     + x               -> kitty
-     + Return          -> kitty
-     + Shift + x       -> foot
+     + x               -> foot
+     + Return          -> foot
+     + Shift + x       -> kitty
      + Shift + Return  -> lite-xl
      + w               -> google chrome
      + e               -> thunar
