@@ -1,26 +1,8 @@
 {
     "label" : "lock",
-    "action" : "swaylock -c 313244",
+    "action" : "/home/hubert/.config/hypr/scripts/lock.sh",
     "text" : "Lock",
     "keybind" : "l"
-}
-{
-    "label" : "hibernate",
-    "action" : "systemctl hibernate",
-    "text" : "Hibernate",
-    "keybind" : "h"
-}
-{
-    "label" : "logout",
-    "action" : "hyprctl dispatch exit",
-    "text" : "Logout",
-    "keybind" : "e"
-}
-{
-    "label" : "shutdown",
-    "action" : "systemctl poweroff",
-    "text" : "Shutdown",
-    "keybind" : "s"
 }
 {
     "label" : "suspend",
@@ -29,8 +11,26 @@
     "keybind" : "u"
 }
 {
+    "label" : "hibernate",
+    "action" : "/home/hubert/.config/hypr/scripts/offscreen.sh",
+    "text" : "Sreenoff",
+    "keybind" : "b"
+}
+{
     "label" : "reboot",
     "action" : "systemctl reboot",
     "text" : "Reboot",
     "keybind" : "r"
+}
+{
+    "label" : "logout",
+    "action" : "killall Hyprland",
+    "text" : "Logout",
+    "keybind" : "e"
+}
+{
+    "label" : "shutdown",
+    "action" : "systemctl poweroff",
+    "text" : "Shutdown",
+    "keybind" : "s"
 }
