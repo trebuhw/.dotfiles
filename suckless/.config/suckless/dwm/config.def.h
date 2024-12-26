@@ -87,7 +87,7 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_d,      spawn,          {.v = dmenucmd } },
 	{ MODKEY,                       XK_p,      spawn,          {.v = powermenu } },
 	{ MODKEY,                       XK_Return, spawn,          {.v = terminalcmd } },
-	{ MODKEY|ShiftMask,             XK_Return, spawn,          {.v = filecmd } },
+	{ MODKEY,                       XK_e, 		 spawn,          {.v = filecmd } },
 	{ MODKEY,                       XK_w,      spawn,          {.v = webbrowser } },
 	{ MODKEY|ShiftMask,             XK_x,      spawn,          {.v = lock } },
 	{ MODKEY,                       XK_b,      togglebar,      {0} },

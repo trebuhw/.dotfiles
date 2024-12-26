@@ -253,3 +253,6 @@ alias gbp='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME push '
 alias sync='rsync -rlpva --delete'
 alias synchypr='rsync -rlpva --delete ~/.config/hypr/ ~/Dokumenty/GitHub/hypr/' #rsync hypr config to GIT repos
 eval "$(zoxide init bash)"
+eval "$(zoxide init --cmd j)"
+eval "$(zoxide init --hook prompt)"
+

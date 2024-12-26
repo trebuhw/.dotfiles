@@ -57,12 +57,12 @@ alias pdw='pwd'
 #alias zcl='sudo zypper clean --all' # Clean repo, key repo, cache
 
 ## Snapper
-alias ssl='sudo snapper list'
-alias ssd='sudo snapper -c root delete --sync ' # usówanie migawek podać numer np. 55 lub przedział np. 55-65
-alias ssc='sudo snapper create --desc ' # podać opis np. "231227 UPDATE OS QEMU "
-alias ssr='sudo snapper rollback' # Polecenie wydawane tylko w momencie kiedy system uruchomiony jest z migawki do przywrócenia
-alias ssba='sudo btrfs-assistant' # Graficzne narzedzie snappera
-alias ssg='sudo snapper-gui' # Graficzne narzędie snapper
+#alias ssl='sudo snapper list'
+#alias ssd='sudo snapper -c root delete --sync ' # usówanie migawek podać numer np. 55 lub przedział np. 55-65
+#alias ssc='sudo snapper create --desc ' # podać opis np. "231227 UPDATE OS QEMU "
+#alias ssr='sudo snapper rollback' # Polecenie wydawane tylko w momencie kiedy system uruchomiony jest z migawki do przywrócenia
+#alias ssba='sudo btrfs-assistant' # Graficzne narzedzie snappera
+#alias ssg='sudo snapper-gui' # Graficzne narzędie snapper
 
 ## Tldr
 # alias tldr='tldr -t ocean'

@@ -40,4 +40,6 @@ if [ -f $HOME/.config/fish/alias.fish ]
 source $HOME/.config/fish/alias.fish
 
 zoxide init fish | source
+zoxide init fish --hook prompt | source
+zoxide init fish --cmd j | source
 end

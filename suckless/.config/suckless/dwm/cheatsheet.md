@@ -45,11 +45,11 @@
   Ctrl    Alt     s        *Show clipboard history* (`parcellite`)
 
 # TERMINAL:
-  CTRL    A  *Początek lini*
-  CTRL    E  *Koniec lini*
-  ALT     F  *Jedno słowo do przodu*
-  ALT     B  *Jedno słowo do tyłu*
-  CTRL    U  *Usówanie od kursora do początku lini*
-  CTRL    K  *Usówanie od kursora do końca lini*
-  CTRL    R  *Wiersz poleceń na dole w terminalu*
+  CTRL    a  *Początek lini*
+  CTRL    e  *Koniec lini*
+  ALT     f  *Jedno słowo do przodu*
+  ALT     b  *Jedno słowo do tyłu*
+  CTRL    u  *Usówanie od kursora do początku lini*
+  CTRL    k  *Usówanie od kursora do końca lini*
+  CTRL    r  *Wyszukiwanie ostatnich poleceń*
           ;  *Rozdzielić wiele poleceń w jednej lini*
