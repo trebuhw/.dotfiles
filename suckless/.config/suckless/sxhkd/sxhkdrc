@@ -9,10 +9,6 @@ super + x
 alt + Return
     st
 
-# xfce4 terminal drop down 
-F12
-    xfce4-terminal --drop-down
-
 # nv
 super + n
     st -e nvim    
@@ -27,13 +23,17 @@ alt + d
 
 # Rofi
 shift + alt + d
-    rofi -show run    
+    rofi -show run 
 
 # Github-Desktop
 super + shift + g
     github-desktop
 
-# Zypper update
+# Nitrogen - Wallpaper change
+super + shift + w
+    nitrogen
+
+# Paru update
 super + shift + u
     paru-up.sh
 

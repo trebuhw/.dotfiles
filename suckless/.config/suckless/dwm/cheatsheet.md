@@ -18,6 +18,8 @@
   Super   Space              *Change actualy to default layout* 
   Super   Shift  Space       *Change floating to default layout* 
   Super   Shift  left/right  *windows size change*
+  Super   Shift  d           *Horizontal layout* 
+  Super   Shift  i           *Vertical layout* 
   Super          left/right  *focus stack*
   super          -/+         *gaps size change*
 # container layout
@@ -49,5 +51,5 @@
   ALT     B  *Jedno słowo do tyłu*
   CTRL    U  *Usówanie od kursora do początku lini*
   CTRL    K  *Usówanie od kursora do końca lini*
-  CTR     R  *Wiersz poleceń na dole w terminalu*
+  CTRL    R  *Wiersz poleceń na dole w terminalu*
           ;  *Rozdzielić wiele poleceń w jednej lini*

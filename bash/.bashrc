@@ -6,9 +6,6 @@ export PAGER='most'
 export MICRO_TRUECOLOR=1
 export TERM=xterm-256color
 
-export SESSION_MANAGER=""
-xfce4-terminal --drop-down
-
 #Starship config
 export STARSHIP_CONFIG=~/.config/starship-bash.toml
 eval "$(starship init bash)"

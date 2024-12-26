@@ -34,13 +34,14 @@ static const Rule rules[] = {
 	 *	WM_CLASS(STRING) = instance, class
 	 *	WM_NAME(STRING) = title
 	 */
-	/* class      instance    title       tags mask     isfloating   monitor    float x,y,w,h         floatborderpx*/
-	{ "Gimp",     	NULL,       NULL,       0,            1,           -1,        50,50,500,500,        -1 },
-	{ "St",         NULL,       NULL,       0,            1,           -1, 				485,190,950,700, 			-1 },
-	{ "Alacritty",  NULL,       NULL,       0,            1,           -1, 				11,33,650,900, 				-1 },
-	{ "Galculator", NULL,       NULL,       0,            1,           -1,        1550,730, 10, 10,     -1 },
-//	{ "Firefox",  	NULL,       NULL,       0,            0,           -1,        50,50,500,500,        -1 },
-//  { "Firefox",  NULL,       NULL,       1 << 8,       0,           -1,        50,50,500,500,        5 },
+	/* class 							instance    title       tags mask     isfloating   monitor    float x,y,w,h         floatborderpx*/
+	{ "Gimp", 						NULL,       NULL,       0,            1,           -1, 				50,50,500,500,        -1 },
+	{ "St", 							NULL,       NULL,       0,            1,           -1, 				485,190,950,700, 			-1 },
+	{ "Nitrogen", 				NULL,       NULL,       0,            1,           -1, 				485,190,1200,900, 		-1 },
+	{ "Alacritty", 				NULL,       NULL,       0,            1,           -1, 				11,33,650,900, 				-1 },
+	{ "Galculator", 			NULL,       NULL,       0,            1,           -1,        1550,730, 10, 10,     -1 },
+//	{ "Firefox", 		NULL,       NULL,       0,            0,           -1,        50,50,500,500,        -1 },
+//  { "Firefox", 		NULL,       NULL,       1 << 8,       0,           -1,        50,50,500,500,        5 },
 };
 
 /* layout(s) */
