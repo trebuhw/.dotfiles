@@ -19,5 +19,8 @@ fi
 while true; do
              dwm >/dev/null 2>&1
 done
+
+export SESSION_MANAGER=""
+
 # DWM
 exec dwm

@@ -50,6 +50,16 @@
     "rules":
     [
         {
+            "foreground": "#B3B3B3FF",
+            "background": "#313244FF",
+            "scope": "col_313244FF"
+        },
+        {
+            "foreground": "#5F5F5FFF",
+            "background": "#DFDFDFFF",
+            "scope": "col_DFDFDFFF"
+        },
+        {
             "foreground": "#454545FF",
             "background": "#69FF94FF",
             "scope": "col_69FF94FF"

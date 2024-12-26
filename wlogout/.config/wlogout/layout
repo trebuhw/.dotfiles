@@ -1,36 +1,36 @@
 {
     "label" : "lock",
     "action" : "/home/hubert/.config/hypr/scripts/lock.sh",
-    "text" : "Lock",
+    "text" : "Lock (l)",
     "keybind" : "l"
 }
 {
     "label" : "suspend",
     "action" : "systemctl suspend",
-    "text" : "Suspend",
+    "text" : "Suspend (u)",
     "keybind" : "u"
 }
 {
     "label" : "hibernate",
     "action" : "/home/hubert/.config/hypr/scripts/offscreen.sh",
-    "text" : "Sreenoff",
+    "text" : "Sreenoff (b)",
     "keybind" : "b"
 }
 {
     "label" : "reboot",
     "action" : "systemctl reboot",
-    "text" : "Reboot",
+    "text" : "Reboot (r)",
     "keybind" : "r"
 }
 {
     "label" : "logout",
     "action" : "killall Hyprland",
-    "text" : "Logout",
+    "text" : "Logout (e)",
     "keybind" : "e"
 }
 {
     "label" : "shutdown",
     "action" : "systemctl poweroff",
-    "text" : "Shutdown",
+    "text" : "Shutdown (s)",
     "keybind" : "s"
 }

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Colors
-bg='1e1e2e' bgl='313244' fg='d9e0ee'
+bg='1e1e2e' bgl='313244' fg='cdd6f4'
 red='f38ba8' green='a6e3a1' yellow='f9e2af'
 blue='89b4fa' magenta='cba6f7' cyan='89dceb'
 alpha='00000000'
@@ -16,7 +16,7 @@ swaylock -f \
 	`# Appearance - change CC to your desired transparency` \
 	--color ${bg}FF \
 	`#--image ${IMAGE} --scaling fill` \
-	--font 'Noto Sans' --font-size 30 \
+	--font 'JetBrainsMono Nerd Font' --font-size 30 \
 	`# Backspace Key` \
 	--key-hl-color ${green} \
 	--caps-lock-key-hl-color ${blue} \

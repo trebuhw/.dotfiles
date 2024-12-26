@@ -35,3 +35,4 @@ image/jpeg=sxiv.desktop;feh.desktop;gimp.desktop;floorp.desktop;com.github.jerom
 image/png=sxiv.desktop;
 application/x-shellscript=sublime_text.desktop;
 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice-startcenter.desktop;
+text/x-chdr=sublime_text.desktop;

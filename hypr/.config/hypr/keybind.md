@@ -3,7 +3,7 @@
      + x               -> foot
      + Return          -> foot
      + Shift + x       -> kitty
-     + Shift + Return  -> lite-xl
+     + Shift + Return  -> Subl
      + w               -> google chrome
      + e               -> thunar
      + d               -> rofi
@@ -14,14 +14,16 @@
      + s               -> cliphist
      + m               -> rofi emoji
      + i               -> rofi wifi
-     + Shift + q       -> rofi power
-     + Shift + b       -> waypaper
-     + Shift + w       -> wofi waybar style
+     + Shift + x       -> rofi power
+     + Shift + w       -> waypaper
+     + Shift + b       -> wofi waybar config
+     + Ctrl + b        -> wofi waybar style
      + Shift + a       -> azote
      + Shift + z       -> keybind hyprland
      + ctrl + m        -> reset vol & bri to default value (40%, 30%)
      + Shift + u       -> yay update
      + q               -> kill active window
+     + Shift + q       -> wlogout
     ## Windows
      + v               -> floating window
      + f               -> fulscreen window
