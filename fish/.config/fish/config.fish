@@ -43,3 +43,10 @@ zoxide init fish | source
 zoxide init fish --hook prompt | source
 zoxide init fish --cmd j | source
 end
+
+# Alias do klonowania z github po ssh wpisać tylko właściciela i nazwę repo> zastosownie np: gcs trebuhw/.dotfiles.git 
+function gcs
+    set repo $argv[1]
+    git clone --depth=1 git@github.com:$repo
+end
+

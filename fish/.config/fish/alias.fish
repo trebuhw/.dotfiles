@@ -40,29 +40,29 @@ alias trm='trash-rm' #usówa pojedyńcze pliki z kosza
 alias mkdir='mkdir -vp'
 alias pdw='pwd'
 
-## zypper
-#alias zyp='sudo zypper'
-#alias up='sudo zypper refresh && sudo zypper update && sudo zypper dist-upgrade'
-#alias dup='sudo zypper refresh && sudo zypper dist-upgrade'
-#alias zin='sudo zypper install --no-recommends'
-#alias zrm='sudo zypper remove -u'
-#alias zse='sudo zypper search'
-#alias zsi='zypper search -i' # show installed Packages
-#alias zre='sudo zypper repos'
-#alias zrf='sudo zypper refresh'
-#alias zdr='sudo zypper mr -d' #disablerepo, dr - Wyłączenie wybranego repozytorium podać nazwę
-#alias zer='sudo zypper mr -e' #removerepo, er - Włączenie wybranego repozytorium podać nazwę
-#alias zrr='sudo zypper rr' #removerepo, rr - Usuwanie wybranego repozytorium
-#alias zcd='sudo zypper packages --unneeded' # Usówanie osieroconych pakietów
-#alias zcl='sudo zypper clean --all' # Clean repo, key repo, cache
+# zypper
+alias zyp='sudo zypper'
+alias up='sudo zypper refresh && sudo zypper update && sudo zypper dist-upgrade'
+alias dup='sudo zypper refresh && sudo zypper dist-upgrade'
+alias zin='sudo zypper install --no-recommends'
+alias zrm='sudo zypper remove -u'
+alias zse='sudo zypper search'
+alias zsi='zypper search -i' # show installed Packages
+alias zre='sudo zypper repos'
+alias zrf='sudo zypper refresh'
+alias zdr='sudo zypper mr -d' #disablerepo, dr - Wyłączenie wybranego repozytorium podać nazwę
+alias zer='sudo zypper mr -e' #removerepo, er - Włączenie wybranego repozytorium podać nazwę
+alias zrr='sudo zypper rr' #removerepo, rr - Usuwanie wybranego repozytorium
+alias zcd='sudo zypper packages --unneeded' # Usówanie osieroconych pakietów
+alias zcl='sudo zypper clean --all' # Clean repo, key repo, cache
 
-## Snapper
-#alias ssl='sudo snapper list'
-#alias ssd='sudo snapper -c root delete --sync ' # usówanie migawek podać numer np. 55 lub przedział np. 55-65
-#alias ssc='sudo snapper create --desc ' # podać opis np. "231227 UPDATE OS QEMU "
-#alias ssr='sudo snapper rollback' # Polecenie wydawane tylko w momencie kiedy system uruchomiony jest z migawki do przywrócenia
-#alias ssba='sudo btrfs-assistant' # Graficzne narzedzie snappera
-#alias ssg='sudo snapper-gui' # Graficzne narzędie snapper
+# Snapper
+alias ssl='sudo snapper list'
+alias ssd='sudo snapper -c root delete --sync ' # usówanie migawek podać numer np. 55 lub przedział np. 55-65
+alias ssc='sudo snapper create --desc ' # podać opis np. "231227 UPDATE OS QEMU "
+alias ssr='sudo snapper rollback' # Polecenie wydawane tylko w momencie kiedy system uruchomiony jest z migawki do przywrócenia
+alias ssba='sudo btrfs-assistant' # Graficzne narzedzie snappera
+alias ssg='sudo snapper-gui' # Graficzne narzędie snapper
 
 ## Tldr
 # alias tldr='tldr -t ocean'
@@ -152,6 +152,7 @@ alias nm="nmtui"
 alias nma='nm-applet'
 #alias nt='speedtest-cli'
 alias nt='speedtest' # Ookla speedtest > paru ookla-speedtest-bin
+alias dns='systemd-resolve --status' # Ookla speedtest > paru ookla-speedtest-bin
 alias wcolor="$HOME/.config/scripts/grim-gcolor.sh"
 alias cis="$HOME/.config/scripts/grim-copyimg.sh"
 alias cl="clear"
@@ -212,9 +213,13 @@ alias ptt='pdftotext -layout'
 alias mpdf='gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile=' # Merge pdf. Podać nazwa po połączeniu potem nazwy złączanych plików.
 
 # Rsync
-alias rsd='rsync -rv ~/Dokumenty/ ~/Archiwum/Linux/Dokumenty/'
-alias sync='rsync -rlpva --delete'
-alias gitsync='rsync -av --exclude="*git*" ~/Dokumenty/GitHub/dwm-install/ ~/Dokumenty/GitHub/dwm/'
+alias rs='rsync -ravz'
+alias rsd='rsync -ravz --delete'
+
+# SSH
+alias cpshh='scp -rv'
+alias rsssh='rsync -avz -e ssh'
+alias rsdssh='rsync -avz --delete -e ssh'
 
 # Aliases GITBARE
 alias gb='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME' # git --bare

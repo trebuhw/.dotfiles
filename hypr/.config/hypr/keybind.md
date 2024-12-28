@@ -20,10 +20,12 @@
      + Ctrl + b        -> wofi waybar style
      + Shift + a       -> azote
      + Shift + z       -> keybind hyprland
+     + Shift + m       -> mocp > xfce4-terminal --drop-down
      + ctrl + m        -> reset vol & bri to default value (40%, 30%)
      + Shift + u       -> yay update
      + q               -> kill active window
      + Shift + q       -> wlogout
+     + Shift + r       -> hyprland reload
     ## Windows
      + v               -> floating window
      + f               -> fulscreen window

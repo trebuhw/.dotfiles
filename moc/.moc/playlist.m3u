@@ -1,10 +1,1014 @@
 #EXTM3U
-#MOCSERIAL: 256
-#EXTINF:6737,/home/hubert/Archiwum/Linux/Muzyka/yt-dlp/CarMusic.mp3
-/home/hubert/Archiwum/Linux/Muzyka/yt-dlp/CarMusic.mp3
-#EXTINF:7453,/home/hubert/Archiwum/Linux/Muzyka/yt-dlp/Cyberpunk-techno.mp3
-/home/hubert/Archiwum/Linux/Muzyka/yt-dlp/Cyberpunk-techno.mp3
-#EXTINF:7371,/home/hubert/Archiwum/Linux/Muzyka/yt-dlp/Dark-Techno.mp3
-/home/hubert/Archiwum/Linux/Muzyka/yt-dlp/Dark-Techno.mp3
-#EXTINF:6737,/home/hubert/Archiwum/Linux/Muzyka/yt-dlp/Elektro.mp3
-/home/hubert/Archiwum/Linux/Muzyka/yt-dlp/Elektro.mp3
+#MOCSERIAL: 4096
+#EXTINF:266,1 ATB - Humanity (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/01 Humanity.mp3
+#EXTINF:266,2 ATB - Let U Go [2005 Reworked] (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/02 Let U Go [2005 Reworked].mp3
+#EXTINF:198,3 ATB - Believe In Me (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/03 Believe In Me.mp3
+#EXTINF:253,4 ATB - Trilogie Part 2 (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/04 Trilogie Part 2.mp3
+#EXTINF:255,5 ATB - Take Me Over (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/05 Take Me Over.mp3
+#EXTINF:222,6 ATB - Far Beyond (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/06 Far Beyond.mp3
+#EXTINF:220,7 ATB - Here With Me (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/07 Here With Me.mp3
+#EXTINF:250,8 ATB - Ecstasy (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/08 Ecstasy.mp3
+#EXTINF:227,9 ATB - Marrakech (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/09 Marrakech.mp3
+#EXTINF:222,10 ATB - In Love With The DJ (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/10 In Love With The DJ.mp3
+#EXTINF:242,11 ATB - Long Way Home (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/11 Long Way Home.mp3
+#EXTINF:216,12 ATB - I Don't Wanna Stop (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/12 I Don't Wanna Stop.mp3
+#EXTINF:212,13 ATB - You're Not Alone (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/13 You're Not Alone.mp3
+#EXTINF:210,14 ATB - Hold You (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/14 Hold You.mp3
+#EXTINF:209,15 ATB - Let U Go (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/15 Let U Go.mp3
+#EXTINF:225,16 ATB - The Fields Of Love (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/16 The Fields Of Love.mp3
+#EXTINF:228,17 ATB - The Summer (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/17 The Summer.mp3
+#EXTINF:238,18 ATB - Killer (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/18 Killer.mp3
+#EXTINF:226,19 ATB - Don't Stop (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/19 Don't Stop.mp3
+#EXTINF:196,20 ATB - 9 PM (Till I Come) (Seven Years: 1998-2005)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/ATB/Seven Years- 1998-2005/20 9 PM (Till I Come).mp3
+#EXTINF:266,1 Depeche Mode - World in My Eyes (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator FLAC/01 World in My Eyes.flac
+#EXTINF:283,2 Depeche Mode - Sweetest Perfection (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator FLAC/02 Sweetest Perfection.flac
+#EXTINF:296,3 Depeche Mode - Personal Jesus (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator FLAC/03 Personal Jesus.flac
+#EXTINF:270,4 Depeche Mode - Halo (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator FLAC/04 Halo.flac
+#EXTINF:367,5 Depeche Mode - Waiting for the Night (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator FLAC/05 Waiting for the Night.flac
+#EXTINF:372,6 Depeche Mode - Enjoy the Silence (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator FLAC/06 Enjoy the Silence.flac
+#EXTINF:295,7 Depeche Mode - Policy of Truth (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator FLAC/07 Policy of Truth.flac
+#EXTINF:339,8 Depeche Mode - Blue Dress (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator FLAC/08 Blue Dress.flac
+#EXTINF:331,9 Depeche Mode - Clean (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator FLAC/09 Clean.flac
+#EXTINF:266,Depeche Mode - World in My Eyes (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator MP3/01 World in My Eyes.mp3
+#EXTINF:283,Depeche Mode - Sweetest Perfection (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator MP3/02 Sweetest Perfection.mp3
+#EXTINF:296,Depeche Mode - Personal Jesus (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator MP3/03 Personal Jesus.mp3
+#EXTINF:270,Depeche Mode - Halo (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator MP3/04 Halo.mp3
+#EXTINF:367,Depeche Mode - Waiting for the Night (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator MP3/05 Waiting for the Night.mp3
+#EXTINF:372,Depeche Mode - Enjoy the Silence (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator MP3/06 Enjoy the Silence.mp3
+#EXTINF:295,Depeche Mode - Policy of Truth (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator MP3/07 Policy of Truth.mp3
+#EXTINF:339,Depeche Mode - Blue Dress (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator MP3/08 Blue Dress.mp3
+#EXTINF:331,Depeche Mode - Clean (Violator)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Depeche Mode/Depeche Mode (1990) - Violator MP3/09 Clean.mp3
+#EXTINF:443,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/10 - Dj Tiesto - Adagio For Strings.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/10 - Dj Tiesto - Adagio For Strings.mp3
+#EXTINF:218,1 Dover - Let Me Out (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/101-dover-let_me_out.mp3
+#EXTINF:199,2 Timbaland feat. Keri Hilson - The Way I Are (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/102-timbaland_feat_keri_hilson-the_way_i_are.mp3
+#EXTINF:211,3 Maroon 5 - Makes Me Wonder (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/103-maroon_5-makes_me_wonder.mp3
+#EXTINF:184,4 Goo Goo Dolls - Before It Is Too Late (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/104-goo_goo_dolls-before_it_is_too_late.mp3
+#EXTINF:203,5 Fall Out Boy - Thnks fr th mmrs (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/105-fall_out_boy-thnks_fr_th_mmrs.mp3
+#EXTINF:212,6 Amy Winehouse - Rehab (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/106-amy_winehouse-rehab.mp3
+#EXTINF:222,7 Mika - Relax, Take It Easy (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/107-mika-relax_take_it_easy.mp3
+#EXTINF:179,8 Tom Helson - Sun In Her Eyes (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/108-tom_helson-sun_in_her_eyes.mp3
+#EXTINF:201,9 Sunrise Avenue - Fairtale Gone Bad (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/109-sunrise_avenue-fairtale_gone_bad.mp3
+#EXTINF:171,10 Jamelia - No More (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/110-jamelia-no_more.mp3
+#EXTINF:235,11 Monrose - Even Heaven Cries (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/111-monrose-even_heaven_cries.mp3
+#EXTINF:237,12 Ciara - Like A Boy (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/112-ciara-like_a_boy.mp3
+#EXTINF:196,13 Bob Sinclar feat. Gary Pine & Dollarman - Sound Of Freedom (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/113-bob_sinclar_feat_gary_pine_and_dollarman-sound_of_freedom.mp3
+#EXTINF:220,14 Nefre - Sluchaj Nas (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/114-nefre-sluchaj_nas.mp3
+#EXTINF:224,15 Lexington Bridge - Kick Back (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/115-lexington_bridge-kick_back.mp3
+#EXTINF:259,16 Hinder - Lips Of An Angel (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/116-hinder-lips_of_an_angel.mp3
+#EXTINF:205,17 M.I.A. - Boyz (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/117-m_i_a-boyz.mp3
+#EXTINF:207,18 Infernal - Ten Miles (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/118-infernal-ten_miles.mp3
+#EXTINF:166,19 Cyssero feat. Akon - Natural Born Hustla (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/119-cyssero_feat_akon-natural_born_hustla.mp3
+#EXTINF:185,20 Verka Serduchka - Dancing Lasha Tumbai (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/120-verka_serduchka-dancing_lasha_tumbai.mp3
+#EXTINF:200,1 David Guetta - Love Is Gone (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/201-david_guetta-love_is_gone.mp3
+#EXTINF:205,2 Jeckyll & Hyde - Freefall (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/202-jeckyll_and_hyde-freefall.mp3
+#EXTINF:222,3 Defrikz - Round & Round (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/203-defrikz-round_and_round.mp3
+#EXTINF:205,4 Alchemist Project - Music Is My Extasy (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/204-alchemist_project-music_is_my_extasy.mp3
+#EXTINF:208,6 September - Cry For You (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/206-september-cry_for_you.mp3
+#EXTINF:193,7 Meck feat. Dino - Feels Like Home (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/207-meck_feat_dino-feels_like_home.mp3
+#EXTINF:222,10 Alex Gaudino feat. Crystal Waters - Destination Calabria (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/210-alex_gaudino_feat_crystal_waters-destination_calabria.mp3
+#EXTINF:237,12 ATB with Heather Nova - Renegade (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/212-atb_with_heather_nova-renegade.mp3
+#EXTINF:196,13 Krist Van D - You Are The One (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/213-krist_van_d-you_are_the_one.mp3
+#EXTINF:199,14 Sunblock feat. Sandy - Baby Baby (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/214-sunblock_feat_sandy-baby_baby.mp3
+#EXTINF:203,15 Activ - Superstar (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/215-activ-superstar.mp3
+#EXTINF:243,16 East Clubbers - My Love (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/216-east_clubbers-my_love.mp3
+#EXTINF:222,17 Akcent - King Of Disco (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/217-akcent-king_of_disco.mp3
+#EXTINF:234,18 Yarabi - Yarabi (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/218-yarabi-yarabi.mp3
+#EXTINF:194,19 Danzel - You Spin Me Round (Like A Record) (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/219-danzel-you_spin_me_round_(like_a_record).mp3
+#EXTINF:225,20 Scooter - The Question Is What Is The Question (4 Fun TV Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits 2007/220-scooter-the_question_is_what_is_the_question.mp3
+#EXTINF:181,1 donin liber & sylwia grzeszczk & vitows - dzien za dniem (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/101-donin_liber_and_sylwia_grzeszczk_and_vitows-dzien_za_dniem.mp3
+#EXTINF:205,2 zdn i alan bassky i jakub kotowski - deszcz pogodnych mysli (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/102-zdn_i_alan_bassky_i_jakub_kotowski-deszcz_pogodnych_mysli.mp3
+#EXTINF:184,3 grupa operacyjna - mordo ty moja (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/103-grupa_operacyjna-mordo_ty_moja.mp3
+#EXTINF:145,4 dka - jak mam ufac sobie (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/104-dka-jak_mam_ufac_sobie.mp3
+#EXTINF:171,5 magda - nigdy wiecej (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/105-magda-nigdy_wiecej.mp3
+#EXTINF:237,6 roger sanchez - turn on the music (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/106-roger_sanchez-turn_on_the_music.mp3
+#EXTINF:205,7 tiesto ft. bt - break my fall (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/107-tiesto_ft._bt-break_my_fall.mp3
+#EXTINF:234,8 atb - feel alive (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/108-atb-feel_alive.mp3
+#EXTINF:215,9 pompero - pompero (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/109-pompero-pompero.mp3
+#EXTINF:185,10 hi tack - let's dance (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/110-hi_tack-lets_dance.mp3
+#EXTINF:204,11 shaun baker - v.i.p (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/111-shaun_baker-v.i.p.mp3
+#EXTINF:198,12 minimalistix - whistling drive (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/112-minimalistix-whistling_drive.mp3
+#EXTINF:237,13 yarabi - i amar (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/113-yarabi-i_amar.mp3
+#EXTINF:167,14 yves larock feat. jaba - rise up (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/114-yves_larock_feat._jaba-rise_up.mp3
+#EXTINF:213,15 code red - kanikuly 2007 (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/115-code_red-kanikuly_2007.mp3
+#EXTINF:216,16 the bitch hotel - do u wanna dance (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/116-the_bitch_hotel-do_u_wanna_dance.mp3
+#EXTINF:213,17 crazy loop - crazy loop (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/117-crazy_loop-crazy_loop.mp3
+#EXTINF:229,18 jes - ghost (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/118-jes-ghost.mp3
+#EXTINF:170,19 cru5h 5 - afterparty (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/119-cru5h_5-afterparty.mp3
+#EXTINF:238,20 bwo - save my pride (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/120-bwo-save_my_pride.mp3
+#EXTINF:245,21 poparazzi - badz jawa nie snem (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/201-poparazzi-badz_jawa_nie_snem.mp3
+#EXTINF:224,22 gosia andrzejewicz - sila marzen (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/202-gosia_andrzejewicz-sila_marzen.mp3
+#EXTINF:198,23 dj adamus feat. ygor - kontratak ukladu (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/203-dj_adamus_feat._ygor-kontratak_ukladu.mp3
+#EXTINF:224,24 nefre - sluchaj nas (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/204-nefre-sluchaj_nas.mp3
+#EXTINF:234,25 time square - kiedy wreszcie cie dogonie (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/205-time_square-kiedy_wreszcie_cie_dogonie.mp3
+#EXTINF:219,26 housefeller feat christine moore - mama (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/206-housefeller_feat_christine_moore-mama.mp3
+#EXTINF:242,27 soldout meets larry lay - feel me again (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/207-soldout_meets_larry_lay-feel_me_again.mp3
+#EXTINF:221,28 favretto - people of the night (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/208-favretto-people_of_the_night.mp3
+#EXTINF:215,29 jeckyll and hyde - time flies (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/209-jeckyll_and_hyde-time_flies.mp3
+#EXTINF:234,30 regi feat. scala - i fail (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/210-regi_feat._scala-i_fail.mp3
+#EXTINF:216,31 dj remo feat. queen of the night - my music song (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/211-dj_remo_feat._queen_of_the_night-my_music_song.mp3
+#EXTINF:245,32 chrisso - escape (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/212-chrisso-escape.mp3
+#EXTINF:172,33 booty luv - don`t mess with my man (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/213-booty_luv-dont_mess_with_my_man.mp3
+#EXTINF:223,34 akcent - king of disco (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/214-akcent-king_of_disco.mp3
+#EXTINF:188,35 li ann - pop the cherry (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/215-li_ann-pop_the_cherry.mp3
+#EXTINF:216,36 us5 - rhythm of life (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/216-us5-rhythm_of_life.mp3
+#EXTINF:214,37 milk inc - sunrise (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/217-milk_inc-sunrise.mp3
+#EXTINF:200,38 jay delano - just like me (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/218-jay_delano-just_like_me.mp3
+#EXTINF:236,39 verona - ti sento (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/219-verona-ti_sento.mp3
+#EXTINF:199,40 lemon ice - only you (Muzyczne Hity Jesien Zima 2007 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/4 FunTV Hits jesien-zima 2007-2008/220-lemon_ice-only_you.mp3
+#EXTINF:233,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/DKA - Wybacz.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/DKA - Wybacz.mp3
+#EXTINF:4310,1 VA - Eska Live Rmx By Puoteck (Eska Live Rmx By Puoteck 2CD)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/Eska Live CD1.mp3
+#EXTINF:4362,2 VA - Eska Live Rmx By Puoteck (Eska Live Rmx By Puoteck 2CD2)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Eska Hits/Eska Live CD2.mp3
+#EXTINF:200,1 Nieznany wykonawca - cie¿ka 1 (Nieznany album (04.05.2019 16:50:58))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Jennifer Paige/Jennifer Paige/01 Crush.mp3
+#EXTINF:235,1 Nieznany wykonawca - cie¿ka 1 (Nieznany album (04.05.2019 17:14:50))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 1/01 Ścieżka 1.mp3
+#EXTINF:262,2 Nieznany wykonawca - cie¿ka 2 (Nieznany album (04.05.2019 17:14:50))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 1/02 Ścieżka 2.mp3
+#EXTINF:187,3 Nieznany wykonawca - cie¿ka 3 (Nieznany album (04.05.2019 17:14:50))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 1/03 Ścieżka 3.mp3
+#EXTINF:233,4 Nieznany wykonawca - cie¿ka 4 (Nieznany album (04.05.2019 17:14:50))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 1/04 Ścieżka 4.mp3
+#EXTINF:221,5 Nieznany wykonawca - cie¿ka 5 (Nieznany album (04.05.2019 17:14:50))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 1/05 Ścieżka 5.mp3
+#EXTINF:369,6 Nieznany wykonawca - cie¿ka 6 (Nieznany album (04.05.2019 17:14:50))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 1/06 Ścieżka 6.mp3
+#EXTINF:224,7 Nieznany wykonawca - cie¿ka 7 (Nieznany album (04.05.2019 17:14:50))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 1/07 Ścieżka 7.mp3
+#EXTINF:193,8 Nieznany wykonawca - cie¿ka 8 (Nieznany album (04.05.2019 17:14:50))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 1/08 Ścieżka 8.mp3
+#EXTINF:246,9 Nieznany wykonawca - cie¿ka 9 (Nieznany album (04.05.2019 17:14:50))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 1/09 Ścieżka 9.mp3
+#EXTINF:388,10 Nieznany wykonawca - cie¿ka 10 (Nieznany album (04.05.2019 17:14:50))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 1/10 Ścieżka 10.mp3
+#EXTINF:224,11 Nieznany wykonawca - cie¿ka 11 (Nieznany album (04.05.2019 17:14:50))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 1/11 Ścieżka 11.mp3
+#EXTINF:235,12 Nieznany wykonawca - cie¿ka 12 (Nieznany album (04.05.2019 17:14:50))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 1/12 Ścieżka 12.mp3
+#EXTINF:251,13 Nieznany wykonawca - cie¿ka 13 (Nieznany album (04.05.2019 17:14:50))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 1/13 Ścieżka 13.mp3
+#EXTINF:358,Danzel -  Pump It Up
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/- Danzel Pump It Up.mp3
+#EXTINF:471,2 Dj Kriss - the official anthem of sunrise festival 2006 (dub mix) << WwW.zMp3.PL >> (<< WwW.zMp3.PL >>)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/02-dj_kriss-the_official_anthem_of_sunrise_festival_2006_(dub_mix)_WwW.zMp3.PL.mp3
+#EXTINF:222,3 James Blunt - Wisemen (Back To Bedlam)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/03 - James Blunt - Wisemen - torrentazos.com.mp3
+#EXTINF:240,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/033 - Hellogoodbye - Here (In Your Arms)      [Torrent-Tatty]   (™ Universal).MP3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/033 - Hellogoodbye - Here (In Your Arms)      [Torrent-Tatty]   (™ Universal).MP3
+#EXTINF:610,3 Dj Kriss - memories (brother funk beach mix) << WwW.zMp3.PL >> (<< WwW.zMp3.PL >>)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/03-dj_kriss-memories_(brother_funk_beach_mix)_WwW.zMp3.PL.mp3
+#EXTINF:260,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/1 Leona Lewis - A Moment Like This.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/1 Leona Lewis - A Moment Like This.mp3
+#EXTINF:204,Verba - Nic Wiêcej
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/13.Verba - Nic Wiêcej.mp3
+#EXTINF:210,Mutya Buena - Real girl
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/14 Mutya Buena - Real girl.mp3
+#EXTINF:102,14 Spår 14
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/14 Toilet Boys - Carbona Not Glue.mp3
+#EXTINF:128,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/16 Track 16.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/16 Track 16.mp3
+#EXTINF:219,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/19.DJ BOBO - I Believe.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/19.DJ BOBO - I Believe.mp3
+#EXTINF:299,Eminem - Eminem - Cleaning out my close
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/1.Eminem -  Im sorry mamma.MP3
+#EXTINF:238,Dj Bobo - Let The Dream Come True
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/20.DJ Bobo - Let The Dream Come True.mp3
+#EXTINF:217,3 DJ Bobo - Everybody (with Emilia) (Celebration)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/21. DJ Bobo - Everybody (With Emilia).mp3
+#EXTINF:244,DJ Bobo - Love Is All Around
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/22.DJ Bobo - Love Is All Around.mp3
+#EXTINF:233,DJ Bobo - Pray (-)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/23.DJ Bobo - Pray.mp3
+#EXTINF:200,Dj Bobo & Sandra - Secrets of love [Radio Version] 
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/24.Dj Bobo & Sandra - Secrets of love.mp3
+#EXTINF:235,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/25.DJ Bobo-Freedom.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/25.DJ Bobo-Freedom.mp3
+#EXTINF:234,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/27.EDYTA GORNIAK - anything.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/27.EDYTA GORNIAK - anything.mp3
+#EXTINF:216,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/2Leona Lewis - Angel.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/2Leona Lewis - Angel.mp3
+#EXTINF:133,Clint Mansell/Kronos Quartet - Coney Island Low (Requiem For A Dream)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/33 Coney Island Low.mp3
+#EXTINF:296,5 Eminem - Like Toy Soldiers (Produced By Eminem) (Encore)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/3.Eminem - Like Toysoldiers.mp3
+#EXTINF:175,1 Sunblock - I'll Be Ready (I'll Be Ready)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/3.Sunblock - I'll Be Ready.mp3
+#EXTINF:250,16 Eminem - Mockingbird (Produced By Eminem) (Encore)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/4.Eminem - Mockingbird.mp3
+#EXTINF:332,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/5.Everytime We Touch - Cascadia.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/5.Everytime We Touch - Cascadia.mp3
+#EXTINF:235,76 Snow Patrol - Signal Fire (Indie/Rock Playlist: April)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/76 - Snow Patrol - Signal Fire.mp3
+#EXTINF:120,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/adamus.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/adamus.mp3
+#EXTINF:410,2 Amy Winehouse - You Sent Me Flying (Frank)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Amy Winehouse - 02. You Sent Me Flying (Cherry).mp3
+#EXTINF:183,3 Amy Winehouse - Know You Now (Frank)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Amy Winehouse - 03. Know You Now.mp3
+#EXTINF:130,5 Amy Winehouse - I Heard Love Is Blind (Frank)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Amy Winehouse - 05. I Heard Love Is Blind.mp3
+#EXTINF:240,5 Amy Winehouse - Back To Black (Back To Black)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Amy Winehouse - Back to black.mp3
+#EXTINF:266,2 MAX - ＥＸＴＡＳＹ (ＭＡＸＩＭＵＭ)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/ATB - Extasy.mp3
+#EXTINF:353,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/ATB - Techno song.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/ATB - Techno song.mp3
+#EXTINF:235,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/aTB feat. Heather Nova - Renegade.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/aTB feat. Heather Nova - Renegade.mp3
+#EXTINF:189,ATB vs Faithless - Don't Stop vs Insomnia-bootleg
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/ATB vs FAITHLESS - DON'T STOP vs INSOMNIA-BOOTLEG.mp3
+#EXTINF:213,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Atomic Kitten - Be With You.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Atomic Kitten - Be With You.mp3
+#EXTINF:248,Beyonce Feat. Jay-Z - Crazy In
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Beyonce Feat. Jay-Z - Crazy In Love.mp3
+#EXTINF:208,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Beyonce ft Shakira - Beautiful Liar.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Beyonce ft Shakira - Beautiful Liar.mp3
+#EXTINF:273,Celine Dion - Because You Love Me            (                              )
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Celine Dion- Because You Love Me.mp3
+#EXTINF:187,DJ Promo - Let the bass Boom (Thunderdome 18)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Dance - Techno - DJ Promo - Let the Bass Boom.mp3
+#EXTINF:234,DJ Bobo - Can You Hear Me
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/DJ Bobo - Can You Hear Me.mp3
+#EXTINF:222,DJ Bobo - Together
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/DJ Bobo - Together.mp3
+#EXTINF:340,0 Dj Neros - The One (Original Mix){{ www.Techniawka.net }} ({{ www.Techniawka.net }})
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Dj_Neros_-_The_One__Original_Mix.mp3
+#EXTINF:292,4 Eminem - The way I am
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Eminem - The way I am.mp3
+#EXTINF:273,FRANK SINATRA - MY WAY
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/FRANK SINATRA - MY WAY.mp3
+#EXTINF:226,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Gareth Gates - Any one of us.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Gareth Gates - Any one of us.mp3
+#EXTINF:233,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Gareth Gates - I Miss You.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Gareth Gates - I Miss You.mp3
+#EXTINF:395,1 Global Deejays feat. Technotronic - Get Up (Before The Night Is Over) (General Elektric Mix) (Get Up (Before The Night Is Over)-Promo-CDR-2007)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/global deejays feat. technotronic - get up before the night is over general elektric mix-u.mp3
+#EXTINF:479,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Groove Armada - ChillOut Mix 2000.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Groove Armada - ChillOut Mix 2000.mp3
+#EXTINF:222,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Gunter & Samanta Fox - Touch me.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Gunter & Samanta Fox - Touch me.mp3
+#EXTINF:240,Hi Tack-Say - Waiting 4 you Malek Chtiwi Rmx
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Hi Tack - Say Waiting 4 you Malek Chtiwi Rmx Dance Techno Tribal House Music Arabic Belly Disco Clu.mp3
+#EXTINF:272,Boston DJ - Move Your Body
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/House techno Club Dance - Boston DJ - Move Your Body (DJ Jean & Peran Speed Garage mix).mp3
+#EXTINF:215,20 Ronan Keating - I Hope You Dance (#Now 59 (CD1))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/I Hope You Dance.mp3
+#EXTINF:231,1 Ronan Keating - I Love It When We Do (Destination)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/I Love It When We Do.mp3
+#EXTINF:335,8 INFERNAL - I WON'T BE CRYING    XTD MIX
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/INFERNAL - I WON'T BE CRYING    XTD MIX.MP3
+#EXTINF:142,Freefall
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Jackyll & Hyde - Freefall.mp3
+#EXTINF:258,4 James Blunt - Goodbye My Lover (Back To Bedlam)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/James Blunt  - Goodbye my lover.mp3
+#EXTINF:213,James  Blunt - Your Beautiful
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/James Blunt - Your beautiful!.mp3
+#EXTINF:234,Jean Michele Jarre - Magnetic Fields II
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Jean Michele Jarre - Magnetic Fields II.mp3
+#EXTINF:341,Jean Michelle Jarre - Millions of Stars
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Jean Michele Jarre - Millions of Stars.mp3
+#EXTINF:366,1 Jean Michel Jarre & Vangelis - Tubular Bells
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Jean Michelle Jarre & Vangelis - Mike Oldfield's- Tubular Bells.mp3
+#EXTINF:299,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Jean Michelle Jarre & Vangelis- Alpha.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Jean Michelle Jarre & Vangelis- Alpha.mp3
+#EXTINF:4341,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Jean Michelle Jarre The Best Of.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Jean Michelle Jarre The Best Of.mp3
+#EXTINF:216,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Leona Lewis - Angel.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Leona Lewis - Angel.mp3
+#EXTINF:246,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Leona Lewis - Breathe.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Leona Lewis - Breathe.mp3
+#EXTINF:240,leona lewis. - keep bleeding love. (jonnyaliblog.blogspot.com)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Liona Lewis - bleeding love.mp3
+#EXTINF:283,3 Madonna - Sorry (Confessions On A Dance Floor)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Madonna - Sorry.mp3
+#EXTINF:254,Mariah Carey ft. Jay Z - Heartbreaker
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Mariah Carey - Heart Breaker.mp3
+#EXTINF:166,10 Mariah Carey - Your Girl (The Emancipation Of Mimi)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Mariah Carey - The Emancipation of Mimi - 10 - Your Girl.mp3
+#EXTINF:235,4 Mika - Love Today (Life In Cartoon Motion)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Mika - Love Today.mp3
+#EXTINF:226,Mika - Relax, Take It Easy
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Mika - Relax, Take It Easy.mp3
+#EXTINF:207,2 Ne-Yo - So Sick (So Sick (CDS))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Ne-Yo - So Sick.mp3
+#EXTINF:164,0 Outwork Feat Mr. Gee - Elektro  (538 Dance Smash Hits Volume 3 )
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/outwork_feat_mr._gee_-_elektro.mp3
+#EXTINF:239,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Pure_Devotion-Free_loader.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Pure_Devotion-Free_loader.mp3
+#EXTINF:226,6 Fedde Le Grand - Put your hands up for Detroit (Unknown Album (08/10/2006 21:12:07))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Put your hands up for Detroit.mp3
+#EXTINF:134,Requiem for a Dream - Supermarket Sweep
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Requiem for a Dream - Supermarket Sweep.mp3
+#EXTINF:234,Requiem For A Dream Soundtrack - Lux Aeterna
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Requiem For A Dream Soundtrack - Lux Aeterna.mp3
+#EXTINF:231,4 Rihana - Unfaithful (A Girl Like Me)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Rihana - Unfaithful.mp3
+#EXTINF:254,RIHANNA & JAY Z - UMBRELLA
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Rihanna ft. Jay-Z - Umbrella.mp3
+#EXTINF:1058,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/robie williams - angel.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/robie williams - angel.mp3
+#EXTINF:258,8 Robbie Williams - She's The One (remix compilation)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Robie Williams - She's the one.mp3
+#EXTINF:222,2002-Shakira - Objection (Single 2002)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Shakira - Objection.mp3
+#EXTINF:214,Simply Red - Would I Lie To You
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/simply red - Would I Lie To You.mp3
+#EXTINF:215,8 Various - Smokie - Who The Fuck Is Alice? (Anuncios TV Volumen 2 CD 2)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/smokie - Who The Fuck Is Alice.mp3
+#EXTINF:155,1 Clint Mansell (Featuring Kronos Quartet) - Summer Overture (Requiem For A Dream)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Soundtrack Requiem for a Dream - summer overture (clint mansell kronos quartet).mp3
+#EXTINF:338,1 Trés - Sticks & Stones (Writing On The Wall)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/sticks and stones.wma
+#EXTINF:172,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Take That & Leona Lewis - A Million Love Songs.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Take That & Leona Lewis - A Million Love Songs.mp3
+#EXTINF:300,DJ Tiesto - Touch Me (Trance Nation 2001 - Disc 2)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Techno - DJ Tiesto - Touch Me.mp3
+#EXTINF:438,TECHNO - Jean Michel Jarre meets Kraftwerk -@lphabreed-2001-Novaresse-remix-Ambient-Trance-Electro
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/TECHNO - Jean Michel Jarre meets Kraftwerk -@lphabreed-2001-Novaresse-remix-Ambient-Trance-Electro.mp3
+#EXTINF:740,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Techno - Trance - ATB and Paul Van Dyke rave mix - DJ Special K .mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Techno - Trance - ATB and Paul Van Dyke rave mix - DJ Special K .mp3
+#EXTINF:212,1 Supermode - Tell me why (Unknown Album (08/10/2006 21:12:07))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Tell me why.mp3
+#EXTINF:146,The Kelly Family - You'll Never Walk Alone
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/The Kelly Family - You'll Never Walk Alone.mp3
+#EXTINF:218,The Proclaimers - I'm gonna be 500 Miles
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/The Proclaimers-I'm gonna be 500 Miles.mp3
+#EXTINF:179,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/UEFA Champions League Theme.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/UEFA Champions League Theme.mp3
+#EXTINF:331,Vangelis - Conquest of Paradise
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Vangelis - 1492-Soundtrack Conquest Of Paradise.mp3
+#EXTINF:3295,AlbumWrap - Vangelis - AlbumWrap Album (AlbumWrap - 1492 Conquest Of Paradise)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Vangelis - Full Album Cd - 1492 Conquest Of Paradise Albw.mp3
+#EXTINF:281,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Vangelis & Jean Michel Jarre - Blade Runner Soundtrack - Metallic Rain.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Vangelis & Jean Michel Jarre - Blade Runner Soundtrack - Metallic Rain.mp3
+#EXTINF:417,0 Jean Michel Jarre  - Popcorn(longer)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Vangelis & Jean Michel Jarre - Popcorn.mp3
+#EXTINF:205,10 Jean Michel Jarre - Orient Express (Images)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Vangelis & Jean Michel Jarre-Orient Express.mp3
+#EXTINF:205,Virgin - Kolejny raz (Bimbo)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/Virgin - Kolejny raz.mp3
+#EXTINF:224,32 William Orbit - Adagio (William Orbit)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 2/William Orbit -  Adagio.mp3
+#EXTINF:425,71 Dean Koontz - 71-Apokalipsa (Apokalipsa)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/71 Apokalipsa.mp3
+#EXTINF:196,20 ATB - 9 PM ('Till I Come) (Seven Years)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/9 pm.mp3
+#EXTINF:299,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Adam Lambert - Another Lonely Night.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Adam Lambert - Another Lonely Night.mp3
+#EXTINF:231,6 Afromental - Radio Song (39 i Pol Sezon 2)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/afromental-radio_song.mp3
+#EXTINF:221,3 AHA - Hunting Hight And Low (Hunting High and Low)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Aha - Hunting hight and low(1).mp3
+#EXTINF:307,Aha - The Sun Always Shines On Tv (Hits of 1986)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Aha - The Sun Always Shines On Tv.mp3
+#EXTINF:228,Aha - Take on me
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Aha-Take on me(1).mp3
+#EXTINF:212,Alan Walker - Faded
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Alan Walker - Faded.mp3
+#EXTINF:1,Alarm
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Alarm-96941fb6-dc11-4cdd-9697-1f855615bfb7.mp3
+#EXTINF:263,Aleksandra - Mówisz mi, ¿e przepraszasz
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Aleksandra - Mówisz mi, że przepraszasz.mp3
+#EXTINF:184,Alesso & Calvin Harris &.Hurts - Under Control
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Alesso & Calvin Harris &Hurts - Under Control.mp3
+#EXTINF:213,Almond vel Blank - Momentsl (www.bestmp3.pl)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Almond vel blank - Moments.mp3
+#EXTINF:230,Alphaville - Forever Young
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Alphaville - Forever Young.mp3
+#EXTINF:231,1 Amelia Lily - You bring Me joy
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Amelia Lily - You bring Me joy.mp3
+#EXTINF:244,Anne-Marie - Alarm
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Anne-Marie - Alarm-1.mp3
+#EXTINF:430,Armin Van Buuren - Burned With Desire (Renegate 2006 Remix) - www.bestmp3.pl (www.bestmp3.pl)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Armin Van Buuren - Burned With Desire.mp3
+#EXTINF:173,Armin van Buuren vs. Sophie Ellis-Bextor - Not giving up on love
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Armin van Buuren & Sophie Ellis-Bextor- Not giving up on love.mp3
+#EXTINF:226,6 ATB - Feel alive (Trilogy)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/ATB - Feel alive.mp3
+#EXTINF:241,9 ATB pres. Flanders - Behind (Future Memories)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Atb & Flanders Behind.mp3
+#EXTINF:312,4 ATB - Here With Me [www.Mp3Traxx.Tk] (No Silence [www.Mp3Traxx.Tk])
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Atb - Here With Me.mp3
+#EXTINF:222,ATB - Hold You (Radio Edit)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/ATB - Hold You (Radio Edit).mp3
+#EXTINF:265,1 ATB - Humanity (Seven Years)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/ATB - Humanity.mp3
+#EXTINF:266,ATB - I wanna cry
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Atb - I Wanna Cry.mp3
+#EXTINF:220,10 ATB - In Love With The DJ (Seven Years)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/ATB - In love with the dj.mp3
+#EXTINF:256,2 ATB & Jansoon - Gold (Distant Earth CD)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/ATB & Jansoon - Gold.mp3
+#EXTINF:229,1 ATB - Justify (Trilogy)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/ATB - Justify.mp3
+#EXTINF:264,2 ATB - Let U Go (2005 Reworked) (Seven Years)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Atb - Let you goo .mp3
+#EXTINF:241,ATB - ATB - Long way home (Long Way Home CDM)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/ATB - Long way home.mp3
+#EXTINF:209,5 ATB - Stars Come Out (Trilogy Disc 1)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/ATB - Stars Come Out.mp3
+#EXTINF:223,16 ATB - The Fields Of Love (Seven Years)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/ATB - The fields of love.mp3
+#EXTINF:226,17 ATB - The Summer (Seven Years)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/ATB - The summerr.mp3
+#EXTINF:223,1 ATB - What About Us (What About Us | L.A. Nights)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Atb - What about uss.mp3
+#EXTINF:235,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Atb Feat Heather Nova - Renegade.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Atb Feat Heather Nova - Renegade.mp3
+#EXTINF:209,1 Avicii vs. Nicky Romero - I Could Be The One (Absolute Dance Winter 2013)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Avicii vs. Nicky Romero - I Could Be The One(1).mp3
+#EXTINF:258,1 Lady Gaga - Bad Romance (The Fame Monster [Deluxe Editi)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Bad Romance-LadyGaGa(1).mp3
+#EXTINF:191,Basic Element - Touch You Right Now (Eska Edit)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Basic Element - Touch You Right Now.mp3
+#EXTINF:230,1 Bastille - Of the night (Of The Night [Single])
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Bastille - Of the night.mp3
+#EXTINF:240,2 Bastille - Things We lost in the fire (Bad Blood)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Bastille - Things We lost in the fire.mp3
+#EXTINF:364,Beethoven - Moonlight
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Beethoven - Moonlight Sonata (Resident Evil).mp3
+#EXTINF:222,1 Fort Minor - Believe me (HipHop Party2)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Believe me - Fort Minor.mp3
+#EXTINF:261,2 Beyonce - Halo (I Am...Sasha Fierce [DE] CD1)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Beyonce - Halo.mp3
+#EXTINF:248,Beyonce - If I Were A Boy
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Beyonce - If I Were A Boy.mp3
+#EXTINF:503,Beyonce - Single Ladies  (www.djgeru.prv.pl)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Beyonce - Single Ladies .mp3
+#EXTINF:208,4 Beyonce - Sweet Dreams (I Am...Sasha Fierce [DE] CD2)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Beyonce - Sweet Dreams.mp3
+#EXTINF:290,7 Romantic Collection - Black / Wonderful Live (Romantic Collection Volume 3)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Black - Wonderful Live.mp3
+#EXTINF:274,7 Black Eyed Peas - Missing You (The E.N.D.[Deluxe] [CD1])
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Black Eyed Peas - Missing You.mp3
+#EXTINF:219,Black Eyes Peas - Just Can't Get Enough
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Black Eyes Peas - Just cant get enough.mp3
+#EXTINF:221,Blue - sorry seems to be the hardest (One Love)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Blue - Sorry Seems To Be The Hardest.mp3
+#EXTINF:29,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Blue-ringtone-1851264.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Blue-ringtone-1851264.mp3
+#EXTINF:221,Bomfunk MC's - Uprocking Beats (In Stereo)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Bomfunk MC's - Uprocking Beats.mp3
+#EXTINF:225,12 Britney Spears - Criminal (Femme Fatale)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Britney Spears - Criminal.mp3
+#EXTINF:236,12 Britney Spears - Everytime (In The Zone)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Britney Spears - Everytime.mp3
+#EXTINF:210,4 Britney Spears - I wanna go (Femme Fatale)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Britney Spears - I wanna go.mp3
+#EXTINF:199,Britney Spears - Overprotected (Britney)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Britney Spears - Overprotected.mp3
+#EXTINF:212,2 Britney Spears - Piece Of Me (Blackout)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Britney Spears - Piece Of Me.mp3
+#EXTINF:227,6 Calvin Harris - Outside (feat. Ellie Goulding) (Motion)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Calvin Harris & Ellie Goulding - Outside.mp3
+#EXTINF:214,1 Calvin Harris - Blame (FRESH DANCE MUSIC)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Calvin Harris & John Newman- Blame.mp3
+#EXTINF:222,1 Calvin Harris - Summer (Summer)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Calvin Harris - Summer.mp3
+#EXTINF:247,11 Calvin Harris - Thinking About You (Feat. Ayah Marar) (NRJ Hit Music Only 2013 Vol. 2 (CD2))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Calvin Harris - Thinking About You.mp3
+#EXTINF:-1,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Calvin Harris Ft Florence Welch - Sweet Nothing.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Calvin Harris Ft Florence Welch - Sweet Nothing.mp3
+#EXTINF:207,Cash Cash & BustaRhymes - Devil
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Cash Cash & Busta Rhymes - Devil.mp3
+#EXTINF:226,1 Cheryl Cole - Fight for this love (Fight For This Love)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Cheryl Cole - Fight for this love.mp3
+#EXTINF:220,2 Cheryl Cole - Parachute (3 Words)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Cheryl Cole - Parachute.mp3
+#EXTINF:260,Coldplay - Hymn for the weekend
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Coldplay - Hymn for the weekend.mp3
+#EXTINF:284,1 Coldplay - Talk (2005 Unreleased)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Coldplay - Talk.mp3
+#EXTINF:330,1 martin l gore - compulsion (counterfeit e.p)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Compulsion.mp3
+#EXTINF:213,1 Cris Cab - Liar Liar (Playlist NRJ Les Hits Du Moments Janvier 2014)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Cris Cab - Liar Liar.mp3
+#EXTINF:190,David Getta & Nicki M/ianj & Afrojack - Hey mama
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/David Getta & Nicki Minaj & Afrojack - Hey mama.mp3
+#EXTINF:200,David Guetta & Ne-Yo &Akon - Play hard
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/David Guetta & Ne-Yo & Akon - Play hard.mp3
+#EXTINF:245,6 David Guetta & Sia - Titanium (Nothing But the Beat)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/David Guetta & Sia - Titanium.mp3
+#EXTINF:191,David Guetta & Skylar Grey - Shot Me down
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/David Guetta & Skylar Grey - Shot Me down.mp3
+#EXTINF:233,David Guetta - Titanium
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/David Guetta - Titanium.mp3
+#EXTINF:207,David Guetta & Zara Larsson - This one's for You
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/David Guetta & Zara Larsson - This one's for You.mp3
+#EXTINF:230,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/David Guetta and Sia - Bang My Head.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/David Guetta and Sia - Bang My Head.mp3
+#EXTINF:209,2 David Guetta Ft. Kid Cudi - Memories (Fun Dance 2010)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/David Guetta ft. Kid Cudi - Memories.mp3
+#EXTINF:-1,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/(David Guetta ft. Taped Rai)-Just One Last Time.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/(David Guetta ft. Taped Rai)-Just One Last Time.mp3
+#EXTINF:261,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Depeche Mode - Enjoy the Silence.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Depeche Mode - Enjoy the Silence.mp3
+#EXTINF:249,32 Alice Deejay - Better Off Alone (DJ Jurgen)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/(DJ Alice) - Better Off Alone.mp3
+#EXTINF:181,1 DJ Antoine - Sunlight (DJ Antoine)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/DJ Antoine - Sunlight.mp3
+#EXTINF:179,DJ Fresh & Rita Ora - Hot right now
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/DJ Fresh & Rita Ora - Hot right now.mp3
+#EXTINF:211,6 DJ Shog - Another World (Trance History Disc 2)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/DJ Shog - Another World.mp3
+#EXTINF:175,1 dj_tatana - free_(radio_edit)-swiss (free)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/DJ Tatana - Free (Radio Edit).mp3
+#EXTINF:443,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Dj Tiesto - Adagio For Strings.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Dj Tiesto - Adagio For Strings.mp3
+#EXTINF:191,Guru Josh Project - Infinity 2008 (Klaas Vocal Edit)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/DJ Tiesto - Infinity 2008.mp3
+#EXTINF:227,DKA - Wybacz (Postawiê sobie pomnik)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/DKA - Wybacz.mp3
+#EXTINF:218,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Don't Stop.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Don't Stop.mp3
+#EXTINF:207,Duke Dumont - Ocean drive
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Duke Dumont - Ocean Drive.mp3
+#EXTINF:222,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/East Clubbers- Make Me Live.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/East Clubbers- Make Me Live.mp3
+#EXTINF:248,8 ATB - Ecstasy (Seven Years)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ecstasy.mp3
+#EXTINF:184,3 Elen Levon - Wild child (Dancing to the Same Song)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Elen Levon - Wild Child.mp3
+#EXTINF:211,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ellie Goulding - On My Mind.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ellie Goulding - On My Mind.mp3
+#EXTINF:-1,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ellie_goulding-anything_could_happen.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ellie_goulding-anything_could_happen.mp3
+#EXTINF:296,Eminem - Like Toy Soldiers
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Eminem - Like Toy Soldiers.mp3
+#EXTINF:263,15 Eminem & Rihanna - Love the Way You Lie  (Recovery)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Eminem - Love The Way You Lie .mp3
+#EXTINF:249,Eminem - Not Afraid (Recovery)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Eminem - Not Afraid.mp3
+#EXTINF:339,116 Eminem - Sing For The Moment (The Eminem Show)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Eminem - Sing For The Moment.mp3
+#EXTINF:286,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Eminem - We made you.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Eminem - We made you.mp3
+#EXTINF:221,Akon/& Eminem - Snack That (DJ SKEE)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Eminem Feat. Akon - Smack That.mp3
+#EXTINF:253,1 Enya - Gladiator Theme - Now We Are F
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Enya - Now We Are Free.mp3
+#EXTINF:305,Europe - final countdown
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Europe - Final Countdown.MP3
+#EXTINF:237,2 Evanescence - Bring Me To Life (Fallen (Retail))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Evanescence - bring me to life.mp3
+#EXTINF:214,1 Evanescence - Going Under (Fallen (Retail))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Evanescence - Going under.mp3
+#EXTINF:264,4 Evanescence - My Immortal (Fallen (Retail))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Evanescence - my immortal.mp3
+#EXTINF:204,7 Ewa Farna - Cicho (Radio Edit) (CD Club Promo Only Polish Edition vol.2)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ewa Farna - Cicho.mp3
+#EXTINF:198,1 Ewa Farna - Ewakuacja (Ewakuacja)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ewa Farna - Ewakuacja.mp3
+#EXTINF:188,Ewa Farna - Tu
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ewa Farna - Tu.mp3
+#EXTINF:188,5 Ewelina Lisowska - W stronę słońca
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ewelina Lisowska - W stronę słońca.mp3
+#EXTINF:200,Ewelina Lisowska - We mgle
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ewelina Lisowska - We Mgle.mp3
+#EXTINF:238,Fancy - Flames of Love (Musica Disco De Los 80)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Fancy - Flames of Love.mp3
+#EXTINF:228,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Flo Rida feat. Jennifer Lopez - Sweet Spo.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Flo Rida feat. Jennifer Lopez - Sweet Spo.mp3
+#EXTINF:203,Foggy - Come Into My Dream (Vocal Radi
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Foggy - Come Into My Dreams(1).mp3
+#EXTINF:231,6 Fort Minor - Where'd You Go (feat. Holly Brook and Jonah Matranga) (The Rising Tied)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Fort Minor - Whered You go.mp3
+#EXTINF:254,G-Eazy & Bebe Rexha - Me, Myself, & I
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/G-Eazy & Bebe Rexha - Me, Myself & I.mp3
+#EXTINF:256,12 G.G.Dagostino - L'amour toujours (MEGA HITS 5)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/G.G.D'agostino-L'amour toujours.mp3
+#EXTINF:425,Track 1
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ggi D'Agostino - L'amour Toujours.mp3
+#EXTINF:28,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Gladiatior-ringtone-1550594.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Gladiatior-ringtone-1550594.mp3
+#EXTINF:203,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Grace - You Don't Own Me ft. G-Eazy.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Grace - You Don't Own Me ft. G-Eazy.mp3
+#EXTINF:268,Guns N'Roses - Don't Cry (Kuschelrock 8)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Guns N' Roses - Don't Cry.mp3
+#EXTINF:535,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Guns N' Roses - November Rain.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Guns N' Roses - November Rain.mp3
+#EXTINF:220,Haddaway - I miss you
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Haddaway - I miss you.mp3
+#EXTINF:5,Hangouts Call
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/hangouts_incoming_call.ogg
+#EXTINF:1,Hangouts Message
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/hangouts_message.ogg
+#EXTINF:227,oney - Sabota¿
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Honey - Sabotaż.mp3
+#EXTINF:209,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Hurts - Better Than Love(4).mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Hurts - Better Than Love(4).mp3
+#EXTINF:235,5 Hurts - Stay (Happiness)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Hurts - Stay.mp3
+#EXTINF:251,Hurts - Wonderful Life
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Hurts - Wonderful Life.mp3
+#EXTINF:171,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ilama in my living room.flac
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ilama in my living room.flac
+#EXTINF:262,2 martin l gore - in a manner of speaking (counterfeit e.p)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/in a manner of speaking.mp3
+#EXTINF:209,INNA - Amazing
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/INNA - Amazing.mp3
+#EXTINF:204,3 Jan Hammer - Crockett's Theme (Grand Theft Auto: Vice City, Vol. 3: Emotion 98.3)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/(Jan Hammer) - Crockett's Theme (Miami Vice).mp3
+#EXTINF:213,Jay Sean Ft Lil' Wayne - Down (June Hits 2009 DJ JoVy)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Jay Sean Ft Lil' Wayne - Down.mp3
+#EXTINF:224,Jedward Ft Vanilla Ice - Under Pressure (March Hits 2010 DJ JoVy)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Jedward & Vanilla Ice - Under Pressure.mp3
+#EXTINF:203,JLS Ft Dev - She makes me wanna (July Hits 2011 DJ JoVy)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/JLS Ft Dev - She makes me wanna.mp3
+#EXTINF:220,Jula - Za ka¿dym razem
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Jula - Za każdym razem.mp3
+#EXTINF:292,67 Justin Timberlake - Cry Me a river (Justified)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Justin Timberlake - Cry Me a river.mp3
+#EXTINF:278,Justin Timberlake - Mirrors
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Justin Timberlake - Mirrors.mp3
+#EXTINF:276,2 Justin Timberlake - My Love (Feat. T.I.) (FutureSex/LoveSounds)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Justine Timberlake ft.T.I. - My Love.mp3
+#EXTINF:220,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Kasia Wilk - Pierwszy Raz.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Kasia Wilk - Pierwszy Raz.mp3
+#EXTINF:203,7 Kat DeLuna - In The End (9 Lives)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Kat Deluna - In the end.mp3
+#EXTINF:218,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Kate Bush - Moonlight Shadow.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Kate Bush - Moonlight Shadow.mp3
+#EXTINF:203,2 Katy Perry - E.T. (Futuristic Lover) (Teenage Dream)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Katy Perry - E. T. (futuristic lover).mp3
+#EXTINF:227,3 Katy Perry - Firework
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Katy Perry - Firework.mp3
+#EXTINF:215,6 Katy Perry - Dark horse (Prism (Deluxe))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Katy Perry & Juicy J - Dark horse.mp3
+#EXTINF:196,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Katy Perry - Rise.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Katy Perry - Rise.mp3
+#EXTINF:216,3 Keri Hilson - I Like (Rainbow Collection 32)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Keri Hilson - I Like.mp3
+#EXTINF:199,1 Klingande - Jubel (Jubel)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Klingande - Jubel.mp3
+#EXTINF:3,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Koziolek-notification_sound-967744.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Koziolek-notification_sound-967744.mp3
+#EXTINF:274,2 Lady Gaga - Alejandro (The Fame Monster)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Lady GaGa - Alejandro(1).mp3
+#EXTINF:208,3 Lady Gaga - Paparazzi (The Fame)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Lady GaGa - Paparazzi.mp3
+#EXTINF:238,6 lady gaga - Poker Face (the fame)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Lady Gaga - Poker face.mp3
+#EXTINF:221,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Lamar - Shine.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Lamar - Shine.mp3
+#EXTINF:236,3 Lana Del Rey - Young and Beautiful (The Great Gatsby (Music From Baz Luhrmann's Film) [Deluxe Edition])
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Lana Del Ray - Young and beautiful.mp3
+#EXTINF:-1,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Liber & Natalia Szroeder - Wszystkiego Na Raz(2).mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Liber & Natalia Szroeder - Wszystkiego Na Raz(2).mp3
+#EXTINF:274,Lighthouse Family - High
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Light House Family - High.mp3
+#EXTINF:162,Linkin Park - Faint
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Linkin Park - Faint.mp3
+#EXTINF:175,Linkin Park - From the Inside
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Linkin Park - From the Inside.mp3
+#EXTINF:211,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Linkin Park - Leave Out All The Rest.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Linkin Park - Leave Out All The Rest.mp3
+#EXTINF:216,Linkin Park -In The End
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Linkin Park -In The End.mp3
+#EXTINF:-1,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Linking Park - Castle Of Glass.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Linking Park - Castle Of Glass.mp3
+#EXTINF:252,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Loona - Colors.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Loona - Colors.mp3
+#EXTINF:180,Loreen - Euphoria (Eurovision Song Contest - Baku 2012 - Non Qualifiers)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Loren - Euforia.mp3
+#EXTINF:258,2 Macklemore & Ryan Lewis - Can't hold Us (The Heist (Deluxe Edition))
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Macklemore & Ray Dalton - Can't hold Us.mp3
+#EXTINF:190,Madcon feat. Ameerah - Freaky Like Me (Madcom)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Madcon & Ameerah - Freaky like me.mp3
+#EXTINF:177,1 Marlon Roudette - New Age [Lyrics]
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Marlon Roudette - New age.mp3
+#EXTINF:388,Metallica - Nothing else matters
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Metalica - Nothing else matters.mp3
+#EXTINF:291,Michael A. Levine - Cold Case (E.S. Posthumus - Nara)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Michael A. Levine - Cold Case.mp3
+#EXTINF:165,1 Michel Teló - MICHEL TELO' - Ai Se Eu Te Pego (Na Balada)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Michael Telo' - Ai se eu te pego.mp3
+#EXTINF:224,Bumpy Ride
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Mohombi - Bumpy Ride.mp3
+#EXTINF:210,Monika Brodka - Varsovie
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Monika Brodka - Varsovie.mp3
+#EXTINF:221,1 Monrose - Monrose  - Srtictly Physical  (Radio Edit) (Single)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Monrose - Srtictly Physical.mp3
+#EXTINF:228,Marandi - Angels (Angels)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Morandi - Angels.mp3
+#EXTINF:274,3 Morandi - Save Me (N3XT)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Morandi - Save Me.mp3
+#EXTINF:215,2 Mrozu - Nic Do Stracenia (Rollercoaster)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Mrozu - Nic do stracenia.mp3
+#EXTINF:347,Nag³y atak spawacza - Aleja nr. 6 gr b nr. 4
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Nagły atak spawacza - Aleja nr. 6 gr b nr. 4.mp3
+#EXTINF:234,Nelly Furtado - What You Want to Do (The Night Is Young)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Nelly Furtado - What You Want to Do.mp3
+#EXTINF:245,4 Nico & Vinz - Am I wrong (Absolute Music 73)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Nico & Vinz - Am I wrong.mp3
+#EXTINF:-1,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Of Monsters And Men - Little Talks.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Of Monsters And Men - Little Talks.mp3
+#EXTINF:240,OneRepublic - All The Right Moves
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/One Republic - All The Right Moves.mp3
+#EXTINF:223,3 One Republic - Secrets (Waking Up)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/One Republic - Secrets.mp3
+#EXTINF:184,16 One Republic & Timbaland - Apologize (Apologize)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/One Republic & Timbaland - Apologize.mp3
+#EXTINF:296,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ozzy Osbourne - I Just Want You.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Ozzy Osbourne - I Just Want You.mp3
+#EXTINF:220,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Patrycja Markowska - Hallo Hallo.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Patrycja Markowska - Hallo Hallo.mp3
+#EXTINF:199,1 Peter Luts - The Rain (Radio Edit) (The Rain)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Peter Luts-The Rain.mp3
+#EXTINF:226,Pitbull & Jennifer Lopez - We are one
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Pitbull & Jennifer Lopez - We are one.mp3
+#EXTINF:210,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Pitbull & Ke$ha - Timber.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Pitbull & Ke$ha - Timber.mp3
+#EXTINF:-1,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Pitbull Feat. Christina Aguilera - Feel This Moment - 3.49.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Pitbull Feat. Christina Aguilera - Feel This Moment - 3.49.mp3
+#EXTINF:266,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Point Break - Freaky Time.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Point Break - Freaky Time.mp3
+#EXTINF:255,Reamon - Star (Beautiful Sky)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Reamon - Star.mp3
+#EXTINF:285,Rednex - Hold Me For A While (Farm Out)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Rednex - Hold Me For A While.mp3
+#EXTINF:249,Rednex - Spirit Of The Hawk
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Rednex - Spirit Of The Hawk.mp3
+#EXTINF:236,Rednex - Wish You Were Here (KUSCHELROCK 9)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Rednex - Wish You Were Here.mp3
+#EXTINF:143,Player & Remady vs Houseshaker - I'm Not A Superstar (Houseworks Megahits 2)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Remady - I'm Not A Superstar.mp3
+#EXTINF:200,18 Resource feat. Tina Cousins - Hymn (Hop Bec 7)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Resource Feat Tina Cousins Hymn.mp3
+#EXTINF:-1,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Rihanna - Diamonds (2012).mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Rihanna - Diamonds (2012).mp3
+#EXTINF:238,13 Rihanna - Disturbia (Good Girl Gone Bad [Reloaded] Disc 1)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Rihanna - Disturbia.mp3
+#EXTINF:224,11 Rihanna - Love on the brain (ANTI)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Rihanna - Love on the brain.mp3
+#EXTINF:235,1 Rihanna - Only Girl (Loud)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Rihanna - Only Girl.mp3
+#EXTINF:-1,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Rihanna - Stay (feat. Mikky Ekko).mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Rihanna - Stay (feat. Mikky Ekko).mp3
+#EXTINF:247,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Rng - Here Comes The Sun.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Rng - Here Comes The Sun.mp3
+#EXTINF:237,1 Roll Deep - Green Light (UK Top 40 Singles Chart 22-08-2010)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Roll Deep - Green Light.mp3
+#EXTINF:214,1 Rudimental/& Ella Eyre - Waiting all night (Waiting All Night (feat. Ella Eyre) - Single)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Rudimental & Ella Eyre - Waiting all night.mp3
+#EXTINF:204,Sabrina Washington - OMG (March Hits 2010 DJ JoVy)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sabrina Washington - OMG.mp3
+#EXTINF:189,Safri Duo - Helelele
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Safri duo - Helelele.mp3
+#EXTINF:199,32 Safri Duo - Played - A - Live (Played - A - Live)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Safri Duo - Played - A - Live.mp3
+#EXTINF:233,Safri Duo - Rise (Radio)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Safri Duo - Rise (Leave Me Alone).mp3
+#EXTINF:357,Safri Duo - Samb-A-Dagio (Episode II)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Safri Duo - Samb-A-Dagio.mp3
+#EXTINF:253,14 Sandra - Hiroshima (18 Greatest Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sandra - Hiroshima.mp3
+#EXTINF:237,Sandra - Maria magdalena
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sandra - Maria magdalena.mp3
+#EXTINF:246,Sandra - One More Night
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sandra - One More Night.mp3
+#EXTINF:313,Sarah Brightman - Captain Nemo (Dive)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sarah Brightman - Captain Nemo.mp3
+#EXTINF:201,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sash! - Ecuador.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sash! - Ecuador.mp3
+#EXTINF:312,12 Scorpions - Wind of Change (Monster Ballads)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Scorpion - Wind Of Change.mp3
+#EXTINF:272,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Scorpions - Here I Am.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Scorpions - Here I Am.mp3
+#EXTINF:209,September - Cry for You (Nederlandse Top 40 - Week 06 2008)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/September - Cry for You.mp3
+#EXTINF:215,1 Sia - Chandelier (Chandelier - Single)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sia - Chandelier.mp3
+#EXTINF:266,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sia - Freeze You Out.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sia - Freeze You Out.mp3
+#EXTINF:307,20 Sinead O'Connor - Nothing Compares 2 U (Power Ballads - The Greatest Driving Anthems In The World...Ever! Disc 1)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sinead O'Connor Nothing Compares 2 U.mp3
+#EXTINF:309,Spice Girls - Viva Forever
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Spice Girls - Viva Forever.mp3
+#EXTINF:201,1 no artist - AudioTrack 01 (no title)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sumptuastic - Bo mam ciebie.mp3
+#EXTINF:180,Sylver - Why Worry (Little Things CD)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sylver - why worry.mp3
+#EXTINF:246,Turn The Tide
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sylver -Turn The Tide.mp3
+#EXTINF:184,1 Sylwia Grzeszczak - Ksiezniczka (Pan-European Music @ www.headp)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sylwia Grzeszczak - Ksiezniczka.mp3
+#EXTINF:207,Sylwia Grzeszczak - Tamta dziewczyna
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Sylwia Grzeszczak - Tamta dziewczyna.mp3
+#EXTINF:186,27 www.lomejordecadames.blogspot.com - [27] Taio Cruz Feat. Kylie Minogue- Higher (2010) (Lo Mejor Del Mes De Noviembre de 2010 By PooL)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Taio Cruz Feat. Kylie Minogue- Higher (2010).mp3
+#EXTINF:180,Tatu - 30 minut
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Tatu - 30 minut.mp3
+#EXTINF:214,Tatu - All The Things She Said (Ripped by RaptorX30)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Tatu - All The Things She Said.mp3
+#EXTINF:276,TATU - Nas ne dogonjat (Original Version) (© Music Power Page)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/tatu - Nas nie dogoniat (Original Version).mp3
+#EXTINF:218,4 Taylor Swift - I Knew You Were Trouble (Red )
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Taylor Swift - I Knew You Were Trouble.mp3
+#EXTINF:228,The Kelly Family - Roses Of Red
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/The Kelly Family - Roses Of Red.mp3
+#EXTINF:192,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/The King's Son - I'm Not Rich Feat. Shaggy (Hitimpulse Remix).mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/The King's Son - I'm Not Rich Feat. Shaggy (Hitimpulse Remix).mp3
+#EXTINF:229,2 The Pussycat Dolls - Beep (Feat. Will.i.am) (PCD)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/The Pussycat Dolls - Beep.mp3
+#EXTINF:275,10 The Pussycat Dolls - Don't Cha (Veline)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/The Pussycat Dolls - Don't cha.mp3
+#EXTINF:329,14 T I & Christina Aguilera - Castle walls (No Mercy)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/TI & Christina Aguilera - Castle walls.mp3
+#EXTINF:-1,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/tiesto_and_allure_-_pair_of_dice.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/tiesto_and_allure_-_pair_of_dice.mp3
+#EXTINF:196,10 Timati & Kalenna - Welcome To St. Tropez (Viva Club Rotation Vol.48)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Timati & Kalenna - Welcome to St. Tropez.mp3
+#EXTINF:341,10 timberland -   10. Scream  (shock value)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Timbaland - Scream.mp3
+#EXTINF:250,Timo Mass (Feat. Brian Molko) - First Day
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Timo Mass  feat. Brian Molko  -  First Day.mp3
+#EXTINF:230,15 Tinchy Stryder - You're Not Alone (Catch 22)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Tinchy Stryder - You're Not Alone.mp3
+#EXTINF:2,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Tunnel-notification_sound-1958582.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Tunnel-notification_sound-1958582.mp3
+#EXTINF:228,9 Rihanna - Unfaithful (Rihanna The Greatest Hits)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Unfaithful.mp3
+#EXTINF:428,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Usa For Africa - We Are The World.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Usa For Africa - We Are The World.mp3
+#EXTINF:268,rizmomusic/Usher ft Young Jeezy - Love Is In The Club
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Usher Ft Young Jeezy - Love Is In The Club.mp3
+#EXTINF:223,Vanilla Ninja - When The Indians Cry (Traces Of Sadness)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Vanilla Ninja - When The Indians Cry.mp3
+#EXTINF:237,Weekend - Ona tañczy dla mnie
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Weekend - Ona tańczy dla mnie.mp3
+#EXTINF:285,1 Whitney Houston - I Have Nothing
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Whitney Houston - I have nothing.mp3
+#EXTINF:273,Whitney Huston - I Will Always Love You
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Whitney Huston - I Will Always Love You.mp3
+#EXTINF:-1,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Wiley Feat Ms D, Skepta & Jme - Can You Hear Me (Ayayaya).mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Wiley Feat Ms D, Skepta & Jme - Can You Hear Me (Ayayaya).mp3
+#EXTINF:356,1 Will.I.Am - Scream and Shout (willpower)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Will I Am Feat Britney Spears - Scream & Shout.mp3
+#EXTINF:237,Wiz Khalifa/& Charlie Puth - See You again
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Wiz Khalifa & Charlie Puth - See You again.mp3
+#EXTINF:240,Wyclef Jean - Sweetest Girl (ft. Akon, Lil Wayne & Nia)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Wyclef Jean - Sweetes Girl (ft Akon, Lil Wayne & Nia).mp3
+#EXTINF:213,/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Young Deenay - Walk On Bye.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Young Deenay - Walk On Bye.mp3
+#EXTINF:213,Zara Larsson & Mnek - Never forget you
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Składanka 3/Zara Larsson & MNEK - Never forget You.mp3
+#EXTINF:306,1 Bomfunk MC's - Freestyler (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/01 Freestyler.mp3
+#EXTINF:215,2 ATC - Around The World (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/02 Around The World.mp3
+#EXTINF:229,3 Sonique - It Feels So Good (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/03 It Feels So Good.mp3
+#EXTINF:170,4 Shaft - Mambo Italiano (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/04 Mambo Italiano.mp3
+#EXTINF:211,5 Britney Spears - Oops!...I Did It Again (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/05 Oops!...I Did It Again.mp3
+#EXTINF:218,6 Various Artists - Paola & Chiara / Vamos A Bailar (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/06 Paola & Chiara - Vamos A Bailar.mp3
+#EXTINF:202,7 Various Artists - Marco Da Silva / La Bamba (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/07 Marco Da Silva - La Bamba.mp3
+#EXTINF:223,8 ATB - The Summer (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/08 The Summer.mp3
+#EXTINF:224,9 Loona - Latino Lover (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/09 Latino Lover.mp3
+#EXTINF:215,10 Various Artists - Highland / Se Tu Voi (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/10 Highland - Se Tu Voi.mp3
+#EXTINF:173,11 Manu Chao - Bongo Bong (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/11 Bongo Bong.mp3
+#EXTINF:320,12 Various Artists - Jamboo / Aya Baila (Torero) (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/12 Jamboo - Aya Baila (Torero).mp3
+#EXTINF:236,13 Various Artists - Tony Sweat / Get Uppa! (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/13 Tony Sweat - Get Uppa!.mp3
+#EXTINF:231,14 Various Artists - Point Break / Freaky Time (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/14 Point Break - Freaky Time.mp3
+#EXTINF:238,15 Jennifer Lopez - Let's Get Loud (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/15 Let's Get Loud.mp3
+#EXTINF:239,16 Various Artists - C. Block / Future Is So Bright (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/16 C. Block - Future Is So Bright.mp3
+#EXTINF:187,17 Vengaboys - Uncle John From Jamaica (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/17 Uncle John From Jamaica.mp3
+#EXTINF:242,18 Anastacia - I'm Outta Love (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/18 I'm Outta Love.mp3
+#EXTINF:183,19 Various Artists - Alexia / Ti Amo Ti Amo (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/19 Alexia - Ti Amo Ti Amo.mp3
+#EXTINF:213,20 Gigi D'Agostino - The Riddle (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/20 The Riddle.mp3
+#EXTINF:284,21 Eminem - The Real Slim Shady (Viva Summer Hits 2000)
+/home/hubert/Archiwum/Linux/Muzyka/Kamila/Viva Summer Hits 2000/21 The Real Slim Shady.mp3

@@ -20,7 +20,5 @@ while true; do
              dwm >/dev/null 2>&1
 done
 
-export SESSION_MANAGER=""
-
 # DWM
-exec dwm
+redshift -O3500; xset r rate 300 50; exec dwm

@@ -84,6 +84,13 @@ ex ()
 # zoxide bind 
 bind '"\C-f":"zi\n"'
 
+# alias clonowania z Git po ssh wpisać tylko nazwę repo czyli to co:
+function gcs() {
+    local repo=$1
+    git clone --depth=1 git@github.com:$repo
+}
+
+
 ### ALIASES ###
 
 #list
