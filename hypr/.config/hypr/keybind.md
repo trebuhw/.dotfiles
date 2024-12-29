@@ -50,6 +50,7 @@
      + ctrl nr worspace        -> move to go nr workspace
      + ctrl + Shift + arrow    -> resize windows
      + mouse right             -> resize window
+    + Shift + arrow            -> resize windows default 50/50
      + mouse left              -> move window
      + Shift + n               -> move widow to scratchpads
      + n                       -> vosible scratchpads

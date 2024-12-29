@@ -42,8 +42,8 @@ alias pdw='pwd'
 
 # zypper
 alias zyp='sudo zypper'
-alias up='sudo zypper refresh && sudo zypper update && sudo zypper dist-upgrade'
-alias dup='sudo zypper refresh && sudo zypper dist-upgrade'
+alias zup='sudo zypper refresh && sudo zypper update && sudo zypper dist-upgrade'
+alias zdup='sudo zypper refresh && sudo zypper dist-upgrade'
 alias zin='sudo zypper install --no-recommends'
 alias zrm='sudo zypper remove -u'
 alias zse='sudo zypper search'
@@ -150,6 +150,9 @@ alias c="cal -y"
 alias pcinfo="inxi -Fxz"
 alias nm="nmtui"
 alias nma='nm-applet'
+alias nmap='nmap -sn 192.168.0.1/24'
+alias nmarp='arp-scan --interface=wlan0 192.168.0.1/24' # skanowanie sieci lokalnej
+alias nmdis='sudo netdiscover -r 192.168.0.1/24'
 #alias nt='speedtest-cli'
 alias nt='speedtest' # Ookla speedtest > paru ookla-speedtest-bin
 alias dns='systemd-resolve --status' # Ookla speedtest > paru ookla-speedtest-bin
@@ -236,6 +239,8 @@ alias mgs='git status'
 alias mgcom='git commit -am'
 alias mgpush='$HOME/Dokumenty/Git/my-git-push.sh'
 alias mgpull='$HOME/Dokumenty/Git/my-git-pull.sh'
+alias mglpush='$HOME/Dokumenty/Git/my-gitlab-push.sh'
+alias mglpull='$HOME/Dokumenty/Git/my-gitlab-pull.sh'
 #alias gbp='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME push'
 #alias gbpull='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME pull'
 alias gbf='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME fetch origin' # reset scalanie - merge 

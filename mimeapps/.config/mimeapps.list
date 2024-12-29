@@ -17,6 +17,7 @@ image/jpeg=sxiv.desktop
 image/png=sxiv.desktop
 inode/directory=thunar.desktop
 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice-startcenter.desktop
+x-scheme-handler/gitkraken=GitKraken.desktop
 
 [Added Associations]
 application/pdf=org.pwmt.zathura.desktop;
