@@ -4,6 +4,7 @@ end
 
 set fish_greeting
 starship init fish | source
+set -g STARSHIP_COMMAND_TIMEOUT 10
 set -gx EDITOR nvim
 set -gx QT_QPA_PLATFORMTHEMEgnome
 set -gx QT_QPA_PLATFORMTHEME qt5ct
