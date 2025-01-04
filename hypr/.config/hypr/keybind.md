@@ -5,9 +5,9 @@
      + Shift + x       -> kitty
      + Shift + Return  -> Subl
      + w               -> google chrome
-     + e               -> thunar
+     + e               -> nautilus
      + d               -> rofi
-     + Shift + d       -> wofi
+     + Shift + d       -> wofi full
      + c               -> galculator
      + Shift + m       -> mocp
      + print           -> screnshots
@@ -50,7 +50,7 @@
      + ctrl nr worspace        -> move to go nr workspace
      + ctrl + Shift + arrow    -> resize windows
      + mouse right             -> resize window
-    + Shift + arrow            -> resize windows default 50/50
+     + Shift + arrow            -> resize windows default 50/50
      + mouse left              -> move window
      + Shift + n               -> move widow to scratchpads
      + n                       -> vosible scratchpads

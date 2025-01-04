@@ -81,23 +81,19 @@ style = "Beam"
 size = 12
 
 [font.bold]
-#family = "JetBrainsMono Nerd Font"
-family = "JetBrainsMono Nerd Font"
+family = "JetBrains Mono Nerd Font"
 style = "Bold"
 
 [font.bold_italic]
-#family = "JetBrainsMono Nerd Font"
-family = "JetBrainsMono Nerd Font"
+family = "JetBrains Mono Nerd Font"
 style = "Bold Italic"
 
 [font.italic]
-#family = "JetBrainsMono Nerd Font"
-family = "JetBrainsMono Nerd Font"
+family = "JetBrains Mono Nerd Font"
 style = "Italic"
 
 [font.normal]
-#family = "JetBrainsMono Nerd Font"
-family = "JetBrainsMono Nerd Font"
+family = "JetBrains Mono Nerd Font"
 style = "Regular"
 
 [scrolling]

@@ -1,9 +1,12 @@
 @import url("./mocha.css");
 * {
-	/* `otf-font-awesome` is required to be installed for icons */
-	font-family: "JetBrainsMono Nerd Font";
-	font-size: 11pt;
-	/*font-weight: 900;*/
+font-family: "JetBrainsMono Nerd Font";
+/* set font-size to 100% if font scaling is set to 1.00 using nwg-look */
+/*min-height: 0px;*/
+/*font-weight: bold;*/
+/*font-weight: 900;*/
+/*font-size: 100%;*/
+font-size: 11pt;
 	margin: 0;
 	padding: 0;
 	transition-property: background-color;
