@@ -1,11 +1,6 @@
 *{
 font-family: "JetBrainsMono Nerd Font";
-/* set font-size to 100% if font scaling is set to 1.00 using nwg-look */
-/*min-height: 0px;*/
-/*font-weight: bold;*/
-/*font-size: 100%;*/
 font-size: 11pt;
-/*font-feature-settings: '"zero", "ss01", "ss02", "ss03", "ss04", "ss05", "cv31"';*/
 padding: 0px;
 margin-top: 1px;
 margin-bottom: 1px;
@@ -13,12 +8,6 @@ margin-bottom: 1px;
 
 window#waybar {
     background: rgba(30,30,47,0.0);
-    /*background: #1e1e2f;*/
-    /*background: rgba(0, 0, 0, 0);*/
-    /*border-bottom: 1px solid @unfocused_borders;*/
-    /*border-radius: 10px;*/
-    /*color: #cba6f7;*/
-    /*border: 1px solid #cba6f7;*/
 }
 
 window#waybar.hidden {
@@ -32,7 +21,6 @@ tooltip {
 }
 
 tooltip label {
-    /*color: #cba6f7;*/
     color: #cdd6f4; 
     margin-right: 2px;
     margin-left: 2px;
