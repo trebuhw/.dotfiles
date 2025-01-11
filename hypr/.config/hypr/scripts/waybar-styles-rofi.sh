@@ -24,16 +24,16 @@ wofi_command="wofi --show dmenu \
 
 
 menu(){
-printf "1. COLOR\n" 
-printf "2. BLACK\n" 
-printf "3. NONE\n"
+printf "1. Color\n" 
+printf "2. Black\n" 
+printf "3. None\n"
 printf "4. B&W\n"
-printf "5. LIGHT\n"
-printf "6. MAUVE\n"
+printf "5. Light\n"
+printf "6. Mauve\n"
 printf "7. RGB\n"
-printf "8. SIMPLE\n"
-printf "9. DARK\n"
-printf "10. DEFAULT\n"
+printf "8. Simple\n"
+printf "9. Dark\n"
+printf "10. Default\n"
 }
 
 main() {

@@ -14,8 +14,8 @@ content_halign=fill
 insensitive=true
 allow_images=true
 hide_scroll=true
-term=kitty
-image_size=24
+term=foot
+image_size=20
 gtk_dark=true
 layer=top
 

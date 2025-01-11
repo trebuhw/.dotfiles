@@ -2,10 +2,10 @@
 
 configuration {
   show-icons: true;
-  icon-theme: "Tela-circle-dracula-dark";
+  icon-theme: "Tela-circle-Dracula";
   display-drun: "  ";
   display-window: "﩯 ";
   display-combi: "  ";
-  font: "JetBrainsMono Nerd Font 12";
+  font: "CaskaydiaCove Nerd Font Mono 11";
 }
 @theme "/home/hubert/.local/share/rofi/themes/sidebar.rasi"

@@ -24,14 +24,14 @@ wofi_command="wofi --show dmenu \
 
 
 menu(){
-printf "1. ALL\n" 
-printf "2. COLOR\n" 
-printf "3. COLOR-ICON\n" 
-printf "4. DEFAULT\n"
-printf "5. DUAL\n"
-printf "6. GNOME\n"
-printf "7. PLASMA\n"
-printf "8. SIMPLE\n"
+printf "1. All\n" 
+printf "2. Color\n" 
+printf "3. Color-Icon\n" 
+printf "4. Default\n"
+printf "5. Dual\n"
+printf "6. Gnome\n"
+printf "7. Plasma\n"
+printf "8. Simple\n"
 }
 
 main() {

@@ -2,7 +2,8 @@
     ## Programs
      + x               -> foot
      + Return          -> foot
-     + Shift + x       -> kitty
+     + Shift + x       -> foot
+     + Shift + t       -> gnome-terminal (float)
      + Shift + Return  -> Subl
      + w               -> google chrome
      + e               -> nautilus

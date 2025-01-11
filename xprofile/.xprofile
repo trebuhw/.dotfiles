@@ -7,5 +7,5 @@
 # Display
 # xrandr --output Virtual-1 --mode 1920x1080 &
 #
-export GTK_THEME=Catppuccin-Mocha-Standard-Blue-Dark
+export GTK_THEME=Arc-Darker
 slstatus &

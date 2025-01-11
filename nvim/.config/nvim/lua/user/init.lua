@@ -18,7 +18,8 @@ return {
   },
 
   -- Set colorscheme to use
-    colorscheme = "catppuccin-mocha",
+  -- colorscheme = "dracula",
+   colorscheme = "catppuccin-mocha",
   -- colorscheme = "nord",
   -- colorscheme = "astrodark",
 

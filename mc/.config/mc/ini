@@ -87,7 +87,7 @@ skin=dracula256
 
 [Layout]
 output_lines=0
-left_panel_size=47
+left_panel_size=95
 top_panel_size=0
 message_visible=true
 keybar_visible=true
@@ -116,6 +116,7 @@ base_color=
 xterm-kitty=
 color_terminals=
 foot=
+xterm-256color=
 
 [Panels]
 show_mini_info=true
@@ -140,7 +141,7 @@ select_flags=6
 simple_swap=false
 
 [Panelize]
-Znajdź odrzuty po łataniu=find . -name \\*.rej -print
-Modyfikowane pliki git=git ls-files --modified
-Znajdź pliki *.orig po łataniu=find . -name \\*.orig -print
 Znajdź programy SUID i SGID=find . \\( \\( -perm -04000 -a -perm /011 \\) -o \\( -perm -02000 -a -perm /01 \\) \\) -print
+Znajdź pliki *.orig po łataniu=find . -name \\*.orig -print
+Modyfikowane pliki git=git ls-files --modified
+Znajdź odrzuty po łataniu=find . -name \\*.rej -print

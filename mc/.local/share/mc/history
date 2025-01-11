@@ -6,7 +6,8 @@
 1=nv .bashrc
 2=mceditor .bashrc
 3=select-editor
-4=
+4=/themes
+5=
 
 [Dir Hist New Right Panel]
 0=/home/hubert
@@ -15,3 +16,7 @@
 0=/home/hubert/.dotfiles/bash
 1=/home/hubert/.dotfiles
 2=/home/hubert
+3=/home
+4=/
+5=/usr
+6=/usr/share

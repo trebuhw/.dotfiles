@@ -1,174 +1,58 @@
 #EXTM3U
-#MOCSERIAL: 256
-#EXTINF:332,0 DŻEM - A Jednak Czegoś żal.
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Autsajder/01. A Jednak Czegoś Żal.mp3
-#EXTINF:307,2 DZEM - Prokurator I Ja (Autsajder/Lunatycy)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Autsajder/02. Prokurator I Ja.mp3
-#EXTINF:347,0 DŻEM - Noc I Rytm.
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Autsajder/03. Noc I Rytm.mp3
-#EXTINF:411,0 DŻEM - Autsajder.
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Autsajder/04. Autsajder.mp3
-#EXTINF:332,0 DŻEM - Wieczny Pechowiec
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Autsajder/05. Wieczny Pechowiec.mp3
-#EXTINF:330,0 DŻEM - Płyń Mój Bluesie Płyń
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Autsajder/06. Płyń Mój Bluesie Płyń.mp3
-#EXTINF:226,0 DŻEM - Piosenka Ekologiczna
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Autsajder/07. Piosenka Ekologiczna.mp3
-#EXTINF:405,0 DŻEM - Cała W Trawie
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Autsajder/08. Cała W Trawie.mp3
-#EXTINF:421,0 DŻEM - Obłuda
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Autsajder/09. Obłuda.mp3
-#EXTINF:312,0 DŻEM - Czerwony Jak Cegła (Cegła)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Cegła/01. Czerwony Jak Cegła.mp3
-#EXTINF:308,0 DŻEM - Whisky (Cegła)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Cegła/02. Whisky.mp3
-#EXTINF:230,0 DŻEM - Nieudany Skok (Cegła)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Cegła/03. Nieudany Skok.mp3
-#EXTINF:372,0 DŻEM - Ballada O Dziwnym Malarzu (Cegła)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Cegła/04. Ballada O Dziwnym Malarzu.mp3
-#EXTINF:298,0 DŻEM - Jesiony (Cegła)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Cegła/05. Jesiony.mp3
-#EXTINF:227,0 DŻEM - Powiał Boczny Wiatr (Cegła)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Cegła/06. Powiał Boczny Wiatr.mp3
-#EXTINF:247,0 DŻEM - Kim Jestem -  Jestem Sobie (Cegła)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Cegła/07. Kim Jestem -  Jestem Sobie.mp3
-#EXTINF:488,0 DŻEM - Oh, Słodka (Cegła)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Cegła/08. Oh, Słodka.mp3
-#EXTINF:171,0 DŻEM - Śmiech Czy Łzy (Detox)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Detox/01. Śmiech Czy Łzy.mp3
-#EXTINF:501,0 DŻEM - Ostatnie Widzenie. (Detox)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Detox/02. Ostatnie Widzenie.mp3
-#EXTINF:301,0 DŻEM - Mamy Forsę, Mamy Czas (Detox)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Detox/03. Mamy Forsę, Mamy Czas.mp3
-#EXTINF:270,0 DŻEM - Jak Malowany Ptak. (Detox)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Detox/04. Jak Malowany Ptak.mp3
-#EXTINF:272,0 DŻEM - Czarny Chleb (Detox)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Detox/05. Czarny Chleb.mp3
-#EXTINF:405,0 DŻEM - Detox. (Detox)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Detox/06. Detox.mp3
-#EXTINF:344,0 DŻEM - Sen O Victorii. (Detox)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Detox/07. Sen O Victorii.mp3
-#EXTINF:396,0 DŻEM - List Do M. (Detox)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Detox/08. List Do M..mp3
-#EXTINF:123,0 DŻEM - Letni Spacer Z Agnieszką (Detox)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Detox/09. Letni Spacer Z Agnieszką.mp3
-#EXTINF:265,1 Dżem - Gorszy dzień (2004)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem 2004/Dżem - 2004 - 01.Gorszy dzień.mp3
-#EXTINF:255,2 Dżem - Chleb z dżemem (2004)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem 2004/Dżem - 2004 - 02.Chleb z dżemem.mp3
-#EXTINF:331,3 Dżem - W drodze do nieba (2004)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem 2004/Dżem - 2004 - 03.W drodze do nieba.mp3
-#EXTINF:290,4 Dżem - Ćma barowa (2004)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem 2004/Dżem - 2004 - 04.Ćma barowa.mp3
-#EXTINF:364,5 Dżem - Nieproszony (2004)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem 2004/Dżem - 2004 - 05.Nieproszony.mp3
-#EXTINF:231,6 Dżem - Wymarzony świat (2004)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem 2004/Dżem - 2004 - 06.Wymarzony świat.mp3
-#EXTINF:413,7 Dżem - Do kołyski (2004)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem 2004/Dżem - 2004 - 07.Do kołyski.mp3
-#EXTINF:305,8 Dżem - Dzień świstaka (2004)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem 2004/Dżem - 2004 - 08.Dzień świstaka.mp3
-#EXTINF:330,9 Dżem - Szeryfie, co tu się dzieje? (2004)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem 2004/Dżem - 2004 - 09.Szeryfie, co tu się dzieje.mp3
-#EXTINF:162,10 Dżem - Diabelski żart (2004)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem 2004/Dżem - 2004 - 10.Diabelski żart.mp3
-#EXTINF:213,11 Dżem - 66 (2004)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem 2004/Dżem - 2004 - 11.66.mp3
-#EXTINF:620,12 Dżem - W imię ojca (2004)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem 2004/Dżem - 2004 - 12.W imię ojca.mp3
-#EXTINF:386,1 Dżem - Koszmarna noc (14 urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem-14 urodziny 1993/Dżem - 14 urodziny - 01.Koszmarna noc.mp3
-#EXTINF:222,3 Dżem - Wokół sami lunatycy (14 urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem-14 urodziny 1993/Dżem - 14 urodziny - 03.Wokół sami lunatycy.mp3
-#EXTINF:370,4 Dżem - Wehikuł czasu (14 urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem-14 urodziny 1993/Dżem - 14 urodziny - 04.Wehikuł czasu.mp3
-#EXTINF:308,5 Dżem - Autsajder (14 urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem-14 urodziny 1993/Dżem - 14 urodziny - 05.Autsajder.mp3
-#EXTINF:271,6 Dżem - Czarny chleb (14 urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem-14 urodziny 1993/Dżem - 14 urodziny - 06.Czarny chleb.mp3
-#EXTINF:323,7 Dżem - Czerwony jak cegła (14 urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem-14 urodziny 1993/Dżem - 14 urodziny - 07.Czerwony jak cegła.mp3
-#EXTINF:327,8 Dżem - Whisky (14 urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem-14 urodziny 1993/Dżem - 14 urodziny - 08.Whisky.mp3
-#EXTINF:200,1 Dżem - Harley mój (Akustycznie - suplement)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Akustycznie_suplement_1994/Dżem - Akustycznie - suplement - 01.Harley mój.mp3
-#EXTINF:195,2 Dżem - Kiepska gra (Akustycznie - suplement)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Akustycznie_suplement_1994/Dżem - Akustycznie - suplement - 02.Kiepska gra.mp3
-#EXTINF:324,3 Dżem - Autsajder (Akustycznie - suplement)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Akustycznie_suplement_1994/Dżem - Akustycznie - suplement - 03.Autsajder.mp3
-#EXTINF:153,4 Dżem - Po co? (Akustycznie - suplement)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Akustycznie_suplement_1994/Dżem - Akustycznie - suplement - 04.Po co.mp3
-#EXTINF:341,5 Dżem - Naiwne pytania (Akustycznie - suplement)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Akustycznie_suplement_1994/Dżem - Akustycznie - suplement - 05.Naiwne pytania.mp3
-#EXTINF:175,6 Dżem - Cała w trawie (Akustycznie - suplement)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Akustycznie_suplement_1994/Dżem - Akustycznie - suplement - 06.Cała w trawie.mp3
-#EXTINF:278,7 Dżem - Uśmiech śmierci (Akustycznie - suplement)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Akustycznie_suplement_1994/Dżem - Akustycznie - suplement - 07.Uśmiech śmierci.mp3
-#EXTINF:143,8 Dżem - Koszmarna noc (Akustycznie - suplement)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Akustycznie_suplement_1994/Dżem - Akustycznie - suplement - 08.Koszmarna noc.mp3
-#EXTINF:184,9 Dżem - Człowieku co się z tobą dzieje (Akustycznie - suplement)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Akustycznie_suplement_1994/Dżem - Akustycznie - suplement - 09.Człowieku co się z tobą .mp3
-#EXTINF:183,10 Dżem - Sen o Victorii (Akustycznie - suplement)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Akustycznie_suplement_1994/Dżem - Akustycznie - suplement - 10.Sen o Victorii.mp3
-#EXTINF:324,11 Dżem - Whisky (Akustycznie - suplement)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Akustycznie_suplement_1994/Dżem - Akustycznie - suplement - 11.Whisky.mp3
-#EXTINF:58,12 Dżem - Modlitwa III - pozwól mi (Akustycznie - suplement)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Akustycznie_suplement_1994/Dżem - Akustycznie - suplement - 12.Modlitwa III - pozwól mi.mp3
-#EXTINF:114,1 Dżem - Wodnik - rozrywkowy bar (Ciśnienie)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Cisnienie_1993/Dżem - Ciśnienie - 01.Wodnik - rozrywkowy bar.mp3
-#EXTINF:161,2 Dżem - Ciśnienie (Ciśnienie)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Cisnienie_1993/Dżem - Ciśnienie - 02.Ciśnienie.mp3
-#EXTINF:179,3 Dżem - Już nigdy więcej (Ciśnienie)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Cisnienie_1993/Dżem - Ciśnienie - 03.Już nigdy więcej.mp3
-#EXTINF:175,4 Dżem - Niezapłacony rachunek (Ciśnienie)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Cisnienie_1993/Dżem - Ciśnienie - 04.Niezapłacony rachunek.mp3
-#EXTINF:455,5 Dżem - Blues telefoniczny (Ciśnienie)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Cisnienie_1993/Dżem - Ciśnienie - 05.Blues telefoniczny.mp3
-#EXTINF:174,6 Dżem - Zawsze wygra blues (Ciśnienie)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Cisnienie_1993/Dżem - Ciśnienie - 06.Zawsze wygra blues.mp3
-#EXTINF:170,7 Dżem - Wspaniale życie (Ciśnienie)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Cisnienie_1993/Dżem - Ciśnienie - 07.Wspaniale życie.mp3
-#EXTINF:162,8 Dżem - Przez całą noc (Ciśnienie)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Cisnienie_1993/Dżem - Ciśnienie - 08.Przez całą noc.mp3
-#EXTINF:229,9 Dżem - Ani słowa o kłopotach (Ciśnienie)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Cisnienie_1993/Dżem - Ciśnienie - 09.Ani słowa o kłopotach.mp3
-#EXTINF:126,10 Dżem - Żeberka (Ciśnienie)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Cisnienie_1993/Dżem - Ciśnienie - 10.Żeberka.mp3
-#EXTINF:327,11 Dżem - Moje życie to blues (Ciśnienie)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Cisnienie_1993/Dżem - Ciśnienie - 11.Moje życie to blues.mp3
-#EXTINF:146,12 Dżem - Przegranych nikt nie lubi (Ciśnienie)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Cisnienie_1993/Dżem - Ciśnienie - 12.Przegranych nikt nie lubi.mp3
-#EXTINF:350,1 Dżem - Wokół sami lunatycy (Lunatycy - czyli tzw. przeboje całkiem live)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Lunatycy_czyli[1].tzw..przeboje.calkiem.live_1988/Dżem - Lunatycy - czyli tzw. przeboje całkiem live - 01.Wokó.mp3
-#EXTINF:388,2 Dżem - Złoty paw (Lunatycy - czyli tzw. przeboje całkiem live)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Lunatycy_czyli[1].tzw..przeboje.calkiem.live_1988/Dżem - Lunatycy - czyli tzw. przeboje całkiem live - 02.Złot.mp3
-#EXTINF:265,3 Dżem - Kim jestem - jestem sobie (Lunatycy - czyli tzw. przeboje całkiem live)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Lunatycy_czyli[1].tzw..przeboje.calkiem.live_1988/Dżem - Lunatycy - czyli tzw. przeboje całkiem live - 03.Kim .mp3
-#EXTINF:300,4 Dżem - Dzień, w którym pękło niebo (Lunatycy - czyli tzw. przeboje całkiem live)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Lunatycy_czyli[1].tzw..przeboje.calkiem.live_1988/Dżem - Lunatycy - czyli tzw. przeboje całkiem live - 04.Dzie.mp3
-#EXTINF:461,5 Dżem - Jesiony (Lunatycy - czyli tzw. przeboje całkiem live)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Lunatycy_czyli[1].tzw..przeboje.calkiem.live_1988/Dżem - Lunatycy - czyli tzw. przeboje całkiem live - 05.Jesi.mp3
-#EXTINF:368,6 Dżem - Skazany na bluesa (Lunatycy - czyli tzw. przeboje całkiem live)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Lunatycy_czyli[1].tzw..przeboje.calkiem.live_1988/Dżem - Lunatycy - czyli tzw. przeboje całkiem live - 06.Skaz.mp3
-#EXTINF:411,7 Dżem - Nieudany skok (Lunatycy - czyli tzw. przeboje całkiem live)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Lunatycy_czyli[1].tzw..przeboje.calkiem.live_1988/Dżem - Lunatycy - czyli tzw. przeboje całkiem live - 07.Nieu.mp3
-#EXTINF:363,1 Dżem - Złoty paw (Urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Urodziny_1989/Dżem - Urodziny - 01.Złoty paw.mp3
-#EXTINF:261,2 Dżem - Dzień, w którym pękło niebo (Urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Urodziny_1989/Dżem - Urodziny - 02.Dzień, w którym pękło niebo.mp3
-#EXTINF:327,3 Dżem - Whisky (Urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Urodziny_1989/Dżem - Urodziny - 03.Whisky.mp3
-#EXTINF:222,4 Dżem - Wokół sami lunatycy (Urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Urodziny_1989/Dżem - Urodziny - 04.Wokół sami lunatycy.mp3
-#EXTINF:313,5 Dżem - Mała Aleja Róż (Urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Urodziny_1989/Dżem - Urodziny - 05.Mała Aleja Róż.mp3
-#EXTINF:323,6 Dżem - Czerwony jak cegła (Urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Urodziny_1989/Dżem - Urodziny - 06.Czerwony jak cegła.mp3
-#EXTINF:328,7 Dżem - Wiem, na pewno wiem... (Urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Urodziny_1989/Dżem - Urodziny - 07.Wiem, na pewno wiem....mp3
-#EXTINF:177,8 Dżem - Człowieku co się z tobą dzieje (Urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Urodziny_1989/Dżem - Urodziny - 08.Człowieku co się z tobą dzieje.mp3
-#EXTINF:294,9 Dżem - Kiepska gra (Urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Urodziny_1989/Dżem - Urodziny - 09.Kiepska gra.mp3
-#EXTINF:328,10 Dżem - Skazany na bluesa (Urodziny)
-/home/hubert/Archiwum/Linux/Muzyka/DŻEM (ALL)/Dzem_Urodziny_1989/Dżem - Urodziny - 10.Skazany na bluesa.mp3
+#MOCSERIAL: 1280
+#EXTINF:218,2 trzeci wymiar - Skamieniali (cztery pory rapu)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/02 skamieniali.mp3
+#EXTINF:284,3 Diddy/Nas - Hate Me Now (I Am...The Autobiography)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/03 Hate Me Now.mp3
+#EXTINF:181,4 Molesta - Armagedon (Skandal)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/04 Armagedon.mp3
+#EXTINF:259,5 Peja - Jest jedna rzecz (LP Radio Wersja) (Na legalu +)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/05 Jest jedna rzecz (LP Radio Wersja).mp3
+#EXTINF:245,6 Grammatik - Nie Ma Skróconych Dróg (Swiatla Miasta)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/06 Nie Ma Skróconych Dróg.mp3
+#EXTINF:194,6 Trzeci Wymiar - Piêtnastu MCs (Cztery Pory Rapu)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/06 Piętnastu MCs.mp3
+#EXTINF:259,9 OWAL/EMCEDWA - Jestem Tu (eska SQUAD 2)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/09 Jestem tu.mp3
+#EXTINF:399,10 WWO - Ka¿dy Ponad Ka¿dym (Kodex 2 Proces)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/10 Każdy Ponad Każdym.mp3
+#EXTINF:291,12 Wu-Tang Clan - Gravel Pit (The W)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/12 Gravel Pit.mp3
+#EXTINF:201,12 Paktofonika - Jestem Bogiem (Kinematografia)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/12 Jestem bogiem.mp3
+#EXTINF:223,14 Tede - To jeszcze nie koniec (Esende Mylffon)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/14 To jeszcze nie koniec.mp3
+#EXTINF:181,17 WWO - Damy rade (WWO WE W£ASNEJ OSOBIE)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/17 Damy Rade.mp3
+#EXTINF:216,24 DMX - X Gon' Give It to Ya [*] (Grand Champ [UK Bonus Track])
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/24 X Gon' Give It to Ya [-].mp3
+#EXTINF:227,7 50 Cent/DMX/Styles P - Shot down (Grand Champ)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Dmx - Shot Down.mp3
+#EXTINF:189,11 Kaczy feat. Mezo - Kocham (THE BEST OF RMFMAXXX2)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Kaczy feat. Mezo - Kocham.mp3
+#EXTINF:179,4 Ascetoholix - Na spidzie (Apogeum)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/liber & doniu - Na spidzie.mp3
+#EXTINF:240,3 Liber/Doniu - Skarby (eska SQUAD)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Liber feat doniu - Skarby.mp3
+#EXTINF:225,2 Mezo - Mezo Zemsta (Slowo Ma Moc)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Mezo - Zemsta.mp3
+#EXTINF:321,/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Mixtape Prosto DJ 600V - I żeby było normalnie.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Mixtape Prosto DJ 600V - I żeby było normalnie.mp3
+#EXTINF:218,2 Lerek - Moja Panienka Feat. Nowator (Radio Edit) (Bo Bez Ciebie EP)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Moja Panienka Nowator.mp3
+#EXTINF:286,Nag³y atak spawacza - Akt  ³aski
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Nagły atak spawacza - Akt  łaski.mp3
+#EXTINF:347,Nag³y atak spawacza - Aleja nr. 6 gr b nr. 4
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Nagły atak spawacza - Aleja nr. 6 gr b nr. 4.mp3
+#EXTINF:277,NAS - One mic
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Nas - One Mic.mp3
+#EXTINF:283,Paktofonika - Chwile ulotne (To my rugbisci)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Paktofonika - Chwile ulotne.mp3
+#EXTINF:208,14 Sokó³ & Pono - W Aucie (Feat. Jêdker Realista, Franek Kimono) (Teraz pieni¹dz w cenie)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Sokół & Pono Jędker Franek Kimono - W aucie.mp3
+#EXTINF:206,/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/The Game Feat 50 Cent - Hate It Or Love It.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/The Game Feat 50 Cent - Hate It Or Love It.mp3
+#EXTINF:235,/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Tupac - In The Air Tonight.mp3
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Tupac - In The Air Tonight.mp3
+#EXTINF:262,14 Xzibit feat. Snoop Dogg - X (The Source Hip-Hop Music Awards 2001)
+/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Xzibit Feat Snoop Dogg - X.mp3
