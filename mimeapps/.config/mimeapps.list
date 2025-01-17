@@ -15,9 +15,8 @@ application/x-extension-xhtml=floor.desktop
 application/x-extension-xht=floor.desktop
 image/jpeg=sxiv.desktop
 image/png=sxiv.desktop
-inode/directory=thunar.desktop
+inode/directory=nautilus.desktop
 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice-startcenter.desktop
-x-scheme-handler/gitkraken=GitKraken.desktop
 
 [Added Associations]
 application/pdf=org.pwmt.zathura.desktop;

@@ -1,10 +1,19 @@
 #list
-alias ls='lsd --group-directories-first --color=auto'
-alias la='lsd -a --group-directories-first'
-alias ll='lsd -al --group-directories-first'
-alias l='lsd --group-directories-first'
-alias lt='lsd --tree --group-directories-first'
-alias l.="lsd -A --group-directories-first | egrep '^\.'"
+# alias ls='lsd --group-directories-first --color=auto -1'
+# alias la='lsd -a --group-directories-first'
+# alias ll='lsd -al --group-directories-first'
+# alias l='lsd -a --group-directories-first -1'
+# alias lt='lsd --tree --group-directories-first'
+# alias l.="lsd -A --group-directories-first | egrep '^\.'"
+
+# List Directory
+alias l='eza -lh  --icons=auto' # long list
+alias la='eza -a --group-directories-first --icons=auto' # long list
+alias ls='eza -1 --group-directories-first --icons=auto' # short list
+alias ll='eza -lha --icons=auto --sort=name --group-directories-first' # long list all
+alias ld='eza -lhD --icons=auto' # long list dirs
+alias lt='eza --icons=auto --tree' # list folder as tree
+
 alias tree='tree -aCsh --sort name'
 alias df='df -h'
 alias free="free -mt"
@@ -153,7 +162,7 @@ alias nma='nm-applet'
 alias nmap='nmap -sn 192.168.0.1/24'
 alias nmarp='arp-scan --interface=wlan0 192.168.0.1/24' # skanowanie sieci lokalnej
 alias nmdis='sudo netdiscover -r 192.168.0.1/24'
-#alias nt='speedtest-cli'
+# alias nt='speedtest-cli'
 alias nt='speedtest' # Ookla speedtest > paru ookla-speedtest-bin
 alias dns='systemd-resolve --status' # Ookla speedtest > paru ookla-speedtest-bin
 alias wcolor="$HOME/.config/scripts/grim-gcolor.sh"

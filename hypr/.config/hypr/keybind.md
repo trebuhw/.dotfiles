@@ -2,11 +2,10 @@
     ## Programs
      + x               -> foot
      + Return          -> foot
-     + Shift + x       -> foot
-     + Shift + t       -> gnome-terminal (float)
+     + Shift + t       -> kitty (float)
      + Shift + Return  -> Subl
      + w               -> google chrome
-     + e               -> nautilus
+     + e               -> thunar
      + d               -> rofi
      + Shift + d       -> wofi full
      + c               -> galculator

@@ -1,7 +1,4 @@
 *{
-/*font-family: "JetBrainsMono Nerd Font";*/
-font-family: "CaskaydiaCove Nerd Font Mono";
-font-size: 10pt;
 padding: 0px;
 margin-top: 1px;
 margin-bottom: 1px;
@@ -9,6 +6,9 @@ margin-bottom: 1px;
 
 window#waybar {
     background: rgba(30,30,47,1.0);
+    min-height: 14px;
+	font-family: "JetBrainsMono Nerd Font";
+	font-size: 14px;
 }
 
 window#waybar.hidden {

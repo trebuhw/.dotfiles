@@ -1,58 +1,1368 @@
 #EXTM3U
-#MOCSERIAL: 1280
-#EXTINF:218,2 trzeci wymiar - Skamieniali (cztery pory rapu)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/02 skamieniali.mp3
-#EXTINF:284,3 Diddy/Nas - Hate Me Now (I Am...The Autobiography)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/03 Hate Me Now.mp3
-#EXTINF:181,4 Molesta - Armagedon (Skandal)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/04 Armagedon.mp3
-#EXTINF:259,5 Peja - Jest jedna rzecz (LP Radio Wersja) (Na legalu +)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/05 Jest jedna rzecz (LP Radio Wersja).mp3
-#EXTINF:245,6 Grammatik - Nie Ma Skróconych Dróg (Swiatla Miasta)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/06 Nie Ma Skróconych Dróg.mp3
-#EXTINF:194,6 Trzeci Wymiar - Piêtnastu MCs (Cztery Pory Rapu)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/06 Piętnastu MCs.mp3
-#EXTINF:259,9 OWAL/EMCEDWA - Jestem Tu (eska SQUAD 2)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/09 Jestem tu.mp3
-#EXTINF:399,10 WWO - Ka¿dy Ponad Ka¿dym (Kodex 2 Proces)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/10 Każdy Ponad Każdym.mp3
-#EXTINF:291,12 Wu-Tang Clan - Gravel Pit (The W)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/12 Gravel Pit.mp3
-#EXTINF:201,12 Paktofonika - Jestem Bogiem (Kinematografia)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/12 Jestem bogiem.mp3
-#EXTINF:223,14 Tede - To jeszcze nie koniec (Esende Mylffon)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/14 To jeszcze nie koniec.mp3
-#EXTINF:181,17 WWO - Damy rade (WWO WE W£ASNEJ OSOBIE)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/17 Damy Rade.mp3
-#EXTINF:216,24 DMX - X Gon' Give It to Ya [*] (Grand Champ [UK Bonus Track])
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/24 X Gon' Give It to Ya [-].mp3
-#EXTINF:227,7 50 Cent/DMX/Styles P - Shot down (Grand Champ)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Dmx - Shot Down.mp3
-#EXTINF:189,11 Kaczy feat. Mezo - Kocham (THE BEST OF RMFMAXXX2)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Kaczy feat. Mezo - Kocham.mp3
-#EXTINF:179,4 Ascetoholix - Na spidzie (Apogeum)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/liber & doniu - Na spidzie.mp3
-#EXTINF:240,3 Liber/Doniu - Skarby (eska SQUAD)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Liber feat doniu - Skarby.mp3
-#EXTINF:225,2 Mezo - Mezo Zemsta (Slowo Ma Moc)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Mezo - Zemsta.mp3
-#EXTINF:321,/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Mixtape Prosto DJ 600V - I żeby było normalnie.mp3
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Mixtape Prosto DJ 600V - I żeby było normalnie.mp3
-#EXTINF:218,2 Lerek - Moja Panienka Feat. Nowator (Radio Edit) (Bo Bez Ciebie EP)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Moja Panienka Nowator.mp3
-#EXTINF:286,Nag³y atak spawacza - Akt  ³aski
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Nagły atak spawacza - Akt  łaski.mp3
-#EXTINF:347,Nag³y atak spawacza - Aleja nr. 6 gr b nr. 4
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Nagły atak spawacza - Aleja nr. 6 gr b nr. 4.mp3
-#EXTINF:277,NAS - One mic
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Nas - One Mic.mp3
-#EXTINF:283,Paktofonika - Chwile ulotne (To my rugbisci)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Paktofonika - Chwile ulotne.mp3
-#EXTINF:208,14 Sokó³ & Pono - W Aucie (Feat. Jêdker Realista, Franek Kimono) (Teraz pieni¹dz w cenie)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Sokół & Pono Jędker Franek Kimono - W aucie.mp3
-#EXTINF:206,/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/The Game Feat 50 Cent - Hate It Or Love It.mp3
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/The Game Feat 50 Cent - Hate It Or Love It.mp3
-#EXTINF:235,/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Tupac - In The Air Tonight.mp3
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Tupac - In The Air Tonight.mp3
-#EXTINF:262,14 Xzibit feat. Snoop Dogg - X (The Source Hip-Hop Music Awards 2001)
-/home/hubert/Archiwum/Linux/Muzyka/Hip-Hop/Xzibit Feat Snoop Dogg - X.mp3
+#MOCSERIAL: 256
+#EXTINF:134,Altereggo Fight Team #6 Piotr Bąkowski (Młody M)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/ALTEREGGO FIGHT TEAM/1. Altereggo Fight Team #6 Piotr Bąkowski (Młody M).mp3
+#EXTINF:70,ALTEREGGO FIGHT TEAM #5- Piotr Bąkowski x Dominika Rembelska - ( Młody M)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/ALTEREGGO FIGHT TEAM/2. ALTEREGGO FIGHT TEAM #5- Piotr Bąkowski x Dominika Rembelska - ( Młody M).mp3
+#EXTINF:187,ALTEREGGO FIGHT TEAM #4- Piotr Bąkowski x Dominika Rembelska - (Kaen, Prod. RX)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/ALTEREGGO FIGHT TEAM/3. ALTEREGGO FIGHT TEAM #4- Piotr Bąkowski x Dominika Rembelska - (Kaen, Prod. RX).mp3
+#EXTINF:90,ALTEREGGO FIGHT TEAM #3 -Piotr Bąkowski x Dominika Rembelska x Maciej Posiadała -  (Prod. RX)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/ALTEREGGO FIGHT TEAM/4. ALTEREGGO FIGHT TEAM #3 -Piotr Bąkowski x Dominika Rembelska x Maciej Posiadała -  (Prod. RX).mp3
+#EXTINF:93,ALTEREGGO FIGHT TEAM #2 - Probably the Best Capoeira Video Ever (Prod.RX)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/ALTEREGGO FIGHT TEAM/5. ALTEREGGO FIGHT TEAM #2 - Probably the Best Capoeira Video Ever (Prod.RX).mp3
+#EXTINF:94,(Prod. RX) - ALTEREGGO FIGHT TEAM #1- Piotr Bąkowski x Dominika Rembelska -
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/ALTEREGGO FIGHT TEAM/6. ALTEREGGO FIGHT TEAM #1- Piotr Bąkowski x Dominika Rembelska - (Prod. RX).mp3
+#EXTINF:103,Konrad Dąbrowski - BORN TO FIGHT
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/ALTEREGGO FIGHT TEAM/7. BORN TO FIGHT - Konrad Dąbrowski - ALTEREGGO TEAM.mp3
+#EXTINF:183,KaeN - Tylko ja
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/ALTEREGGO FIGHT TEAM/8. KaeN - Tylko ja (prod. RX) Official Video [4K].mp3
+#EXTINF:137,KaeN - Wojna
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/ALTEREGGO FIGHT TEAM/9. KaeN - Wojna (Prod. IVE).mp3
+#EXTINF:216,Eastny - Dobry Towar
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/01. Eastny - Dobry Towar (prod. FUSO) [ 4K ].mp3
+#EXTINF:260,KaeN - Dron
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/02. KaeN - Dron (prod.  Świerzba) Official Video [ 4K ]  Altereggo TeamTape.mp3
+#EXTINF:175,MAT - Młody Wilk
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/03. MAT - Młody Wilk (prod. Maxiu Beats)(offical video).mp3
+#EXTINF:189,Bili - Nie Pytaj feat. Argon
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/04. Bili - Nie Pytaj feat. Argon (prod. Pelek) (Official Video).mp3
+#EXTINF:185,KaeN - Gdzie Jest Raj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/05. KaeN - Gdzie Jest Raj.mp3
+#EXTINF:201,Bili - Outro
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/06. Bili - Outro (prod. Pelek).mp3
+#EXTINF:192,KaeN - O Nic Się Nie Pytaj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/07. KaeN - O Nic Się Nie Pytaj.mp3
+#EXTINF:194,KaeN - Po Prostu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/08. KaeN - Po Prostu.mp3
+#EXTINF:218,KaeN x Sobota - Bierz co chcesz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/09. KaeN x Sobota - Bierz co chcesz (prod. Świerzba) REMIX.mp3
+#EXTINF:324,KaeN x DJ Grubaz - Krople
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/10. KaeN x DJ Grubaz - Krople (prod. Poszwixxx).mp3
+#EXTINF:246,Jahbestin x Foreman x PeRJot x Beny B - Fenix (prod. Świerzba) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/11. Jahbestin x Foreman x PeRJot x Beny B - Fenix (prod. Świerzba)  Altereggo TeamTape.mp3
+#EXTINF:216,KaeN x PIH x Roman Bosski - Nostalgia (prod. RX) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/12. KaeN x PIH x Roman Bosski - Nostalgia (prod. RX)  Altereggo TeamTape.mp3
+#EXTINF:155,Beny B x KaeN - Umrę śmiejąc się
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/13. Beny B x KaeN - Umrę śmiejąc się (prod. TMK Beatz)  Altereggo TeamTape.mp3
+#EXTINF:246,KaeN x Rover - Ćma
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/14. KaeN x Rover - Ćma (prod. Poszwixxx)  Altereggo TeamTape.mp3
+#EXTINF:230,PeRJot x Roman Bosski - Rap niech żyje (prod. IVE) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/15. PeRJot x Roman Bosski - Rap niech żyje (prod. IVE)  Altereggo TeamTape.mp3
+#EXTINF:184,Spalto x Rastamaniek x PJK Eastny - Co To Był Za Melanż (prod. Rey Ceballo & Eddy Aguero) | ATT
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/16. Spalto x Rastamaniek x PJK Eastny - Co To Był Za Melanż (prod. Rey Ceballo & Eddy Aguero)  ATT.mp3
+#EXTINF:192,PJK Eastny x Neiti Di - Mój czas (Prod. RTI Beatz) [ 4K ]
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/17. PJK Eastny x Neiti Di - Mój czas (Prod. RTI Beatz) [ 4K ].mp3
+#EXTINF:221,Jerli - Noc oczyszczenia  feat. Sonia Maselik
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/18. Jerli - Noc oczyszczenia  feat. Sonia Maselik.mp3
+#EXTINF:324,PeRJot X Kafar Dix37 - Trans prod. Krowa | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/19. PeRJot X Kafar Dix37 - Trans prod. Krowa  Altereggo TeamTape.mp3
+#EXTINF:182,PERSONALITER - RUMINACJE FEAT DJ VERSUZ BLADE
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/20. PERSONALITER - RUMINACJE FEAT DJ VERSUZ BLADE.mp3
+#EXTINF:153,Bili - Intro
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/21. Bili - Intro (Odkupienie EP).mp3
+#EXTINF:169,BENY B - PROTEST
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/22. BENY B  - PROTEST (OFFICIAL VIDEO).mp3
+#EXTINF:190,KaeN x Kaz Bałagane X Red - Oszustki (Prod. Smolasty) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/23. KaeN x Kaz Bałagane X Red - Oszustki (Prod. Smolasty)  Altereggo TeamTape.mp3
+#EXTINF:214,PeRJot - Ja tak gram
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/24. PeRJot - Ja tak gram (prod. Krowa).mp3
+#EXTINF:137,KaeN - Wojna
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/25. KaeN - Wojna (Prod. IVE).mp3
+#EXTINF:227,PeRJot - M.B.N.P feat. Jahbestin
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/26. PeRJot - M.B.N.P feat. Jahbestin (Prod. IVE).mp3
+#EXTINF:227,PeRJot - Rozdarta dusza prod. IVE
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/27. PeRJot - Rozdarta dusza prod. IVE.mp3
+#EXTINF:156,BENY B - POLSKI DYSTRYKT REMIX
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/28. BENY B - POLSKI DYSTRYKT REMIX (PROD. SODDY BEATS).mp3
+#EXTINF:173,PeRJot - Ah życie feat. Dj Soina prod. IVE
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/29. PeRJot - Ah życie feat. Dj Soina prod. IVE.mp3
+#EXTINF:210,KaeN - Zdychaj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/30. KaeN - Zdychaj (Prod. IVE).mp3
+#EXTINF:227,KaeN - Chaos
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/31. KaeN - Chaos.mp3
+#EXTINF:208,Z Dźwięków Urodzeni - MROK
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/32. Z Dźwięków Urodzeni - MROK.mp3
+#EXTINF:283,Jędrzej & Andrzej Dybiec - Napij Się feat. Fiłoń (Cuty. DJ Nambear) [4K]
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/33. Jędrzej & Andrzej Dybiec - Napij Się feat. Fiłoń (Cuty. DJ Nambear) [4K].mp3
+#EXTINF:172,Sylwia Dynek - Gorzko Słodkie
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/#AltereggoTeam/34. Sylwia Dynek - Gorzko Słodkie (prod. Poszwixxx).mp3
+#EXTINF:170,Amator - To moje Życie
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/AMATOR/1. Amator - To moje Życie.mp3
+#EXTINF:121,AMATOR - Nowy Etap
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/AMATOR/2. AMATOR - Nowy Etap (Street Video).mp3
+#EXTINF:253,PeRJot x KaeN x Amator - Dygest
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/AMATOR/3. PeRJot x KaeN x Amator - Dygest (prod. DNA)  Altereggo TeamTape.mp3
+#EXTINF:150,AMATOR - Od amatora do zawodowca feat. Dj Hard Cut
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/AMATOR/4. AMATOR - Od amatora do zawodowca feat. Dj Hard Cut (Prod. Krzychu).mp3
+#EXTINF:112,Bacior/Murzyn - Intro
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BaciorMurzyn - Tyraliera (Album)/01. BaciorMurzyn - Intro.mp3
+#EXTINF:178,Bacior/Murzyn - Zenit
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BaciorMurzyn - Tyraliera (Album)/02. BaciorMurzyn - Zenit.mp3
+#EXTINF:203,BACIOR/MURZYN - NIE MA WE MNIE DOBRA [VIDEO]
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BaciorMurzyn - Tyraliera (Album)/03. BACIORMURZYN - NIE MA WE MNIE DOBRA [VIDEO].mp3
+#EXTINF:315,Bacior/Murzyn - Firewalking feat. Ola, Bili
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BaciorMurzyn - Tyraliera (Album)/04. BaciorMurzyn - Firewalking feat. Ola, Bili.mp3
+#EXTINF:230,Bacior/Murzyn - Niepewność to przestroga
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BaciorMurzyn - Tyraliera (Album)/05. BaciorMurzyn - Niepewność to przestroga.mp3
+#EXTINF:196,Bacior/Murzyn - Exodus
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BaciorMurzyn - Tyraliera (Album)/06. BaciorMurzyn - Exodus.mp3
+#EXTINF:217,Bacior/Murzyn - Już feat. CdoZ
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BaciorMurzyn - Tyraliera (Album)/07. BaciorMurzyn - Już feat. CdoZ.mp3
+#EXTINF:154,Bacior/Murzyn - W innym świetle
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BaciorMurzyn - Tyraliera (Album)/08. BaciorMurzyn - W innym świetle.mp3
+#EXTINF:217,Bacior/Murzyn - Blizny feat. Małas
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BaciorMurzyn - Tyraliera (Album)/09. BaciorMurzyn - Blizny feat. Małas.mp3
+#EXTINF:168,Bacior/Murzyn - Mój Cel feat. Kicek
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BaciorMurzyn - Tyraliera (Album)/10. BaciorMurzyn - Mój Cel feat. Kicek.mp3
+#EXTINF:28,Bacior/Murzyn - Outro
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BaciorMurzyn - Tyraliera (Album)/11. BaciorMurzyn - Outro.mp3
+#EXTINF:81,BENY B - INTRO FEAT. DJ EDK
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B - Litość To Zbrodnia (Album)/01. BENY B - INTRO FEAT. DJ EDK (PROD. NOR).mp3
+#EXTINF:187,Beny B - Lokalny Patriota
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B - Litość To Zbrodnia (Album)/02. Beny B - Lokalny Patriota.mp3
+#EXTINF:283,Beny B - Galicyjska Krew ft. Najduch, Ziober, Rokit, Deenesh, Homex, Repo, Kamil PRJ, Komar
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B - Litość To Zbrodnia (Album)/03. Beny B - Galicyjska Krew ft. Najduch, Ziober, Rokit, Deenesh, Homex, Repo, Kamil PRJ, Komar.mp3
+#EXTINF:171,BENY B - LUFA FEAT. G
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B - Litość To Zbrodnia (Album)/04. BENY B - LUFA FEAT. G-ZYS (PROD. SODDY BEATS).mp3
+#EXTINF:167,BENY B - PSM
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B - Litość To Zbrodnia (Album)/05. BENY B - PSM (PAMIĘTAJ SŁOWA MATKI) (PROD. TMK BEATZ).mp3
+#EXTINF:158,BENY B - POLSKI DYSTRYKT
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B - Litość To Zbrodnia (Album)/06. BENY B - POLSKI DYSTRYKT (PROD. $WIR).mp3
+#EXTINF:159,BENY B - BANDIT QUEEN
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B - Litość To Zbrodnia (Album)/07. BENY B - BANDIT QUEEN (PROD. TMK BEATZ).mp3
+#EXTINF:159,Beny B - Ipsa Sua Melior Fama
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B - Litość To Zbrodnia (Album)/08. Beny B - Ipsa Sua Melior Fama [Video].mp3
+#EXTINF:174,Beny B - Blue [VIDEO]
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B - Litość To Zbrodnia (Album)/09. Beny B - Blue [VIDEO].mp3
+#EXTINF:155,BENY B - UMRĘ ŚMIEJĄC SIĘ FEAT. KAEN
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B - Litość To Zbrodnia (Album)/10. BENY B - UMRĘ ŚMIEJĄC SIĘ FEAT. KAEN (PROD. TMK BEATZ).mp3
+#EXTINF:136,BENY B - GEJ OVER FEAT. DJ EDK
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B - Litość To Zbrodnia (Album)/11. BENY B - GEJ OVER FEAT. DJ EDK (PROD. SODDY BEATS).mp3
+#EXTINF:210,BENY B - RACHUNEK SUMIENIA
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B - Litość To Zbrodnia (Album)/12. BENY B - RACHUNEK SUMIENIA (PROD. TMK BEATZ).mp3
+#EXTINF:156,BENY B - POLSKI DYSTRYKT REMIX
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B - Litość To Zbrodnia (Album)/13. BENY B - POLSKI DYSTRYKT REMIX (PROD. SODDY BEATS).mp3
+#EXTINF:73,BENY B - OUTRO FEAT. DJ EDK
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B - Litość To Zbrodnia (Album)/14. BENY B - OUTRO FEAT. DJ EDK (PROD. DJ EDK).mp3
+#EXTINF:246,Jahbestin x Foreman x PeRJot x Beny B - Fenix (prod. Świerzba) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/01. Jahbestin x Foreman x PeRJot x Beny B - Fenix (prod. Świerzba)  Altereggo TeamTape.mp3
+#EXTINF:223,KaeN x Balu x Beny B - Bagno
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/02. KaeN x Balu x Beny B - Bagno (prod. RX)  Altereggo TeamTape.mp3
+#EXTINF:155,Beny B x KaeN - Umrę śmiejąc się
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/03. Beny B x KaeN - Umrę śmiejąc się (prod. TMK Beatz)  Altereggo TeamTape.mp3
+#EXTINF:180,PERSONALITER - TROCHE WIĘCEJ
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/04. PERSONALITER - TROCHE WIĘCEJ.mp3
+#EXTINF:229,PERSONALITER - SZKODA GADAĆ FEAT ENERG
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/05. PERSONALITER - SZKODA GADAĆ FEAT ENERG.mp3
+#EXTINF:244,PERSONALITER - ZAMKNIĘTY ETAP FEAT BILI
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/06. PERSONALITER - ZAMKNIĘTY ETAP FEAT BILI.mp3
+#EXTINF:198,PERSONALITER - NIE MAM CZASU
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/07. PERSONALITER - NIE MAM CZASU.mp3
+#EXTINF:182,PERSONALITER - RUMINACJE FEAT DJ VERSUZ BLADE
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/08. PERSONALITER - RUMINACJE FEAT DJ VERSUZ BLADE.mp3
+#EXTINF:162,PERSONALITER - Z WIARĄ
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/09. PERSONALITER - Z WIARĄ.mp3
+#EXTINF:169,BENY B - PROTEST
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/10. BENY B  - PROTEST (OFFICIAL VIDEO).mp3
+#EXTINF:159,Beny B - Ipsa Sua Melior Fama
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/11. Beny B - Ipsa Sua Melior Fama [Video].mp3
+#EXTINF:211,PeRJot - Piasek u stóp feat. Bosski Roman prod. DNA scr DJ Hard Cut
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/12. PeRJot - Piasek u stóp feat. Bosski Roman prod. DNA scr DJ Hard Cut.mp3
+#EXTINF:73,BENY B - OUTRO FEAT. DJ EDK
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/13. BENY B - OUTRO FEAT. DJ EDK (PROD. DJ EDK).mp3
+#EXTINF:156,BENY B - POLSKI DYSTRYKT REMIX
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/14. BENY B - POLSKI DYSTRYKT REMIX (PROD. SODDY BEATS).mp3
+#EXTINF:210,BENY B - RACHUNEK SUMIENIA
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/15. BENY B - RACHUNEK SUMIENIA (PROD. TMK BEATZ).mp3
+#EXTINF:136,BENY B - GEJ OVER FEAT. DJ EDK
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/16. BENY B - GEJ OVER FEAT. DJ EDK (PROD. SODDY BEATS).mp3
+#EXTINF:155,BENY B - UMRĘ ŚMIEJĄC SIĘ FEAT. KAEN
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/17. BENY B - UMRĘ ŚMIEJĄC SIĘ FEAT. KAEN (PROD. TMK BEATZ).mp3
+#EXTINF:170,BENY B - IPSA SUA MELIOR FAMA
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/18. BENY B - IPSA SUA MELIOR FAMA (PROD. SODDY BEATS).mp3
+#EXTINF:159,BENY B - BANDIT QUEEN
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/19. BENY B - BANDIT QUEEN (PROD. TMK BEATZ).mp3
+#EXTINF:158,BENY B - POLSKI DYSTRYKT
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/20. BENY B - POLSKI DYSTRYKT (PROD. $WIR).mp3
+#EXTINF:167,BENY B - PSM
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/21. BENY B - PSM (PAMIĘTAJ SŁOWA MATKI) (PROD. TMK BEATZ).mp3
+#EXTINF:171,BENY B - LUFA FEAT. G
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/22. BENY B - LUFA FEAT. G-ZYS (PROD. SODDY BEATS).mp3
+#EXTINF:81,BENY B - INTRO FEAT. DJ EDK
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/23. BENY B - INTRO FEAT. DJ EDK (PROD. NOR).mp3
+#EXTINF:174,Beny B - Blue [VIDEO]
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/24. Beny B - Blue [VIDEO].mp3
+#EXTINF:187,Beny B - Lokalny Patriota
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/25. Beny B - Lokalny Patriota.mp3
+#EXTINF:283,Beny B - Galicyjska Krew ft. Najduch, Ziober, Rokit, Deenesh, Homex, Repo, Kamil PRJ, Komar
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/26. Beny B - Galicyjska Krew ft. Najduch, Ziober, Rokit, Deenesh, Homex, Repo, Kamil PRJ, Komar.mp3
+#EXTINF:65,Beny B - Hot16Challenge
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/27. Beny B - Hot16Challenge.mp3
+#EXTINF:223,KaeN feat. ZWR, Beny B. - Zwyrodnialcy (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/28. KaeN feat. ZWR, Beny B. - Zwyrodnialcy (audio).mp3
+#EXTINF:325,PERSONALITER FEAT. TEAM KILO - UWAŻAJ (PROD. FERU)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/29. PERSONALITER FEAT. TEAM KILO - UWAŻAJ (PROD. FERU).mp3
+#EXTINF:214,DAMIAN'F/SLIDE - NOCNY LOT FT. BENY B, DJ LEM
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Beny B/30. DAMIAN'FSLIDE - NOCNY LOT FT. BENY B, DJ LEM.mp3
+#EXTINF:189,Bili - Nie Pytaj feat. Argon
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili/01. Bili - Nie Pytaj feat. Argon (prod. Pelek) (Official Video).mp3
+#EXTINF:201,Bili - Outro
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili/02. Bili - Outro (prod. Pelek).mp3
+#EXTINF:257,Bili - Zoo feat. Sawa
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili/03. Bili - Zoo feat. Sawa (prod. Pelek).mp3
+#EXTINF:196,Bili - Ulice Zimne Są
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili/04. Bili - Ulice Zimne Są (prod. Pelek).mp3
+#EXTINF:210,Bili - Straight Outta Pato's
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili/05. Bili - Straight Outta Pato's (prod. Pelek).mp3
+#EXTINF:265,Bili - Gdzieś Pomiędzy feat. Mazik
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili/06. Bili - Gdzieś Pomiędzy feat. Mazik (prod. Pelek).mp3
+#EXTINF:187,Bili - Wszystko na Sprzedaż feat. Bacior
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili/07. Bili - Wszystko na Sprzedaż feat. Bacior (prod. Pelek).mp3
+#EXTINF:223,Bili - Niepisany Układ feat. Młodzian, CdoZ
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili/08. Bili - Niepisany Układ feat. Młodzian, CdoZ (prod. Pelek).mp3
+#EXTINF:162,Bili - Intro
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili/09. Bili - Intro (prod. Pelek).mp3
+#EXTINF:183,Bili - Still
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili/10. Bili - Still (prod. Pelek) (Official Video).mp3
+#EXTINF:205,Bili - Miasto Boga
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili/11. Bili - Miasto Boga (prod. Pelek) (Official Video).mp3
+#EXTINF:153,Bili - Intro
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili/12. Bili - Intro (Odkupienie EP).mp3
+#EXTINF:162,Bili - Intro
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili&Pelek - VII (Album)/01. Bili - Intro (prod. Pelek).mp3
+#EXTINF:183,Bili - Still
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili&Pelek - VII (Album)/02. Bili - Still (prod. Pelek) (Official Video).mp3
+#EXTINF:223,Bili - Niepisany Układ feat. Młodzian, CdoZ
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili&Pelek - VII (Album)/03. Bili - Niepisany Układ feat. Młodzian, CdoZ (prod. Pelek).mp3
+#EXTINF:187,Bili - Wszystko na Sprzedaż feat. Bacior
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili&Pelek - VII (Album)/04. Bili - Wszystko na Sprzedaż feat. Bacior (prod. Pelek).mp3
+#EXTINF:205,Bili - Miasto Boga
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili&Pelek - VII (Album)/05. Bili - Miasto Boga (prod. Pelek) (Official Video).mp3
+#EXTINF:265,Bili - Gdzieś Pomiędzy feat. Mazik
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili&Pelek - VII (Album)/06. Bili - Gdzieś Pomiędzy feat. Mazik (prod. Pelek).mp3
+#EXTINF:210,Bili - Straight Outta Pato's
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili&Pelek - VII (Album)/07. Bili - Straight Outta Pato's (prod. Pelek).mp3
+#EXTINF:189,Bili - Nie Pytaj feat. Argon
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili&Pelek - VII (Album)/08. Bili - Nie Pytaj feat. Argon (prod. Pelek) (Official Video).mp3
+#EXTINF:196,Bili - Ulice Zimne Są
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili&Pelek - VII (Album)/09. Bili - Ulice Zimne Są (prod. Pelek).mp3
+#EXTINF:257,Bili - Zoo feat. Sawa
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili&Pelek - VII (Album)/10. Bili - Zoo feat. Sawa (prod. Pelek).mp3
+#EXTINF:201,Bili - Outro
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Bili&Pelek - VII (Album)/11. Bili - Outro (prod. Pelek).mp3
+#EXTINF:231,BratFRStwo - Jak 300
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/01. BratFRStwo - Jak 300.mp3
+#EXTINF:231,BratFRStwo - Jak 300
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/02. BratFRStwo - Jak 300.mp3
+#EXTINF:191,BratFRStwo - 2 Braci
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/03. BratFRStwo - 2 Braci.mp3
+#EXTINF:188,BratFRStwo - Slide
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/04. BratFRStwo - Slide.mp3
+#EXTINF:136,BratFRStwo - Jedno jest pewne
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/05. BratFRStwo - Jedno jest pewne.mp3
+#EXTINF:200,BratFRStwo - Popierdolcie
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/06. BratFRStwo - Popierdolcie.mp3
+#EXTINF:194,BratFRStwo - Przed nami wszystko
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/07. BratFRStwo - Przed nami wszystko.mp3
+#EXTINF:159,BratFRStwo - Na luźno
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/08. BratFRStwo - Na luźno.mp3
+#EXTINF:197,BratFRStwo - Duet
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/09. BratFRStwo - Duet.mp3
+#EXTINF:191,BratFRStwo - 2 Braci
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/10. BratFRStwo - 2 Braci.mp3
+#EXTINF:197,BratFRStwo - Duet
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/11. BratFRStwo - Duet.mp3
+#EXTINF:136,BratFRStwo - Jedno jest pewne
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/12. BratFRStwo - Jedno jest pewne.mp3
+#EXTINF:159,BratFRStwo - Na luźno
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/13. BratFRStwo - Na luźno.mp3
+#EXTINF:200,BratFRStwo - Popierdolcie
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/14. BratFRStwo - Popierdolcie.mp3
+#EXTINF:194,BratFRStwo - Przed nami wszystko
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/BratFRStwo - Więzy Krwi (cały album)/15. BratFRStwo - Przed nami wszystko.mp3
+#EXTINF:84,Dejw - Przychodzę...
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW - Betonowy Labirynt/01. Dejw - Przychodzę...(intro).mp3
+#EXTINF:182,Dejw - Nie przepadam
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW - Betonowy Labirynt/02. Dejw - Nie przepadam.mp3
+#EXTINF:235,Dejw - ZO prod. Dj Samiryi
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW - Betonowy Labirynt/03. Dejw - ZO prod. Dj Samiryi.mp3
+#EXTINF:203,Dejw - Sztuka Latania
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW - Betonowy Labirynt/04. Dejw - Sztuka Latania.mp3
+#EXTINF:238,Przeszkadzasz - Dejw x Mazi x Remekk
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW - Betonowy Labirynt/05. Dejw x Mazi x Remekk - Przeszkadzasz.mp3
+#EXTINF:196,Dejw - Lawina
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW - Betonowy Labirynt/06. Dejw - Lawina.mp3
+#EXTINF:182,Dejw - Arrivederci
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW - Betonowy Labirynt/07. Dejw - Arrivederci (f. PRO).mp3
+#EXTINF:224,Dejw - Betonowy Labirynt
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW - Betonowy Labirynt/08. Dejw - Betonowy Labirynt.mp3
+#EXTINF:168,Dejw - No to lecimy
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW - Betonowy Labirynt/10. Dejw - No to lecimy (remix).mp3
+#EXTINF:175,Dejw - Sorry
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW - Betonowy Labirynt/11. Dejw - Sorry (prod. Z).mp3
+#EXTINF:189,Dejw - I znów
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW - Betonowy Labirynt/12. Dejw - I znów.mp3
+#EXTINF:171,5 minut - Dejw x Mazi x Leff
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW - Betonowy Labirynt/13. Dejw x Mazi x Leff - 5 minut.mp3
+#EXTINF:240,Dejw - Być tam
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW - Betonowy Labirynt/14. Dejw - Być tam (prod. HighDash).mp3
+#EXTINF:99,Dejw - Odchodzę
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW - Betonowy Labirynt/15. Dejw - Odchodzę (outro).mp3
+#EXTINF:242,Dejw - Być Tam...
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/01. Dejw - Być Tam... (prod. Highdash).mp3
+#EXTINF:194,Dejw - Nie oddam 2 prod. HighDash
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/02. Dejw - Nie oddam 2 prod. HighDash.mp3
+#EXTINF:188,Dejw - I znów...
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/03. Dejw - I znów.mp3
+#EXTINF:314,PJK Eastny - Jedziemy feat. Młody M, Tobik, TriKu, Rastamaniek, KaeN, Rudy, SK, Dejw
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/04. PJK Eastny - Jedziemy feat. Młody M, Tobik, TriKu, Rastamaniek, KaeN, Rudy, SK, Dejw.mp3
+#EXTINF:84,Dejw - Przychodzę...
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/05. Dejw - Przychodzę...(intro).mp3
+#EXTINF:182,Dejw - Nie przepadam
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/06. Dejw - Nie przepadam.mp3
+#EXTINF:238,Przeszkadzasz - Dejw x Mazi x Remekk
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/07. Dejw x Mazi x Remekk - Przeszkadzasz.mp3
+#EXTINF:235,Dejw - ZO prod. Dj Samiryi
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/08. Dejw - ZO prod. Dj Samiryi.mp3
+#EXTINF:196,Dejw - Lawina
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/09. Dejw - Lawina.mp3
+#EXTINF:203,Dejw - Sztuka Latania
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/10. Dejw - Sztuka Latania.mp3
+#EXTINF:171,5 minut - Dejw x Mazi x Leff
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/11. Dejw x Mazi x Leff - 5 minut.mp3
+#EXTINF:240,Dejw - Być tam
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/12. Dejw - Być tam (prod. HighDash).mp3
+#EXTINF:189,Dejw - I znów
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/13. Dejw - I znów.mp3
+#EXTINF:175,Dejw - Sorry
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/14. Dejw - Sorry (prod. Z).mp3
+#EXTINF:168,Dejw - No to lecimy
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/15. Dejw - No to lecimy (remix).mp3
+#EXTINF:196,Dejw - Nie oddam 2
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/16. Dejw - Nie oddam 2 (prod. HighDash).mp3
+#EXTINF:224,Dejw - Betonowy Labirynt
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/17. Dejw - Betonowy Labirynt.mp3
+#EXTINF:182,Dejw - Arrivederci
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/18. Dejw - Arrivederci (f. PRO).mp3
+#EXTINF:99,Dejw - Odchodzę
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/DEJW/19. Dejw - Odchodzę (outro).mp3
+#EXTINF:185,Idę - Po Zbójnicku #6 : D.I.X.I. aka CharakternyZbój
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/D.I.X.I. aka CharakternyZbój - #Po Zbójnicku/1. Po Zbójnicku #6  D.I.X.I. aka CharakternyZbój - Idę.mp3
+#EXTINF:199,Dzień świra - Po Zbójnicku #5 : D.I.X.I. aka CharakternyZbój
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/D.I.X.I. aka CharakternyZbój - #Po Zbójnicku/2. Po Zbójnicku #5  D.I.X.I. aka CharakternyZbój - Dzień świra.mp3
+#EXTINF:257,Wizytówka - Po Zbójnicku #4 : D.I.X.I. aka CharakternyZbój
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/D.I.X.I. aka CharakternyZbój - #Po Zbójnicku/3. Po Zbójnicku #4  D.I.X.I. aka CharakternyZbój - Wizytówka.mp3
+#EXTINF:212,Po Zbójnicku #3 : D.I.X.I. aka CharakternyZbój - Cząstka Uczuć (prod.Jezzy C.)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/D.I.X.I. aka CharakternyZbój - #Po Zbójnicku/4. Po Zbójnicku #3  D.I.X.I. aka CharakternyZbój - Cząstka Uczuć (prod.Jezzy C.).mp3
+#EXTINF:166,Po Zbójnicku #2 : D.I.X.I. aka CharakternyZbój - Hip Hop ft.Smiley Gunner
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/D.I.X.I. aka CharakternyZbój - #Po Zbójnicku/5. Po Zbójnicku #2  D.I.X.I. aka CharakternyZbój - Hip Hop ft.Smiley Gunner.mp3
+#EXTINF:202,Murek - Po Zbójnicku #1 : D.I.X.I. aka CharakternyZbój
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/D.I.X.I. aka CharakternyZbój - #Po Zbójnicku/6. Po Zbójnicku #1  D.I.X.I. aka CharakternyZbój - Murek.mp3
+#EXTINF:200,Gra feat. Mupens - Djobelny & KitaNes
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Djobelny & KitaNes - RASOWY KOT/1. Djobelny & KitaNes - Gra feat. Mupens.mp3
+#EXTINF:173,Djobelny & KitaNes - Dostawca feat. Heron m.w.m., Dj Bombel
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Djobelny & KitaNes - RASOWY KOT/2. Djobelny & KitaNes - Dostawca feat. Heron m.w.m., Dj Bombel.mp3
+#EXTINF:179,Miałem Sen - Djobelny & KitaNes
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Djobelny & KitaNes - RASOWY KOT/3. Djobelny & KitaNes - Miałem Sen.mp3
+#EXTINF:307,Djobelny & KitaNes - Bonus feat. MANY JOES  PROMIL + DJ BOMBEL
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Djobelny & KitaNes - RASOWY KOT/4. Djobelny & KitaNes - Bonus feat. MANY JOES  PROMIL + DJ BOMBEL.mp3
+#EXTINF:186,Mamo - Djobelny & KitaNes
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Djobelny & KitaNes - RASOWY KOT/5. Djobelny & KitaNes - Mamo.mp3
+#EXTINF:645,Czego NIE mówią: URZĘDNICY
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Djobelny & KitaNes - RASOWY KOT/6. Czego NIE mówią URZĘDNICY.mp3
+#EXTINF:158,EndRiu - Znasz to
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/EndRiu/1. EndRiu - Znasz to (prod. James Wantana).mp3
+#EXTINF:221,EndRiu - Przez Ciernie do Gwiazd
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/EndRiu/2. EndRiu - Przez Ciernie do Gwiazd.mp3
+#EXTINF:181,EndRiu - Bezbronny dzieciak
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/EndRiu/3. EndRiu - Bezbronny dzieciak.mp3
+#EXTINF:209,Ferdo - Zepsuty świat prod. Lema
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Ferdo - Dekada Pod Ziemią/01. Ferdo - Zepsuty świat prod. Lema.mp3
+#EXTINF:281,Ferdo - Jedno przeznaczenie Cuty Dj Samiryi prod. FloBeatz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Ferdo - Dekada Pod Ziemią/02. Ferdo - Jedno przeznaczenie Cuty Dj Samiryi prod. FloBeatz.mp3
+#EXTINF:219,Ferdo - Horyzont prod. Choina
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Ferdo - Dekada Pod Ziemią/03. Ferdo - Horyzont prod. Choina.mp3
+#EXTINF:213,Ferdo - Najwyższy czas feat. Michał Gabor prod. FloBeatz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Ferdo - Dekada Pod Ziemią/04. Ferdo - Najwyższy czas feat. Michał Gabor prod. FloBeatz.mp3
+#EXTINF:180,Ferdo - Burzę porządek prod. PLN.Beatz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Ferdo - Dekada Pod Ziemią/05. Ferdo - Burzę porządek prod. PLN.Beatz.mp3
+#EXTINF:223,Ferdo - Tak naprawdę feat. HST, DePe cuty Dj Basgrow prod. Babek
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Ferdo - Dekada Pod Ziemią/06. Ferdo - Tak naprawdę feat. HST, DePe cuty Dj Basgrow prod. Babek.mp3
+#EXTINF:194,Ferdo - Na na na prod. 2K Beatz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Ferdo - Dekada Pod Ziemią/07. Ferdo - Na na na prod. 2K Beatz.mp3
+#EXTINF:249,Ferdo - Uspokój się feat.Twardy, Ząbek prod. Babek
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Ferdo - Dekada Pod Ziemią/08. Ferdo - Uspokój się feat.Twardy, Ząbek prod. Babek.mp3
+#EXTINF:306,Ferdo - Nie mogą znieść prod. PLN.Beatz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Ferdo - Dekada Pod Ziemią/09. Ferdo - Nie mogą znieść prod. PLN.Beatz.mp3
+#EXTINF:176,Ferdo - Zwierciadło prod. FloBeatz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Ferdo - Dekada Pod Ziemią/10. Ferdo - Zwierciadło prod. FloBeatz (Remix).mp3
+#EXTINF:181,EndRiu - Bezbronny dzieciak
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Hip-Hop druga szansa/1. EndRiu - Bezbronny dzieciak.mp3
+#EXTINF:158,EndRiu - Znasz to
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Hip-Hop druga szansa/2. EndRiu - Znasz to (prod. James Wantana).mp3
+#EXTINF:221,EndRiu feat. Ewelina Bogucka - Łap Ster (prod. Damian S.)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Hip-Hop druga szansa/3. EndRiu feat. Ewelina Bogucka - Łap Ster (prod. Damian S.).mp3
+#EXTINF:221,EndRiu - Przez Ciernie do Gwiazd
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Hip-Hop druga szansa/4. EndRiu - Przez Ciernie do Gwiazd.mp3
+#EXTINF:177,Timmy WKE - Ej Mała
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Hip-Hop druga szansa/5. Timmy WKE - Ej Mała.mp3
+#EXTINF:121,Ellov - Automaty
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Hip-Hop druga szansa/6. Ellov - Automaty (prod. Jednoręki Vinyl) MASH UP.mp3
+#EXTINF:185,Ellov - Valkyria flow
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Hip-Hop druga szansa/7. Ellov - Valkyria flow (prod. Damian S.).mp3
+#EXTINF:248,Ferdo - Cały czas
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Hip-Hop druga szansa/8. Ferdo - Cały czas (prod. Sickquence).mp3
+#EXTINF:163,Jendras - Soundtrack
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/01. Jendras - Soundtrack (1).mp3
+#EXTINF:163,Jendras - Soundtrack
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/01. Jendras - Soundtrack.mp3
+#EXTINF:220,Jendras feat. Maggy - Konfetti (official video) [4K]
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/02. Jendras feat. Maggy - Konfetti (official video) [4K] (1).mp3
+#EXTINF:220,Jendras feat. Maggy - Konfetti (official video) [4K]
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/02. Jendras feat. Maggy - Konfetti (official video) [4K].mp3
+#EXTINF:203,Jendras - Królowie życia
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/03. Jendras - Królowie życia (1).mp3
+#EXTINF:203,Jendras - Królowie życia
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/03. Jendras - Królowie życia.mp3
+#EXTINF:219,Jendras - Drapacz Chmur ft. Tony
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/04. Jendras - Drapacz Chmur ft. Tony (official video) [4K] (1).mp3
+#EXTINF:219,Jendras - Drapacz Chmur ft. Tony
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/04. Jendras - Drapacz Chmur ft. Tony (official video) [4K].mp3
+#EXTINF:157,Jendras - Nieistotne
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/05. Jendras - Nieistotne ( official video 4K) (1).mp3
+#EXTINF:157,Jendras - Nieistotne
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/05. Jendras - Nieistotne ( official video 4K).mp3
+#EXTINF:238,Jendras - Wenus ft. AdE, Karo G, Maggy Moroz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/06. Jendras - Wenus ft. AdE, Karo G, Maggy Moroz (prod. Jendrasmusic) [4K] (1).mp3
+#EXTINF:238,Jendras - Wenus ft. AdE, Karo G, Maggy Moroz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/06. Jendras - Wenus ft. AdE, Karo G, Maggy Moroz (prod. Jendrasmusic) [4K].mp3
+#EXTINF:218,Jendras - Kocham_Nienawidzę
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/07. Jendras - Kocham_Nienawidzę (feat. Golan) (1).mp3
+#EXTINF:218,Jendras - Kocham_Nienawidzę
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/07. Jendras - Kocham_Nienawidzę (feat. Golan).mp3
+#EXTINF:197,Jendras - Odwaga
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/08. Jendras - Odwaga (feat. Karo G) (1).mp3
+#EXTINF:197,Jendras - Odwaga
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/08. Jendras - Odwaga (feat. Karo G).mp3
+#EXTINF:191,Jendras - Zostaw to
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/09. Jendras - Zostaw to (feat. AV) (1).mp3
+#EXTINF:191,Jendras - Zostaw to
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/09. Jendras - Zostaw to (feat. AV).mp3
+#EXTINF:201,Jendras - Miami
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/10. Jendras - Miami (official video 4K) (1).mp3
+#EXTINF:201,Jendras - Miami
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/10. Jendras - Miami (official video 4K).mp3
+#EXTINF:176,Jendras - Chory feat.Golan
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/11. Jendras - Chory feat.Golan (official video) [4K].mp3
+#EXTINF:185,Jendras - One Last Ride
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/12. Jendras - One Last Ride (feat. Karo G) (1).mp3
+#EXTINF:185,Jendras - One Last Ride
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jendras - Soundtrack' (Pełny album)/12. Jendras - One Last Ride (feat. Karo G).mp3
+#EXTINF:287,Jerli - Fokus
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jerli - IX MSCY/1. Jerli - Fokus ( IX MSCY).mp3
+#EXTINF:161,Jerli x Młody M - W Ciele Nieswoim ( IX MSCY )
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jerli - IX MSCY/2. Jerli x Młody M - W Ciele Nieswoim ( IX MSCY ).mp3
+#EXTINF:283,Jędrzej & Andrzej Dybiec - Napij Się feat. Fiłoń (Cuty. DJ Nambear) [4K]
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jędrzej/1. Jędrzej & Andrzej Dybiec - Napij Się feat. Fiłoń (Cuty. DJ Nambear) [4K].mp3
+#EXTINF:201,Jędrzej - Mama Się Nie Dowie
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jędrzej/2. Jędrzej - Mama Się Nie Dowie.mp3
+#EXTINF:299,Jędrzej - Tata Się Dowiedział
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jędrzej/3. Jędrzej - Tata Się Dowiedział.mp3
+#EXTINF:196,Jędrzej - Podejdź
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jędrzej/4. Jędrzej - Podejdź.mp3
+#EXTINF:119,Jointer - Młoda Bomba
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jointer - Rozrywka EP/1. Jointer - Młoda Bomba.mp3
+#EXTINF:112,Jointer - Jointrawolta
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jointer - Rozrywka EP/2. Jointer - Jointrawolta.mp3
+#EXTINF:133,Jointer - Faraon
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jointer - Rozrywka EP/3. Jointer - Faraon.mp3
+#EXTINF:224,Jointer - Jestem Tu Jointerem
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jointer - Rozrywka EP/4. Jointer - Jestem Tu Jointerem.mp3
+#EXTINF:224,Jointer - Ogarnięte mam
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jointer - Rozrywka EP/5. Jointer - Ogarnięte mam.mp3
+#EXTINF:259,Jointer - Zaprawy
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jointer - Rozrywka EP/6. Jointer - Zaprawy.mp3
+#EXTINF:126,Jointer - Zamuliłem
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Jointer - Rozrywka EP/7. Jointer - Zamuliłem.mp3
+#EXTINF:220,KaeN - Serum
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - 88 EP/1. KaeN - Serum (prod. Juicy) [4K].mp3
+#EXTINF:218,KaeN - Czemu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - 88 EP/2. KaeN - Czemu (prod. Juicy).mp3
+#EXTINF:209,KaeN - Nie wszystek umrę
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - 88 EP/3. KaeN - Nie wszystek umrę (prod. Poszwixxx) [4K].mp3
+#EXTINF:211,KaeN - Cały Sqad
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - 88 EP/4. KaeN - Cały Sqad (prod. Świerzba)[4K].mp3
+#EXTINF:197,KaeN - Głos pokolenia
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - 88 EP/5. KaeN - Głos pokolenia (prod. Juicy)[4K].mp3
+#EXTINF:205,KaeN - Puncher
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - 88 EP/6. KaeN - Puncher (Prod. CrackHouse).mp3
+#EXTINF:187,KaeN - Ruchy
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - 88 EP/7. KaeN -  Ruchy (prod. CrackHouse).mp3
+#EXTINF:216,KaeN - Booyaka feat. Peja, Bilon, Juras
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - 88 EP/8. KaeN - Booyaka feat. Peja, Bilon, Juras (prod. Juicy).mp3
+#EXTINF:217,KaeN - Pospolitarzecz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - 88 EP/9. KaeN - Pospolitarzecz (prod. MaroMusic).mp3
+#EXTINF:225,Kim jestem - KaeN feat. Kamil Bijoś
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Debiut (cały album)/01. KaeN feat. Kamil Bijoś - Kim jestem.mp3
+#EXTINF:200,KaeN - Victoria
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Debiut (cały album)/02. KaeN - Victoria.mp3
+#EXTINF:204,KaeN feat. Lanberry - Nie chcę (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Debiut (cały album)/03. KaeN feat. Lanberry - Nie chcę (audio).mp3
+#EXTINF:202,KaeN - Dziwka
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Debiut (cały album)/04. KaeN - Dziwka (audio).mp3
+#EXTINF:198,KaeN feat. Mateusz Krautwurst - Granice (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Debiut (cały album)/05. KaeN feat. Mateusz Krautwurst - Granice (audio).mp3
+#EXTINF:275,KaeN - Flashback
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Debiut (cały album)/06. KaeN - Flashback.mp3
+#EXTINF:238,KaeN - Zemsty nadszedł czas
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Debiut (cały album)/07. KaeN - Zemsty nadszedł czas (audio).mp3
+#EXTINF:264,Szepty - KaeN feat. Michał Grobelny, Tomek Torres
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Debiut (cały album)/08. KaeN feat. Michał Grobelny, Tomek Torres - Szepty.mp3
+#EXTINF:231,KaeN - Rejs
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Debiut (cały album)/09. KaeN - Rejs (audio).mp3
+#EXTINF:301,KaeN - Edward Mordake
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Debiut (cały album)/10. KaeN - Edward Mordake.mp3
+#EXTINF:198,KaeN feat. Lanberry - Relikt (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Debiut (cały album)/11. KaeN feat. Lanberry - Relikt (audio).mp3
+#EXTINF:209,KaeN feat. Sylwia Dynek - Zawleczka (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Debiut (cały album)/12. KaeN feat. Sylwia Dynek - Zawleczka (audio).mp3
+#EXTINF:238,KaeN feat. Tomek Torres - La la la (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Debiut (cały album)/13. KaeN feat. Tomek Torres - La la la (audio).mp3
+#EXTINF:157,KaeN - Podaj Dalej
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/01. KaeN - Podaj Dalej (prod. skrecz FeRu) RMX.mp3
+#EXTINF:173,KaeN - Mniejsza O Szczegóły
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/02. KaeN - Mniejsza O Szczegóły (prod. FeRu) RMX.mp3
+#EXTINF:183,KaeN - Sztuka Ulicy
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/03. KaeN - Sztuka Ulicy (prod. Chmoorson).mp3
+#EXTINF:150,KaeN - Nie Chcę
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/04. KaeN - Nie Chcę (prod. FeRu).mp3
+#EXTINF:173,KaeN - Jak Na Dłoni
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/05. KaeN - Jak Na Dłoni (prod. FeRu, cuty Dj Danek).mp3
+#EXTINF:148,KaeN - Styl Nad Stylem
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/06. KaeN - Styl Nad Stylem (prod. FeRu).mp3
+#EXTINF:145,KaeN - Jak Cię Widzą Tak Cię Piszą
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/07. KaeN - Jak Cię Widzą Tak Cię Piszą (prod. Chmoorson).mp3
+#EXTINF:190,KaeN - Domysły
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/08. KaeN - Domysły (prod. Trickz).mp3
+#EXTINF:186,KaeN - Podaj Dalej
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/09. KaeN - Podaj Dalej (prod. FeRu, cuty Dj Danek).mp3
+#EXTINF:169,KaeN - Na Własne Życzenie
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/10. KaeN - Na Własne Życzenie (prod. FeRu).mp3
+#EXTINF:194,KaeN - Mniejsza O Szczegóły
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/11. KaeN - Mniejsza O Szczegóły (prod. Virus).mp3
+#EXTINF:167,KaeN - Daję Rap
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/12. KaeN - Daję Rap (prod. Virus).mp3
+#EXTINF:163,KaeN - Jak Cholera
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/13. KaeN - Jak Cholera (prod. FeRu, cuty Dj Danek).mp3
+#EXTINF:204,KaeN - Moralny Upadek
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/14. KaeN - Moralny Upadek (prod. Trickz).mp3
+#EXTINF:168,KaeN - Melancholia
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/15. KaeN - Melancholia (prod. FeRu).mp3
+#EXTINF:168,KaeN - Kolejny Krok
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Sztuka Ulicy (Nielegal 2009)/16. KaeN - Kolejny Krok (prod. FeRu).mp3
+#EXTINF:213,KaeN - Żyj Albo Umieraj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Żyj albo umieraj ( 2007 r. )/01. KaeN - Żyj Albo Umieraj.mp3
+#EXTINF:196,KaeN - Grzech za grzechem
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Żyj albo umieraj ( 2007 r. )/02. KaeN - Grzech za grzechem.mp3
+#EXTINF:194,KaeN - Zdrowy Rozsądek feat Coma
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Żyj albo umieraj ( 2007 r. )/03. KaeN - Zdrowy Rozsądek feat Coma.mp3
+#EXTINF:192,KaeN - O Nic Się Nie Pytaj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Żyj albo umieraj ( 2007 r. )/04. KaeN - O Nic Się Nie Pytaj.mp3
+#EXTINF:185,KaeN - Gdzie Jest Raj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Żyj albo umieraj ( 2007 r. )/05. KaeN - Gdzie Jest Raj.mp3
+#EXTINF:107,KaeN - Siła Rymów
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Żyj albo umieraj ( 2007 r. )/06. KaeN - Siła Rymów (feat. ŚP Mika).mp3
+#EXTINF:194,KaeN - Po Prostu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Żyj albo umieraj ( 2007 r. )/07. KaeN - Po Prostu.mp3
+#EXTINF:182,KaeN - Nie Tak Miało Być
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Żyj albo umieraj ( 2007 r. )/08. KaeN - Nie Tak Miało Być.mp3
+#EXTINF:160,KaeN - Gdzie Jest Raj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Żyj albo umieraj ( 2007 r. )/09. KaeN - Gdzie Jest Raj (Remix).mp3
+#EXTINF:165,KaeN - Rzeczywistość
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Żyj albo umieraj ( 2007 r. )/10. KaeN - Rzeczywistość (feat. Bengal).mp3
+#EXTINF:186,KaeN - Nie Chciałem
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Żyj albo umieraj ( 2007 r. )/11. KaeN - Nie Chciałem.mp3
+#EXTINF:203,KaeN - Znowu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Żyj albo umieraj ( 2007 r. )/12. KaeN - Znowu (feat. SK).mp3
+#EXTINF:248,KaeN - Szacunek
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN - Żyj albo umieraj ( 2007 r. )/14. KaeN - Szacunek (feat SK, Beny).mp3
+#EXTINF:268,KaeN - Daj to na full  feat. Brahu x Bezczel x Sylwia Dynek x Juras x Fu x Dj Grubaz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/01. KaeN - Daj to na full  feat. Brahu x Bezczel x Sylwia Dynek x Juras x Fu x Dj Grubaz ( prod. RX.mp3
+#EXTINF:260,KaeN - Dron
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/02. KaeN - Dron (prod.  Świerzba) Official Video [ 4K ]  Altereggo TeamTape.mp3
+#EXTINF:190,KaeN x Kaz Bałagane X Red - Oszustki (Prod. Smolasty) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/03. KaeN x Kaz Bałagane X Red - Oszustki (Prod. Smolasty)  Altereggo TeamTape (2).mp3
+#EXTINF:190,KaeN x Kaz Bałagane X Red - Oszustki (Prod. Smolasty) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/03. KaeN x Kaz Bałagane X Red - Oszustki (Prod. Smolasty)  Altereggo TeamTape.mp3
+#EXTINF:340,KaeN x PTP - Chodzi o to (prod. Juicy) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/04. KaeN x PTP - Chodzi o to (prod. Juicy)  Altereggo TeamTape (2).mp3
+#EXTINF:184,Spalto x Rastamaniek x PJK Eastny - Co To Był Za Melanż (prod. Rey Ceballo & Eddy Aguero) | ATT
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/05. Spalto x Rastamaniek x PJK Eastny - Co To Był Za Melanż (prod. Rey Ceballo & Eddy Aguero)  ATT.mp3
+#EXTINF:226,KaeN x PJK Eastny x Kaczor cuty Dj Frodo - #1 (Prod. Wilkulon) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/06. KaeN x PJK Eastny x Kaczor cuty Dj Frodo - #1 (Prod. Wilkulon)  Altereggo TeamTape.mp3
+#EXTINF:324,PeRJot X Kafar Dix37 - Trans prod. Krowa | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/07. PeRJot X Kafar Dix37 - Trans prod. Krowa  Altereggo TeamTape.mp3
+#EXTINF:263,KaeN x Sylwia Dynek x Kizo x Kaszub - Gdzie nie spojrzę
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/08. KaeN x Sylwia Dynek x Kizo x Kaszub - Gdzie nie spojrzę (prod. Juicy)  Altereggo TeamTape.mp3
+#EXTINF:55,KaeN x Vienio - Skit | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/09. KaeN x Vienio - Skit  Altereggo TeamTape.mp3
+#EXTINF:234,KaeN - Altereggo Team
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/10. KaeN - Altereggo Team (Prod. IVE)  Altereggo TeamTape.mp3
+#EXTINF:246,PeRJot x Roman Bosski - Rap niech żyje prod. IVE
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/11. PeRJot x Roman Bosski - Rap niech żyje prod. IVE ( Official Video )  Altereggo TeamTape.mp3
+#EXTINF:246,KaeN x Rover - Ćma
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/12. KaeN x Rover - Ćma (prod. Poszwixxx)  Altereggo TeamTape.mp3
+#EXTINF:155,Beny B x KaeN - Umrę śmiejąc się
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/13. Beny B x KaeN - Umrę śmiejąc się (prod. TMK Beatz)  Altereggo TeamTape.mp3
+#EXTINF:223,KaeN x PIH x Roman Bosski - Nostalgia (prod. RX)  | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/14. KaeN x PIH x Roman Bosski - Nostalgia (prod. RX)   Altereggo TeamTape.mp3
+#EXTINF:147,Malik Montana x KaeN - Minnie Mouse (prod. Olek)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/15. Malik Montana x KaeN - Minnie Mouse (prod. Olek).mp3
+#EXTINF:175,KaeN x Sylwia Dynek x Rena - Nigdy więcej (Prod. Juicy)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/16. KaeN x Sylwia Dynek x Rena - Nigdy więcej (Prod. Juicy).mp3
+#EXTINF:196,PJK Eastny - A niech pierdolą
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/17. PJK Eastny - A niech pierdolą (prod. TOM AROX).mp3
+#EXTINF:219,KaeN x Balu x Beny B - Bagno
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/18. KaeN x Balu x Beny B - Bagno (Prod. RX)  Altereggo TeamTape.mp3
+#EXTINF:253,PeRJot x KaeN x Amator - Dygest
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/19. PeRJot x KaeN x Amator - Dygest (prod. DNA)  Altereggo TeamTape.mp3
+#EXTINF:238,KaeN x Sobota - Bierz co chcesz (Prod. MaroMusic) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/20. KaeN x Sobota - Bierz co chcesz (Prod. MaroMusic)  Altereggo TeamTape.mp3
+#EXTINF:246,Jahbestin x Foreman x PeRJot x Beny B - Fenix (prod. Świerzba) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/21. Jahbestin x Foreman x PeRJot x Beny B - Fenix (prod. Świerzba)  Altereggo TeamTape.mp3
+#EXTINF:208,KaeN x DJ Grubaz - Nienormalnie normalny
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/22. KaeN x DJ Grubaz - Nienormalnie normalny (prod. Poszwixxx)  Altereggo TeamTape.mp3
+#EXTINF:252,PJK Eastny x MOMO x PeRJot x Jerli - Ździra [OFFICIAL VIDEO]
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/23. PJK Eastny x MOMO x PeRJot x Jerli - Ździra [OFFICIAL VIDEO].mp3
+#EXTINF:214,PeRJot - Ja tak gram
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/24. PeRJot - Ja tak gram (prod. Krowa).mp3
+#EXTINF:324,KaeN x DJ Grubaz - Krople
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/25. KaeN x DJ Grubaz - Krople (prod. Poszwixxx).mp3
+#EXTINF:246,Balu x Bezczel - Sztywniutko (prod. WOWO)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/26. Balu x Bezczel - Sztywniutko (prod. WOWO).mp3
+#EXTINF:218,KaeN x Sobota - Bierz co chcesz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN prezentuje Altereggo TeamTape/27. KaeN x Sobota - Bierz co chcesz (prod. Świerzba) REMIX.mp3
+#EXTINF:220,KaeN - Serum
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/01. KaeN - Serum (prod. Juicy) [4K] (1).mp3
+#EXTINF:220,KaeN - Serum
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/01. KaeN - Serum (prod. Juicy) [4K].mp3
+#EXTINF:217,KaeN - Pospolitarzecz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/02. KaeN - Pospolitarzecz (prod. MaroMusic) (1).mp3
+#EXTINF:217,KaeN - Pospolitarzecz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/02. KaeN - Pospolitarzecz (prod. MaroMusic).mp3
+#EXTINF:216,KaeN - Booyaka feat. Peja, Bilon, Juras
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/03. KaeN - Booyaka feat. Peja, Bilon, Juras (prod. Juicy) (1).mp3
+#EXTINF:216,KaeN - Booyaka feat. Peja, Bilon, Juras
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/03. KaeN - Booyaka feat. Peja, Bilon, Juras (prod. Juicy).mp3
+#EXTINF:187,KaeN - Ruchy
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/04. KaeN -  Ruchy (prod. CrackHouse) (1).mp3
+#EXTINF:187,KaeN - Ruchy
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/04. KaeN -  Ruchy (prod. CrackHouse).mp3
+#EXTINF:205,KaeN - Puncher
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/05. KaeN - Puncher (Prod. CrackHouse) (1).mp3
+#EXTINF:205,KaeN - Puncher
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/05. KaeN - Puncher (Prod. CrackHouse).mp3
+#EXTINF:197,KaeN - Głos pokolenia
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/06. KaeN - Głos pokolenia (prod. Juicy)[4K] (1).mp3
+#EXTINF:197,KaeN - Głos pokolenia
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/06. KaeN - Głos pokolenia (prod. Juicy)[4K].mp3
+#EXTINF:211,KaeN - Cały Sqad
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/07. KaeN - Cały Sqad (prod. Świerzba)[4K] (1).mp3
+#EXTINF:211,KaeN - Cały Sqad
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/07. KaeN - Cały Sqad (prod. Świerzba)[4K].mp3
+#EXTINF:209,KaeN - Nie wszystek umrę
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/08. KaeN - Nie wszystek umrę (prod. Poszwixxx) [4K] (1).mp3
+#EXTINF:209,KaeN - Nie wszystek umrę
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/08. KaeN - Nie wszystek umrę (prod. Poszwixxx) [4K].mp3
+#EXTINF:218,KaeN - Czemu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/09. KaeN - Czemu (prod. Juicy) (1).mp3
+#EXTINF:218,KaeN - Czemu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/09. KaeN - Czemu (prod. Juicy).mp3
+#EXTINF:314,PJK Eastny - Jedziemy feat. Młody M, Tobik, TriKu, Rastamaniek, KaeN, Rudy, SK, Dejw
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/10. PJK Eastny - Jedziemy feat. Młody M, Tobik, TriKu, Rastamaniek, KaeN, Rudy, SK, Dejw (1).mp3
+#EXTINF:314,PJK Eastny - Jedziemy feat. Młody M, Tobik, TriKu, Rastamaniek, KaeN, Rudy, SK, Dejw
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/10. PJK Eastny - Jedziemy feat. Młody M, Tobik, TriKu, Rastamaniek, KaeN, Rudy, SK, Dejw.mp3
+#EXTINF:260,KaeN - Dron
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/11. KaeN - Dron (prod.  Świerzba) Official Video [ 4K ]  Altereggo TeamTape (1).mp3
+#EXTINF:260,KaeN - Dron
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/11. KaeN - Dron (prod.  Świerzba) Official Video [ 4K ]  Altereggo TeamTape.mp3
+#EXTINF:161,KaeN - Gdzie Jest Raj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/12. KaeN - Gdzie Jest Raj   (RMX 2) (1).mp3
+#EXTINF:161,KaeN - Gdzie Jest Raj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/12. KaeN - Gdzie Jest Raj   (RMX 2).mp3
+#EXTINF:196,KaeN - Grzech za grzechem
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/13. KaeN - Grzech za grzechem (1).mp3
+#EXTINF:196,KaeN - Grzech za grzechem
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/13. KaeN - Grzech za grzechem.mp3
+#EXTINF:213,KaeN - Żyj Albo Umieraj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/14. KaeN - Żyj Albo Umieraj (1).mp3
+#EXTINF:213,KaeN - Żyj Albo Umieraj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/14. KaeN - Żyj Albo Umieraj.mp3
+#EXTINF:203,KaeN - Znowu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/15. KaeN - Znowu (feat. SK) (1).mp3
+#EXTINF:203,KaeN - Znowu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/15. KaeN - Znowu (feat. SK).mp3
+#EXTINF:194,KaeN - Zdrowy Rozsądek feat Coma
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/16. KaeN - Zdrowy Rozsądek feat Coma (1).mp3
+#EXTINF:194,KaeN - Zdrowy Rozsądek feat Coma
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/16. KaeN - Zdrowy Rozsądek feat Coma.mp3
+#EXTINF:248,KaeN - Szacunek
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/17. KaeN - Szacunek (feat SK, Beny) (1).mp3
+#EXTINF:248,KaeN - Szacunek
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/17. KaeN - Szacunek (feat SK, Beny).mp3
+#EXTINF:107,KaeN - Siła Rymów
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/18. KaeN - Siła Rymów (feat. ŚP Mika) (1).mp3
+#EXTINF:107,KaeN - Siła Rymów
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/18. KaeN - Siła Rymów (feat. ŚP Mika).mp3
+#EXTINF:165,KaeN - Rzeczywistość
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/19. KaeN - Rzeczywistość (feat. Bengal) (1).mp3
+#EXTINF:165,KaeN - Rzeczywistość
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/19. KaeN - Rzeczywistość (feat. Bengal).mp3
+#EXTINF:194,KaeN - Po Prostu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/20. KaeN - Po Prostu (1).mp3
+#EXTINF:194,KaeN - Po Prostu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/20. KaeN - Po Prostu.mp3
+#EXTINF:192,KaeN - O Nic Się Nie Pytaj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/21. KaeN - O Nic Się Nie Pytaj (1).mp3
+#EXTINF:192,KaeN - O Nic Się Nie Pytaj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/21. KaeN - O Nic Się Nie Pytaj.mp3
+#EXTINF:182,KaeN - Nie Tak Miało Być
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/22. KaeN - Nie Tak Miało Być (1).mp3
+#EXTINF:182,KaeN - Nie Tak Miało Być
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/22. KaeN - Nie Tak Miało Być.mp3
+#EXTINF:186,KaeN - Nie Chciałem
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/23. KaeN - Nie Chciałem (1).mp3
+#EXTINF:186,KaeN - Nie Chciałem
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/23. KaeN - Nie Chciałem.mp3
+#EXTINF:185,KaeN - Gdzie Jest Raj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/24. KaeN - Gdzie Jest Raj (1).mp3
+#EXTINF:185,KaeN - Gdzie Jest Raj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/24. KaeN - Gdzie Jest Raj.mp3
+#EXTINF:160,KaeN - Gdzie Jest Raj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/25. KaeN - Gdzie Jest Raj (Remix) (1).mp3
+#EXTINF:160,KaeN - Gdzie Jest Raj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/25. KaeN - Gdzie Jest Raj (Remix).mp3
+#EXTINF:218,KaeN x Sobota - Bierz co chcesz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/26. KaeN x Sobota - Bierz co chcesz (prod. Świerzba) REMIX (1).mp3
+#EXTINF:218,KaeN x Sobota - Bierz co chcesz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/26. KaeN x Sobota - Bierz co chcesz (prod. Świerzba) REMIX.mp3
+#EXTINF:324,KaeN x DJ Grubaz - Krople
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/27. KaeN x DJ Grubaz - Krople (prod. Poszwixxx) (1).mp3
+#EXTINF:324,KaeN x DJ Grubaz - Krople
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/27. KaeN x DJ Grubaz - Krople (prod. Poszwixxx).mp3
+#EXTINF:208,KaeN x DJ Grubaz - Nienormalnie normalny
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/28. KaeN x DJ Grubaz - Nienormalnie normalny (prod. Poszwixxx)  Altereggo TeamTape (1).mp3
+#EXTINF:208,KaeN x DJ Grubaz - Nienormalnie normalny
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/28. KaeN x DJ Grubaz - Nienormalnie normalny (prod. Poszwixxx)  Altereggo TeamTape.mp3
+#EXTINF:253,PeRJot x KaeN x Amator - Dygest
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/29. PeRJot x KaeN x Amator - Dygest (prod. DNA)  Altereggo TeamTape (1).mp3
+#EXTINF:253,PeRJot x KaeN x Amator - Dygest
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/29. PeRJot x KaeN x Amator - Dygest (prod. DNA)  Altereggo TeamTape.mp3
+#EXTINF:223,KaeN x Balu x Beny B - Bagno
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/30. KaeN x Balu x Beny B - Bagno (prod. RX)  Altereggo TeamTape (1).mp3
+#EXTINF:223,KaeN x Balu x Beny B - Bagno
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/30. KaeN x Balu x Beny B - Bagno (prod. RX)  Altereggo TeamTape.mp3
+#EXTINF:216,KaeN x PIH x Roman Bosski - Nostalgia (prod. RX) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/31. KaeN x PIH x Roman Bosski - Nostalgia (prod. RX)  Altereggo TeamTape (1).mp3
+#EXTINF:216,KaeN x PIH x Roman Bosski - Nostalgia (prod. RX) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/31. KaeN x PIH x Roman Bosski - Nostalgia (prod. RX)  Altereggo TeamTape.mp3
+#EXTINF:246,KaeN x Rover - Ćma
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/32. KaeN x Rover - Ćma (prod. Poszwixxx)  Altereggo TeamTape (1).mp3
+#EXTINF:246,KaeN x Rover - Ćma
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/32. KaeN x Rover - Ćma (prod. Poszwixxx)  Altereggo TeamTape.mp3
+#EXTINF:234,KaeN - Altereggo Team
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/33. KaeN - Altereggo Team (Prod. IVE)  Altereggo TeamTape (1).mp3
+#EXTINF:234,KaeN - Altereggo Team
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/33. KaeN - Altereggo Team (Prod. IVE)  Altereggo TeamTape.mp3
+#EXTINF:55,KaeN x Vienio - Skit | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/34. KaeN x Vienio - Skit  Altereggo TeamTape (1).mp3
+#EXTINF:55,KaeN x Vienio - Skit | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/34. KaeN x Vienio - Skit  Altereggo TeamTape.mp3
+#EXTINF:263,KaeN x Sylwia Dynek x Kizo x Kaszub - Gdzie nie spojrzę
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/35. KaeN x Sylwia Dynek x Kizo x Kaszub - Gdzie nie spojrzę (prod. Juicy)  Altereggo TeamTape (1).mp3
+#EXTINF:263,KaeN x Sylwia Dynek x Kizo x Kaszub - Gdzie nie spojrzę
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/35. KaeN x Sylwia Dynek x Kizo x Kaszub - Gdzie nie spojrzę (prod. Juicy)  Altereggo TeamTape.mp3
+#EXTINF:332,PTP x KaeN - Chodzi o to
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/36. PTP x KaeN - Chodzi o to (prod. Juicy)  Altereggo TeamTape (1).mp3
+#EXTINF:332,PTP x KaeN - Chodzi o to
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/36. PTP x KaeN - Chodzi o to (prod. Juicy)  Altereggo TeamTape.mp3
+#EXTINF:160,Red x KaeN x Kaz Bałagane - Oszustki
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/37. Red x KaeN x Kaz Bałagane - Oszustki (prod Smolasty)  Altereggo TeamTape (1).mp3
+#EXTINF:160,Red x KaeN x Kaz Bałagane - Oszustki
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/37. Red x KaeN x Kaz Bałagane - Oszustki (prod Smolasty)  Altereggo TeamTape.mp3
+#EXTINF:245,KaeN - Dron
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/38. KaeN - Dron (prod. Świerzba)  Altereggo TeamTape (1).mp3
+#EXTINF:245,KaeN - Dron
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/38. KaeN - Dron (prod. Świerzba)  Altereggo TeamTape.mp3
+#EXTINF:223,KaeN x PIH x Roman Bosski - Nostalgia (prod. RX)  | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/39. KaeN x PIH x Roman Bosski - Nostalgia (prod. RX)   Altereggo TeamTape (1).mp3
+#EXTINF:223,KaeN x PIH x Roman Bosski - Nostalgia (prod. RX)  | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/39. KaeN x PIH x Roman Bosski - Nostalgia (prod. RX)   Altereggo TeamTape.mp3
+#EXTINF:190,KaeN x Kaz Bałagane X Red - Oszustki (Prod. Smolasty) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/40. KaeN x Kaz Bałagane X Red - Oszustki (Prod. Smolasty)  Altereggo TeamTape (1).mp3
+#EXTINF:190,KaeN x Kaz Bałagane X Red - Oszustki (Prod. Smolasty) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/40. KaeN x Kaz Bałagane X Red - Oszustki (Prod. Smolasty)  Altereggo TeamTape.mp3
+#EXTINF:238,KaeN x Sobota - Bierz co chcesz (Prod. MaroMusic) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/41. KaeN x Sobota - Bierz co chcesz (Prod. MaroMusic)  Altereggo TeamTape (1).mp3
+#EXTINF:238,KaeN x Sobota - Bierz co chcesz (Prod. MaroMusic) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/41. KaeN x Sobota - Bierz co chcesz (Prod. MaroMusic)  Altereggo TeamTape.mp3
+#EXTINF:137,KaeN - Wojna
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/42. KaeN - Wojna (Prod. IVE) (1).mp3
+#EXTINF:137,KaeN - Wojna
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/42. KaeN - Wojna (Prod. IVE).mp3
+#EXTINF:175,KaeN x Sylwia Dynek x Rena - Nigdy więcej (Prod. Juicy)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/43. KaeN x Sylwia Dynek x Rena - Nigdy więcej (Prod. Juicy) (1).mp3
+#EXTINF:175,KaeN x Sylwia Dynek x Rena - Nigdy więcej (Prod. Juicy)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/43. KaeN x Sylwia Dynek x Rena - Nigdy więcej (Prod. Juicy).mp3
+#EXTINF:171,KaeN - Pet
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/44. KaeN - Pet  (Te-Tris Diss) (1).mp3
+#EXTINF:171,KaeN - Pet
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/44. KaeN - Pet  (Te-Tris Diss).mp3
+#EXTINF:135,KaeN - Wojna
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/45. KaeN - Wojna (Prod. IVE) (1).mp3
+#EXTINF:135,KaeN - Wojna
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/45. KaeN - Wojna (Prod. IVE).mp3
+#EXTINF:210,KaeN - Zdychaj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/46. KaeN - Zdychaj (Prod. IVE) (1).mp3
+#EXTINF:210,KaeN - Zdychaj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/46. KaeN - Zdychaj (Prod. IVE).mp3
+#EXTINF:227,KaeN - Chaos
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/47. KaeN - Chaos (1).mp3
+#EXTINF:227,KaeN - Chaos
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/47. KaeN - Chaos.mp3
+#EXTINF:195,KaeN - Mniejsza O Szczegóły
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/48. KaeN - Mniejsza O Szczegóły (Prod. Virus) (1).mp3
+#EXTINF:195,KaeN - Mniejsza O Szczegóły
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/48. KaeN - Mniejsza O Szczegóły (Prod. Virus).mp3
+#EXTINF:249,KaeN - Tylko Śmierć może mnie zatrzymać
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/49. KaeN - Tylko Śmierć może mnie zatrzymać (1).mp3
+#EXTINF:249,KaeN - Tylko Śmierć może mnie zatrzymać
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/49. KaeN - Tylko Śmierć może mnie zatrzymać.mp3
+#EXTINF:223,KaeN - Nie wszystko stracone
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/50. KaeN - Nie wszystko stracone (audio) (1).mp3
+#EXTINF:223,KaeN - Nie wszystko stracone
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/50. KaeN - Nie wszystko stracone (audio).mp3
+#EXTINF:196,KaeN feat. Gosia Bernatowicz - Labirynt (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/51. KaeN feat. Gosia Bernatowicz - Labirynt (audio) (1).mp3
+#EXTINF:196,KaeN feat. Gosia Bernatowicz - Labirynt (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/51. KaeN feat. Gosia Bernatowicz - Labirynt (audio).mp3
+#EXTINF:245,KaeN feat. DJ Noriz - Fuck # (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/52. KaeN feat. DJ Noriz - Fuck # (audio) (1).mp3
+#EXTINF:245,KaeN feat. DJ Noriz - Fuck # (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/52. KaeN feat. DJ Noriz - Fuck # (audio).mp3
+#EXTINF:204,KaeN - Singiel
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/53. KaeN - Singiel (audio) (1).mp3
+#EXTINF:204,KaeN - Singiel
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/53. KaeN - Singiel (audio).mp3
+#EXTINF:238,KaeN feat. Paulina Szurnicka - Za horyzontem (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/54. KaeN feat. Paulina Szurnicka - Za horyzontem (audio) (1).mp3
+#EXTINF:238,KaeN feat. Paulina Szurnicka - Za horyzontem (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/54. KaeN feat. Paulina Szurnicka - Za horyzontem (audio).mp3
+#EXTINF:244,KaeN feat. Chada, DJ Frodo - Piętno dilera (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/55. KaeN feat. Chada, DJ Frodo - Piętno dilera (audio) (1).mp3
+#EXTINF:244,KaeN feat. Chada, DJ Frodo - Piętno dilera (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/55. KaeN feat. Chada, DJ Frodo - Piętno dilera (audio).mp3
+#EXTINF:262,KaeN - Bajka
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/56. KaeN - Bajka (audio) (1).mp3
+#EXTINF:262,KaeN - Bajka
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/56. KaeN - Bajka (audio).mp3
+#EXTINF:235,KaeN feat. Kroolik Underwood, DJ Grubaz - Oczy szeroko otwarte (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/57. KaeN feat. Kroolik Underwood, DJ Grubaz - Oczy szeroko otwarte (audio) (1).mp3
+#EXTINF:235,KaeN feat. Kroolik Underwood, DJ Grubaz - Oczy szeroko otwarte (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/57. KaeN feat. Kroolik Underwood, DJ Grubaz - Oczy szeroko otwarte (audio).mp3
+#EXTINF:259,KaeN - Ojcze nasz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/58. KaeN - Ojcze nasz (audio) (1).mp3
+#EXTINF:259,KaeN - Ojcze nasz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/58. KaeN - Ojcze nasz (audio).mp3
+#EXTINF:197,Wybór - KaeN feat. Grizzlee
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/59. KaeN feat. Grizzlee - Wybór (1).mp3
+#EXTINF:197,Wybór - KaeN feat. Grizzlee
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/59. KaeN feat. Grizzlee - Wybór.mp3
+#EXTINF:228,KaeN feat. DJ Noriz - W moich butach 2 (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/60. KaeN feat. DJ Noriz - W moich butach 2 (audio) (1).mp3
+#EXTINF:228,KaeN feat. DJ Noriz - W moich butach 2 (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/60. KaeN feat. DJ Noriz - W moich butach 2 (audio).mp3
+#EXTINF:272,KaeN feat. Gosia Bernatowicz - Krzyk
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/61. KaeN feat. Gosia Bernatowicz - Krzyk (audio) (1).mp3
+#EXTINF:272,KaeN feat. Gosia Bernatowicz - Krzyk
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/61. KaeN feat. Gosia Bernatowicz - Krzyk (audio).mp3
+#EXTINF:33,KaeN - Intro
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/62. KaeN - Intro (audio) (1).mp3
+#EXTINF:33,KaeN - Intro
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/62. KaeN - Intro (audio).mp3
+#EXTINF:171,KaeN - Piątek 13
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/63. KaeN - Piątek 13-go (audio) (1).mp3
+#EXTINF:171,KaeN - Piątek 13
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/63. KaeN - Piątek 13-go (audio).mp3
+#EXTINF:239,KaeN - Biały Śmieć
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/64. KaeN - Biały Śmieć (audio) (1).mp3
+#EXTINF:239,KaeN - Biały Śmieć
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/64. KaeN - Biały Śmieć (audio).mp3
+#EXTINF:212,KaeN - Pitbull
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/65. KaeN - Pitbull (audio) (1).mp3
+#EXTINF:212,KaeN - Pitbull
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/65. KaeN - Pitbull (audio).mp3
+#EXTINF:293,KaeN - Kartka z pamiętnika
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/66. KaeN - Kartka z pamiętnika (1).mp3
+#EXTINF:293,KaeN - Kartka z pamiętnika
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/66. KaeN - Kartka z pamiętnika.mp3
+#EXTINF:270,KaeN - K
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/67. KaeN - K-toś N-ieobliczalny (Porsche Kaen) (audio) (1).mp3
+#EXTINF:270,KaeN - K
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/67. KaeN - K-toś N-ieobliczalny (Porsche Kaen) (audio).mp3
+#EXTINF:33,KaeN - Bejbi K'naga skit 1
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/68. KaeN - Bejbi K'naga skit 1 (audio) (1).mp3
+#EXTINF:33,KaeN - Bejbi K'naga skit 1
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/68. KaeN - Bejbi K'naga skit 1 (audio).mp3
+#EXTINF:287,KaeN - Mów mi D.ave
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/69. KaeN - Mów mi D.ave (1).mp3
+#EXTINF:287,KaeN - Mów mi D.ave
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/69. KaeN - Mów mi D.ave.mp3
+#EXTINF:266,KaeN - Miałaś tu być
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/70. KaeN - Miałaś tu być (audio) (1).mp3
+#EXTINF:266,KaeN - Miałaś tu być
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/70. KaeN - Miałaś tu być (audio).mp3
+#EXTINF:256,KaeN - Dawaj z nami
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/71. KaeN - Dawaj z nami (1).mp3
+#EXTINF:256,KaeN - Dawaj z nami
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/71. KaeN - Dawaj z nami.mp3
+#EXTINF:332,KaeN - Ballada o Dawidzie Starejki
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/72. KaeN - Ballada o Dawidzie Starejki (audio) (1).mp3
+#EXTINF:332,KaeN - Ballada o Dawidzie Starejki
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/72. KaeN - Ballada o Dawidzie Starejki (audio).mp3
+#EXTINF:230,KaeN - Nie rozumiem fenomenu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/73. KaeN - Nie rozumiem fenomenu (1).mp3
+#EXTINF:230,KaeN - Nie rozumiem fenomenu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/73. KaeN - Nie rozumiem fenomenu.mp3
+#EXTINF:233,KaeN - Psychol
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/74. KaeN - Psychol (audio) (1).mp3
+#EXTINF:233,KaeN - Psychol
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/74. KaeN - Psychol (audio).mp3
+#EXTINF:211,KaeN feat. Brahu - Każdy kolejny krok (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/75. KaeN feat. Brahu - Każdy kolejny krok (audio) (1).mp3
+#EXTINF:211,KaeN feat. Brahu - Każdy kolejny krok (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/75. KaeN feat. Brahu - Każdy kolejny krok (audio).mp3
+#EXTINF:180,KaeN feat. Temate, Satyr, Parzel, Kizo, Rufuz - Patrzą na ręce (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/76. KaeN feat. Temate, Satyr, Parzel, Kizo, Rufuz - Patrzą na ręce (audio) (1).mp3
+#EXTINF:180,KaeN feat. Temate, Satyr, Parzel, Kizo, Rufuz - Patrzą na ręce (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/76. KaeN feat. Temate, Satyr, Parzel, Kizo, Rufuz - Patrzą na ręce (audio).mp3
+#EXTINF:280,Mimo wszystko - KaeN feat. Gosia Kutyła
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/77. KaeN feat. Gosia Kutyła - Mimo wszystko (1).mp3
+#EXTINF:280,Mimo wszystko - KaeN feat. Gosia Kutyła
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/77. KaeN feat. Gosia Kutyła - Mimo wszystko.mp3
+#EXTINF:266,KaeN feat. Bezczel, Bosski Roman - Setki kilometrów (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/78. KaeN feat. Bezczel, Bosski Roman - Setki kilometrów (audio) (1).mp3
+#EXTINF:266,KaeN feat. Bezczel, Bosski Roman - Setki kilometrów (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/78. KaeN feat. Bezczel, Bosski Roman - Setki kilometrów (audio).mp3
+#EXTINF:193,KaeN feat. RPS - Nie ma miejsca (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/79. KaeN feat. RPS - Nie ma miejsca (audio) (1).mp3
+#EXTINF:193,KaeN feat. RPS - Nie ma miejsca (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/79. KaeN feat. RPS - Nie ma miejsca (audio).mp3
+#EXTINF:284,Zbyt wiele - KaeN feat. Cheeba, WdoWA
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/80. KaeN feat. Cheeba, WdoWA - Zbyt wiele (1).mp3
+#EXTINF:284,Zbyt wiele - KaeN feat. Cheeba, WdoWA
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/80. KaeN feat. Cheeba, WdoWA - Zbyt wiele.mp3
+#EXTINF:290,KaeN feat. Kroolik Underwood - Muszę iść (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/81. KaeN feat. Kroolik Underwood - Muszę iść (audio) (1).mp3
+#EXTINF:290,KaeN feat. Kroolik Underwood - Muszę iść (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/81. KaeN feat. Kroolik Underwood - Muszę iść (audio).mp3
+#EXTINF:185,KaeN feat. Juras - Spójrz w lustro (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/82. KaeN feat. Juras - Spójrz w lustro (audio) (1).mp3
+#EXTINF:185,KaeN feat. Juras - Spójrz w lustro (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/82. KaeN feat. Juras - Spójrz w lustro (audio).mp3
+#EXTINF:172,KaeN feat. Kaz a.k.a. Bałagane - Ona (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/83. KaeN feat. Kaz a.k.a. Bałagane - Ona (audio) (1).mp3
+#EXTINF:172,KaeN feat. Kaz a.k.a. Bałagane - Ona (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/83. KaeN feat. Kaz a.k.a. Bałagane - Ona (audio).mp3
+#EXTINF:223,KaeN feat. ZWR, Beny B. - Zwyrodnialcy (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/84. KaeN feat. ZWR, Beny B. - Zwyrodnialcy (audio) (1).mp3
+#EXTINF:223,KaeN feat. ZWR, Beny B. - Zwyrodnialcy (audio)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/84. KaeN feat. ZWR, Beny B. - Zwyrodnialcy (audio).mp3
+#EXTINF:251,KaeN - Do przodu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/85. KaeN - Do przodu (audio) (1).mp3
+#EXTINF:251,KaeN - Do przodu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/85. KaeN - Do przodu (audio).mp3
+#EXTINF:41,KaeN - Outro
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/86. KaeN - Outro (audio) (1).mp3
+#EXTINF:41,KaeN - Outro
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/86. KaeN - Outro (audio).mp3
+#EXTINF:261,Kroolik Underwood feat. KaeN -''Dziki szał'' (prod. Kroolik Underwood)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/87. Kroolik Underwood feat. KaeN -''Dziki szał'' (prod. Kroolik Underwood) (1).mp3
+#EXTINF:261,Kroolik Underwood feat. KaeN -''Dziki szał'' (prod. Kroolik Underwood)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/87. Kroolik Underwood feat. KaeN -''Dziki szał'' (prod. Kroolik Underwood).mp3
+#EXTINF:256,Wirus - Wredny skurwiel feat Kaen prod Aglofellaz scr Dj Czarli
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/88. Wirus - Wredny skurwiel feat Kaen prod Aglofellaz scr Dj Czarli (1).mp3
+#EXTINF:256,Wirus - Wredny skurwiel feat Kaen prod Aglofellaz scr Dj Czarli
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/88. Wirus - Wredny skurwiel feat Kaen prod Aglofellaz scr Dj Czarli.mp3
+#EXTINF:340,Hudy HZD/Kazan/Pono/Pih/Peny/Żółf/Shiz Antidotum/KaeN/Frenchman - Być Kimś Być Sobą (prod. Zetena)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/89. Hudy HZDKazanPonoPihPenyŻółfShiz AntidotumKaeNFrenchman - Być Kimś Być Sobą (prod. Zetena) (1).mp3
+#EXTINF:340,Hudy HZD/Kazan/Pono/Pih/Peny/Żółf/Shiz Antidotum/KaeN/Frenchman - Być Kimś Być Sobą (prod. Zetena)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/89. Hudy HZDKazanPonoPihPenyŻółfShiz AntidotumKaeNFrenchman - Być Kimś Być Sobą (prod. Zetena).mp3
+#EXTINF:395,Bezczel - Proforma 2 RMX ft. Hukos, Onar, ZBUKU, Zeus, Kajman, KaeN, ZDUNO &
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/90. Bezczel - Proforma 2 RMX ft. Hukos, Onar, ZBUKU, Zeus, Kajman, KaeN, ZDUNO & (1).mp3
+#EXTINF:395,Bezczel - Proforma 2 RMX ft. Hukos, Onar, ZBUKU, Zeus, Kajman, KaeN, ZDUNO &
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/90. Bezczel - Proforma 2 RMX ft. Hukos, Onar, ZBUKU, Zeus, Kajman, KaeN, ZDUNO &.mp3
+#EXTINF:218,CD1:12. SŁOŃ/MIKSER - 86 feat. ERIPE, KAEN, PIH | OFICJALNY ODSŁUCH
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/91. CD112. SŁOŃMIKSER - 86 feat. ERIPE, KAEN, PIH  OFICJALNY ODSŁUCH (1).mp3
+#EXTINF:218,CD1:12. SŁOŃ/MIKSER - 86 feat. ERIPE, KAEN, PIH | OFICJALNY ODSŁUCH
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/91. CD112. SŁOŃMIKSER - 86 feat. ERIPE, KAEN, PIH  OFICJALNY ODSŁUCH.mp3
+#EXTINF:497,Prosto Mixtape 600V - U nas na Śródmieściu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/92. Prosto Mixtape 600V - U nas na Śródmieściu (1).mp3
+#EXTINF:497,Prosto Mixtape 600V - U nas na Śródmieściu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/92. Prosto Mixtape 600V - U nas na Śródmieściu.mp3
+#EXTINF:274,Buczer - Świr feat. KaeN by Dj Seli
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/93. Buczer-Świr feat. KaeN by Dj Seli-MIXTAPE BOSS (1).mp3
+#EXTINF:274,Buczer - Świr feat. KaeN by Dj Seli
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/93. Buczer-Świr feat. KaeN by Dj Seli-MIXTAPE BOSS.mp3
+#EXTINF:199,Kazan, Kaen, WARD - Nie podawaj sie za kogos kim nie jestes
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/94. Kazan, Kaen, WARD - Nie podawaj sie za kogos kim nie jestes (1).mp3
+#EXTINF:199,Kazan, Kaen, WARD - Nie podawaj sie za kogos kim nie jestes
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/94. Kazan, Kaen, WARD - Nie podawaj sie za kogos kim nie jestes.mp3
+#EXTINF:231,DM3 - Bosski, Kaen, Młody Bosski
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/95. DM3-Bosski, Kaen, Młody Bosski-Lepsza Wersja prod.Bngrski (1).mp3
+#EXTINF:231,DM3 - Bosski, Kaen, Młody Bosski
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/95. DM3-Bosski, Kaen, Młody Bosski-Lepsza Wersja prod.Bngrski.mp3
+#EXTINF:196,KaeN - Tak bardzo
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/96. KaeN - Tak bardzo (audio) (1).mp3
+#EXTINF:196,KaeN - Tak bardzo
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/KaeN/96. KaeN - Tak bardzo (audio).mp3
+#EXTINF:117,Machur Feat. Dedis - Satysfakcja (prod. KRON)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Machur - RESET'' EP/1. Machur Feat. Dedis - Satysfakcja (prod. KRON).mp3
+#EXTINF:199,Machur feat. EMuody - Nie mów mi (prod. SeventyOne)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Machur - RESET'' EP/2. Machur feat. EMuody - Nie mów mi (prod. SeventyOne).mp3
+#EXTINF:106,Machur - Taki sam
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Machur - RESET'' EP/3. Machur - Taki sam (prod. Machu).mp3
+#EXTINF:123,Machur - Każdy idzie w swoją stronę
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Machur - RESET'' EP/4. Machur - Każdy idzie w swoją stronę (prod. MHR).mp3
+#EXTINF:125,MAT - Szlaki
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/MAT - Immortalis (Album)/1. MAT - Szlaki.mp3
+#EXTINF:166,MAT - #MATRIX
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/MAT - Immortalis (Album)/2. MAT - #MATRIX.mp3
+#EXTINF:130,MAT feat Bogu - Siema Houston (prod. Maxiu Beats)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/MAT - Immortalis (Album)/3. MAT feat Bogu - Siema Houston (prod. Maxiu Beats).mp3
+#EXTINF:173,MAT - Kierunek Lotu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/MAT - Immortalis (Album)/4. MAT - Kierunek Lotu.mp3
+#EXTINF:161,MAT - Byłem tam
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/MAT - Immortalis (Album)/5. MAT - Byłem tam.mp3
+#EXTINF:179,MAT - Żywe Pochodnie
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/MAT - Immortalis (Album)/6. MAT - Żywe Pochodnie.mp3
+#EXTINF:186,MAT - Czarna owca feat. Młody M
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/MAT&ZetSounds - Biorę na Siebie EP/1. MAT - Czarna owca feat. Młody M (prod. ZetSounds).mp3
+#EXTINF:233,MAT - Biorę na siebie
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/MAT&ZetSounds - Biorę na Siebie EP/2. MAT - Biorę na siebie (prod. ZetSounds).mp3
+#EXTINF:212,MAT - Showtime
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/MAT&ZetSounds - Biorę na Siebie EP/3. MAT - Showtime (prod. Zet Sounds).mp3
+#EXTINF:187,MAT - Szkic feat. Zet
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/MAT&ZetSounds - Biorę na Siebie EP/4. MAT - Szkic feat. Zet (prod. Zet Sounds).mp3
+#EXTINF:191,MAT - No Co
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/MAT&ZetSounds - Biorę na Siebie EP/5. MAT - No Co (prod. Zet Sounds).mp3
+#EXTINF:134,OPE - Sleepy Hollow DEPTH 1/2
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/OPE - DEPTH 12/1. OPE - Sleepy Hollow DEPTH 12.mp3
+#EXTINF:147,OPE - Boogeyman DEPTH 1/2
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/OPE - DEPTH 12/2. OPE - Boogeyman DEPTH 12.mp3
+#EXTINF:174,OPE - Salem DEPTH 1/2
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/OPE - DEPTH 12/3. OPE - Salem DEPTH 12.mp3
+#EXTINF:122,OPE - Blackmore DEPTH 1/2
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/OPE - DEPTH 12/4. OPE - Blackmore DEPTH 12.mp3
+#EXTINF:194,OPE - Transilvania DEPTH 1/2
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/OPE - DEPTH 12/5. OPE - Transilvania DEPTH 12.mp3
+#EXTINF:240,Adam Graf - Jestem zły
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/OPE - DEPTH 12/Adam Graf - Jestem zły (prod. Teka).mp3
+#EXTINF:194,OPE - Mymist DEPTH 2/2
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/OPE - DEPTH 22/1. OPE - Mymist DEPTH 22.mp3
+#EXTINF:155,OPE - Slenderman ''DEPTH 2/2
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/OPE - DEPTH 22/2. OPE - Slenderman ''DEPTH 22.mp3
+#EXTINF:149,OPE - Frankenstein DEPTH 2/2
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/OPE - DEPTH 22/3. OPE - Frankenstein DEPTH 22.mp3
+#EXTINF:175,OPE - CERBER DEPTH 2/2
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/OPE - DEPTH 22/4. OPE - CERBER DEPTH 22.mp3
+#EXTINF:168,OPE - GHOSTLAND DEPTH 2/2
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/OPE - DEPTH 22/5. OPE - GHOSTLAND DEPTH 22.mp3
+#EXTINF:235,PeRJot - W głąb duszy feat. Rogal DDL, Pęku VETO scr. Dj Element
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot - RAP NA EMIGRACJI/01. PeRJot - W głąb duszy feat. Rogal DDL, Pęku VETO scr. Dj Element (prod. Krowa) Official Mashup.mp3
+#EXTINF:205,PeRJot - Niewiadoma feat. KaeN, ONAR scr. Dj Gondek
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot - RAP NA EMIGRACJI/02. PeRJot - Niewiadoma feat. KaeN, ONAR scr. Dj Gondek (prod. Juicy).mp3
+#EXTINF:201,PeRJot - Wracam na bloki feat. Młody M
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot - RAP NA EMIGRACJI/03. PeRJot - Wracam na bloki feat. Młody M (prod. DNA).mp3
+#EXTINF:219,PeRJot - Ile razy feat. Infared, Kraze scr. Dj Gondek
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot - RAP NA EMIGRACJI/04. PeRJot - Ile razy feat. Infared, Kraze scr. Dj Gondek (prod. BractwoBeats, Nathan).mp3
+#EXTINF:223,PeRJot - Posłuchaj tych słów feat. Arczi SZAJKA,  N8
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot - RAP NA EMIGRACJI/05. PeRJot - Posłuchaj tych słów feat. Arczi SZAJKA,  N8 (prod. RX) [Official video].mp3
+#EXTINF:175,PeRJot - W realnym świecie feat. Siczka KSU
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot - RAP NA EMIGRACJI/06. PeRJot - W realnym świecie feat. Siczka KSU (prod. RX).mp3
+#EXTINF:240,PeRJot - Myślę o tym feat. Daro, Żaba
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot - RAP NA EMIGRACJI/07. PeRJot - Myślę o tym feat. Daro, Żaba (prod. BractwoBeats).mp3
+#EXTINF:293,PeRJot - Kto tak nie chce feat. JAHBESTIN prod. Krowa
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot - RAP NA EMIGRACJI/08. PeRJot - Kto tak nie chce feat. JAHBESTIN prod. Krowa.mp3
+#EXTINF:250,PeRJot - Pocztówka feat. SK scr. Dj Gondek
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot - RAP NA EMIGRACJI/09. PeRJot - Pocztówka feat. SK scr. Dj Gondek (prod. BractwoBeats).mp3
+#EXTINF:313,PeRJot - Młody As feat. Djobelny
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot - RAP NA EMIGRACJI/10. PeRJot - Młody As feat. Djobelny (prod. Mario DTX).mp3
+#EXTINF:205,PeRJot - Niewiadoma feat. KaeN, ONAR scr. Dj Gondek
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/01. PeRJot - Niewiadoma feat. KaeN, ONAR scr. Dj Gondek (prod. Juicy).mp3
+#EXTINF:253,PeRJot x KaeN x Amator - Dygest
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/02. PeRJot x KaeN x Amator - Dygest (prod. DNA)  Altereggo TeamTape.mp3
+#EXTINF:246,Jahbestin x Foreman x PeRJot x Beny B - Fenix (prod. Świerzba) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/03. Jahbestin x Foreman x PeRJot x Beny B - Fenix (prod. Świerzba)  Altereggo TeamTape.mp3
+#EXTINF:324,PeRJot X Kafar Dix37 - Trans prod. Krowa | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/04. PeRJot X Kafar Dix37 - Trans prod. Krowa  Altereggo TeamTape.mp3
+#EXTINF:246,PeRJot x Roman Bosski - Rap niech żyje prod. IVE
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/05. PeRJot x Roman Bosski - Rap niech żyje prod. IVE ( Official Video )  Altereggo TeamTape.mp3
+#EXTINF:214,PeRJot - Ja tak gram
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/06. PeRJot - Ja tak gram (prod. Krowa).mp3
+#EXTINF:227,PeRJot - M.B.N.P feat. Jahbestin
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/07. PeRJot - M.B.N.P feat. Jahbestin (Prod. IVE).mp3
+#EXTINF:211,PeRJot - Piasek u stóp feat. Bosski Roman prod. DNA scr DJ Hard Cut
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/08. PeRJot - Piasek u stóp feat. Bosski Roman prod. DNA scr DJ Hard Cut.mp3
+#EXTINF:227,PeRJot - Rozdarta dusza prod. IVE
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/09. PeRJot - Rozdarta dusza prod. IVE.mp3
+#EXTINF:248,PeRJot - Głosy feat. Kzw, Daro SS prod. DNA
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/10. PeRJot - Głosy feat. Kzw, Daro SS prod. DNA.mp3
+#EXTINF:173,PeRJot - Ah życie feat. Dj Soina prod. IVE
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/11. PeRJot - Ah życie feat. Dj Soina prod. IVE.mp3
+#EXTINF:170,PeRJot - Rap na emigracji
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/12. PeRJot - Rap na emigracji (prod. Krowa).mp3
+#EXTINF:156,PeRJot - Moje życie prod.  No 30
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/13. PeRJot -  Moje życie prod.  No 30.mp3
+#EXTINF:205,Kamil P.R.J Emocji więzień feat. Siczka / KSU (OFFICIAL VIDEO)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/14. Kamil P.R.J Emocji więzień feat. Siczka  KSU (OFFICIAL VIDEO).mp3
+#EXTINF:238,Kamil P.R.J Rap Młodego Pokolenia ft. Arczi A.R.F. (Szajka) [ TELEDYSK ]
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/15. Kamil P.R.J Rap Młodego Pokolenia ft. Arczi A.R.F. (Szajka) [ TELEDYSK ].mp3
+#EXTINF:204,█▬█ █ ▀█▀ Kamil P.R.J & KaeN - Wstęp wolny prod. IVE (Drużyna Mistrzów 2) - Official Video
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/16. █▬█ █ ▀█▀ Kamil P.R.J & KaeN - Wstęp wolny prod. IVE (Drużyna Mistrzów 2) - Official Video.mp3
+#EXTINF:156,PeRJot - Moje życie prod.  No 30
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/17. PeRJot -  Moje życie prod.  No 30.mp3
+#EXTINF:170,PeRJot - Rap na emigracji
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/18. PeRJot - Rap na emigracji (prod. Krowa).mp3
+#EXTINF:235,PeRJot - W głąb duszy feat. Rogal DDL, Pęku VETO scr. Dj Element
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/20. PeRJot - W głąb duszy feat. Rogal DDL, Pęku VETO scr. Dj Element (prod. Krowa) Official Mashup.mp3
+#EXTINF:201,PeRJot - Wracam na bloki feat. Młody M
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/21. PeRJot - Wracam na bloki feat. Młody M (prod. DNA).mp3
+#EXTINF:219,PeRJot - Ile razy feat. Infared, Kraze scr. Dj Gondek
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/22. PeRJot - Ile razy feat. Infared, Kraze scr. Dj Gondek (prod. BractwoBeats, Nathan).mp3
+#EXTINF:143,PeRJot - To nie finish
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/23. PeRJot -  To nie finish.mp3
+#EXTINF:223,PeRJot - Posłuchaj tych słów feat. Arczi SZAJKA,  N8
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/24. PeRJot - Posłuchaj tych słów feat. Arczi SZAJKA,  N8 (prod. RX) [Official video].mp3
+#EXTINF:252,PJK Eastny x MOMO x PeRJot x Jerli - Ździra [OFFICIAL VIDEO]
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/25. PJK Eastny x MOMO x PeRJot x Jerli - Ździra [OFFICIAL VIDEO].mp3
+#EXTINF:239,PeRJot - W głąb duszy feat. Rogal DDL, Pęku VETO
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/26. PeRJot - W głąb duszy feat. Rogal DDL, Pęku VETO (prod. BractwoBeats RMX).mp3
+#EXTINF:313,PeRJot - Młody As feat. Djobelny
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/27. PeRJot - Młody As feat. Djobelny (prod. Mario DTX).mp3
+#EXTINF:240,PeRJot - Myślę o tym feat. Daro, Żaba
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/28. PeRJot - Myślę o tym feat. Daro, Żaba (prod. BractwoBeats).mp3
+#EXTINF:293,PeRJot - Kto tak nie chce feat. JAHBESTIN prod. Krowa
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/29. PeRJot - Kto tak nie chce feat. JAHBESTIN prod. Krowa.mp3
+#EXTINF:250,PeRJot - Pocztówka feat. SK scr. Dj Gondek
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/30. PeRJot - Pocztówka feat. SK scr. Dj Gondek (prod. BractwoBeats).mp3
+#EXTINF:175,PeRJot - W realnym świecie feat. Siczka KSU
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PeRJot/31. PeRJot - W realnym świecie feat. Siczka KSU (prod. RX).mp3
+#EXTINF:162,PERSONALITER - Z WIARĄ
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PERSONALITER - RUMINACJE (ALBUM)/1. PERSONALITER - Z WIARĄ.mp3
+#EXTINF:182,PERSONALITER - RUMINACJE FEAT DJ VERSUZ BLADE
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PERSONALITER - RUMINACJE (ALBUM)/2. PERSONALITER - RUMINACJE FEAT DJ VERSUZ BLADE.mp3
+#EXTINF:169,BENY B - PROTEST
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PERSONALITER - RUMINACJE (ALBUM)/3. BENY B  - PROTEST (OFFICIAL VIDEO).mp3
+#EXTINF:198,PERSONALITER - NIE MAM CZASU
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PERSONALITER - RUMINACJE (ALBUM)/4. PERSONALITER - NIE MAM CZASU.mp3
+#EXTINF:239,MAŁAS - TO JEST JUŻ ZA MNĄ /
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PERSONALITER - RUMINACJE (ALBUM)/5. MAŁAS- TO JEST JUŻ ZA MNĄ  [VIDEO].mp3
+#EXTINF:244,PERSONALITER - ZAMKNIĘTY ETAP FEAT BILI
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PERSONALITER - RUMINACJE (ALBUM)/6. PERSONALITER - ZAMKNIĘTY ETAP FEAT BILI.mp3
+#EXTINF:229,PERSONALITER - SZKODA GADAĆ FEAT ENERG
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PERSONALITER - RUMINACJE (ALBUM)/7. PERSONALITER - SZKODA GADAĆ FEAT ENERG.mp3
+#EXTINF:180,PERSONALITER - TROCHE WIĘCEJ
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PERSONALITER - RUMINACJE (ALBUM)/8. PERSONALITER - TROCHE WIĘCEJ.mp3
+#EXTINF:211,PJK Eastny - Zabić Ich feat. PeRJot, Kikster
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny - Król Remaków/1. PJK Eastny - Zabić Ich feat. PeRJot, Kikster.mp3
+#EXTINF:186,PJK Eastny - I znowu klin
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny - Król Remaków/2. PJK Eastny - I znowu klin.mp3
+#EXTINF:279,PJK Eastny - Pełny Cały Klub feat. Cester, GRH
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny - Król Remaków/3. PJK Eastny - Pełny Cały Klub feat. Cester, GRH.mp3
+#EXTINF:214,PJK Eastny - Sprawdź moich ziomków
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny - Król Remaków/4. PJK Eastny - Sprawdź moich ziomków.mp3
+#EXTINF:220,PJK Eastny - Dawaj $$$
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny - Król Remaków/5. PJK Eastny - Dawaj $$$.mp3
+#EXTINF:216,Eastny - Dobry Towar
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/01. Eastny - Dobry Towar (prod. FUSO) [ 4K ].mp3
+#EXTINF:251,PJK Wschodni x MOMO x PeRJot x Jerli - Ździra (pro
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/02. PJK Wschodni x MOMO x PeRJot x Jerli - Ździra (pro.mp3
+#EXTINF:196,PJK Eastny - A niech pierdolą
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/03. PJK Eastny - A niech pierdolą (prod. TOM AROX).mp3
+#EXTINF:184,Spalto x Rastamaniek x PJK Eastny - Co To Był Za Melanż (prod. Rey Ceballo & Eddy Aguero) | ATT
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/04. Spalto x Rastamaniek x PJK Eastny - Co To Był Za Melanż (prod. Rey Ceballo & Eddy Aguero)  ATT.mp3
+#EXTINF:226,Rapu Wschodnia Strona x KaeN x DJ Frodo - #1 (prod.  Wilkulon)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/05. Rapu Wschodnia Strona x KaeN x DJ Frodo - #1 (prod.  Wilkulon).mp3
+#EXTINF:192,PJK Eastny x Neiti Di - Mój czas (Prod. RTI Beatz) [ 4K ]
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/06. PJK Eastny x Neiti Di - Mój czas (Prod. RTI Beatz) [ 4K ].mp3
+#EXTINF:187,PJK Eastny - Przegrasz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/07. PJK Eastny- Przegrasz (Official video).mp3
+#EXTINF:223,Rapu Wschodnia Strona - Lokalny Patriota (Prod. Jendras, Scratch DJ Bart)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/08. Rapu Wschodnia Strona - Lokalny Patriota (Prod. Jendras, Scratch DJ Bart).mp3
+#EXTINF:110,PJK / #HOT16CHALLENGE (Prod: BEDZIU / U'GINARII)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/09. PJK  #HOT16CHALLENGE (Prod BEDZIU  U'GINARII).mp3
+#EXTINF:201,PJK Wschodni- Bragga Majster (Official video)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/10. PJK Wschodni- Bragga Majster (Official video).mp3
+#EXTINF:210,Eastny a.k.a. PJK Wschodni - Czas rewolucji! (prod. JS Familia) [SELFIE KLIP]
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/11. Eastny a.k.a. PJK Wschodni - Czas rewolucji! (prod. JS Familia) [SELFIE KLIP].mp3
+#EXTINF:475,Eastny (PJK)- DZIEŃ Z ŻYCIA RAPERA #1 (Kulisy sesji nagraniowej)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/12. Eastny (PJK)- DZIEŃ Z ŻYCIA RAPERA #1 (Kulisy sesji nagraniowej).mp3
+#EXTINF:226,KaeN x PJK Eastny x Kaczor cuty Dj Frodo - #1 (Prod. Wilkulon) | Altereggo TeamTape
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/13. KaeN x PJK Eastny x Kaczor cuty Dj Frodo - #1 (Prod. Wilkulon)  Altereggo TeamTape.mp3
+#EXTINF:189,PJK Eastny - Styloowa
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/14. PJK Eastny- Styloowa (Officjal video).mp3
+#EXTINF:273,Rapu Wschodnia Strona&Total Mess Crew- Poczuj tę prędkość (Prod Wiekuisty) [Official video]]
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/15. Rapu Wschodnia Strona&Total Mess Crew- Poczuj tę prędkość (Prod Wiekuisty) [Official video]].mp3
+#EXTINF:199,Rapu Wschodnia Strona - Zapiekanki u Szkaleja
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/16. Rapu Wschodnia Strona - Zapiekanki u Szkaleja (prod. Bedziu).mp3
+#EXTINF:283,Rapu Wschodnia Strona - Holidays Time (prod. Bedziu)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/17. Rapu Wschodnia Strona - Holidays Time (prod. Bedziu).mp3
+#EXTINF:187,Rapu Wschodnia Strona - I jedziemy ...
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/18. Rapu Wschodnia Strona - I jedziemy.mp3
+#EXTINF:262,Rapu Wschodnia Strona - Wybory feat. Ania MOMO Ołdak
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/19. Rapu Wschodnia Strona - Wybory feat. Ania MOMO Ołdak.mp3
+#EXTINF:206,Rapu Wschodnia Strona - Bragga jest we mnie
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/20. Rapu Wschodnia Strona- Bragga jest we mnie (Prod. Bedziu) (Official video).mp3
+#EXTINF:212,PJK Eastny - Primabalerina
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/PJK Eastny/21. PJK Eastny - Primabalerina (prod. esenes).mp3
+#EXTINF:255,Raszu - Chiński Znak smoka
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu - Life in Journey/01. Raszu - Chiński Znak smoka (prod. Ślimak,  skrecze Dj Urlich).mp3
+#EXTINF:179,Raszu - Siła umysłu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu - Life in Journey/02. Raszu - Siła umysłu (prod. Ślimak) + Język migowy.mp3
+#EXTINF:284,Raszu - Kaizen
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu - Life in Journey/03. Raszu - Kaizen (prod. Ślimak, skrecze DJ URLICH).mp3
+#EXTINF:214,Raszu - Drapacze Chmur
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu - Life in Journey/04. Raszu - Drapacze Chmur (prod. Ślimak).mp3
+#EXTINF:182,Raszu - Szczyty i doliny
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu - Life in Journey/05. Raszu - Szczyty i doliny (prod. Ślimak).mp3
+#EXTINF:203,Raszu - Kontrasty
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu - Life in Journey/06. Raszu - Kontrasty (prod. Ślimak, skrecze DJ URLICH).mp3
+#EXTINF:155,Raszu - Synestezja feat. Dj Urlich
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu - Life in Journey/07. Raszu - Synestezja feat. Dj Urlich (prod. Ślimak).mp3
+#EXTINF:233,Raszu - Tunel
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu - Life in Journey/08. Raszu - Tunel (prod. Ślimak).mp3
+#EXTINF:195,Raszu - Przygoda Trwa
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu - Life in Journey/09. Raszu - Przygoda Trwa (prod. Ślimak).mp3
+#EXTINF:248,Raszu - Panorama marzeń feat. Aneta Chrostowska
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu - Life in Journey/10. Raszu - Panorama marzeń feat. Aneta Chrostowska (prod. Ślimak).mp3
+#EXTINF:225,Raszu - Pozytywnie feat. Sieyaa Later
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu - Life in Journey/11. Raszu - Pozytywnie feat. Sieyaa Later (prod. Ślimak).mp3
+#EXTINF:166,Raszu - Na trasie feat. Enes
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu - Life in Journey/12. Raszu - Na trasie feat. Enes (prod. Ślimak).mp3
+#EXTINF:197,Bartolo - Skarbówka
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu - Life in Journey/13. Bartolo - Skarbówka.mp3
+#EXTINF:261,Jah Khalib - Лейла | Official video
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu - Life in Journey/14. Jah Khalib - Лейла  Official video.mp3
+#EXTINF:216,Czasami - Raszu x Zet feat. Ślimak
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu x Zet - Nie pytaj o tytuł/1. Raszu x Zet feat. Ślimak - Czasami.mp3
+#EXTINF:172,Raszu x Zet - Dobry dzień, Dobra noc
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu x Zet - Nie pytaj o tytuł/2. Raszu x Zet - Dobry dzień, Dobra noc.mp3
+#EXTINF:195,Patrzę w Niebo - Raszu x Zet feat. Ślimak
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu x Zet - Nie pytaj o tytuł/3. Raszu x Zet feat. Ślimak - Patrzę w Niebo.mp3
+#EXTINF:160,La vida loca - Raszu x Zet feat. Ślimak
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu x Zet - Nie pytaj o tytuł/4. Raszu x Zet feat. Ślimak - La vida loca.mp3
+#EXTINF:219,Moi ludzie - Raszu x Zet
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu x Zet - Nie pytaj o tytuł/5. Raszu x Zet - Moi ludzie.mp3
+#EXTINF:226,Raszu x Zet - Zmiennie
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu x Zet - Nie pytaj o tytuł/6. Raszu x Zet - Zmiennie.mp3
+#EXTINF:250,Raszu x Zet - Klub
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu x Zet - Nie pytaj o tytuł/7. Raszu x Zet - Klub.mp3
+#EXTINF:199,Raszu x Zet - Nigdy się nie poddaj
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Raszu x Zet - Nie pytaj o tytuł/8. Raszu x Zet - Nigdy się nie poddaj.mp3
+#EXTINF:97,RUDY - Wstęp
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/RUDY - Z szuflad karty/1. RUDY - Wstęp.mp3
+#EXTINF:188,RUDY - Wiesz jak jest
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/RUDY - Z szuflad karty/2. RUDY - Wiesz jak jest.mp3
+#EXTINF:217,RUDY - Pierdol Się
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/RUDY - Z szuflad karty/3. RUDY - Pierdol Się (f. PJK Eastny).mp3
+#EXTINF:241,Rudy - Lepsze Dni
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/RUDY - Z szuflad karty/4. Rudy - Lepsze Dni.mp3
+#EXTINF:292,RUDY - Niech Tak Będzie
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/RUDY - Z szuflad karty/5. RUDY - Niech Tak Będzie (f. PJK Eastny, Murzyn, MSO).mp3
+#EXTINF:198,RUDY - Nadzieja
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/RUDY - Z szuflad karty/6. RUDY - Nadzieja.mp3
+#EXTINF:190,RUDY - Doceń to co masz
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/RUDY - Z szuflad karty/7. RUDY - Doceń to co masz.mp3
+#EXTINF:203,RUDY - 7 dziesięć 92
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/RUDY - Z szuflad karty/8. RUDY - 7 dziesięć 92.mp3
+#EXTINF:191,RUDY - Wiele Słów
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/RUDY - Z szuflad karty/9. RUDY - Wiele Słów (f. Młody M).mp3
+#EXTINF:212,SIEJA x KOALA - Miłość  (prod. Lazy Rida)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA - Pocztówka z Santorini EP/1. SIEJA x KOALA - Miłość  (prod. Lazy Rida).mp3
+#EXTINF:190,SIEJA x NWWC - Wiatr w oczy  (prod.  TRK)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA - Pocztówka z Santorini EP/2. SIEJA x NWWC - Wiatr w oczy  (prod.  TRK).mp3
+#EXTINF:232,SIEJA x GRACE - Moje Małe Alcatraz MMA (prod. Aryon Mc)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA - Pocztówka z Santorini EP/3. SIEJA x GRACE - Moje Małe Alcatraz MMA (prod. Aryon Mc).mp3
+#EXTINF:236,SIEJA - NIEWIADOME
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA - Pocztówka z Santorini EP/4. SIEJA - NIEWIADOME  (prod. BEATISINMYBACKPACK ).mp3
+#EXTINF:180,Sieja - Podróż Za Jeden Uśmiech
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/01. Sieja - Podróż Za Jeden Uśmiech (prod. LazyRida) Video.mp3
+#EXTINF:159,Sieja - Chciałbym pisać
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/02. Sieja  - Chciałbym pisać.mp3
+#EXTINF:201,SIEJA - Zły numer
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/03. SIEJA - Zły numer (official video).mp3
+#EXTINF:277,SIEJA - Blue Dream
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/04. SIEJA - Blue Dream.mp3
+#EXTINF:187,SIEJA - Cie Cie Ciebię, nie chcę stracić
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/05. SIEJA - Cie Cie Ciebię, nie chcę stracić.mp3
+#EXTINF:176,SIEJA - Bitch ! Leave Me Alone !
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/06. SIEJA - Bitch ! Leave Me Alone !.mp3
+#EXTINF:164,SIEJA - Życzę Ci...
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/07. SIEJA - Życzę Ci... (prod. Paysr).mp3
+#EXTINF:221,SIEJA - Tak już mam
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/08. SIEJA - Tak już mam (prod. Lazy Rida).mp3
+#EXTINF:149,SIEJA - Miałem kurwa nie przeklinać
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/09. SIEJA - Miałem kurwa nie przeklinać (prod. Lazy Rida).mp3
+#EXTINF:299,SIEJA - Czego Ci życzyć ?
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/10. SIEJA - Czego Ci życzyć  (prod. Lazy Rida).mp3
+#EXTINF:178,SIEJA X ZET X NWWC X PJK - Projekt Beef Prod. Lazy Rida
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/11. SIEJA X ZET X NWWC X PJK - Projekt Beef Prod. Lazy Rida.mp3
+#EXTINF:176,SIEJA - Luźny Traczek
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/12. SIEJA - Luźny Traczek (prod.  Lazy Rida).mp3
+#EXTINF:189,SIEJA - Życie... życie...
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/13. SIEJA - Życie... życie... (prod. Lazy Rida).mp3
+#EXTINF:152,SIEJA - Na Pół
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/14. SIEJA - Na Pół (prod. Lazy Rida).mp3
+#EXTINF:136,SIEJA - Po swojemu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/15. SIEJA - Po swojemu ( prod. Wrona ).mp3
+#EXTINF:201,SIEJA - Demony
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/16. SIEJA - Demony (prod. Lazy Rida).mp3
+#EXTINF:212,SIEJA x KOALA - Miłość  (prod. Lazy Rida)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/17. SIEJA x KOALA - Miłość  (prod. Lazy Rida).mp3
+#EXTINF:190,SIEJA x NWWC - Wiatr w oczy  (prod.  TRK)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/18. SIEJA x NWWC - Wiatr w oczy  (prod.  TRK).mp3
+#EXTINF:236,SIEJA - NIEWIADOME
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/19. SIEJA - NIEWIADOME  (prod. BEATISINMYBACKPACK ).mp3
+#EXTINF:232,SIEJA x GRACE - Moje Małe Alcatraz MMA (prod. Aryon Mc)
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/SIEJA/20. SIEJA x GRACE - Moje Małe Alcatraz MMA (prod. Aryon Mc).mp3
+#EXTINF:100,THEIAM/SLIDE - INTRO
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/THEIAMSLIDE - RAP PO GODZINACH EP/1. THEIAMSLIDE - INTRO.mp3
+#EXTINF:167,THEIAM/SLIDE - POWIEDZ, ŻE IDĘ
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/THEIAMSLIDE - RAP PO GODZINACH EP/2. THEIAMSLIDE - POWIEDZ, ŻE IDĘ (gość. Dj Bombel).mp3
+#EXTINF:161,CZARNY KRUK - THEIAM/SLIDE
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/THEIAMSLIDE - RAP PO GODZINACH EP/3. THEIAMSLIDE - CZARNY KRUK.mp3
+#EXTINF:130,THEIAM/SLIDE - WSZYSTKIEGO W KUR**
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/THEIAMSLIDE - RAP PO GODZINACH EP/4. THEIAMSLIDE -  WSZYSTKIEGO W KUR.mp3
+#EXTINF:214,DAMIAN'F/SLIDE - NOCNY LOT FT. BENY B, DJ LEM
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/THEIAMSLIDE - RAP PO GODZINACH EP/5. DAMIAN'FSLIDE - NOCNY LOT FT. BENY B, DJ LEM.mp3
+#EXTINF:174,THEIAM/SLIDE - ŻYJ KOCHAJ NIENAWIDŹ gość. Dj Bombel
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/THEIAMSLIDE - RAP PO GODZINACH EP/6. THEIAMSLIDE - ŻYJ KOCHAJ NIENAWIDŹ gość. Dj Bombel.mp3
+#EXTINF:288,Z Dźwięków Urodzeni - Klucze
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Z Dźwięków Urodzeni - Wyżej/1. Z Dźwięków Urodzeni - Klucze.mp3
+#EXTINF:208,Z Dźwięków Urodzeni - MROK
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Z Dźwięków Urodzeni - Wyżej/2. Z Dźwięków Urodzeni - MROK.mp3
+#EXTINF:229,Z Dźwięków Urodzeni - Sala Kiczu
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Z Dźwięków Urodzeni - Wyżej/3. Z Dźwięków Urodzeni - Sala Kiczu.mp3
+#EXTINF:165,Z Dźwięków Urodzeni - Kto ma moc
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Z Dźwięków Urodzeni - Wyżej/4. Z Dźwięków Urodzeni - Kto ma moc (MaxFloLab).mp3
+#EXTINF:153,Z Dźwięków Urodzeni - Kto Ma Moc
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Z Dźwięków Urodzeni - Wyżej/5. Z Dźwięków Urodzeni - Kto Ma Moc.mp3
+#EXTINF:276,Z Dźwięków Urodzeni - Wyjebane
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Z Dźwięków Urodzeni - Wyżej/6. Z Dźwięków Urodzeni - Wyjebane.mp3
+#EXTINF:231,Z Dźwięków Urodzeni - Nie Mam Zmartwień
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Z Dźwięków Urodzeni - Wyżej/7. Z Dźwięków Urodzeni - Nie Mam Zmartwień.mp3
+#EXTINF:227,Z Dźwięków Urodzeni - Poskładany
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Z Dźwięków Urodzeni - Wyżej/8. Z Dźwięków Urodzeni - Poskładany.mp3
+#EXTINF:262,Klucze - Z Dźwięków Urodzeni feat Bejf
+/home/hubert/Archiwum/Linux/Muzyka/Alterego Records/Z Dźwięków Urodzeni - Wyżej/9. Z Dźwięków Urodzeni feat Bejf - Klucze.mp3
