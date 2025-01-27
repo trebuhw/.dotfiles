@@ -3,8 +3,8 @@
      + x               -> foot
      + Return          -> foot
      + Shift + t       -> kitty (float)
-     + Shift + Return  -> Subl
-     + w               -> google chrome
+     + Shift + Return  -> subl
+     + w               -> firefox
      + e               -> thunar
      + d               -> rofi
      + Shift + d       -> wofi full
@@ -20,7 +20,6 @@
      + Ctrl + b        -> wofi waybar style
      + Shift + a       -> azote
      + Shift + z       -> keybind hyprland
-     + Shift + m       -> mocp > xfce4-terminal --drop-down
      + ctrl + m        -> reset vol & bri to default value (40%, 30%)
      + Shift + u       -> yay update
      + q               -> kill active window
