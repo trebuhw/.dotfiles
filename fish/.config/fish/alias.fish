@@ -154,6 +154,7 @@ alias rh="hyprctl dispatch exit"
 alias r='~/.config/dwm/scripts/ranger.sh'
 alias y='yazi'
 alias rs='ranger --confdir=$HOME/.config/ranger.st/'
+alias sd='lpq' # ststus drukarki
 alias b="btop"
 alias c="cal -y"
 alias pcinfo="inxi -Fxz"
