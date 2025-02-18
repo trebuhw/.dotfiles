@@ -4,7 +4,7 @@ font=JetBrainsMono Nerd Font 11
 border-radius=1
 border-size=1
 max-icon-size=48
-default-timeout=10000
+default-timeout=5000
 anchor=top-right
 margin=20
 
