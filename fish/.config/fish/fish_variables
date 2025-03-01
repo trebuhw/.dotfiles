@@ -4,7 +4,7 @@ SETUVAR --export FZF_DEFAULT_OPTS:\x2d\x2dcolor\x3dbg\x2b\x3a\x23313244\x2cbg\x3
 SETUVAR QPA_PLATFORMTHEME:qt5ct
 SETUVAR QT_QPA_PLATFORMTHEME:qt5ct
 SETUVAR --export SDL_VIDEODRIVER:wayland
-SETUVAR __fish_initialized:3400
+SETUVAR __fish_initialized:3800
 SETUVAR _fish_abbr_PUP:pacman\x20\x2dSyyu
 SETUVAR _fish_abbr_pup:pacman\x20\x2dSyyu
 SETUVAR _fisher_upgraded_to_4_4:\x1d
