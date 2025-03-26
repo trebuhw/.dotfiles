@@ -4,7 +4,7 @@
      + Return          -> foot
      + Shift + t       -> kitty (float)
      + Shift + Return  -> subl
-     + w               -> firefox
+     + w               -> google chrome
      + e               -> thunar
      + d               -> rofi
      + Shift + d       -> wofi full
