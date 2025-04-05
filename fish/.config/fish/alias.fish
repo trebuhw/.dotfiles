@@ -7,7 +7,7 @@
 # alias l.="lsd -A --group-directories-first | egrep '^\.'"
 
 # List Directory
-alias l='eza -lh  --icons=auto' # long list
+alias l='eza -la -1 --group-directories-first  --icons=auto' # long list
 alias la='eza -a --group-directories-first --icons=auto' # long list
 alias ls='eza -1 --group-directories-first --icons=auto' # short list
 alias ll='eza -lha --icons=auto --sort=name --group-directories-first' # long list all
