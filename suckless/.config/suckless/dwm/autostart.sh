@@ -16,9 +16,10 @@ run sxhkd -c ~/.config/suckless/sxhkd/sxhkdrc &
 run numlockx on &
 run xrdb ~/.Xresources &
 run nm-applet &
-run blueman-applet &
 run parcellite -n & # Ctrl+Alt+s run history clipboard
-# run feh --bg-fill $HOME/.background &
+# run udiskie &
+# run blueman-applet &
+# run feh --bg-fill $HOME/.bg &
 # run ~/.config/suckless/scripts/rclone.sh &
 # run /usr/lib/xfce4/notifyd/xfce4-notifyd &
 

@@ -74,13 +74,13 @@ static const char mic[]         = "[ `amixer sget Capture | tail -n 1 | awk '{pr
 
 static const struct arg args[] = {
         /* function format          argument */
-        { cpu_perc,             "[ CPU %s%% ", NULL },
+        { cpu_perc,             "[ %s%% ", NULL },
 //        { run_command,          "TEM %s ",        "sensors | grep 'dell_smm-isa-00de' -A 5 | grep 'temp1:' | awk '{print $2}' | cut -d '+' -f2 | cut -d '.' -f1" },
-        { run_command,          "TEM %s ",        "sensors | grep 'dell_smm-isa-0000' -A 5 | grep 'temp1:' | awk '{print $2}' | cut -d '+' -f2" },
-        { ram_used,             "RAM %s ",       NULL },
-        { run_command,          "BRI%s ",     "sl-bkl.sh" },
-        { run_command,          "VOL %s%% ",    "volume" },
-        { battery_perc,         "BAT %s%% ]", "BAT0" },
-        { run_command,          "[ %s ",       "TZ=Europe/Warsaw date +\"%a, %d/%m/%Y\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
-        { datetime,             "%s ]",       "%H:%M" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
+        { run_command,          "| %s ",        "sensors | grep 'dell_smm-isa-0000' -A 5 | grep 'temp1:' | awk '{print $2}' | cut -d '+' -f2" },
+        { ram_used,             "| %s ",       NULL },
+        { run_command,          "|%s ",     "sl-bkl.sh" },
+        { run_command,          "| %s%% ",    "volume" },
+        { battery_perc,         "| %s%% ]", "BAT0" },
+        { run_command,          "[ %s |",       "TZ=Europe/Warsaw date +\"%a | %d/%m/%Y\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
+        { datetime,             " %s ]",       "%H:%M" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
 };

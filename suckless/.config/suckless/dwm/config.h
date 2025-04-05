@@ -12,11 +12,10 @@ static const int showsystray        = 1;        /* 0 means no systray */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const Bool viewontag         = True;     /* Switch view on tag switch */
-static const char *fonts[]          = { "JetBrainsMono Nerd Font:size=11" };
-static const char dmenufont[]       = "JetBrainsMono Nerd Font:size=11";
+static const char *fonts[]          = { "SFMono Nerd Font Mono:size=11" };
+static const char dmenufont[]       = "SFMono Nerd Font Mono:size=11";
 static const char col_gray1[]       = "#1e1e2e";
 static const char col_gray2[]       = "#45475a";
-//static const char col_gray2[]       = "#313244";
 static const char col_gray3[]       = "#cdd6f4";
 static const char col_gray4[]       = "#dfdfdf";
 static const char col_cyan[]        = "#89b4fa";
@@ -35,13 +34,11 @@ static const Rule rules[] = {
 	 *	WM_NAME(STRING) = title
 	 */
 	/* class 							instance    title       tags mask     isfloating   monitor    float x,y,w,h         floatborderpx*/
-	{ "Gimp", 						NULL,       NULL,       0,            1,           -1, 				50,50,500,500,        -1 },
-	{ "St", 							NULL,       NULL,       0,            1,           -1, 				485,190,950,700, 			-1 },
 	{ "Nitrogen", 				NULL,       NULL,       0,            1,           -1, 				485,190,1200,900, 		-1 },
-	{ "Alacritty", 				NULL,       NULL,       0,            1,           -1, 				11,33,650,900, 				-1 },
 	{ "Galculator", 			NULL,       NULL,       0,            1,           -1,        1550,730, 10, 10,     -1 },
-//	{ "Firefox", 		NULL,       NULL,       0,            0,           -1,        50,50,500,500,        -1 },
-//  { "Firefox", 		NULL,       NULL,       1 << 8,       0,           -1,        50,50,500,500,        5 },
+//	{ "Gimp", 						NULL,       NULL,       0,            1,           -1, 				50,50,500,500,        -1 },
+//	{ "St", 							NULL,       NULL,       0,            1,           -1, 				485,190,950,700, 			-1 },
+//	{ "Alacritty", 				NULL,       NULL,       0,            1,           -1, 				11,33,650,900, 				-1 },
 };
 
 /* layout(s) */
@@ -82,6 +79,7 @@ static const char *lock[]  = { "Lock-x11.sh", NULL };
 #include "selfrestart.c"
 #include "shiftview.c"
 
+#include "movestack.c"
 static const Key keys[] = {
 	/* modifier                     key        function        argument */
 	{ MODKEY,                       XK_d,      spawn,          {.v = dmenucmd } },
@@ -101,8 +99,12 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_Left,   focusstack,     {.i = -1 } },
 	{ MODKEY,                       XK_h,      setmfact,       {.f = -0.05} },
 	{ MODKEY,                       XK_l,      setmfact,       {.f = +0.05} },
-	{ MODKEY|ShiftMask,             XK_Left,   setmfact,       {.f = -0.05} },
-	{ MODKEY|ShiftMask,             XK_Right,  setmfact,       {.f = +0.05} },
+	{ MODKEY|ControlMask,           XK_Left,   setmfact,       {.f = -0.05} },
+	{ MODKEY|ControlMask,           XK_Right,  setmfact,       {.f = +0.05} },
+	{ MODKEY|ShiftMask,             XK_Left,   movestack,      {.i = +1 } },
+	{ MODKEY|ShiftMask,             XK_Right,  movestack,      {.i = -1 } },
+	{ MODKEY|ShiftMask,             XK_j,      movestack,      {.i = +1 } },
+	{ MODKEY|ShiftMask,             XK_k,      movestack,      {.i = -1 } },
 	{ MODKEY,                       XK_q,      killclient,     {0} },
 	{ MODKEY,                       XK_t,      setlayout,      {.v = &layouts[0]} },
 	{ MODKEY,                       XK_f,      setlayout,      {.v = &layouts[1]} },
@@ -140,7 +142,17 @@ static const Button buttons[] = {
 	{ ClkLtSymbol,          0,              Button3,        setlayout,      {.v = &layouts[2]} },
 	{ ClkWinTitle,          0,              Button2,        zoom,           {0} },
 	{ ClkStatusText,        0,              Button2,        spawn,          {.v = terminalcmd } },
-	{ ClkClientWin,         MODKEY,         Button1,        movemouse,      {0} },
+	/* placemouse options, choose which feels more natural:
+	 *    0 - tiled position is relative to mouse cursor
+	 *    1 - tiled postiion is relative to window center
+	 *    2 - mouse pointer warps to window center
+	 *
+	 * The moveorplace uses movemouse or placemouse depending on the floating state
+	 * of the selected client. Set up individual keybindings for the two if you want
+	 * to control these separately (i.e. to retain the feature to move a tiled window
+	 * into a floating position).
+	 */
+	{ ClkClientWin,         MODKEY,         Button1,        moveorplace,    {.i = 1} },
 	{ ClkClientWin,         MODKEY,         Button2,        togglefloating, {0} },
 	{ ClkClientWin,         MODKEY,         Button3,        resizemouse,    {0} },
 	{ ClkTagBar,            0,              Button1,        view,           {0} },
