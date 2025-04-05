@@ -50,6 +50,36 @@
     "rules":
     [
         {
+            "scope": "col_4C566AFF",
+            "background": "#4C566AFF",
+            "foreground": "#D5D5D5FF"
+        },
+        {
+            "scope": "col_434C5EFF",
+            "background": "#434C5EFF",
+            "foreground": "#CBCBCBFF"
+        },
+        {
+            "scope": "col_D8DEE9FF",
+            "background": "#D8DEE9FF",
+            "foreground": "#5D5D5DFF"
+        },
+        {
+            "scope": "col_3B4252FF",
+            "background": "#3B4252FF",
+            "foreground": "#C1C1C1FF"
+        },
+        {
+            "scope": "col_2E3440FF",
+            "background": "#2E3440FF",
+            "foreground": "#B3B3B3FF"
+        },
+        {
+            "scope": "col_ECEFF4FF",
+            "background": "#ECEFF4FF",
+            "foreground": "#6E6E6EFF"
+        },
+        {
             "scope": "col_73C5ECFF",
             "background": "#73C5ECFF",
             "foreground": "#303030FF"

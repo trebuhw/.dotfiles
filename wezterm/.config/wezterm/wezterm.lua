@@ -56,7 +56,7 @@ config.tab_bar_at_bottom = true  -- Ustawienie paska zakładek na dole okna
 
 -- Pozostałe ustawienia konfiguracyjne
 config.use_dead_keys = false  -- Wyłącza klawisze martwe (przydatne dla niektórych aplikacji CLI)
-config.scrollback_lines = 5000  -- Ustala liczbę linii historii terminala, które będą przechowywane
+-- config.scrollback_lines = 5000  -- Ustala liczbę linii historii terminala, które będą przechowywane
 config.color_scheme = 'nord'  -- Ustawienie schematu kolorów na 'nord'
 config.font_size = 12  -- Ustawienie rozmiaru czcionki
 config.font = wezterm.font('JetBrainsMono Nerd Font', { weight = 'Regular', italic = false })  -- Czcionka tylko 'JetBrainsMono Nerd Font'
