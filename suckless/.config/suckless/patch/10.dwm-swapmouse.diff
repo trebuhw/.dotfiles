@@ -1,0 +1,91 @@
+diff --git a/config.h b/config.h
+index 1c0b587..a4b4e6c 100644
+--- a/config.h
++++ b/config.h
+@@
+ /* mouse button definitions */
+ static Button buttons[] = {
+ 	/* click                event mask      button          function        argument */
+ 	{ ClkLtSymbol,          0,              Button1,        setlayout,      {0} },
+ 	{ ClkLtSymbol,          0,              Button3,        setlayout,      {.v = &layouts[2]} },
+ 	{ ClkWinTitle,          0,              Button2,        zoom,           {0} },
+ 	{ ClkStatusText,        0,              Button2,        spawn,          {.v = termcmd } },
+ 	{ ClkClientWin,         MODKEY,         Button1,        movemouse,      {0} },
+ 	{ ClkClientWin,         MODKEY,         Button2,        togglefloating, {0} },
+ 	{ ClkClientWin,         MODKEY,         Button3,        resizemouse,    {0} },
++	{ ClkClientWin,         MODKEY|ShiftMask, Button3,       swapmouse,      {0} },
+ 	{ ClkTagBar,            0,              Button1,        view,           {0} },
+ 	{ ClkTagBar,            0,              Button3,        toggleview,     {0} },
+ 	{ ClkTagBar,            MODKEY,         Button1,        tag,            {0} },
+ 	{ ClkTagBar,            MODKEY,         Button3,        toggletag,      {0} },
+ };
+diff --git a/dwm.c b/dwm.c
+index b2ac832..85c8854 100644
+--- a/dwm.c
++++ b/dwm.c
+@@
+ /* function declarations */
+ static void applyrules(Client *c);
+ ...
+ static void zoom(const Arg *arg);
++static void swapmouse(const Arg *arg);
++static void swapclient(Client *c1, Client *c2);
+
+ ...
+
++void
++swapclient(Client *c1, Client *c2)
++{
++	if (!c1 || !c2 || c1 == c2)
++		return;
++
++	Client *prev = NULL, *tmp;
++
++	for (tmp = selmon->clients; tmp && tmp != c1 && tmp != c2; tmp = tmp->next)
++		prev = tmp;
++
++	Client *first = tmp;
++	Client *second = (tmp == c1) ? c2 : c1;
++
++	for (tmp = tmp->next; tmp && tmp != c1 && tmp != c2; tmp = tmp->next);
++	if (!tmp)
++		return;
++
++	Client *after_second = tmp->next;
++
++	if (prev)
++		prev->next = tmp;
++	else
++		selmon->clients = tmp;
++
++	tmp->next = first->next == tmp ? first : first->next;
++	first->next = after_second;
++
++	arrange(selmon);
++}
++
++void
++swapmouse(const Arg *arg)
++{
++	Client *c = selmon->sel;
++	if (!c)
++		return;
++
++	int x, y;
++	unsigned int mask;
++	Window win;
++
++	XQueryPointer(dpy, root, &win, &win, &x, &y, &x, &y, &mask);
++
++	for (Client *target = selmon->clients; target; target = target->next) {
++		if (target == c)
++			continue;
++
++		if (x >= target->x && x <= target->x + target->w &&
++		    y >= target->y && y <= target->y + target->h) {
++			swapclient(c, target);
++			break;
++		}
++	}
++}
+
