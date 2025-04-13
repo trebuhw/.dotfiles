@@ -39,5 +39,6 @@
 	"workbench.colorTheme": "Catppuccin Mocha",
 	"explorer.confirmDelete": false,
 	"window.confirmSaveUntitledWorkspace": false,
-	"git.openRepositoryInParentFolders": "never"
+	"git.openRepositoryInParentFolders": "never",
+	"explorer.confirmDragAndDrop": false
 }
