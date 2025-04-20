@@ -8,7 +8,7 @@ function run {
 }
 
 # run "xrandr --output eDP1 --mode 1920x1080 --pos 0x0 --rotate normal"
-run nitrogen --restore &
+# run nitrogen --restore &
 # run picom -b  --config ~/.config/suckless/dwm/picom.conf &
 run dunst &
 run /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & # OpenSuse authentication
@@ -19,7 +19,7 @@ run xrdb ~/.Xresources &
 run parcellite -n & # Ctrl+Alt+s run history clipboard
 # run udiskie &
 # run blueman-applet &
-# run feh --bg-fill $HOME/.bg &
+run feh --bg-fill $HOME/.bg &
 # run ~/.config/suckless/scripts/rclone.sh &
 # run /usr/lib/xfce4/notifyd/xfce4-notifyd &
 
