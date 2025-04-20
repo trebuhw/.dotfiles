@@ -20,5 +20,9 @@ while true; do
              dwm >/dev/null 2>&1
 done
 
-# DWM
-redshift -O3500; xset r rate 300 50; exec dwm
+# DWM - run to konole "startx"
+# Archlinux
+# redshift -O3500; xset r rate 300 50; exec dwm
+
+# Linux
+exec dwm

@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Mariana.sublime-color-scheme",
+	"color_scheme": "Catppuccin Mocha.sublime-color-scheme",
 	"theme": "Adaptive.sublime-theme",
 	"dark_color_scheme": "Mariana.sublime-color-scheme",
 	"light_color_scheme": "Mariana.sublime-color-scheme",
@@ -9,8 +9,8 @@
 	[
 		"Vintage",
 	],
-	"dark_theme": "Default.sublime-theme",
-	"light_theme": "Default Dark.sublime-theme",
+	"dark_theme": "Adaptive.sublime-theme",
+	"light_theme": "Adaptive.sublime-theme",
 	"index_files": true,
 	"word_wrap": "true",
 }
