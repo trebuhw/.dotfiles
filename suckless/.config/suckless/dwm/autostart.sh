@@ -15,7 +15,7 @@ run /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & # OpenSuse authe
 run sxhkd -c ~/.config/suckless/sxhkd/sxhkdrc &
 run numlockx on &
 run xrdb ~/.Xresources &
-# run nm-applet &
+run nm-applet &
 run parcellite -n & # Ctrl+Alt+s run history clipboard
 # run udiskie &
 # run blueman-applet &
