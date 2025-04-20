@@ -150,8 +150,8 @@ alias e="exit"
 alias po="systemctl poweroff"
 alias rb="systemctl reboot"
 alias rh="hyprctl dispatch exit"
-#alias r='ranger'
-alias r='~/.config/dwm/scripts/ranger.sh'
+alias r='ranger'
+alias rd='~/.config/suckless/scripts/ranger.sh'
 alias y='yazi'
 alias rs='ranger --confdir=$HOME/.config/ranger.st/'
 alias sd='lpq' # ststus drukarki
