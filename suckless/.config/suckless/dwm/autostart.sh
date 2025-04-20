@@ -7,15 +7,15 @@ function run {
   fi
 }
 
-run "xrandr --output eDP1 --mode 1920x1080 --pos 0x0 --rotate normal"
+# run "xrandr --output eDP1 --mode 1920x1080 --pos 0x0 --rotate normal"
 run nitrogen --restore &
-run picom -b  --config ~/.config/suckless/dwm/picom.conf &
+# run picom -b  --config ~/.config/suckless/dwm/picom.conf &
 run dunst &
 run /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & # OpenSuse authentication
 run sxhkd -c ~/.config/suckless/sxhkd/sxhkdrc &
 run numlockx on &
 run xrdb ~/.Xresources &
-run nm-applet &
+# run nm-applet &
 run parcellite -n & # Ctrl+Alt+s run history clipboard
 # run udiskie &
 # run blueman-applet &
@@ -26,7 +26,7 @@ run parcellite -n & # Ctrl+Alt+s run history clipboard
 
 # Display
 #run $HOME/.screenlayout/1.sh
-#run "xrandr --output Virtual-1 --mode 1920x1080 --pos 0x0 --rotate normal"
+run "xrandr --output Virtual-1 --mode 1920x1080 --pos 0x0 --rotate normal"
 #run "xrandr --output eDP1 --mode 1920x1080 --pos 0x0 --rotate normal"
 #run "xrandr --output VGA-1 --primary --mode 1360x768 --pos 0x0 --rotate normal"
 #run "xrandr --output HDMI2 --mode 1920x1080 --pos 1920x0 --rotate normal --output HDMI1 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output VIRTUAL1 --off"

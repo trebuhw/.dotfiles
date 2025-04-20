@@ -76,11 +76,11 @@ static const struct arg args[] = {
         /* function format          argument */
         { cpu_perc,             "[ %s%% ", NULL },
 //        { run_command,          "TEM %s ",        "sensors | grep 'dell_smm-isa-00de' -A 5 | grep 'temp1:' | awk '{print $2}' | cut -d '+' -f2 | cut -d '.' -f1" },
-        { run_command,          "| %s ",        "sensors | grep 'dell_smm-isa-0000' -A 5 | grep 'temp1:' | awk '{print $2}' | cut -d '+' -f2" },
-        { ram_used,             "| %s ",       NULL },
-        { run_command,          "|%s ",     "sl-bkl.sh" },
-        { run_command,          "| %s%% ",    "volume" },
-        { battery_perc,         "| %s%% ]", "BAT0" },
+//        { run_command,          "| %s ",        "sensors | grep 'dell_smm-isa-0000' -A 5 | grep 'temp1:' | awk '{print $2}' | cut -d '+' -f2" },
+        { ram_used,             "| %s ]",       NULL },
+//        { run_command,          "|%s ",     "sl-bkl.sh" },
+//        { run_command,          "| %s%% ",    "volume" },
+//        { battery_perc,         "| %s%% ]", "BAT0" },
         { run_command,          "[ %s |",       "TZ=Europe/Warsaw date +\"%a | %d/%m/%Y\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
         { datetime,             " %s ]",       "%H:%M" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
 };
