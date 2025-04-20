@@ -45,6 +45,11 @@ super + shift + a
 super + shift + p
     pavucontrol
 
+# Power
+super + p
+    $HOME/.config/suckless/scripts/dmenu-powermenu.sh
+
+
 # Bluetoth manager
 super + shift + b
     blueman-manager

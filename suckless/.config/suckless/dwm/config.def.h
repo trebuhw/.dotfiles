@@ -70,11 +70,9 @@ static const Layout layouts[] = {
 static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() */
 static const char *dmenucmd[] = { "dmenu_run", "-i", NULL };
 /*static const char *dmenucmd[] = { "dmenu_run", "-p", prompt, "-m", dmenumon, "-fn", dmenufont, "-nb", col_gray1, "-nf", col_gray3, "-sb", col_cyan, "-sf", col_gray4, NULL };*/
-static const char *powermenu[]  = { "dmenu-powermenu.sh", NULL };
 static const char *terminalcmd[]  = { "kitty", NULL };
 static const char *filecmd[]  = { "thunar", NULL };
-static const char *webbrowser[]  = { "floorp", NULL };
-static const char *lock[]  = { "Lock-x11.sh", NULL };
+static const char *webbrowser[]  = { "firefox", NULL };
 
 #include "selfrestart.c"
 #include "shiftview.c"
@@ -83,11 +81,9 @@ static const char *lock[]  = { "Lock-x11.sh", NULL };
 static const Key keys[] = {
 	/* modifier                     key        function        argument */
 	{ MODKEY,                       XK_d,      spawn,          {.v = dmenucmd } },
-	{ MODKEY,                       XK_p,      spawn,          {.v = powermenu } },
 	{ MODKEY,                       XK_Return, spawn,          {.v = terminalcmd } },
 	{ MODKEY,                       XK_e, 		 spawn,          {.v = filecmd } },
 	{ MODKEY,                       XK_w,      spawn,          {.v = webbrowser } },
-	{ MODKEY|ShiftMask,             XK_x,      spawn,          {.v = lock } },
 	{ MODKEY,                       XK_b,      togglebar,      {0} },
 	{ MODKEY,                       XK_j,      focusstack,     {.i = +1 } },
 	{ MODKEY,                       XK_k,      focusstack,     {.i = -1 } },
