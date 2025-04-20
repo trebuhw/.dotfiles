@@ -7,11 +7,12 @@
   <property name="last-show-hidden" type="bool" value="true"/>
   <property name="last-window-width" type="int" value="948"/>
   <property name="last-window-height" type="int" value="1025"/>
-  <property name="last-window-maximized" type="bool" value="false"/>
+  <property name="last-window-maximized" type="bool" value="true"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_38_PERCENT"/>
   <property name="last-details-view-column-widths" type="string" value="50,124,160,50,695,50,50,57,466,50,50,87,50,128"/>
   <property name="misc-date-style" type="string" value="THUNAR_DATE_STYLE_ISO"/>
   <property name="misc-single-click" type="bool" value="false"/>
   <property name="misc-show-delete-action" type="bool" value="true"/>
   <property name="misc-full-path-in-title" type="bool" value="true"/>
+  <property name="last-menubar-visible" type="bool" value="true"/>
 </channel>

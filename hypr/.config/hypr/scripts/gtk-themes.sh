@@ -16,4 +16,5 @@ sleep 5 && ln -sf ~/.config/gtk-3.0/settings.ini ~/.config/gtk-4.0/settings.ini
 # Pozostałe opcje
 # gsettings set org.gnome.desktop.interface font-name 'JetBrainsMono Nerd Font'
 # gsettings set org.gnome.desktop.interface gtk-theme 'Catppuccin-Mocha-Standart-Blue-Dark'
+# gsettings set org.gnome.desktop.interface gtk-theme 'Catppuccin-Dark'
 # gsettings set org.gnome.desktop.interface icon-theme 'Tela-circle-dracula-dark'
