@@ -91,69 +91,42 @@ config.use_fancy_tab_bar = false  -- Wyłącza ozdobny pasek zakładek
 -- Wyłączenie domyślnych skrótów klawiaturowych
 config.disable_default_key_bindings = true  -- Wyłącza domyślne skróty klawiaturowe
 
--- Efficient keybinding helper function
-local function key_binding(key_table)
-  local result = {}
-  for i, binding in ipairs(key_table) do
-    table.insert(result, {
-      mods = binding[1] or "ALT",
-      key = binding[2],
-      action = binding[3]
-    })
-  end
-  return result
-end
-
 -- Skróty klawiaturowe
-   
--- Key bindings configuration
-config.keys = key_binding({
-  -- Split and manage panes
-  {"ALT", "`", act.SplitPane { direction = "Right", size = { Percent = 30 }}},
-  {"ALT", "Tab", act.SplitPane { direction = "Down", size = { Percent = 30 }}},
-  {"ALT", "Enter", act.SplitHorizontal { domain = 'CurrentPaneDomain' }},
-  {"ALT", "\\", act.SplitVertical { domain = 'CurrentPaneDomain' }},
-  {"ALT", "w", act.CloseCurrentPane { confirm = true }},
-  {"ALT", "LeftArrow", act.ActivatePaneDirection 'Left'},
-  {"ALT", "RightArrow", act.ActivatePaneDirection 'Right'},
-  {"ALT", "UpArrow", act.ActivatePaneDirection 'Up'},
-  {"ALT", "DownArrow", act.ActivatePaneDirection 'Down'},
-  
-  -- Tab creation, navigation and management
-  {"ALT", "t", act.SpawnTab 'CurrentPaneDomain'},
-  {"ALT", "q", act.CloseCurrentTab { confirm = true }},
-  {"ALT", "1", act.ActivateTab(0)},
-  {"ALT", "2", act.ActivateTab(1)},
-  {"ALT", "3", act.ActivateTab(2)},
-  {"ALT", "4", act.ActivateTab(3)},
-  {"ALT", "5", act.ActivateTab(4)},
-  {"ALT", "6", act.ActivateTab(5)},
-  {"ALT", "7", act.ActivateTab(6)},
-  {"ALT", "8", act.ActivateTab(7)},
-  {"CTRL|ALT", "UpArrow", act.ActivateLastTab},
-  {"CTRL|ALT", "DownArrow", act.ActivateLastTab},
-  {"CTRL|ALT", "1", act.MoveTab(0)},
-  {"CTRL|ALT", "2", act.MoveTab(1)},
-  {"CTRL|ALT", "3", act.MoveTab(2)},
-  {"CTRL|ALT", "4", act.MoveTab(3)},
-  {"CTRL|ALT", "5", act.MoveTab(4)},
-  {"CTRL|ALT", "6", act.MoveTab(5)},
-  {"CTRL|ALT", "7", act.MoveTab(6)},
-  {"CTRL|ALT", "8", act.MoveTab(7)},
-  {"CTRL|ALT", "LeftArrow", act.MoveTabRelative(-1)},
-  {"CTRL|ALT", "RightArrow", act.MoveTabRelative(1)},
-  
-  -- Copy and paste operations
-  {"ALT", "c", act.CopyTo 'ClipboardAndPrimarySelection'},
-  {"ALT", "v", act.PasteFrom 'PrimarySelection'},
-  {"ALT", "v", act.PasteFrom 'Clipboard'},
-  
-  -- Font size adjustments
-  {"ALT", "+", act.IncreaseFontSize},
-  {"ALT", "-", act.DecreaseFontSize},
-  {"ALT", "*", act.ResetFontSize},
-})
--- { key = 'L', mods = 'CTRL', action = act.ShowDebugOverlay }
+config.keys = {
+  -- Tworzenie nowej zakładki w bieżącej domenie
+  { key = 't', mods = 'ALT|SHIFT', action = act.SpawnTab("CurrentPaneDomain") },
+
+  -- Zamknięcie bieżącej zakładki
+  { key = 'w', mods = 'ALT|SHIFT', action = wezterm.action.CloseCurrentPane { confirm = false } },
+
+  -- Rozdzielanie poziomego panelu
+  { key = 'h', mods = 'ALT|SHIFT', action = wezterm.action.SplitVertical { domain = 'CurrentPaneDomain' } },
+
+  -- Rozdzielanie pionowego panelu
+  { key = 'v', mods = 'ALT|SHIFT', action = wezterm.action.SplitHorizontal { domain = 'CurrentPaneDomain' } },
+
+  -- Poruszanie się do panelu powyżej
+  { key = 'UpArrow', mods = 'ALT|SHIFT', action = wezterm.action.ActivatePaneDirection("Up") },
+
+  -- Poruszanie się do panelu poniżej
+  { key = 'DownArrow', mods = 'ALT|SHIFT', action = wezterm.action.ActivatePaneDirection("Down") },
+
+  -- Poruszanie się do panelu po lewej
+  { key = 'LeftArrow', mods = 'ALT|SHIFT', action = wezterm.action.ActivatePaneDirection("Left") },
+
+  -- Poruszanie się do panelu po prawej
+  { key = 'RightArrow', mods = 'ALT|SHIFT', action = wezterm.action.ActivatePaneDirection("Right") },
+
+  -- Kopiowanie do schowka
+  { key = 'c', mods = 'CTRL|SHIFT', action = act.CopyTo("Clipboard") },
+
+  -- Wklejanie ze schowka
+  { key = 'v', mods = 'CTRL|SHIFT', action = act.PasteFrom("Clipboard") },
+
+   -- Wyświetlenie nakładki debugowania
+   -- { key = 'L', mods = 'CTRL', action = act.ShowDebugOverlay }
+
+}
 
 -- Zwrócenie konfiguracji do wezterm
 return config
