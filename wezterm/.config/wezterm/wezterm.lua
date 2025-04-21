@@ -88,8 +88,8 @@ config.keys = key_binding({
 -- Font configuration with minimal fallbacks for better performance
 config.font = wezterm.font_with_fallback({
   { family = 'JetBrainsMono Nerd Font', weight = 'Regular' },
-    config.font_size = 9,  -- Ustawienie rozmiaru czcionki
 })
+config.font_size = 9,  -- Ustawienie rozmiaru czcionki
 
 -- Tab bar with FiraCode font
 config.window_frame = {
