@@ -59,21 +59,21 @@ config.use_dead_keys = false  -- Wyłącza klawisze martwe (przydatne dla niekt�
 config.scrollback_lines = 5000  -- Ustala liczbę linii historii terminala, które będą przechowywane
 config.color_scheme = 'catppuccin-mocha'  -- Ustawienie schematu kolorów na 'catppuccin mocha'
 -- config.color_scheme = 'nord'  -- Ustawienie schematu kolorów na 'nord'
-config.font_size = 11  -- Ustawienie rozmiaru czcionki
+config.font_size = 12  -- Ustawienie rozmiaru czcionki
 config.font = wezterm.font('JetBrainsMono Nerd Font', { weight = 'Regular', italic = false })  -- Czcionka tylko 'JetBrainsMono Nerd Font'
-config.max_fps = 120
+config.max_fps = 60
 config.animation_fps = 1
 config.line_height = 1.1
-config.window_background_opacity = 0.95
+config.window_background_opacity = 1.0
 config.enable_scroll_bar = false
-config.use_fancy_tab_bar = true
 config.term = "xterm-256color"
 config.warn_about_missing_glyphs = false
+config.adjust_window_size_when_changing_font_size = false
 
 -- Konfiguracja ramki okna (np. pasek tytułowy)
 config.window_frame = {
   font = wezterm.font { family = 'JetBrainsMono Nerd Font', weight = 'Bold' },  -- Czcionka w pasku tytułowym
-  font_size = 11.0,  -- Rozmiar czcionki w pasku tytułowym
+  font_size = 12.0,  -- Rozmiar czcionki w pasku tytułowym
   active_titlebar_bg = '#4c566a',  -- Tło aktywnego paska tytułowego
   inactive_titlebar_bg = '#2e3440',  -- Tło nieaktywnego paska tytułowego
 }
@@ -123,7 +123,7 @@ config.keys = {
   { key = 'v', mods = 'CTRL|SHIFT', action = act.PasteFrom("Clipboard") },
 
    -- Wyświetlenie nakładki debugowania
-  { key = 'L', mods = 'CTRL', action = act.ShowDebugOverlay }
+   -- { key = 'L', mods = 'CTRL', action = act.ShowDebugOverlay }
 
 }
 
