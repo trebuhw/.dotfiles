@@ -14,6 +14,7 @@ run dunst &
 run /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & # OpenSuse authentication
 run sxhkd -c ~/.config/suckless/sxhkd/sxhkdrc &
 run numlockx on &
+run setxkbmap pl &
 run xrdb ~/.Xresources &
 run nm-applet &
 run parcellite -n & # Ctrl+Alt+s run history clipboard
