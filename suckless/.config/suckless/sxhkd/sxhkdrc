@@ -1,9 +1,9 @@
 #################################################################
 #     SUPER KEYS
 #################################################################
-# kitty
+# alaritty
 super + x
-    wezterm
+    alacritty --config-file ~/.dotfiles/alacritty/.config/alacritty-X11/alacritty.toml
 
 # st
 alt + Return
