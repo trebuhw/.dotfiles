@@ -5,18 +5,18 @@ local act = wezterm.action
 
 -- GitHub Dark inspired color palette (streamlined)
 local colors = {
-  fg = "#d0d7de",
-  bg = "#0d1117",
-  comment = "#8b949e",
-  red = "#ff7b72",
-  green = "#3fb950",
-  yellow = "#d29922",
-  blue = "#539bf5",
-  magenta = "#bc8cff",
-  cyan = "#39c5cf",
-  selection = "#415555",
-  caret = "#58a6ff",
-  invisibles = "#2f363d",
+  fg = "#cdd6f4",
+  bg = "#1e1e2e",
+  comment = "#6c7086",
+  red = "#f38ba8",
+  green = "#a6e3a1",
+  yellow = "#f9e2af",
+  blue = "#89b4fa",
+  magenta = "#cba6f7",
+  cyan = "#74c7ec",
+  selection = "#7f849c",
+  caret = "#74c7ec",
+  invisibles = "#313244",
 }
 
 -- Efficient keybinding helper function
@@ -84,15 +84,13 @@ config.keys = key_binding({
 
 -- Font configuration with minimal fallbacks for better performance
 config.font = wezterm.font_with_fallback({
-  { family = 'SauceCodePro Nerd Font Mono', weight = 'Regular' },
-  { family = 'FiraCode Nerd Font Mono', weight = 'Regular' },
-  { family = 'Symbols Nerd Font Mono', weight = 'Regular' },
+  { family = 'JetBrainsMono Nerd Font', weight = 'Regular' },
 })
 
 -- Tab bar with FiraCode font
 config.window_frame = {
-  font = wezterm.font { family = 'FiraCode Nerd Font Mono', weight = 'Regular' },
-  font_size = 12.0,
+  font = wezterm.font { family = 'JetBrainsMono Nerd Font', weight = 'Regular' },
+  font_size = 11.0,
   active_titlebar_bg = colors.bg,
 }
 
