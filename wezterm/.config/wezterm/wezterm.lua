@@ -3,6 +3,9 @@
 local wezterm = require "wezterm"
 local act = wezterm.action
 
+-- Styl kursora dostępne opcje (SteadyBlock, BlinkingBlock, SteadyUnderline, BlinkingUnderline, SteadyBar,BlinkingBar)
+config.default_cursor_style = 'BlinkingBar'  -- Ustawienie kursora na migającą linię
+
 -- GitHub Dark inspired color palette (streamlined)
 local colors = {
   fg = "#cdd6f4",
@@ -85,12 +88,13 @@ config.keys = key_binding({
 -- Font configuration with minimal fallbacks for better performance
 config.font = wezterm.font_with_fallback({
   { family = 'JetBrainsMono Nerd Font', weight = 'Regular' },
+    config.font_size = 9,  -- Ustawienie rozmiaru czcionki
 })
 
 -- Tab bar with FiraCode font
 config.window_frame = {
   font = wezterm.font { family = 'JetBrainsMono Nerd Font', weight = 'Regular' },
-  font_size = 11.0,
+  font_size = 8.0,
   active_titlebar_bg = colors.bg,
 }
 
