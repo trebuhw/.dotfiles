@@ -54,11 +54,16 @@ config.colors = {
 -- Umiejscowienie paska zakładek na dole okna
 config.tab_bar_at_bottom = true  -- Ustawienie paska zakładek na dole okna
 
+-- Ukrywanie paska zakładek, jeśli jest tylko jedna zakładka
+config.hide_tab_bar_if_only_one_tab = true  -- Ukrywa pasek zakładek, jeśli jest tylko jedna zakładka
+
+-- Wyłączenie zaawansowanego paska zakładek (mniej ozdobny)
+config.use_fancy_tab_bar = false  -- Wyłącza ozdobny pasek zakładek
+
 -- Pozostałe ustawienia konfiguracyjne
 config.use_dead_keys = false  -- Wyłącza klawisze martwe (przydatne dla niektórych aplikacji CLI)
 config.scrollback_lines = 5000  -- Ustala liczbę linii historii terminala, które będą przechowywane
 config.color_scheme = 'catppuccin-mocha'  -- Ustawienie schematu kolorów na 'catppuccin mocha'
--- config.color_scheme = 'nord'  -- Ustawienie schematu kolorów na 'nord'
 config.font_size = 12  -- Ustawienie rozmiaru czcionki
 config.font = wezterm.font('JetBrainsMono Nerd Font', { weight = 'Regular', italic = false })  -- Czcionka tylko 'JetBrainsMono Nerd Font'
 config.max_fps = 60
@@ -70,6 +75,16 @@ config.term = "xterm-256color"
 config.warn_about_missing_glyphs = false
 config.adjust_window_size_when_changing_font_size = false
 config.enable_wayland = false
+ 
+-- Styl kursora dostępne opcje (SteadyBlock, BlinkingBlock, SteadyUnderline, BlinkingUnderline, SteadyBar,BlinkingBar)
+config.default_cursor_style = 'BlinkingBar'  -- Ustawienie kursora na migającą linię
+
+-- Konfiguracja kolorów kursora 
+config.colors = {
+  cursor_bg = '#cdd6f4',
+  cursor_fg = '#cdd6f4',
+  cursor_border = '#cdd6f4', 
+}
 
 -- Konfiguracja ramki okna (np. pasek tytułowy)
 config.window_frame = {
@@ -78,15 +93,6 @@ config.window_frame = {
   active_titlebar_bg = '#4c566a',  -- Tło aktywnego paska tytułowego
   inactive_titlebar_bg = '#2e3440',  -- Tło nieaktywnego paska tytułowego
 }
-
--- Styl kursora dostępne opcje (SteadyBlock, BlinkingBlock, SteadyUnderline, BlinkingUnderline, SteadyBar,BlinkingBar)
-config.default_cursor_style = 'BlinkingBar'  -- Ustawienie kursora na migającą linię
-
--- Ukrywanie paska zakładek, jeśli jest tylko jedna zakładka
-config.hide_tab_bar_if_only_one_tab = true  -- Ukrywa pasek zakładek, jeśli jest tylko jedna zakładka
-
--- Wyłączenie zaawansowanego paska zakładek (mniej ozdobny)
-config.use_fancy_tab_bar = false  -- Wyłącza ozdobny pasek zakładek
 
 -- Wyłączenie domyślnych skrótów klawiaturowych
 config.disable_default_key_bindings = true  -- Wyłącza domyślne skróty klawiaturowe
