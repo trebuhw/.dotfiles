@@ -69,7 +69,7 @@ config.font = wezterm.font('JetBrainsMono Nerd Font', { weight = 'Regular', ital
 config.max_fps = 60
 config.animation_fps = 1
 config.line_height = 1.1
-config.window_background_opacity = 1.0
+config.window_background_opacity = 0.9
 config.enable_scroll_bar = false
 config.term = "xterm-256color"
 config.warn_about_missing_glyphs = false

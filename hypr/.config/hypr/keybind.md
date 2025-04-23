@@ -16,8 +16,8 @@
      + i               -> rofi wifi
      + Shift + x       -> rofi power
      + Shift + w       -> waypaper
-     + Shift + b       -> wofi waybar config
-     + Ctrl + b        -> wofi waybar style
+     + Shift + b       -> wofi waybar style
+     + Ctrl + b        -> wofi waybar config
      + Shift + a       -> azote
      + Shift + z       -> keybind hyprland
      + ctrl + m        -> reset vol & bri to default value (40%, 30%)
