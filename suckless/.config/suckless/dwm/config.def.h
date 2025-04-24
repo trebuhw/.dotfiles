@@ -72,7 +72,7 @@ static const char *dmenucmd[] = { "dmenu_run", "-i", NULL };
 /*static const char *dmenucmd[] = { "dmenu_run", "-p", prompt, "-m", dmenumon, "-fn", dmenufont, "-nb", col_gray1, "-nf", col_gray3, "-sb", col_cyan, "-sf", col_gray4, NULL };*/
 static const char *terminalcmd[]  = { "wezterm", NULL };
 static const char *filecmd[]  = { "thunar", NULL };
-static const char *webbrowser[]  = { "firefox", NULL };
+static const char *webbrowser[]  = { "google-chrome-stable", NULL };
 
 #include "selfrestart.c"
 #include "shiftview.c"
