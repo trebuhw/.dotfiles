@@ -6,8 +6,8 @@ super + x
     alacritty --config-file ~/.dotfiles/alacritty/.config/alacritty-X11/alacritty.toml
 
 # st
-alt + Return
-    st
+# alt + Return
+#    st
 
 # nv
 super + n
