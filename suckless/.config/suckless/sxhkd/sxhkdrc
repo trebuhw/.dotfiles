@@ -3,7 +3,8 @@
 #################################################################
 # alaritty
 super + x
-    alacritty --config-file ~/.dotfiles/alacritty/.config/alacritty-X11/alacritty.toml
+#    alacritty --config-file ~/.dotfiles/alacritty/.config/alacritty-X11/alacritty.toml
+     wezterm
 
 # st
 # alt + Return
