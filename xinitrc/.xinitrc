@@ -16,9 +16,11 @@ fi
 [ -f ~/.xprofile ] && . ~/.xprofile
 
 # Loop
-while true; do
-             dwm >/dev/null 2>&1
-done
+#while true; do
+#             dwm >/dev/null 2>&1
+#done
+
+while type dwm >/dev/null ; do dwm && continue || break ;done
 
 # DWM - run to konole "startx"
 # Archlinux
