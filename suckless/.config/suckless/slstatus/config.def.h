@@ -81,7 +81,7 @@ static const struct arg args[] = {
 //        { run_command,          "|%s ",     "sl-bkl.sh" },
 //        { run_command,          "| %s%% ",    "volume" },
 //        { battery_perc,         "| %s%% ]", "BAT0" },
-        { run_command,          "[ %s ",       "TZ=Europe/Warsaw date +\"%a  %d.%m\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
+        { run_command,          "[ %s |",       "TZ=Europe/Warsaw date +\"%a | %d.%m\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
 //        { run_command,          "[ %s |",       "TZ=Europe/Warsaw date +\"%a | %d.%m.%Y\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
         { datetime,             " %s ]",       "%H:%M" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
 };
