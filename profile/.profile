@@ -1,3 +1,3 @@
-export BROWSER=floorp
-export TERM=foot
+export BROWSER=google-chrome-stable
+export TERM=wezterm
 export QT_QPA_PLATFORMTHEME="qt5ct"
