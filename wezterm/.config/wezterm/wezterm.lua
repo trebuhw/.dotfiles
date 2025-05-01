@@ -148,6 +148,8 @@ config.keys = key_binding({
   {"CTRL|ALT", "8", act.MoveTab(7)},
   {"CTRL|ALT", "LeftArrow", act.MoveTabRelative(-1)},
   {"CTRL|ALT", "RightArrow", act.MoveTabRelative(1)},
+  {"CTRL|ALT", "n", act.ActivateTabRelative(1)},
+  {"CTRL|ALT", "p", act.ActivateTabRelative(-1)},
   
   -- Copy and paste operations
   {"ALT", "c", act.CopyTo 'ClipboardAndPrimarySelection'},
