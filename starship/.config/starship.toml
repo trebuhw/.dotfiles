@@ -13,7 +13,7 @@ error_symbol = "[](red)"
 vimcmd_symbol = "[](subtext1)" # For use with zsh-vi-mode
 
 [line_break]
-disabled = true
+disabled = false
 
 [git_branch]
 style = "bold mauve"
