@@ -7,10 +7,19 @@ palette = "catppuccin_macchiato"
 
 # Starship modules
 [character]
+disabled = false
+success_symbol = '[](bold fg:blue)'
+error_symbol = '[](bold fg:red)'
+vimcmd_symbol = '[](bold fg:green)'
+vimcmd_replace_one_symbol = '[](bold fg:purple)'
+vimcmd_replace_symbol = '[](bold fg:purple)'
+vimcmd_visual_symbol = '[](bold fg:lavender)'
+
+#[character]
 # Note the use of Catppuccin color 'peach'
-success_symbol = "[](blue)"
-error_symbol = "[](red)"
-vimcmd_symbol = "[](subtext1)" # For use with zsh-vi-mode
+#success_symbol = "[](blue)"
+#error_symbol = "[](red)"
+#vimcmd_symbol = "[](subtext1)" # For use with zsh-vi-mode
 
 [line_break]
 disabled = true
