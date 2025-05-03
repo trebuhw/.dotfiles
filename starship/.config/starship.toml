@@ -11,8 +11,10 @@ palette = "catppuccin_macchiato"
 # Starship modules
 [character]
 disabled = false
-success_symbol = '[→](bold blue)'
-error_symbol = '[→](bold red)'
+success_symbol = '[➜](bold blue)' # orginal starship
+error_symbol = '[➜](bold red)' # orginal starship
+# success_symbol = '[→](bold blue)'
+# error_symbol = '[→](bold red)'
 vimcmd_symbol = '[←](bold green)'
 vimcmd_replace_one_symbol = '[←](bold purple)'
 vimcmd_replace_symbol = '[←](bold purple)'
