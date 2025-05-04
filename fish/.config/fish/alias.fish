@@ -229,6 +229,26 @@ alias brc='nvim ~/.bashrc'
 alias ptt='pdftotext -layout'
 alias mpdf='gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile=' # Merge pdf. Podać nazwa po połączeniu potem nazwy złączanych plików.
 
+# XBPS
+alias xup='sudo xbps-install -Su' # Aktualizacja pakietów
+alias xi='sudo xbps-install' # Instalacja paklietów  
+alias xui='sudo xbps-install -S' # Instalacja paklietów i sync 
+alias xis='sudo xbps-query -s' # Wyszukiwanie zainstalowanych pakietów
+alias xrs='sudo xbps-query -Rs' # Wyszukiwanie w repozytorium pakietów
+alias xr='sudo xbps-remove' # Usówanie pakietów
+alias xrm='sudo xbps-remove -R' # Usówanie pakietów wraz z niepotzrebnymi zależnosciami
+alias xro='sudo xbps-remove -O' # Usówanie osieroconych pakietów
+alias xq='sudo xbps-query' # Info zainstalowany pakiet 
+alias xc='xbps-remove -C' # Czyszczenie xbps /var/cache/
+
+# XBPS - src > uruchamiać w ~/void-packages
+alias xsb='./xbps-src binary-bootstrap' # konfiguracja binary-bootstrap 
+alias xsc='./xbps-src pkg' # Budowa pakietu 
+alias xsi='xbps-install -R hostdir/binpkgs/nonfree' # Instalacja pakietu 
+alias xss='ls ~/void-packages/srcpkgs/ | grep' # Wyszukiwanie pakietu 
+alias xsc='./xbps-src clean' # Czyszczenie
+alias xsz='./xbps-src zap' # czyszczenie wraz z zależnościami
+
 # Rsync
 alias rs='rsync -ravz'
 alias rsd='rsync -ravz --delete'
