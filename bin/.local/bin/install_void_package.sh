@@ -67,7 +67,7 @@ fi
 
 # Instalacja pakietu
 echo "Instalowanie pakietu $SELECTED_PACKAGE..."
-sudo xi "$SELECTED_PACKAGE"
+sudo xbps-install "$SELECTED_PACKAGE"
 if [ $? -eq 0 ]; then
     echo "Pakiet $SELECTED_PACKAGE został zainstalowany pomyślnie."
 else
