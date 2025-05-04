@@ -50,6 +50,9 @@ super + shift + p
 super + p
     $HOME/.config/suckless/scripts/dmenu-powermenu.sh
 
+# XBPS-Power
+super + z
+    $HOME/.config/suckless/scripts/xbps-power-menu.sh
 
 # Bluetoth manager
 super + shift + b
