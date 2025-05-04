@@ -131,12 +131,6 @@ alias vim='vim'
 alias mi='/home/hubert/.config/suckless/scripts/make-install.sh'
 alias fzf='fzf --preview "bat --color=always {}"'
 alias fe='$HOME/.local/bin/fzf-nvim.sh'
-#alias ffc='$HOME/.config/scripts/fzf-config.sh'
-#alias ffl='$HOME/.config/scripts/fzf-import-rofi.sh'
-#alias ffd='$HOME/.config/scripts/fzf-run-dir-scripts.sh'
-#alias ffr='$HOME/.config/scripts/fzf_speed/run/fzf-run.sh'
-#alias ffe='$HOME/.config/scripts/fzf_speed/edit/fzf-edit.sh'
-#alias ffes='$HOME/.config/scripts/fzf-scripts.sh'
 alias ffcp='cliphist list | fzf | cliphist decode | wl-copy'
 alias ddm 'if=/dev/sr0 of=cd.iso bs=4M status=progress' # cd.iso tworzy się w bierzącym katalogu
 alias nbfcc='cd /opt/nbfc/Configs && ll'
@@ -150,6 +144,8 @@ alias sbg='cd $HOME/Obrazy/Wallpaper && sxiv'
 alias e="exit"
 alias po="systemctl poweroff"
 alias rb="systemctl reboot"
+alias srb="sudo reboot"
+alias spo="sudo poweroff"
 alias rh="hyprctl dispatch exit"
 alias r='ranger'
 alias rd='~/.config/suckless/scripts/ranger.sh'
