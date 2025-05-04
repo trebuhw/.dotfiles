@@ -5,9 +5,9 @@ function powermenu {
     selected=$(echo -e $options | dmenu -i ) # demenu skonfigurowane i zainstalowane z ~/.config/dwm/dmenu/ sudo make clean install
  #   selected=$(echo -e $options | dmenu -p ">>>" -nb '#222222' -nf '#BBBBBB' -sb '#6790EB' -sf '#EEEEEE' -fn 'JetBrainsMono Nerd Font:size=10')
     if [[ $selected = "PowerOff" ]]; then
-        sudo poweroff
+        loginctl poweroff
     elif [[ $selected = "Reboot" ]]; then
-        sudo reboot
+        loginctl reboot
     elif [[ $selected = "Logout" ]]; then
         ~/.config/suckless/scripts/logout
      elif [[ $selected = "Block" ]]; then
