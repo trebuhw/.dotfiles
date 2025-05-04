@@ -242,8 +242,8 @@ alias xq='sudo xbps-query' # Info zainstalowany pakiet
 alias xc='xbps-remove -C' # Czyszczenie xbps /var/cache/
 
 # XBPS - src > uruchamiać w ~/void-packages
-alias xsb='./xbps-src binary-bootstrap' # konfiguracja binary-bootstrap 
-alias xsc='./xbps-src pkg' # Budowa pakietu 
+alias xsib='./xbps-src binary-bootstrap' # konfiguracja binary-bootstrap 
+alias xsb='./xbps-src pkg' # Budowa pakietu 
 alias xsi='xbps-install -R hostdir/binpkgs/nonfree' # Instalacja pakietu 
 alias xss='ls ~/void-packages/srcpkgs/ | grep' # Wyszukiwanie pakietu 
 alias xsc='./xbps-src clean' # Czyszczenie
