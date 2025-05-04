@@ -138,6 +138,7 @@ alias fe='$HOME/.local/bin/fzf-nvim.sh'
 #alias ffe='$HOME/.config/scripts/fzf_speed/edit/fzf-edit.sh'
 #alias ffes='$HOME/.config/scripts/fzf-scripts.sh'
 alias ffcp='cliphist list | fzf | cliphist decode | wl-copy'
+alias ddm 'if=/dev/sr0 of=cd.iso bs=4M status=progress' # cd.iso tworzy się w bierzącym katalogu
 alias nbfcc='cd /opt/nbfc/Configs && ll'
 alias nbfce='sudo nvim /opt/nbfc/Configs/Dell\ Vostro\ 7580.xml'
 alias hwi='hyprprop' # hyprland wayland, info run program
