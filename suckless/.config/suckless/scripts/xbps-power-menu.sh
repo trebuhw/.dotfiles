@@ -1,6 +1,6 @@
 #!/bin/sh
 options="Wyłącz\nRestart\nWyloguj\nWygaszacz"
-choice=$(echo -e "$options" | dmenu -i -p "Wybierz akcję:")
+choice=$(echo -e "$options" | dmenu -i -p "Void Linux Power Menu:")
 
 case "$choice" in
     "Wyłącz") sudo shutdown -h now ;;
