@@ -232,19 +232,19 @@ alias mpdf='gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -s
 # XBPS
 alias xup='sudo xbps-install -Su' # Aktualizacja pakietów
 alias xi='sudo xbps-install' # Instalacja paklietów  
-alias xui='sudo xbps-install -S' # Instalacja paklietów i sync 
-alias xis='sudo xbps-query -s' # Wyszukiwanie zainstalowanych pakietów
-alias xrs='sudo xbps-query -Rs' # Wyszukiwanie w repozytorium pakietów
-alias xr='sudo xbps-remove' # Usówanie pakietów
-alias xrm='sudo xbps-remove -R' # Usówanie pakietów wraz z niepotzrebnymi zależnosciami
-alias xro='sudo xbps-remove -O' # Usówanie osieroconych pakietów
+alias xis='sudo xbps-install -S' # Instalacja paklietów i sync 
+alias xqs='sudo xbps-query -s' # Wyszukiwanie zainstalowanych pakietów
+alias xqr='sudo xbps-query -Rs' # Wyszukiwanie w repozytorium pakietów
 alias xq='sudo xbps-query' # Info zainstalowany pakiet 
-alias xc='xbps-remove -C' # Czyszczenie xbps /var/cache/
+alias xr='sudo xbps-remove' # Usówanie pakietów
+alias xrr='sudo xbps-remove -R' # Usówanie pakietów wraz z niepotzrebnymi zależnosciami
+alias xro='sudo xbps-remove -O' # Usówanie osieroconych pakietów
+alias xrc='xbps-remove -C' # Czyszczenie xbps /var/cache/
 
 # XBPS - src > uruchamiać w ~/void-packages
-alias xsib='./xbps-src binary-bootstrap' # konfiguracja binary-bootstrap 
-alias xsb='./xbps-src pkg' # Budowa pakietu 
-alias xsi='xbps-install -R hostdir/binpkgs/nonfree' # Instalacja pakietu 
+alias xsbb='./xbps-src binary-bootstrap' # konfiguracja binary-bootstrap 
+alias xsp='./xbps-src pkg' # Budowa pakietu 
+alias xsi='sudo xbps-install -R hostdir/binpkgs/nonfree' # Instalacja pakietu 
 alias xss='ls ~/void-packages/srcpkgs/ | grep' # Wyszukiwanie pakietu 
 alias xsc='./xbps-src clean' # Czyszczenie
 alias xsz='./xbps-src zap' # czyszczenie wraz z zależnościami
