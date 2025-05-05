@@ -227,7 +227,7 @@ alias mpdf='gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -s
 
 # XBPS
 alias xup='sudo xbps-install -Su' # Aktualizacja pakietów
-alias xi='sudo xbps-install' # Instalacja paklietów  
+alias xin='sudo xbps-install' # Instalacja paklietów  
 alias xis='sudo xbps-install -S' # Instalacja paklietów i sync 
 alias xqs='sudo xbps-query -s' # Wyszukiwanie zainstalowanych pakietów
 alias xqr='sudo xbps-query -Rs' # Wyszukiwanie w repozytorium pakietów
