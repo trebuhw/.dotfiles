@@ -275,3 +275,4 @@ alias mglpull='$HOME/Dokumenty/Git/my-gitlab-pull.sh'
 #alias gbp='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME push'
 #alias gbpull='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME pull'
 alias gbf='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME fetch origin' # reset scalanie - merge 
+alias nn='fzf-nn.sh'
