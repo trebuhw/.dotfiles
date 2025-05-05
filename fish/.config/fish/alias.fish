@@ -245,8 +245,8 @@ alias xsc='./xbps-src clean' # Czyszczenie
 alias xsz='./xbps-src zap' # czyszczenie wraz z zależnościami
 
 # Power
-alias xrb='loginctl reboot' # Potrzeba zainstalować i uruchomić usługę logind
-alias xpo='loginctl poweroff' # Potrzeba zainstalować i uruchomić usługę logind
+alias vrb='loginctl reboot' # Potrzeba zainstalować i uruchomić usługę logind
+alias vpo='loginctl poweroff' # Potrzeba zainstalować i uruchomić usługę logind
 
 # Rsync
 alias rs='rsync -ravz'
