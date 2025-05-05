@@ -144,8 +144,6 @@ alias sbg='cd $HOME/Obrazy/Wallpaper && sxiv'
 alias e="exit"
 alias po="systemctl poweroff"
 alias rb="systemctl reboot"
-alias srb="sudo reboot"
-alias spo="sudo poweroff"
 alias rh="hyprctl dispatch exit"
 alias r='ranger'
 alias rd='~/.config/suckless/scripts/ranger.sh'
@@ -225,6 +223,7 @@ alias brc='nvim ~/.bashrc'
 alias ptt='pdftotext -layout'
 alias mpdf='gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile=' # Merge pdf. Podać nazwa po połączeniu potem nazwy złączanych plików.
 
+## Void Linux
 # XBPS
 alias xup='sudo xbps-install -Su' # Aktualizacja pakietów
 alias xin='sudo xbps-install' # Instalacja paklietów  
@@ -244,6 +243,10 @@ alias xsi='sudo xbps-install -R hostdir/binpkgs/nonfree' # Instalacja pakietu
 alias xss='ls ~/void-packages/srcpkgs/ | grep' # Wyszukiwanie pakietu 
 alias xsc='./xbps-src clean' # Czyszczenie
 alias xsz='./xbps-src zap' # czyszczenie wraz z zależnościami
+
+# Power
+alias xrb='loginctl reboot' # Potrzeba zainstalować i uruchomić usługę logind
+alias xpo='loginctl poweroff' # Potrzeba zainstalować i uruchomić usługę logind
 
 # Rsync
 alias rs='rsync -ravz'
