@@ -125,9 +125,7 @@ alias probe="sudo -E hw-probe -all -upload"
 alias sysfailed="systemctl list-units --failed"
 
 # Moje aliasy
-alias v='nvim'
 alias nv='nvim'
-alias vim='vim'
 alias mi='/home/hubert/.config/suckless/scripts/make-install.sh'
 alias fzf='fzf --preview "bat --color=always {}"'
 alias fe='$HOME/.local/bin/fzf-nvim.sh'
