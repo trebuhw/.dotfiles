@@ -1,21 +1,20 @@
 #################################################################
 #     SUPER KEYS
 #################################################################
-# alaritty
+# Wezterm
 super + x
-#    alacritty --config-file ~/.dotfiles/alacritty/.config/alacritty-X11/alacritty.toml
      wezterm
 
-# st
-# alt + Return
-#    st
-
-# nv
+# Wezterm > fzf-nn.sh
 super + n
-    st -e nvim    
+    wezterm -e $HOME/.local/bin/fzf-nn.sh
+
+# Code
+super + shift + Return
+    code
 
 # Sublime-text-4
-super + s
+super + ctrl + Return
     subl
 
 # Rofi
