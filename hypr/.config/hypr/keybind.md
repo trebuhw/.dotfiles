@@ -1,9 +1,11 @@
     # Hyprland keybinds
     ## Programs
-     + x               -> foot
-     + Return          -> foot
-     + Shift + t       -> kitty (float)
-     + Shift + Return  -> subl
+     + x               -> wezterm
+     + Return          -> wezterm
+     + Shift + t       -> alacritty (float)
+     + CTRL + n        -> alacritty fzf-nn (float)
+     + Shift + Return  -> code
+     + CTRL + Return   -> subl
      + w               -> google chrome
      + e               -> thunar
      + d               -> rofi
