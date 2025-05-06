@@ -7,7 +7,7 @@ function run {
   fi
 }
 
-run dropbox start
+run dropbox start &
 # run "xrandr --output eDP1 --mode 1920x1080 --pos 0x0 --rotate normal"
 # run nitrogen --restore &
 # run picom -b  --config ~/.config/suckless/dwm/picom.conf &
