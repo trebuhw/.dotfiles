@@ -7,7 +7,12 @@ function run {
   fi
 }
 
-run dropbox start &
+# Display
+#run $HOME/.screenlayout/1.sh
+run "xrandr --output Virtual-1 --mode 1920x1080 --pos 0x0 --rotate normal"
+#run "xrandr --output eDP1 --mode 1920x1080 --pos 0x0 --rotate normal"
+
+# run dropbox start &
 # run "xrandr --output eDP1 --mode 1920x1080 --pos 0x0 --rotate normal"
 # run nitrogen --restore &
 # run picom -b  --config ~/.config/suckless/dwm/picom.conf &
@@ -28,7 +33,7 @@ run feh --bg-fill $HOME/.bg &
 
 # Display
 #run $HOME/.screenlayout/1.sh
-run "xrandr --output Virtual-1 --mode 1920x1080 --pos 0x0 --rotate normal"
+#run "xrandr --output Virtual-1 --mode 1920x1080 --pos 0x0 --rotate normal"
 #run "xrandr --output eDP1 --mode 1920x1080 --pos 0x0 --rotate normal"
 #run "xrandr --output VGA-1 --primary --mode 1360x768 --pos 0x0 --rotate normal"
 #run "xrandr --output HDMI2 --mode 1920x1080 --pos 1920x0 --rotate normal --output HDMI1 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output VIRTUAL1 --off"
