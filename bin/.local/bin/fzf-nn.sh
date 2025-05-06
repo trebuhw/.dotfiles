@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Ścieżka do folderu z notatkami
-NOTES_DIR="$HOME/Dropbox/Notes"
+NOTES_DIR="$HOME/Cloud/GDrive/Notes"
 
 # Utworzenie folderu, jeśli nie istnieje
 mkdir -p "$NOTES_DIR"
