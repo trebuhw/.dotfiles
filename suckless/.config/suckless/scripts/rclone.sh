@@ -40,7 +40,6 @@ RCLONE_COMMON_OPTS="--vfs-cache-mode full \
 
 # Parametry specyficzne dla Google Drive
 GDRIVE_OPTS="--drive-chunk-size=64M \
-             --drive-list-r"
 
 # Parametry specyficzne dla OneDrive
 ONEDRIVE_OPTS="--onedrive-chunk-size=64M \
