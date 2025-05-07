@@ -220,7 +220,6 @@ alias uo='pacman -Rsn $(pacman -Qdtq)' # usówanie osieroconych pakietów
 alias app='hyprctl clients' # class i id window
 alias rk='du -sh *'
 alias mpdf='gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile=' # Merge pdf. Podać nazwa po połączeniu potem nazwy złączanych plików.
-alias sddmb='sudo cp $HOME/.background.jpg /usr/share/sddm/themes/arcolinux-simplicity/images/background.jpg'
 alias picker='hyprpicker -an'
 alias cc='rm /home/hubert/.cache/cliphist/db' # Clear list cliphist - historia kopiowania, numeracja elementów skopiowanych będzię kontynuowana 
 #alias cc='cliphist wipe && rm /home/hubert/.cache/cliphist/db' # Clear list cliphist - historia kopiowania, numeracja elementów skopiowanych będzię kontynuowana 

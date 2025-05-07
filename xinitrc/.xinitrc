@@ -24,7 +24,8 @@ while type dwm >/dev/null ; do dwm && continue || break ;done
 
 # DWM - run to konole "startx"
 # Archlinux
-redshift -O3500; xset r rate 300 50; exec dwm
+# redshift -O3500; xset r rate 300 50; exec dwm
 
 # Linux
-# exec dwm
+slsstatus &
+exec dwm
