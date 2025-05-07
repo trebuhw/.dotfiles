@@ -18,6 +18,7 @@ run "xrandr --output Virtual-1 --mode 1920x1080 --pos 0x0 --rotate normal"
 # run picom -b  --config ~/.config/suckless/dwm/picom.conf &
 run dunst &
 run /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & # OpenSuse authentication
+run /usr/libexec/polkit-gnome-authentication-agent-1 & # Void Linux authentication
 run sxhkd -c ~/.config/suckless/sxhkd/sxhkdrc &
 run numlockx on &
 run setxkbmap pl &
