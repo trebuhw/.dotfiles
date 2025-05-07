@@ -18,6 +18,12 @@ if ! command -v rclone >/dev/null 2>&1; then
     exit 1
 fi
 
+# Sprawdzanie wersji rclone
+RCLONE_VERSION=$(rclone version | head -n1)
+if echo "$RCLONE_VERSION" | grep -E "v1\.[0-5][0-9]\." >/dev/null; then
+    echo "Ostrzeżenie: Używasz starej wersji rclone ($RCLONE_VERSION). Zalecana aktualizacja."
+fi
+
 # Sprawdzanie, czy konfiguracja rclone istnieje
 if [ ! -f "$RCLONE_CONFIG" ]; then
     echo "Błąd: Plik konfiguracyjny rclone ($RCLONE_CONFIG) nie istnieje. Skonfiguruj: rclone config"
@@ -39,10 +45,10 @@ RCLONE_COMMON_OPTS="--vfs-cache-mode full \
                     --log-level INFO"
 
 # Parametry specyficzne dla Google Drive
-GDRIVE_OPTS="--drive-chunk-size=64M \
+GDRIVE_OPTS="--drive-chunk-size=64M"
 
 # Parametry specyficzne dla OneDrive
-ONEDRIVE_OPTS="--onedrive-chunk-size=64M \
+ONEDRIVE_OPTS="--onedrive-chunk-size=60M \
                --onedrive-delta"
 
 # Funkcja do montowania
@@ -66,8 +72,5 @@ mount_rclone() {
 # Montowanie dysków
 mount_rclone "gdrive:" "$MOUNT_DIR_GDRIVE" "$GDRIVE_OPTS"
 mount_rclone "onedrive:" "$MOUNT_DIR_ONEDRIVE" "$ONEDRIVE_OPTS"
-
-# Czekanie na procesy (opcjonalne, dla usług runit/systemd niepotrzebne)
-# wait
 
 exit 0
