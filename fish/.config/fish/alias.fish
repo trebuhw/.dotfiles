@@ -239,7 +239,7 @@ alias xrc='xbps-remove -C' # Czyszczenie xbps /var/cache/
 # XBPS - src > uruchamiać w ~/void-packages
 alias xsbb='./xbps-src binary-bootstrap' # konfiguracja binary-bootstrap 
 alias xsp='./xbps-src pkg' # Budowa pakietu 
-alias xsi='sudo xbps-install -R hostdir/binpkgs/nonfree' # Instalacja pakietu 
+alias xsi='sudo xbps-install -R hostdir/binpkgs/' # Instalacja pakietu 
 alias xss='ls ~/void-packages/srcpkgs/ | grep' # Wyszukiwanie pakietu 
 alias xsc='./xbps-src clean' # Czyszczenie
 alias xsz='./xbps-src zap' # czyszczenie wraz z zależnościami
