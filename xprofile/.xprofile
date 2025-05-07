@@ -7,6 +7,6 @@
 # Display
 # xrandr --output Virtual-1 --mode 1920x1080 &
 #
-# export GTK_THEME=Arc-Darker
+export GTK_THEME=Catppuccin-Dark
 # slstatus &
 # dropbox start &
