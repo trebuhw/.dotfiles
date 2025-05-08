@@ -37,7 +37,7 @@ static const Rule rules[] = {
 	{ "Nitrogen", 				NULL,       NULL,       0,            1,           -1, 				485,190,1200,900, 		-1 },
 	{ "Galculator", 			NULL,       NULL,       0,            1,           -1,        1550,730, 10, 10,     -1 },
 //	{ "Gimp", 						NULL,       NULL,       0,            1,           -1, 				50,50,500,500,        -1 },
-		{ "st", 							NULL,       NULL,       0,            1,           -1, 				485,190,950,700, 			-1 },
+		{ "St", 							NULL,       NULL,       0,            1,           -1, 				485,190,950,700, 			-1 },
 //	{ "Alacritty", 				NULL,       NULL,       0,            1,           -1, 				11,33,650,900, 				-1 },
 };
 
