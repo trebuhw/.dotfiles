@@ -29,6 +29,7 @@ run parcellite -n & # Ctrl+Alt+s run history clipboard
 # run blueman-applet &
 run feh --bg-fill $HOME/.bg &
 run ~/.config/suckless/scripts/rclone.sh &
+run ~/.local/bin/pcloud
 # run /usr/lib/xfce4/notifyd/xfce4-notifyd &
 
 
