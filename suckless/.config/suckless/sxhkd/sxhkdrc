@@ -9,6 +9,10 @@ super + x
 super + n
     wezterm -e $HOME/.local/bin/fzf-nn.sh
 
+# Kitty > fzf-nn.sh > float
+super + ctrl + n
+    kitty -e $HOME/.local/bin/fzf-nn.sh
+
 # Code
 super + shift + Return
     code
