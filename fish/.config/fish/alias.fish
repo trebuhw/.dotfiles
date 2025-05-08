@@ -266,10 +266,11 @@ alias gbc='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME commit -am'
 alias gbpush='$HOME/Dokumenty/Git/gitbare-push.sh'
 alias gbpull='$HOME/Dokumenty/Git/gitbare-pull.sh'
 alias mgc='$HOME/Dokumenty/Git/my-git-clone.sh'
-alias gc='git clone --depth 1 ' # ssh > git@github.com:trebuhw/dwm.git | https > https://github.com/trebuchw/dwm.git 
+alias gc='git clone --depth=1 ' # ssh > git@github.com:trebuhw/dwm.git | https > https://github.com/trebuchw/dwm.git 
 alias mga='git add'
 alias mgs='git status'
 alias mgcom='git commit -am'
+alias mgup='mgs; mga .; mgcom "up"; mgpush'
 alias mgpush='$HOME/Dokumenty/Git/my-git-push.sh'
 alias mgpull='$HOME/Dokumenty/Git/my-git-pull.sh'
 alias mglpush='$HOME/Dokumenty/Git/my-gitlab-push.sh'
