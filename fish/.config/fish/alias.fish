@@ -129,6 +129,7 @@ alias nv='nvim'
 alias mi='/home/hubert/.config/suckless/scripts/make-install.sh'
 alias fzf='fzf --preview "bat --color=always {}"'
 alias fe='$HOME/.local/bin/fzf-nvim.sh'
+alias fel='$HOME/.local/bin/fzf-nvim.sh $(pwd)/'
 alias ffcp='cliphist list | fzf | cliphist decode | wl-copy'
 alias ddm 'if=/dev/sr0 of=cd.iso bs=4M status=progress' # cd.iso tworzy się w bierzącym katalogu
 alias nbfcc='cd /opt/nbfc/Configs && ll'
