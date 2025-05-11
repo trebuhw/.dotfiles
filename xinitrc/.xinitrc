@@ -27,5 +27,5 @@ while type dwm >/dev/null ; do dwm && continue || break ;done
 # redshift -O3500; xset r rate 300 50; exec dwm
 
 # Linux
-exec /usr/local/bin/slstatus &
+# exec /usr/local/bin/slstatus &
 exec dwm
