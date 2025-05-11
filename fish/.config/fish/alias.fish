@@ -201,7 +201,6 @@ alias ff='fastfetch'
 alias ffm='fastfetch -c $HOME/.dotfiles/fastfetch/.config/fastfetch/config.jsonc'
 alias ffn='fastfetch -l none'
 alias td='sudo hdparm -t' # test prędkości dysku użycie sudo hdparm -t /dev/sda
-alias cd..='cd ..'
 alias hom='cd ~/ && la'
 alias dok='cd ~/Dokumenty/ && ls'
 alias n='cd ~/Dokumenty/Notes/ && l'
