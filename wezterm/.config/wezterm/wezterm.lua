@@ -61,6 +61,8 @@ config.hide_tab_bar_if_only_one_tab = true  -- Ukrywa pasek zakładek, jeśli je
 config.use_fancy_tab_bar = false  -- Wyłącza ozdobny pasek zakładek
 
 -- Pozostałe ustawienia konfiguracyjne
+config.initial_cols = 110
+config.initial_rows = 30
 config.use_dead_keys = false  -- Wyłącza klawisze martwe (przydatne dla niektórych aplikacji CLI)
 config.scrollback_lines = 5000  -- Ustala liczbę linii historii terminala, które będą przechowywane
 config.color_scheme = 'catppuccin-mocha'  -- Ustawienie schematu kolorów na 'catppuccin mocha'
