@@ -2,6 +2,7 @@
     ## Programs
      + x               -> wezterm
      + Return          -> wezterm
+     + t               -> kitty (float)
      + Shift + t       -> alacritty (float)
      + CTRL + n        -> alacritty fzf-nn (float)
      + Shift + Return  -> code
