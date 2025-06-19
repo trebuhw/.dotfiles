@@ -100,12 +100,12 @@ CHECKSUM=$(sha256sum "google-chrome-stable_${CHROME_VERSION}-1_amd64.deb" | cut 
 if [ -z "$CHECKSUM" ]; then
     echo "Błąd: Nie udało się wygenerować sumy kontrolnej"
     exit 1
-}
+fi
 
 # 10. Aktualizacja szablonu
 echo "Aktualizowanie szablonu dla wersji $CHROME_VERSION..."
 sed -i "s/version=.*/version=$CHROME_VERSION/" "$TEMPLATE_FILE"
-sed -i "s/checksum=.*/checksum=\"$CHECKSUM\"/" "$TEMPLATE_FILE"
+sed -i 's/checksum=.*/checksum="'"$CHECKSUM"'"/' "$TEMPLATE_FILE"
 
 # 11. Budowanie pakietu
 echo "Budowanie pakietu Google Chrome..."
