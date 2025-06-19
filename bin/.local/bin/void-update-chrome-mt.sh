@@ -3,7 +3,7 @@
 # Używa szablonu z ~/void-maytemplate/google-chrome i chroni oryginalny szablon
 
 VOID_PACKAGES_DIR="$HOME/void-packages"
-CUSTOM_TEMPLATE_DIR="$HOME/void-maytemplate/google-chrome"
+CUSTOM_TEMPLATE_DIR="$HOME/void-mytemplate/google-chrome"
 TEMPLATE_FILE="${VOID_PACKAGES_DIR}/srcpkgs/google-chrome/template"
 ORIGINAL_TEMPLATE="${VOID_PACKAGES_DIR}/srcpkgs/google-chrome/template.org"
 
