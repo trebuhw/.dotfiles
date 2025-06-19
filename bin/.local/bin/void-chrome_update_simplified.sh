@@ -13,9 +13,23 @@ die() { echo "Błąd: $1"; exit 1; }
 cd "$VOID_DIR" || die "Nie można przejść do $VOID_DIR"
 
 # Pobierz najnowszą wersję Chrome
-echo "Pobieranie najnowszej wersji Chrome..."
+echo "Sprawdzanie najnowszej wersji Chrome..."
 VERSION=$(curl -s https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions.json | jq -r '.channels.Stable.version')
 [ -z "$VERSION" ] && die "Nie udało się pobrać wersji"
+
+# Sprawdź czy już mamy tę wersję
+CURRENT_VERSION=$(grep "^version=" "$MY_TEMPLATE" 2>/dev/null | cut -d'=' -f2)
+if [ "$CURRENT_VERSION" = "$VERSION" ]; then
+    echo "Chrome $VERSION już jest aktualny!"
+    echo "Chcesz przebudować mimo to? (t/N): "
+    read -r response
+    case "$response" in
+        [tT]|[tT][aA][kK]) echo "Przebudowuję...";;
+        *) echo "Anulowano."; exit 0;;
+    esac
+else
+    echo "Nowa wersja dostępna: $CURRENT_VERSION → $VERSION"
+fi
 
 # Pobierz plik i wygeneruj hash
 echo "Pobieranie Chrome $VERSION..."
