@@ -39,10 +39,17 @@ mkdir -p srcpkgs/google-chrome/files
 
 # Przenieś oryginalny szablon na template.org, jeśli istnieje
 if [ -f "$TEMPLATE_FILE" ]; then
+    if [ -f "$ORIGINAL_TEMPLATE" ]; then
+        echo "Ostrzeżenie: Plik template.org już istnieje. Usuwam stary backup..."
+        rm "$ORIGINAL_TEMPLATE"
+    fi
     mv "$TEMPLATE_FILE" "$ORIGINAL_TEMPLATE" || {
         echo "Błąd: Nie udało się przenieść oryginalnego szablonu"
         exit 1
     }
+    echo "Oryginalny szablon zabezpieczony jako template.org"
+else
+    echo "Ostrzeżenie: Nie znaleziono oryginalnego szablonu template"
 fi
 
 # Skopiuj niestandardowy szablon i pliki
@@ -123,12 +130,28 @@ sudo xbps-install --repository=hostdir/binpkgs/nonfree -u google-chrome -y || {
 
 # 13. Przywracanie szablonów
 echo "Przywracanie oryginalnego szablonu..."
-rm -rf srcpkgs/google-chrome/template srcpkgs/google-chrome/files
+# Usuń tylko nasz niestandardowy szablon
+if [ -f "$TEMPLATE_FILE" ]; then
+    rm "$TEMPLATE_FILE" || {
+        echo "Błąd: Nie udało się usunąć niestandardowego szablonu"
+        exit 1
+    }
+fi
+
+# Usuń pliki skopiowane z naszego szablonu (tylko jeśli istnieją)
+if [ -d "$CUSTOM_TEMPLATE_DIR/files" ]; then
+    echo "Usuwanie plików niestandardowego szablonu..."
+    rm -rf srcpkgs/google-chrome/files
+fi
+
+# Przywróć oryginalny szablon
 if [ -f "$ORIGINAL_TEMPLATE" ]; then
     mv "$ORIGINAL_TEMPLATE" "$TEMPLATE_FILE" || {
         echo "Błąd: Nie udało się przywrócić oryginalnego szablonu"
         exit 1
     }
+else
+    echo "Ostrzeżenie: Nie znaleziono oryginalnego szablonu do przywrócenia!"
 fi
 
 # 14. Czyszczenie
