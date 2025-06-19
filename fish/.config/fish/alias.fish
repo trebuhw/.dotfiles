@@ -238,6 +238,7 @@ alias xrr='sudo xbps-remove -R' # Usówanie pakietów wraz z niepotzrebnymi zale
 alias xro='sudo xbps-remove -O' # Usówanie osieroconych pakietów
 alias xrc='xbps-remove -C' # Czyszczenie xbps /var/cache/
 
+#### VOID LINUX #####
 # XBPS - src > uruchamiać w ~/void-packages
 alias xsbb='./xbps-src binary-bootstrap' # konfiguracja binary-bootstrap 
 alias xsp='./xbps-src pkg' # Budowa pakietu 
@@ -245,6 +246,10 @@ alias xsi='sudo xbps-install -R hostdir/binpkgs/' # Instalacja pakietu
 alias xss='ls ~/void-packages/srcpkgs/ | grep' # Wyszukiwanie pakietu 
 alias xsc='./xbps-src clean' # Czyszczenie
 alias xsz='./xbps-src zap' # czyszczenie wraz z zależnościami
+
+# Google-Chrome > install & update
+alias igch='~/.local/bin/src-install_chrome.sh'
+alias upgch='~/.local/bin/void-update-chrome.sh'
 
 # Power
 alias vrb='loginctl reboot' # Potrzeba zainstalować i uruchomić usługę logind
