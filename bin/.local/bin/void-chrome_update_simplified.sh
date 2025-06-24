@@ -34,7 +34,7 @@ fi
 # Pobierz plik i wygeneruj hash
 echo "Pobieranie Chrome $VERSION..."
 DEB_FILE="google-chrome-stable_${VERSION}-1_amd64.deb"
-wget -q "https://dl.google.com/linux/deb/pool/main/g/google-chrome-stable/$DEB_FILE" || die "Nie udało się pobrać pliku"
+wget --progress=bar:force  "https://dl.google.com/linux/deb/pool/main/g/google-chrome-stable/$DEB_FILE" || die "Nie udało się pobrać pliku"
 
 HASH=$(sha256sum "$DEB_FILE" | cut -d' ' -f1)
 rm "$DEB_FILE"

@@ -3,7 +3,7 @@
 # The famous "get a menu of emojis to copy" script.
 
 # Get user selection via dmenu from emoji file.
-chosen=$( cat ~/Dokumenty/Emoji/emoji | rofi -dmenu -p "EMOJI" | awk '{print $1}' )
+chosen=$( cat ~/Dokumenty/Linux/Emoji/emoji | rofi -dmenu -p "EMOJI" | awk '{print $1}' )
 
 # Exit if none chosen.
 [ -z "$chosen" ] && exit
