@@ -4,6 +4,10 @@ local act = wezterm.action  -- Skróty do akcji wezterm
 -- Używamy konfiguratora wezterm, jeśli dostępny
 local config = wezterm.config_builder and wezterm.config_builder() or {}
 
+-- Uruchamianie wezterm w powłoce
+-- config.default_prog = { "/usr/bin/bash" }
+config.default_prog = { "/usr/bin/fish" }
+
 -- Ustawienie marginesów
 config.window_padding = {
   top = 0,    -- Usuwa dodatkową pustą linię na górze
