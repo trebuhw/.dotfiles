@@ -88,7 +88,7 @@
         "format-icons": ["", "", ""],
         //"max-length": 7,
         //"min-length": 7,
-        //"on-click": "xsensors"
+        //"on-click": "xsensors",
         "on-click": "~/.local/bin/sensors_monitor_ws.sh n"
     },
     "memory": {
@@ -229,10 +229,11 @@
     },
     "cpu": {
         "interval": 1,
-        "format": "{usage}%"
+        "format": "{usage}%",
         //"format": "{max_frequency}GHz <span color=\"darkgray\">| {usage}%</span>",
         //"max-length": 13,
-        //"min-length": 13
+        //"min-length": 13,
+        "on-click": "alacritty -e btop"
     },
     "mpd": {
         "max-length": 25,
