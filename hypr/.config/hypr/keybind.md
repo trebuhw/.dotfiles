@@ -5,6 +5,7 @@
      + t               -> kitty (float)
      + Shift + t       -> alacritty (float)
      + CTRL + n        -> alacritty fzf-nn (float)
+     + CTRL + SHIFT +n -> alacritty fzf-search_notes (float)
      + Shift + Return  -> code
      + CTRL + Return   -> subl
      + w               -> google chrome

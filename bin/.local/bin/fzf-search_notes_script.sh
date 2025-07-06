@@ -3,8 +3,11 @@
 # Ścieżka do folderu z notatkami
 NOTES_DIR="$HOME/pCloudDrive/Notes"
 
-# Utworzenie folderu, jeśli nie istnieje
-mkdir -p "$NOTES_DIR"
+# Sprawdza, czy katalog z notatkami istnieje
+if [ ! -d "$NOTES_DIR" ]; then
+    echo "Błąd: Katalog z notatkami nie istnieje: $NOTES_DIR"
+    exit 1
+fi
 
 # Sprawdza, czy fzf jest zainstalowany
 if ! command -v fzf &> /dev/null; then
@@ -22,23 +25,25 @@ fi
 # Przejście do katalogu z notatkami
 cd "$NOTES_DIR" || exit 1
 
-# Wybór notatki lub wpisanie nowej nazwy za pomocą fzf
-# --print-query pozwala przechwycić wpisaną nazwę
-# sort sortuje alfabetycznie
+# Sprawdza, czy są jakieś pliki do wyboru
+if [ -z "$(find . -type f -not -path '*/\.git/*' -not -path '*/node_modules/*' 2>/dev/null)" ]; then
+    echo "Brak notatek do edycji w katalogu: $NOTES_DIR"
+    exit 1
+fi
+
+# Wybór istniejącej notatki za pomocą fzf
 NOTE=$(find . -type f -not -path '*/\.git/*' -not -path '*/node_modules/*' 2>/dev/null | \
     sed 's|^\./||' | \
     sort | \
-    fzf --print-query \
-        --prompt="Nazwa notatki: " \
+    fzf --prompt="Wybierz notatkę do edycji: " \
         --preview "$preview_cmd {}" \
-        --preview-window=right:50%:wrap | \
-    tail -1)
+        --preview-window=right:50%:wrap)
 
-# Jeśli podano nazwę notatki
+# Jeśli wybrano notatkę
 if [ -n "$NOTE" ]; then
     # Otwarcie notatki w nvim
     nvim "$NOTES_DIR/$NOTE"
 else
-    echo "Nie podano nazwy notatki!"
+    echo "Nie wybrano żadnej notatki!"
     exit 1
 fi
