@@ -88,7 +88,8 @@
         "format-icons": ["", "", ""],
         //"max-length": 7,
         //"min-length": 7,
-        "on-click": "xsensors"
+        //"on-click": "xsensors"
+        "on-click": "~/.local/bin/sensors_monitor_ws.sh n"
     },
     "memory": {
         "interval": 30,
