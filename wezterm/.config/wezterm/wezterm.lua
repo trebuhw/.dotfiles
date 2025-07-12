@@ -71,7 +71,7 @@ config.use_dead_keys = false  -- Wyłącza klawisze martwe (przydatne dla niekt�
 config.scrollback_lines = 5000  -- Ustala liczbę linii historii terminala, które będą przechowywane
 config.color_scheme = 'catppuccin-mocha'  -- Ustawienie schematu kolorów na 'catppuccin mocha'
 config.font_size = 13  -- Ustawienie rozmiaru czcionki
-config.font = wezterm.font('CaskaydiaCove Nerd Font', { weight = 'Regular', italic = false })  -- Czcionka tylko 'JetBrainsMono Nerd Font'
+config.font = wezterm.font('CaskaydiaMono Nerd Font', { weight = 'Regular', italic = false })  -- Czcionka tylko 'JetBrainsMono Nerd Font'
 config.max_fps = 60
 config.animation_fps = 1
 config.line_height = 1.1

@@ -17,21 +17,21 @@ window#waybar.hidden {
 }
 
 tooltip {
-	background: rgba(30, 30, 47, 0);
-	border-radius: 10px;
-	/*border: 1px solid #cba6f7;*/
+	background: #1e1e2e;
+	border-radius: 0px;
+	border: 1px solid #cdd6f4;
 }
 
 tooltip label {
 	color: #cdd6f4;
-	margin-right: 2px;
-	margin-left: 2px;
+	margin-right: 1px;
+	margin-left: 1px;
 }
 
 /*-----module groups----*/
 .modules-right {
 	background: rgba(30, 30, 47, 0);
-	/*background-color: #1e1e2f;*/
+	/*background-color: #1e1e2e;*/
 	border: 0px solid #b4befe;
 	border-radius: 10px;
 }
