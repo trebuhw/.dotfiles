@@ -199,8 +199,9 @@ alias umount='sudo umount -dflnrv' # Podaj ścieżkę zamontowanego katalogu
 alias mocp='mocp -C $HOME/.moc/config'
 alias ytd='yt-dlp --extract-audio --audio-format mp3 --audio-quality 0'
 alias ff='fastfetch'
-alias ffm='fastfetch -c $HOME/.dotfiles/fastfetch/.config/fastfetch/config.jsonc'
-alias ffn='fastfetch -l none'
+alias ffm='fastfetch -c $HOME/.dotfiles/fastfetch/.config/fastfetch/hw-config.jsonc'
+alias ffn='fastfetch -l none - c $HOME/.dotfiles/fastfetch/.config/fastfetch/org-config.jsonc'
+alias ffo='fastfetch -l small -c $HOME/.dotfiles/fastfetch/.config/fastfetch/omarchy-config.jsonc'
 alias td='sudo hdparm -t' # test prędkości dysku użycie sudo hdparm -t /dev/sda
 alias hom='cd ~/ && la'
 alias dok='cd ~/Dokumenty/ && ls'
@@ -286,3 +287,10 @@ alias mgacp='$HOME/Dokumenty/Git/my-git-acp.sh'
 #alias gbpull='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME pull'
 alias gbf='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME fetch origin' # reset scalanie - merge 
 alias nn='fzf-nn.sh'
+
+# omarchy
+alias ou='omarchy-update'
+alias rmga='sudo pacman -Scc; yay -Scc;sudo pacman -Rns $(pacman -Qtdq);rm -rf ~/.cache/*;sudo journalctl --vacuum-time=2weeks'
+alias refup='sudo reflector --latest 30 --protocol https --sort rate --number 10 --verbose --save /etc/pacman.d/mirrorlist'
+
+

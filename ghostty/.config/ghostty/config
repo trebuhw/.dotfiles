@@ -1,27 +1,31 @@
+# shell integration
+shell-integration = fish
+
+# fonts
 font-family = CaskaydiaMono Nerd Font Propo
-#font-family = Iosevka Nerd Font
-# font-family = SFMono Nerd Font 
 font-size = 13
+
+# theme
 theme = catppuccin-mocha
 shell-integration-features = no-cursor,sudo,no-title
+
+# cursor
 cursor-style = bar
 cursor-style-blink = true
 cursor-color = cdd6f4
 
+# appearance
 adjust-cell-height = 5%
 background-opacity = 0.90
-
-mouse-hide-while-typing = true
-mouse-scroll-multiplier = 2
-
 window-padding-balance = true
 window-decoration = auto
-# window-save-stae = always
-# macos-titlebar-style=transparent
-window-colorspace = "display-p3"
-# background = 1C2021
-# foreground = d4be98
+alpha-blending = native
 resize-overlay = never
+shell-integration-features = no-cursor,sudo,no-title
+
+# mouse
+mouse-hide-while-typing = true
+mouse-scroll-multiplier = 2
 
 # keybindings
 keybind = alt+,=reload_config
