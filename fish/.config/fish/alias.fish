@@ -290,7 +290,7 @@ alias nn='fzf-nn.sh'
 
 # omarchy
 alias ou='omarchy-update'
-alias rmga='sudo pacman -Scc; yay -Scc;sudo pacman -Rns $(pacman -Qtdq);rm -rf ~/.cache/*;sudo journalctl --vacuum-time=2weeks'
+alias rmga='sudo pacman -Scc; yay -Scc; sudo pacman -Rns $(pacman -Qtdq);rm -rf ~/.cache/*; sudo journalctl --vacuum-time=2weeks; trash-empty; sudo trash-empty'
 alias refup='sudo reflector --latest 30 --protocol https --sort rate --number 10 --verbose --save /etc/pacman.d/mirrorlist'
 
 
