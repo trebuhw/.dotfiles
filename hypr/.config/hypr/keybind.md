@@ -19,6 +19,7 @@
      + m               -> rofi emoji
      + i               -> rofi wifi
      + Shift + x       -> rofi power
+     + CTRL + w        -> set wallpaper is swaybg ~/.bg
      + Shift + w       -> waypaper
      + Shift + b       -> wofi waybar style
      + Ctrl + b        -> wofi waybar config
