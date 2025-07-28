@@ -1,4 +1,4 @@
-font-family = CaskaydiaMono Nerd Font
+font-family = CaskaydiaMono Nerd Font Propo
 #font-family = Iosevka Nerd Font
 # font-family = SFMono Nerd Font 
 font-size = 13
@@ -8,8 +8,8 @@ cursor-style = bar
 cursor-style-blink = true
 cursor-color = cdd6f4
 
-adjust-cell-height = 10%
-# background-opacity = 0.90
+adjust-cell-height = 5%
+background-opacity = 0.90
 
 mouse-hide-while-typing = true
 mouse-scroll-multiplier = 2
@@ -21,6 +21,7 @@ window-decoration = auto
 window-colorspace = "display-p3"
 # background = 1C2021
 # foreground = d4be98
+resize-overlay = never
 
 # keybindings
 keybind = alt+,=reload_config
@@ -64,3 +65,5 @@ copy-on-select = clipboard
 
 # Enable link ctrl+ppm
 link-url = true
+
+app-notifications = no-clipboard-copy
