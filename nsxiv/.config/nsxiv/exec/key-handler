@@ -32,7 +32,7 @@ case "$1" in
 "C-x")      xclip -in -filter | tr '\n' ' ' | xclip -in -selection clipboard ;;
 "C-c")      while read file; do xclip -selection clipboard -target image/png "$file"; done ;;
 "C-t")	    while read file; do cp "$file" "$HOME/.background" & done && ~/.config/hypr/scripts/swaybg-set-background.sh ;; 
-"C-w")	    while read file; do ln -sf "$file" "$HOME/.bg" & done && feh --bg-fill ~/.bg  ;;
+"C-w")	    while read file; do ln -sf "$file" "$HOME/.bg"; done && pkill swaybg 2>/dev/null; swaybg -i ~/.bg -m fill & ;;
 "C-e")      while read file; do urxvt -bg "#444" -fg "#eee" -sl 0 -title "$file" -e sh -c "exiv2 pr -q -pa '$file' | less" & done ;;
 "C-g")      tr '\n' '\0' | xargs -0 gimp & ;;
 "C-r")      while read file; do rawtherapee "$file" & done ;;
