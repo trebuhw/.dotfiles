@@ -157,11 +157,11 @@ DOWNLOAD_SUCCESS=0
 for URL in "${DOWNLOAD_URLS[@]}"; do
     echo "Próbuję: $URL"
     if wget -q --timeout=30 "$URL" -O "$TARBALL"; then
-        echo "✅ Pobrano pomyślnie z: $URL"
+        echo "Pobrano pomyślnie z: $URL"
         DOWNLOAD_SUCCESS=1
         break
     else
-        echo "❌ Nie udało się z: $URL"
+        echo "Nie udało się z: $URL"
     fi
 done
 
@@ -235,15 +235,15 @@ rm "$ORIG_TEMPLATE"
 
 echo ""
 echo "=================================="
-echo "✅ Ghostty zaktualizowany do wersji $VERSION!"
-echo "🚀 Możesz teraz uruchomić terminal: ghostty"
-echo "📁 Szablon zapisany w: $MY_TEMPLATE"
+echo "Ghostty zaktualizowany do wersji $VERSION!"
+echo "Możesz teraz uruchomić terminal: ghostty"
+echo "Szablon zapisany w: $MY_TEMPLATE"
 echo "=================================="
 
 # Sprawdź czy ghostty rzeczywiście działa
 if command -v ghostty >/dev/null 2>&1; then
-    echo "🎉 Instalacja zakończona pomyślnie!"
-    ghostty --version 2>/dev/null || echo "ℹ️  Ghostty zainstalowany (sprawdź wersję: ghostty --version)"
+    echo "Instalacja zakończona pomyślnie!"
+    ghostty --version 2>/dev/null || echo "Ghostty zainstalowany (sprawdź wersję: ghostty --version)"
 else
-    echo "⚠️  Ghostty może wymagać ponownego zalogowania lub aktualizacji PATH"
+    echo "Ghostty może wymagać ponownego zalogowania lub aktualizacji PATH"
 fi

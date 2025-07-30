@@ -191,11 +191,11 @@ DOWNLOAD_SUCCESS=0
 for URL in "${DOWNLOAD_URLS[@]}"; do
     echo "Próbuję: $URL"
     if wget -q --timeout=30 "$URL" -O "$DEB_FILE"; then
-        echo "✅ Pobrano pomyślnie z: $URL"
+        echo "Pobrano pomyślnie z: $URL"
         DOWNLOAD_SUCCESS=1
         break
     else
-        echo "❌ Nie udało się z: $URL"
+        echo "Nie udało się z: $URL"
     fi
 done
 
@@ -247,15 +247,15 @@ rm "$ORIG_TEMPLATE"
 
 echo ""
 echo "=================================="
-echo "✅ Chrome zaktualizowany do wersji $VERSION!"
-echo "🚀 Możesz teraz uruchomić przeglądarkę: google-chrome"
-echo "📁 Szablon zapisany w: $MY_TEMPLATE"
+echo "Chrome zaktualizowany do wersji $VERSION!"
+echo "Możesz teraz uruchomić przeglądarkę: google-chrome"
+echo "Szablon zapisany w: $MY_TEMPLATE"
 echo "=================================="
 
 # Sprawdź czy chrome rzeczywiście działa
 if command -v google-chrome >/dev/null 2>&1; then
-    echo "🎉 Instalacja zakończona pomyślnie!"
-    google-chrome --version 2>/dev/null || echo "ℹ️  Chrome zainstalowany (sprawdź wersję: google-chrome --version)"
+    echo "Instalacja zakończona pomyślnie!"
+    google-chrome --version 2>/dev/null || echo "Chrome zainstalowany (sprawdź wersję: google-chrome --version)"
 else
-    echo "⚠️  Chrome może wymagać ponownego zalogowania lub aktualizacji PATH"
+    echo "Chrome może wymagać ponownego zalogowania lub aktualizacji PATH"
 fi
