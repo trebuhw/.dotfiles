@@ -10,6 +10,7 @@ window#waybar {
 	font-family: "JetBrainsMono Nerd Font";
   /*font-weight: bold;*/
 	font-size: 14px;
+	/*font-size: 98%;*/
 }
 
 window#waybar.hidden {

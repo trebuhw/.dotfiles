@@ -29,8 +29,8 @@ config.cursor_blink_rate = 800  -- Rzadsze mruganie kursora
 config.scrollback_lines = 3000  -- Zmniejszone z 5000 dla lepszej wydajności
 
 -- Czcionka i wyświetlanie
-config.font_size = 13
-config.font = wezterm.font('CaskaydiaMono Nerd Font', { weight = 'Regular' })
+config.font_size = 12
+config.font = wezterm.font('JetBrainsMono Nerd Font', { weight = 'Regular' })
 config.line_height = 1.1
 config.warn_about_missing_glyphs = false
 config.use_dead_keys = false

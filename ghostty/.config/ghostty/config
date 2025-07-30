@@ -2,8 +2,9 @@
 shell-integration = fish
 
 # fonts
-font-family = CaskaydiaMono Nerd Font Propo
-font-size = 13
+#font-family = CaskaydiaMono Nerd Font Propo
+font-family = JetBrainsMono Nerd Font
+font-size = 12
 
 # theme
 theme = catppuccin-mocha
@@ -15,7 +16,7 @@ cursor-style-blink = true
 cursor-color = cdd6f4
 
 # appearance
-adjust-cell-height = 5%
+# adjust-cell-height = 5%
 background-opacity = 0.90
 window-padding-balance = true
 window-decoration = auto

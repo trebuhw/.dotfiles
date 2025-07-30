@@ -12,12 +12,12 @@
     "spacing": 1, // Gaps between modules (4px)
     "modules-left": [
         //"custom/rofi",
-        "hyprland/workspaces",
+        "hyprland/workspaces"
         //"hyprland/submap",
-        "hyprland/window",
+        //"hyprland/window",
         //"idle_inhibitor",
         //"mpd"
-        "custom/media"
+        //"custom/media"
     ],
     "modules-center": [
         "clock"
