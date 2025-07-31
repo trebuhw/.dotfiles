@@ -10,7 +10,8 @@
      + CTRL + Return   -> subl
      + w               -> google chrome
      + e               -> thunar
-     + d               -> rofi
+     + d               -> rofi (drun)
+     + ctrl + d        -> rofi (run)
      + Shift + d       -> wofi full
      + c               -> galculator
      + Shift + m       -> mocp
