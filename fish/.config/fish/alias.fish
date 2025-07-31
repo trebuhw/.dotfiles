@@ -179,6 +179,7 @@ alias pqi='pacman -Qei | grep' # zainstalowany program info
 alias spr='sudo pacman -Rns '
 alias spu='sudo pacman -Syyu'
 alias yup='yay -Syyu'
+alias yayf="yay -Slq | fzf --multi --preview 'yay -Sii {1}' --preview-window=down:50% | xargs -ro yay -S"
 alias pp='pacman -Qqet' # pacman - zainstalowane pakiety
 alias pq='pacman -Q' # pacman - zainstalowane programy
 alias oi="grep -i installed /var/log/pacman.log | bat"
