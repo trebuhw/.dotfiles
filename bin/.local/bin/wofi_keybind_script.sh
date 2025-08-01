@@ -12,7 +12,7 @@ STYLE="$HOME/.config/wofi/style.css"
 COLORS="$HOME/.config/wofi/colors"
 
 # wofi window config (in %)
-WIDTH=60
+WIDTH=38
 HEIGHT=80
 
 # Plik z keybinds
@@ -44,7 +44,7 @@ main() {
     fi
     
     # Wyświetl zawartość pliku z sortowaniem alfabetycznym
-    cat "$KEYBIND_FILE" | sort | ${wofi_command}
+    cat "$KEYBIND_FILE" | ${wofi_command}
 }
 
 # Check if wofi is already running

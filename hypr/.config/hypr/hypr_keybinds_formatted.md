@@ -11,8 +11,7 @@ SUPER + SHIFT + Q → Wyloguj (wlogout)
 SUPER + E → Thunar (menedżer plików)
 SUPER + W → Przeglądarka (Chrome)
 SUPER + C → Kalkulator
-SUPER + SHIFT + K → Pokaż skróty (interaktywny skrypt)
-SUPER + SHIFT + Z → Pokaż skróty (sttayczny skrypt)
+SUPER + SHIFT + Z → Pokaż skróty (ten skrypt)
 
 # 🎨 TŁO I WYGLĄD
 SUPER + CTRL + W → Przywróć tło

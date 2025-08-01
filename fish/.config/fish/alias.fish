@@ -14,6 +14,10 @@ alias ll='eza -lha --icons=auto --sort=name --group-directories-first' # long li
 alias ld='eza -lhD --icons=auto' # long list dirs
 alias lt='eza --icons=auto --tree' # list folder as tree
 
+# zoxide
+alias zl='zi; l' # zoxide list folder
+alias ze='zi; fe' # zoxide edit file to folder
+
 alias tree='tree -aCsh --du --sort name'
 alias df='df -h'
 alias free="free -mt"
