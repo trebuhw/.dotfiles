@@ -1,0 +1,24 @@
+ignore-empty-password
+disable-caps-lock-text
+font=Cascadia Code PL
+font-size=12
+
+screenshots
+effect-blur=7x5
+effect-vignette=0.5:0.5
+indicator
+indicator-radius=120
+indicator-thickness=20
+clock
+timestr=%H:%M %p
+datestr=%a, %e %b %Y
+ring-color=585b70
+key-hl-color=89b4fa
+line-color=45475a
+separator-color=313244
+inside-color=313244
+bs-hl-color=89b4fa
+layout-bg-color=313244
+layout-border-color=585b70
+layout-text-color=cdd6f4
+text-color=cdd6f4

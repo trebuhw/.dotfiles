@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Catppuccin Mocha.sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
+	"dark_color_scheme": "Mariana.sublime-color-scheme",
+	"light_color_scheme": "Mariana.sublime-color-scheme",
+	"font_face": "JetBrainsMono Nerd Font",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"dark_theme": "Adaptive.sublime-theme",
+	"light_theme": "Adaptive.sublime-theme",
+	"index_files": true,
+	"word_wrap": "true",
+}

@@ -1,0 +1,10 @@
+
+
+lightdm-gtk-greeter-settings
+
+skopiować 
+theme catppuccin do /usr/share/theme
+icons Tela-circle-dracula-dark do /usr/share/icons
+bg world /etc/lightdm
+
+# sudo lightdm-gtk-greeter-settings

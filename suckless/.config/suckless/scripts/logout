@@ -1,0 +1,5 @@
+#!/bin/bash
+
+pkill -KILL -u hubert
+
+exit 0

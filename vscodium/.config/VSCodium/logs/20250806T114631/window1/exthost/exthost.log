@@ -1,0 +1,25 @@
+2025-08-06 11:46:33.410 [info] Extension host with pid 6803 started
+2025-08-06 11:46:33.410 [info] Skipping acquiring lock for /home/hubert/.config/VSCodium/User/workspaceStorage/b912bb2efd1d02e05e5444214864e7f3.
+2025-08-06 11:46:33.461 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-06 11:46:33.466 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: true, activationEvent: 'workspaceContains:README.md'
+2025-08-06 11:46:33.612 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2025-08-06 11:46:33.621 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-06 11:46:33.674 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-06 11:46:33.828 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-06 11:46:33.858 [info] Eager extensions activated
+2025-08-06 11:46:33.869 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-06 11:46:33.871 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-06 11:46:33.888 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-08-06 11:46:33.893 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-08-06 11:46:33.999 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-08-06 11:46:34.068 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-08-06 11:46:34.075 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-08-06 11:46:34.193 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-06 11:46:34.204 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-06 11:46:34.258 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-06 11:46:34.394 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5946
+2025-08-06 11:46:35.189 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5947
+2025-08-06 11:46:35.210 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-06 11:46:35.954 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5954
+2025-08-06 11:46:36.562 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-06 11:46:36.571 [info] Extension host with pid 6803 exiting with code 0

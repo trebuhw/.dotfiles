@@ -1,0 +1,127 @@
+#################################################################
+#     SUPER KEYS
+#################################################################
+# Wezterm
+super + x
+     wezterm
+
+# Wezterm > fzf-nn.sh
+super + n
+    wezterm -e $HOME/.local/bin/fzf-nn.sh
+
+# St > fzf-nn.sh > float
+super + ctrl + n
+    st -e $HOME/.local/bin/fzf-nn.sh
+
+# Code
+super + shift + Return
+    code
+
+# Sublime-text-4
+super + ctrl + Return
+    subl
+
+# Rofi
+alt + d
+    rofi -show drun
+
+# Rofi
+shift + alt + d
+    rofi -show run 
+
+# Github-Desktop
+super + shift + g
+    github-desktop
+
+# Nitrogen - Wallpaper change
+super + shift + w
+    nitrogen
+
+# Paru update
+super + shift + u
+    paru-up.sh
+
+# DWM chatsheet
+super + shift + a
+    alacritty --config-file ~/.dotfiles/alacritty/.config/alacritty-X11/alacritty.toml -e nvim ~/.config/suckless/dwm/cheatsheet.md
+
+# Pavucontrol
+super + shift + p
+    pavucontrol
+
+# Power
+super + p
+    $HOME/.config/suckless/scripts/dmenu-powermenu.sh
+
+# XBPS-Power
+super + z
+    $HOME/.config/suckless/scripts/xbps-dmenu-powermenu.sh
+
+# Bluetoth manager
+super + shift + b
+    blueman-manager
+
+# Restart DWM
+super + shift + q
+    pkill dwm
+
+# I3 Lock
+#super + x
+#    $HOME/.config/dwm/scripts/Lock-x11.sh
+
+# SCREENSHOTS
+# Scrot
+Print
+    scrot '%Y-%m-%d-%s_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-user-dir PICTURES)/Screenshots'
+
+shift + Print
+    scrot --select '%Y-%m-%d-%s_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-user-dir PICTURES)/Screenshots'
+
+# flameshot
+alt + Print
+     flameshot gui
+
+#################################################################
+#     MULTIMEDIA KEYS
+#################################################################
+
+# Raises volume
+XF86AudioRaiseVolume
+    ~/.config/suckless/scripts/volume --inc
+
+# Lowers volume
+XF86AudioLowerVolume
+    ~/.config/suckless/scripts/volume --dec
+
+# Mute
+XF86AudioMute
+    ~/.config/hypr/scripts/volume --toggle
+
+# PLAY
+XF86AudioPlay
+    playerctl play-pause
+
+# Next
+XF86AudioNext
+    playerctl next
+
+# previous
+XF86AudioPrev
+    playerctl previous
+
+# Stop
+XF86AudioStop
+    playerctl stop
+
+# Brightness up
+XF86MonBrightnessUp
+    brightnessctl s 10%+
+
+# Brightness down
+XF86MonBrightnessDown
+    brightnessctl s 10%-
+
+# Reset VOL & Brightness
+super + shift + m
+    /home/hubert/.config/suckless/scripts/reset_vol_bri.sh
+
