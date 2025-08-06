@@ -1,0 +1,15 @@
+2025-08-06 12:29:13.286 [info] [main] Log level: Info
+2025-08-06 12:29:13.286 [info] [main] Validating found git in: "git"
+2025-08-06 12:29:13.286 [info] [main] Using git "2.50.1" from "git"
+2025-08-06 12:29:13.286 [info] [Model][doInitialScan] Initial repository scan started
+2025-08-06 12:29:13.286 [info] > git rev-parse --show-toplevel [3ms]
+2025-08-06 12:29:13.286 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2025-08-06 12:29:13.286 [info] [Model][openRepository] Opened repository (path): /home/hubert/.dotfiles
+2025-08-06 12:29:13.286 [info] [Model][openRepository] Opened repository (real path): /home/hubert/.dotfiles
+2025-08-06 12:29:13.286 [info] > git rev-parse --show-toplevel [7ms]
+2025-08-06 12:29:13.286 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-06 12:29:13.286 [info] > git config --get commit.template [12ms]
+2025-08-06 12:29:13.286 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2025-08-06 12:29:13.358 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [57ms]
+2025-08-06 12:29:13.593 [info] > git status -z -uall [301ms]
+2025-08-06 12:29:13.642 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
