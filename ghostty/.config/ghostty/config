@@ -1,5 +1,6 @@
 # shell integration
 shell-integration = fish
+term = xterm-256color
 
 # fonts
 #font-family = CaskaydiaMono Nerd Font
