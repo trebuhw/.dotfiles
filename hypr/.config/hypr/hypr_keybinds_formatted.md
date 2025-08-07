@@ -11,7 +11,9 @@ SUPER + SHIFT + Q → Wyloguj (wlogout)
 SUPER + E → Thunar (menedżer plików)
 SUPER + W → Przeglądarka (Chrome)
 SUPER + C → Kalkulator
-SUPER + SHIFT + Z → Pokaż skróty (ten skrypt)
+SUPER + SHIFT + K → Pokaż skróty (wofi hypr key.-formateted.md)
+SUPER + SHIFT + Z → Pokaż skróty (wofi hypr - keybind.md)
+SUPER + CTRL + Z → Pokaż skróty (wofi yazi-pl.md)
 
 # 🎨 TŁO I WYGLĄD
 SUPER + CTRL + W → Przywróć tło

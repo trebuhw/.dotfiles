@@ -26,6 +26,7 @@
      + Ctrl + b                -> wofi waybar config
      + Shift + a               -> azote
      + Shift + z               -> keybind hyprland (wofi)
+     + CTRL + z                -> keybind yazi (wofi)
      + ctrl + m                -> reset vol & bri to default value (40%, 30%)
      + Shift + u               -> yay update
      + q                       -> kill active window
