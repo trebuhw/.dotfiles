@@ -35,6 +35,9 @@ edit = [
 	{ run = 'code %*',    orphan = true, desc = "code",           for = "windows" },
 	{ run = 'code -w %*', block = true,  desc = "code (block)",   for = "windows" },
 ]
+text = [
+	{ run = "nvim", block = true }
+]
 open = [
 	{ run = 'xdg-open "$1"',                desc = "Open", for = "linux" },
 	{ run = 'open "$@"',                    desc = "Open", for = "macos" },
