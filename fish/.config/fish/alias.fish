@@ -236,9 +236,9 @@ alias xsc='./xbps-src clean' # Czyszczenie
 alias xsz='./xbps-src zap' # czyszczenie wraz z zależnościami
 
 # Google-Chrome > install & update
-alias igch='~/.local/bin/src-install_chrome.sh'
-alias upgch='~/.local/bin/void_chrome_install_update.sh'
-alias upgho='~/.local/bin/void_ghostty_install_update.sh'
+alias igch='~/.local/share/bin/src-install_chrome.sh'
+alias upgch='~/.local/share/bin/void_chrome_install_update.sh'
+alias upgho='~/.local/share/bin/void_ghostty_install_update.sh'
 
 # Power
 alias vrb='loginctl reboot' # Potrzeba zainstalować i uruchomić usługę logind
