@@ -264,7 +264,7 @@ alias mgpush='$HOME/Dokumenty/Git/my-git-push.sh'
 alias mgpull='$HOME/Dokumenty/Git/my-git-pull.sh'
 alias mgacp='$HOME/Dokumenty/Git/my-git-acp.sh'
 alias gbf='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME fetch origin' # reset scalanie - merge 
-alias nn='fzf-nn.sh'
+alias nn='~/.local/share/bin/fzf-nn.sh'
 
 # omarchy
 alias ou='omarchy-update'
