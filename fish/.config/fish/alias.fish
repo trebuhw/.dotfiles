@@ -237,7 +237,7 @@ alias xsz='./xbps-src zap' # czyszczenie wraz z zależnościami
 
 # Google-Chrome > install & update
 alias igch='~/.local/share/bin/src-install_chrome.sh'
-alias upgch='~/.local/share/bin/void_chrome_install_update_progres.sh'
+alias upgch='~/.local/share/bin/void_chrome_install_update.sh'
 alias upgho='~/.local/share/bin/void_ghostty_install_update.sh'
 
 # Power
