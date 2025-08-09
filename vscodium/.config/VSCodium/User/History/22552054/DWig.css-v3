@@ -1,0 +1,49 @@
+@define-color bar-bg rgba(0, 0, 0, 0);
+
+@define-color main-bg #11111b;
+@define-color main-fg #cdd6f4;
+
+@define-color wb-act-bg rgba(0, 0, 0, 0); /* tło aktywnego obszaru roboczego przezroczyste */
+@define-color wb-act-fg #cdd6f4; /* kolor cyfry aktywnego obszaru roboczego */
+
+@define-color wb-hvr-bg rgba(255, 255, 255, 0.1); /* lekko jaśniejsze tło po najechaniu */
+@define-color wb-hvr-fg #cdd6f4;
+
+@define-color wb-inact-bg rgba(0, 0, 0, 0); /* tło nieaktywnego obszaru roboczego przezroczyste */
+@define-color wb-inact-fg #6e6a86; /* kolor cyfry nieaktywnego obszaru roboczego */
+
+/* Stylowanie obszarów roboczych */
+#workspaces button {
+    background-color: @wb-inact-bg;
+    color: @wb-inact-fg;
+}
+
+#workspaces button.active {
+    background-color: @wb-act-bg;
+    color: @wb-act-fg;
+}
+
+#workspaces button:hover {
+    background-color: @wb-hvr-bg;
+    color: @wb-hvr-fg;
+}
+
+/* Ujednolicone odstępy i wymiary dla wszystkich stanów w workspaces */
+#workspaces button,
+#workspaces button.active,
+#workspaces button:hover {
+    margin: 0 4px;      /* odstęp poziomy między przyciskami */
+    padding: 0 8px;     /* odstęp wewnętrzny */
+    min-width: 20px;    /* minimalna szerokość, zapobiega skokom */
+    border: none;       /* brak ramek */
+    border-radius: 4px; /* opcjonalne zaokrąglenie */
+}
+
+/* Jednolite odstępy między wszystkimi modułami */
+.module {
+    margin: 0 4px; /* taki sam jak w workspaces */
+}
+/* Odstępy wewnątrz grup modułów */
+.group .module {
+    margin: 0 4px; /* taki sam jak globalny */
+}
