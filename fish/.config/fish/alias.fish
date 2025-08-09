@@ -10,7 +10,7 @@ alias lt='eza --icons=auto --tree' # list folder as tree
 alias zl='zi; l' # zoxide list folder
 alias ze='zi; fe' # zoxide edit file to folder
 
-alias tree='tree -aCsh --du --sort name'
+alias treea='tree -aCsh --du --sort name'
 alias df='df -h'
 alias free="free -mt"
 alias update-fc='sudo fc-cache -fv'

@@ -1,6 +1,0 @@
-2025-08-06 11:41:47.898 [info] Log level: Info
-2025-08-06 11:42:11.979 [info] Log level: Info
-2025-08-06 11:42:13.016 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-08-06 11:44:00.852 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for trebuhw/.dotfiles: Error: No GitHub authentication session available.
-2025-08-06 11:44:54.611 [info] Log level: Info
-2025-08-06 11:44:55.385 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
