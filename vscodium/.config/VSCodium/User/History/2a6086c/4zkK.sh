@@ -1,1 +1,0 @@
-bin/.local/bin/void-update-chrome.sh
