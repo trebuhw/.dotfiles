@@ -5,12 +5,14 @@ alias ls='eza -1 --group-directories-first --icons=auto' # short list
 alias ll='eza -lha --icons=auto --sort=name --group-directories-first' # long list all
 alias ld='eza -lhD --icons=auto' # long list dirs
 alias lt='eza --icons=auto --tree' # list folder as tree
+alias lta='eza --icons=auto --tree -a --sort name' # list folder as tree
 
 # zoxide
 alias zl='zi; l' # zoxide list folder
 alias ze='zi; fe' # zoxide edit file to folder
 
-alias treea='tree -aCsh --du --sort name'
+alias t='tree --sort name'
+alias ta='tree -aCsh --du --sort name'
 alias df='df -h'
 alias free="free -mt"
 alias update-fc='sudo fc-cache -fv'
