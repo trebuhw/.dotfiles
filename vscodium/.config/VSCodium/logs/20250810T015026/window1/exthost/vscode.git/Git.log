@@ -1,0 +1,967 @@
+2025-08-10 01:50:28.970 [info] [main] Log level: Info
+2025-08-10 01:50:28.970 [info] [main] Validating found git in: "git"
+2025-08-10 01:50:28.970 [info] [main] Using git "2.50.1" from "git"
+2025-08-10 01:50:28.970 [info] [Model][doInitialScan] Initial repository scan started
+2025-08-10 01:50:28.970 [info] > git rev-parse --show-toplevel [6ms]
+2025-08-10 01:50:28.970 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:28.970 [info] > git rev-parse --show-toplevel [3ms]
+2025-08-10 01:50:28.970 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:28.970 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 01:50:28.970 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:28.970 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:28.970 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:28.970 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 01:50:28.970 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:28.970 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:28.970 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:28.970 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:28.970 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:28.970 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:28.970 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:28.970 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:28.970 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:28.970 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:28.970 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:28.970 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:28.970 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:28.970 [info] > git rev-parse --show-toplevel [10ms]
+2025-08-10 01:50:28.970 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.037 [info] > git rev-parse --show-toplevel [62ms]
+2025-08-10 01:50:29.037 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.046 [info] > git rev-parse --show-toplevel [3ms]
+2025-08-10 01:50:29.046 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.051 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:29.051 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.057 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:29.057 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.062 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:29.062 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.069 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 01:50:29.069 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.077 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 01:50:29.077 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.082 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:29.082 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.191 [info] > git rev-parse --show-toplevel [104ms]
+2025-08-10 01:50:29.191 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.234 [info] > git rev-parse --show-toplevel [14ms]
+2025-08-10 01:50:29.234 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.258 [info] > git rev-parse --show-toplevel [19ms]
+2025-08-10 01:50:29.258 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.263 [info] > git rev-parse --show-toplevel [0ms]
+2025-08-10 01:50:29.263 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.269 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:29.269 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.274 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:29.274 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.280 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 01:50:29.280 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.285 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:29.285 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.291 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:29.291 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.296 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:29.296 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.297 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-08-10 01:50:29.302 [info] > git rev-parse --show-toplevel [0ms]
+2025-08-10 01:50:29.303 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:29.309 [info] > git rev-parse --show-toplevel [0ms]
+2025-08-10 01:50:29.309 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:30.351 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:30.351 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:53.855 [info] [main] Log level: Info
+2025-08-10 01:50:53.855 [info] [main] Validating found git in: "git"
+2025-08-10 01:50:53.855 [info] [main] Using git "2.50.1" from "git"
+2025-08-10 01:50:53.855 [info] [Model][doInitialScan] Initial repository scan started
+2025-08-10 01:50:53.855 [info] > git rev-parse --show-toplevel [5ms]
+2025-08-10 01:50:53.855 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:53.861 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-10 01:50:53.867 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-08-10 01:50:53.883 [info] [Model][openRepository] Opened repository (path): /home/hubert/Pobrane/.hydedots
+2025-08-10 01:50:53.883 [info] [Model][openRepository] Opened repository (real path): /home/hubert/Pobrane/.hydedots
+2025-08-10 01:50:53.897 [info] > git rev-parse --show-toplevel [3ms]
+2025-08-10 01:50:53.897 [info] > git config --get commit.template [7ms]
+2025-08-10 01:50:53.909 [info] > git rev-parse --show-toplevel [6ms]
+2025-08-10 01:50:53.915 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-08-10 01:50:53.919 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:50:53.919 [info] > git rev-parse --show-toplevel [5ms]
+2025-08-10 01:50:53.930 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2025-08-10 01:50:53.941 [info] > git rev-parse --show-toplevel [17ms]
+2025-08-10 01:50:54.165 [info] > git status -z -uall [231ms]
+2025-08-10 01:50:54.166 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [227ms]
+2025-08-10 01:50:54.218 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [34ms]
+2025-08-10 01:50:54.223 [info] > git rev-parse --show-toplevel [59ms]
+2025-08-10 01:50:54.232 [info] > git config --get --local branch.main.vscode-merge-base [9ms]
+2025-08-10 01:50:54.232 [warning] [Git][config] git config failed: Failed to execute git
+2025-08-10 01:50:54.236 [info] > git config --get commit.template [19ms]
+2025-08-10 01:50:54.237 [info] > git rev-parse --show-toplevel [7ms]
+2025-08-10 01:50:54.248 [info] > git reflog main --grep-reflog=branch: Created from *. [12ms]
+2025-08-10 01:50:54.253 [info] > git rev-parse --show-toplevel [5ms]
+2025-08-10 01:50:54.253 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-08-10 01:50:54.261 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:50:54.261 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [9ms]
+2025-08-10 01:50:54.266 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2025-08-10 01:50:54.275 [info] > git rev-parse --show-toplevel [18ms]
+2025-08-10 01:50:54.276 [info] > git fetch [394ms]
+2025-08-10 01:50:54.277 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms] (cancelled)
+2025-08-10 01:50:54.278 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [13ms]
+2025-08-10 01:50:54.290 [info] > git status -z -uall [20ms] (cancelled)
+2025-08-10 01:50:54.291 [info] > git config --get commit.template [1ms]
+2025-08-10 01:50:54.291 [info] > git rev-parse --show-toplevel [5ms]
+2025-08-10 01:50:54.291 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.292 [info] > git config --add --local branch.main.vscode-merge-base origin/main [10ms]
+2025-08-10 01:50:54.328 [info] > git config --get commit.template [7ms]
+2025-08-10 01:50:54.328 [info] > git rev-parse --show-toplevel [10ms]
+2025-08-10 01:50:54.328 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.333 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:50:54.342 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:50:54.343 [info] > git rev-parse --show-toplevel [10ms]
+2025-08-10 01:50:54.343 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.349 [info] > git rev-parse refs/remotes/origin/main [7ms]
+2025-08-10 01:50:54.350 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2025-08-10 01:50:54.354 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:50:54.354 [info] > git rev-parse --show-toplevel [6ms]
+2025-08-10 01:50:54.354 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.360 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2025-08-10 01:50:54.370 [info] > git rev-parse --show-toplevel [11ms]
+2025-08-10 01:50:54.370 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.375 [info] > git status -z -uall [11ms]
+2025-08-10 01:50:54.375 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2025-08-10 01:50:54.388 [info] > git merge-base refs/heads/main refs/remotes/origin/main [6ms]
+2025-08-10 01:50:54.392 [info] > git rev-parse --show-toplevel [18ms]
+2025-08-10 01:50:54.392 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.398 [info] > git diff --name-status -z --diff-filter=ADMR bb01f4efc48e3df2d8dd2fb15b739a9bded29b3d...refs/remotes/origin/main [5ms]
+2025-08-10 01:50:54.398 [info] > git merge-base refs/heads/main refs/remotes/origin/main [11ms]
+2025-08-10 01:50:54.403 [info] > git rev-parse --show-toplevel [6ms]
+2025-08-10 01:50:54.403 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.408 [info] > git diff --name-status -z --diff-filter=ADMR bb01f4efc48e3df2d8dd2fb15b739a9bded29b3d...refs/remotes/origin/main [5ms]
+2025-08-10 01:50:54.408 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.408 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.414 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.414 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.419 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.419 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.424 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.424 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.429 [info] > git rev-parse --show-toplevel [0ms]
+2025-08-10 01:50:54.429 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.435 [info] > git rev-parse --show-toplevel [0ms]
+2025-08-10 01:50:54.435 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.439 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.439 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.444 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.444 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.449 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.449 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.453 [info] > git rev-parse --show-toplevel [0ms]
+2025-08-10 01:50:54.453 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.458 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.458 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.463 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.463 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.468 [info] > git rev-parse --show-toplevel [0ms]
+2025-08-10 01:50:54.468 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.473 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.473 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.478 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.478 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.484 [info] > git rev-parse --show-toplevel [0ms]
+2025-08-10 01:50:54.484 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.489 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.489 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.493 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.493 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.498 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.498 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.502 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.502 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.508 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-10 01:50:54.508 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-10 01:50:54.508 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-08-10 01:50:55.427 [info] > git config --get commit.template [5ms]
+2025-08-10 01:50:55.427 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 01:50:55.431 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:50:55.432 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 01:50:55.442 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 01:50:55.443 [info] > git status -z -uall [7ms]
+2025-08-10 01:50:55.697 [info] > git check-ignore -v -z --stdin [2ms]
+2025-08-10 01:50:59.655 [info] > git show --textconv :HyDE-config.sh [10ms]
+2025-08-10 01:50:59.658 [info] > git ls-files --stage -- HyDE-config.sh [5ms]
+2025-08-10 01:50:59.669 [info] > git cat-file -s 1723ba5c5e3e3545ff1cf98742fc6334fe1aef8c [2ms]
+2025-08-10 01:51:07.342 [info] > git blame --root --incremental bb01f4efc48e3df2d8dd2fb15b739a9bded29b3d -- HyDE-config.sh [2ms]
+2025-08-10 01:51:13.985 [info] > git config --get commit.template [20ms]
+2025-08-10 01:51:13.988 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:51:14.004 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:51:14.008 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2025-08-10 01:51:14.041 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:51:14.043 [info] > git status -z -uall [18ms]
+2025-08-10 01:52:24.959 [info] > git config --get commit.template [17ms]
+2025-08-10 01:52:24.962 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 01:52:24.972 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:52:24.974 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 01:52:24.991 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:52:24.994 [info] > git status -z -uall [13ms]
+2025-08-10 01:52:42.270 [info] > git check-ignore -v -z --stdin [1ms]
+2025-08-10 01:52:54.860 [info] > git config --get commit.template [3ms]
+2025-08-10 01:52:54.886 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 01:52:54.895 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:52:54.896 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 01:52:54.910 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:52:54.911 [info] > git status -z -uall [8ms]
+2025-08-10 01:52:59.947 [info] > git config --get commit.template [17ms]
+2025-08-10 01:52:59.950 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:52:59.965 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:52:59.968 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 01:53:00.000 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:53:00.003 [info] > git status -z -uall [21ms]
+2025-08-10 01:53:06.821 [info] > git config --get commit.template [4ms]
+2025-08-10 01:53:06.841 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:53:06.856 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:53:06.860 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:53:06.892 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:53:06.895 [info] > git status -z -uall [21ms]
+2025-08-10 01:53:20.331 [info] > git check-ignore -v -z --stdin [2ms]
+2025-08-10 01:53:38.379 [info] > git config --get commit.template [18ms]
+2025-08-10 01:53:38.380 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-08-10 01:53:38.388 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:53:38.390 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 01:53:38.404 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:53:38.405 [info] > git status -z -uall [9ms]
+2025-08-10 01:53:45.577 [info] > git config --get commit.template [4ms]
+2025-08-10 01:53:45.577 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 01:53:45.581 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:53:45.582 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 01:53:45.593 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 01:53:45.594 [info] > git status -z -uall [7ms]
+2025-08-10 01:53:54.744 [info] > git fetch [381ms]
+2025-08-10 01:53:54.776 [info] > git config --get commit.template [17ms]
+2025-08-10 01:53:54.779 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:53:54.793 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:53:54.797 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:53:54.825 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:53:54.826 [info] > git status -z -uall [14ms]
+2025-08-10 01:53:55.870 [info] > git config --get commit.template [5ms]
+2025-08-10 01:53:55.870 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 01:53:55.875 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:53:55.876 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 01:53:55.886 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 01:53:55.887 [info] > git status -z -uall [7ms]
+2025-08-10 01:53:55.983 [info] > git ls-files --stage -- HyDE-config.sh [6ms]
+2025-08-10 01:53:56.001 [info] > git cat-file -s 1723ba5c5e3e3545ff1cf98742fc6334fe1aef8c [4ms]
+2025-08-10 01:53:56.015 [info] > git show --textconv :HyDE-config.sh [4ms]
+2025-08-10 01:54:02.486 [info] > git check-ignore -v -z --stdin [8ms]
+2025-08-10 01:54:10.646 [info] > git config --get commit.template [8ms]
+2025-08-10 01:54:10.647 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-08-10 01:54:10.655 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:54:10.657 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 01:54:10.687 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:54:10.693 [info] > git status -z -uall [24ms]
+2025-08-10 01:54:15.731 [info] > git config --get commit.template [18ms]
+2025-08-10 01:54:15.734 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:54:15.749 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:54:15.753 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:54:15.784 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:54:15.787 [info] > git status -z -uall [20ms]
+2025-08-10 01:54:24.542 [info] > git check-ignore -v -z --stdin [7ms]
+2025-08-10 01:54:36.581 [info] > git config --get commit.template [18ms]
+2025-08-10 01:54:36.584 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:54:36.599 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:54:36.603 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:54:36.637 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:54:36.639 [info] > git status -z -uall [21ms]
+2025-08-10 01:54:50.023 [info] > git config --get commit.template [5ms]
+2025-08-10 01:54:50.042 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:54:50.057 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:54:50.061 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:54:50.088 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-08-10 01:54:50.091 [info] > git status -z -uall [19ms]
+2025-08-10 01:54:55.128 [info] > git config --get commit.template [17ms]
+2025-08-10 01:54:55.131 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:54:55.146 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:54:55.150 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:54:55.183 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-08-10 01:54:55.184 [info] > git status -z -uall [19ms]
+2025-08-10 01:55:05.992 [info] > git config --get commit.template [5ms]
+2025-08-10 01:55:05.993 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-10 01:55:05.997 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:55:05.998 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 01:55:06.010 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 01:55:06.011 [info] > git status -z -uall [9ms]
+2025-08-10 01:55:13.046 [info] > git config --get commit.template [15ms]
+2025-08-10 01:55:13.048 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-08-10 01:55:13.056 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:55:13.059 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 01:55:13.081 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:55:13.082 [info] > git status -z -uall [14ms]
+2025-08-10 01:55:18.333 [info] > git config --get commit.template [20ms]
+2025-08-10 01:55:18.337 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-08-10 01:55:18.347 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:55:18.349 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 01:55:18.365 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:55:18.368 [info] > git status -z -uall [13ms]
+2025-08-10 01:55:31.705 [info] > git config --get commit.template [19ms]
+2025-08-10 01:55:31.709 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:55:31.720 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:55:31.723 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 01:55:31.748 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:55:31.750 [info] > git status -z -uall [17ms]
+2025-08-10 01:55:36.788 [info] > git config --get commit.template [17ms]
+2025-08-10 01:55:36.790 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 01:55:36.804 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:55:36.808 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:55:36.838 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:55:36.839 [info] > git status -z -uall [18ms]
+2025-08-10 01:55:41.881 [info] > git config --get commit.template [21ms]
+2025-08-10 01:55:41.886 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-08-10 01:55:41.904 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:55:41.909 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:55:41.936 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:55:41.937 [info] > git status -z -uall [14ms]
+2025-08-10 01:55:46.977 [info] > git config --get commit.template [20ms]
+2025-08-10 01:55:46.980 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:55:46.997 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:55:47.002 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2025-08-10 01:55:47.037 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:55:47.041 [info] > git status -z -uall [20ms]
+2025-08-10 01:55:54.538 [info] > git config --get commit.template [19ms]
+2025-08-10 01:55:54.541 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:55:54.556 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:55:54.560 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:55:54.594 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:55:54.597 [info] > git status -z -uall [21ms]
+2025-08-10 01:56:02.248 [info] > git config --get commit.template [19ms]
+2025-08-10 01:56:02.252 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-08-10 01:56:02.263 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:56:02.265 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 01:56:02.284 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:56:02.286 [info] > git status -z -uall [13ms]
+2025-08-10 01:56:10.427 [info] > git config --get commit.template [17ms]
+2025-08-10 01:56:10.431 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-08-10 01:56:10.447 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:56:10.451 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:56:10.484 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:56:10.488 [info] > git status -z -uall [23ms]
+2025-08-10 01:56:26.999 [info] > git config --get commit.template [18ms]
+2025-08-10 01:56:27.002 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 01:56:27.016 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:56:27.019 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 01:56:27.033 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:56:27.033 [info] > git status -z -uall [7ms]
+2025-08-10 01:56:33.345 [info] > git config --get commit.template [17ms]
+2025-08-10 01:56:33.348 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:56:33.363 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:56:33.367 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:56:33.400 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:56:33.403 [info] > git status -z -uall [20ms]
+2025-08-10 01:56:40.994 [info] > git config --get commit.template [18ms]
+2025-08-10 01:56:40.996 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:56:41.010 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:56:41.014 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:56:41.052 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-08-10 01:56:41.055 [info] > git status -z -uall [25ms]
+2025-08-10 01:56:52.962 [info] > git config --get commit.template [5ms]
+2025-08-10 01:56:52.963 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 01:56:52.967 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:56:52.969 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 01:56:52.979 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 01:56:52.980 [info] > git status -z -uall [7ms]
+2025-08-10 01:56:55.246 [info] > git fetch [401ms]
+2025-08-10 01:56:55.280 [info] > git config --get commit.template [18ms]
+2025-08-10 01:56:55.284 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:56:55.299 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:56:55.302 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 01:56:55.326 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:56:55.328 [info] > git status -z -uall [15ms]
+2025-08-10 01:56:56.487 [info] > git ls-files --stage -- HyDE-config.sh [7ms]
+2025-08-10 01:56:56.507 [info] > git cat-file -s 1723ba5c5e3e3545ff1cf98742fc6334fe1aef8c [4ms]
+2025-08-10 01:56:56.522 [info] > git show --textconv :HyDE-config.sh [3ms]
+2025-08-10 01:56:58.005 [info] > git config --get commit.template [4ms]
+2025-08-10 01:56:58.023 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 01:56:58.032 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:56:58.034 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 01:56:58.048 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 01:56:58.049 [info] > git status -z -uall [9ms]
+2025-08-10 01:56:59.634 [info] > git check-ignore -v -z --stdin [1ms]
+2025-08-10 01:57:24.491 [info] > git config --get commit.template [17ms]
+2025-08-10 01:57:24.494 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:57:24.510 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:57:24.513 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 01:57:24.539 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:57:24.543 [info] > git status -z -uall [19ms]
+2025-08-10 01:58:14.571 [info] > git check-ignore -v -z --stdin [1ms]
+2025-08-10 01:58:16.117 [info] > git check-ignore -v -z --stdin [1ms]
+2025-08-10 01:58:18.295 [info] > git check-ignore -v -z --stdin [6ms]
+2025-08-10 01:58:22.242 [info] > git check-ignore -v -z --stdin [6ms]
+2025-08-10 01:58:24.464 [info] > git check-ignore -v -z --stdin [6ms]
+2025-08-10 01:58:35.085 [info] > git config --get commit.template [21ms]
+2025-08-10 01:58:35.089 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-08-10 01:58:35.099 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:58:35.104 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2025-08-10 01:58:35.132 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-08-10 01:58:35.136 [info] > git status -z -uall [21ms]
+2025-08-10 01:58:47.058 [info] > git config --get commit.template [23ms]
+2025-08-10 01:58:47.062 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-08-10 01:58:47.079 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:58:47.082 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 01:58:47.106 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:58:47.110 [info] > git status -z -uall [17ms]
+2025-08-10 01:59:04.067 [info] > git config --get commit.template [19ms]
+2025-08-10 01:59:04.070 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:59:04.084 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:59:04.088 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:59:04.119 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:59:04.122 [info] > git status -z -uall [19ms]
+2025-08-10 01:59:13.007 [info] > git config --get commit.template [17ms]
+2025-08-10 01:59:13.010 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 01:59:13.025 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:59:13.028 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:59:13.052 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:59:13.055 [info] > git status -z -uall [15ms]
+2025-08-10 01:59:18.071 [info] > git config --get commit.template [6ms]
+2025-08-10 01:59:18.072 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 01:59:18.076 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:59:18.077 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 01:59:18.089 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 01:59:18.089 [info] > git status -z -uall [7ms]
+2025-08-10 01:59:23.102 [info] > git config --get commit.template [5ms]
+2025-08-10 01:59:23.103 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-10 01:59:23.108 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:59:23.109 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 01:59:23.123 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:59:23.125 [info] > git status -z -uall [10ms]
+2025-08-10 01:59:28.159 [info] > git config --get commit.template [17ms]
+2025-08-10 01:59:28.162 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 01:59:28.176 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:59:28.179 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 01:59:28.210 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:59:28.212 [info] > git status -z -uall [19ms]
+2025-08-10 01:59:34.560 [info] > git config --get commit.template [4ms]
+2025-08-10 01:59:34.561 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 01:59:34.565 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:59:34.566 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 01:59:34.578 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:59:34.578 [info] > git status -z -uall [8ms]
+2025-08-10 01:59:39.612 [info] > git config --get commit.template [16ms]
+2025-08-10 01:59:39.615 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 01:59:39.630 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:59:39.633 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 01:59:39.666 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 01:59:39.669 [info] > git status -z -uall [22ms]
+2025-08-10 01:59:49.726 [info] > git config --get commit.template [18ms]
+2025-08-10 01:59:49.729 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:59:49.744 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:59:49.747 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 01:59:49.765 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:59:49.767 [info] > git status -z -uall [12ms]
+2025-08-10 01:59:54.778 [info] > git config --get commit.template [4ms]
+2025-08-10 01:59:54.779 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 01:59:54.783 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:59:54.783 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-08-10 01:59:54.794 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:59:54.795 [info] > git status -z -uall [8ms]
+2025-08-10 01:59:55.743 [info] > git fetch [403ms]
+2025-08-10 01:59:55.775 [info] > git config --get commit.template [16ms]
+2025-08-10 01:59:55.778 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 01:59:55.792 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:59:55.796 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:59:55.825 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:59:55.828 [info] > git status -z -uall [17ms]
+2025-08-10 01:59:56.976 [info] > git ls-files --stage -- HyDE-config.sh [4ms]
+2025-08-10 01:59:56.985 [info] > git cat-file -s 1723ba5c5e3e3545ff1cf98742fc6334fe1aef8c [2ms]
+2025-08-10 01:59:56.995 [info] > git show --textconv :HyDE-config.sh [3ms]
+2025-08-10 01:59:59.823 [info] > git config --get commit.template [4ms]
+2025-08-10 01:59:59.842 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 01:59:59.857 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 01:59:59.861 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 01:59:59.887 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 01:59:59.888 [info] > git status -z -uall [14ms]
+2025-08-10 02:00:04.914 [info] > git config --get commit.template [4ms]
+2025-08-10 02:00:04.937 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-08-10 02:00:04.952 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:00:04.955 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 02:00:04.972 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:00:04.974 [info] > git status -z -uall [12ms]
+2025-08-10 02:00:30.114 [info] > git config --get commit.template [22ms]
+2025-08-10 02:00:30.118 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-08-10 02:00:30.132 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:00:30.134 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 02:00:30.158 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:00:30.158 [info] > git status -z -uall [15ms]
+2025-08-10 02:00:37.201 [info] > git config --get commit.template [17ms]
+2025-08-10 02:00:37.204 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:00:37.217 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:00:37.221 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:00:37.254 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-08-10 02:00:37.256 [info] > git status -z -uall [22ms]
+2025-08-10 02:00:46.636 [info] > git config --get commit.template [18ms]
+2025-08-10 02:00:46.638 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:00:46.650 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:00:46.653 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 02:00:46.673 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:00:46.676 [info] > git status -z -uall [14ms]
+2025-08-10 02:00:51.721 [info] > git config --get commit.template [20ms]
+2025-08-10 02:00:51.724 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:00:51.740 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:00:51.744 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:00:51.775 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:00:51.779 [info] > git status -z -uall [20ms]
+2025-08-10 02:00:59.057 [info] > git config --get commit.template [19ms]
+2025-08-10 02:00:59.059 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 02:00:59.075 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:00:59.078 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 02:00:59.110 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:00:59.115 [info] > git status -z -uall [22ms]
+2025-08-10 02:01:04.153 [info] > git config --get commit.template [19ms]
+2025-08-10 02:01:04.155 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:01:04.169 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:01:04.172 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 02:01:04.195 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:01:04.196 [info] > git status -z -uall [14ms]
+2025-08-10 02:01:09.219 [info] > git config --get commit.template [8ms]
+2025-08-10 02:01:09.221 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-10 02:01:09.226 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:01:09.228 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 02:01:09.240 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:01:09.241 [info] > git status -z -uall [8ms]
+2025-08-10 02:01:33.441 [info] > git config --get commit.template [18ms]
+2025-08-10 02:01:33.445 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:01:33.454 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:01:33.455 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:01:33.470 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:01:33.472 [info] > git status -z -uall [11ms]
+2025-08-10 02:01:41.506 [info] > git config --get commit.template [4ms]
+2025-08-10 02:01:41.522 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-10 02:01:41.526 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:01:41.527 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:01:41.538 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:01:41.539 [info] > git status -z -uall [8ms]
+2025-08-10 02:01:50.011 [info] > git config --get commit.template [18ms]
+2025-08-10 02:01:50.015 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-08-10 02:01:50.030 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:01:50.034 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:01:50.066 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:01:50.069 [info] > git status -z -uall [21ms]
+2025-08-10 02:01:55.106 [info] > git config --get commit.template [18ms]
+2025-08-10 02:01:55.109 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 02:01:55.125 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:01:55.129 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:01:55.161 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:01:55.164 [info] > git status -z -uall [20ms]
+2025-08-10 02:02:00.190 [info] > git config --get commit.template [5ms]
+2025-08-10 02:02:00.190 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 02:02:00.195 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:02:00.196 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:02:00.208 [info] > git status -z -uall [7ms]
+2025-08-10 02:02:00.208 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:02:05.231 [info] > git config --get commit.template [5ms]
+2025-08-10 02:02:05.231 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 02:02:05.235 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:02:05.236 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:02:05.246 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:02:05.246 [info] > git status -z -uall [6ms]
+2025-08-10 02:02:10.283 [info] > git config --get commit.template [18ms]
+2025-08-10 02:02:10.285 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:02:10.299 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:02:10.303 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:02:10.335 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:02:10.339 [info] > git status -z -uall [21ms]
+2025-08-10 02:02:18.368 [info] > git config --get commit.template [19ms]
+2025-08-10 02:02:18.372 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-08-10 02:02:18.380 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:02:18.382 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 02:02:18.397 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:02:18.398 [info] > git status -z -uall [10ms]
+2025-08-10 02:02:23.416 [info] > git config --get commit.template [8ms]
+2025-08-10 02:02:23.417 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-10 02:02:23.425 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:02:23.426 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:02:23.444 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:02:23.445 [info] > git status -z -uall [12ms]
+2025-08-10 02:02:28.469 [info] > git config --get commit.template [5ms]
+2025-08-10 02:02:28.470 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 02:02:28.475 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:02:28.476 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:02:28.488 [info] > git status -z -uall [8ms]
+2025-08-10 02:02:28.489 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:02:33.512 [info] > git config --get commit.template [3ms]
+2025-08-10 02:02:33.524 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-08-10 02:02:33.530 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:02:33.532 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 02:02:33.544 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:02:33.545 [info] > git status -z -uall [8ms]
+2025-08-10 02:02:38.583 [info] > git config --get commit.template [19ms]
+2025-08-10 02:02:38.586 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:02:38.603 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:02:38.606 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:02:38.639 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:02:38.642 [info] > git status -z -uall [20ms]
+2025-08-10 02:02:46.595 [info] > git config --get commit.template [19ms]
+2025-08-10 02:02:46.598 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:02:46.613 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:02:46.616 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 02:02:46.646 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:02:46.650 [info] > git status -z -uall [20ms]
+2025-08-10 02:02:51.684 [info] > git config --get commit.template [16ms]
+2025-08-10 02:02:51.687 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:02:51.701 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:02:51.705 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:02:51.741 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:02:51.744 [info] > git status -z -uall [25ms]
+2025-08-10 02:02:56.254 [info] > git fetch [414ms]
+2025-08-10 02:02:56.285 [info] > git config --get commit.template [16ms]
+2025-08-10 02:02:56.289 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:02:56.303 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:02:56.307 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:02:56.335 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:02:56.338 [info] > git status -z -uall [18ms]
+2025-08-10 02:02:57.400 [info] > git config --get commit.template [16ms]
+2025-08-10 02:02:57.403 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:02:57.417 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:02:57.421 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:02:57.449 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:02:57.452 [info] > git status -z -uall [18ms]
+2025-08-10 02:02:57.476 [info] > git ls-files --stage -- HyDE-config.sh [2ms]
+2025-08-10 02:02:57.483 [info] > git cat-file -s 1723ba5c5e3e3545ff1cf98742fc6334fe1aef8c [1ms]
+2025-08-10 02:02:57.492 [info] > git show --textconv :HyDE-config.sh [2ms]
+2025-08-10 02:03:02.474 [info] > git config --get commit.template [4ms]
+2025-08-10 02:03:02.475 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 02:03:02.478 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:03:02.479 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:03:02.489 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:03:02.490 [info] > git status -z -uall [7ms]
+2025-08-10 02:03:07.525 [info] > git config --get commit.template [17ms]
+2025-08-10 02:03:07.527 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 02:03:07.536 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:03:07.538 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 02:03:07.559 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:03:07.561 [info] > git status -z -uall [15ms]
+2025-08-10 02:04:11.415 [info] > git config --get commit.template [18ms]
+2025-08-10 02:04:11.418 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:04:11.433 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:04:11.437 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:04:11.471 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:04:11.474 [info] > git status -z -uall [21ms]
+2025-08-10 02:05:43.645 [info] > git config --get commit.template [5ms]
+2025-08-10 02:05:43.646 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-10 02:05:43.650 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:05:43.651 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:05:43.665 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:05:43.666 [info] > git status -z -uall [10ms]
+2025-08-10 02:05:50.929 [info] > git config --get commit.template [17ms]
+2025-08-10 02:05:50.933 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:05:50.948 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:05:50.952 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:05:50.987 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:05:50.990 [info] > git status -z -uall [22ms]
+2025-08-10 02:05:56.730 [info] > git fetch [382ms]
+2025-08-10 02:05:56.762 [info] > git config --get commit.template [17ms]
+2025-08-10 02:05:56.765 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:05:56.779 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:05:56.783 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:05:56.815 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:05:56.818 [info] > git status -z -uall [21ms]
+2025-08-10 02:05:57.877 [info] > git config --get commit.template [17ms]
+2025-08-10 02:05:57.880 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 02:05:57.895 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:05:57.898 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 02:05:57.921 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:05:57.925 [info] > git status -z -uall [16ms]
+2025-08-10 02:05:57.974 [info] > git ls-files --stage -- HyDE-config.sh [9ms]
+2025-08-10 02:05:57.989 [info] > git cat-file -s 1723ba5c5e3e3545ff1cf98742fc6334fe1aef8c [3ms]
+2025-08-10 02:05:58.007 [info] > git show --textconv :HyDE-config.sh [5ms]
+2025-08-10 02:06:40.559 [info] > git config --get commit.template [4ms]
+2025-08-10 02:06:40.560 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 02:06:40.564 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:06:40.565 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:06:40.577 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:06:40.579 [info] > git status -z -uall [9ms]
+2025-08-10 02:06:45.617 [info] > git config --get commit.template [17ms]
+2025-08-10 02:06:45.620 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:06:45.634 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:06:45.638 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:06:45.666 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:06:45.668 [info] > git status -z -uall [16ms]
+2025-08-10 02:06:50.705 [info] > git config --get commit.template [18ms]
+2025-08-10 02:06:50.708 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 02:06:50.722 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:06:50.726 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:06:50.743 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:06:50.745 [info] > git status -z -uall [11ms]
+2025-08-10 02:06:55.784 [info] > git config --get commit.template [19ms]
+2025-08-10 02:06:55.787 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 02:06:55.801 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:06:55.805 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:06:55.832 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:06:55.834 [info] > git status -z -uall [15ms]
+2025-08-10 02:07:05.754 [info] > git config --get commit.template [5ms]
+2025-08-10 02:07:05.754 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 02:07:05.758 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:07:05.759 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:07:05.770 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:07:05.772 [info] > git status -z -uall [9ms]
+2025-08-10 02:07:10.805 [info] > git config --get commit.template [15ms]
+2025-08-10 02:07:10.809 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:07:10.822 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:07:10.826 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:07:10.857 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:07:10.860 [info] > git status -z -uall [21ms]
+2025-08-10 02:07:22.933 [info] > git config --get commit.template [17ms]
+2025-08-10 02:07:22.936 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:07:22.951 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:07:22.955 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:07:22.984 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:07:22.986 [info] > git status -z -uall [16ms]
+2025-08-10 02:07:32.738 [info] > git config --get commit.template [16ms]
+2025-08-10 02:07:32.741 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 02:07:32.755 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:07:32.759 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:07:32.791 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:07:32.793 [info] > git status -z -uall [20ms]
+2025-08-10 02:07:37.830 [info] > git config --get commit.template [18ms]
+2025-08-10 02:07:37.833 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:07:37.847 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:07:37.850 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 02:07:37.882 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:07:37.885 [info] > git status -z -uall [21ms]
+2025-08-10 02:08:19.729 [info] > git config --get commit.template [19ms]
+2025-08-10 02:08:19.733 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-08-10 02:08:19.747 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:08:19.751 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:08:19.784 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:08:19.786 [info] > git status -z -uall [20ms]
+2025-08-10 02:08:50.659 [info] > git show --textconv :hydedots_install_script.sh [6ms]
+2025-08-10 02:08:50.660 [info] > git ls-files --stage -- hydedots_install_script.sh [2ms]
+2025-08-10 02:08:50.666 [info] > git cat-file -s 3d8bbfba8e5b74f29314639cf66e422ec91433b5 [1ms]
+2025-08-10 02:08:57.221 [info] > git fetch [393ms]
+2025-08-10 02:08:57.252 [info] > git config --get commit.template [16ms]
+2025-08-10 02:08:57.255 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 02:08:57.270 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:08:57.274 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:08:57.304 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:08:57.306 [info] > git status -z -uall [19ms]
+2025-08-10 02:08:58.347 [info] > git config --get commit.template [4ms]
+2025-08-10 02:08:58.348 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 02:08:58.352 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:08:58.352 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:08:58.363 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:08:58.363 [info] > git status -z -uall [7ms]
+2025-08-10 02:08:58.446 [info] > git ls-files --stage -- hydedots_install_script.sh [1ms]
+2025-08-10 02:08:58.451 [info] > git cat-file -s 3d8bbfba8e5b74f29314639cf66e422ec91433b5 [1ms]
+2025-08-10 02:08:58.458 [info] > git show --textconv :hydedots_install_script.sh [2ms]
+2025-08-10 02:09:35.261 [info] > git blame --root --incremental bb01f4efc48e3df2d8dd2fb15b739a9bded29b3d -- hydedots_install_script.sh [2ms]
+2025-08-10 02:09:40.467 [info] > git show --textconv :HyDE-config.sh [17ms]
+2025-08-10 02:09:40.472 [info] > git ls-files --stage -- HyDE-config.sh [6ms]
+2025-08-10 02:09:40.486 [info] > git cat-file -s 1723ba5c5e3e3545ff1cf98742fc6334fe1aef8c [4ms]
+2025-08-10 02:09:47.171 [info] > git config --get commit.template [20ms]
+2025-08-10 02:09:47.176 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-08-10 02:09:47.192 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:09:47.196 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2025-08-10 02:09:47.217 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:09:47.219 [info] > git status -z -uall [14ms]
+2025-08-10 02:10:01.011 [info] > git config --get commit.template [5ms]
+2025-08-10 02:10:01.012 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-10 02:10:01.016 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:10:01.017 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:10:01.028 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:10:01.029 [info] > git status -z -uall [8ms]
+2025-08-10 02:10:06.066 [info] > git config --get commit.template [17ms]
+2025-08-10 02:10:06.069 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:10:06.085 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:10:06.089 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:10:06.121 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:10:06.123 [info] > git status -z -uall [19ms]
+2025-08-10 02:10:11.157 [info] > git config --get commit.template [15ms]
+2025-08-10 02:10:11.161 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:10:11.174 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:10:11.178 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:10:11.208 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-08-10 02:10:11.209 [info] > git status -z -uall [15ms]
+2025-08-10 02:10:16.225 [info] > git config --get commit.template [6ms]
+2025-08-10 02:10:16.226 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-10 02:10:16.231 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:10:16.232 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:10:16.242 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:10:16.243 [info] > git status -z -uall [7ms]
+2025-08-10 02:10:21.258 [info] > git config --get commit.template [5ms]
+2025-08-10 02:10:21.259 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 02:10:21.263 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:10:21.264 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:10:21.274 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:10:21.276 [info] > git status -z -uall [8ms]
+2025-08-10 02:10:26.747 [info] > git config --get commit.template [20ms]
+2025-08-10 02:10:26.751 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-08-10 02:10:26.767 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:10:26.771 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:10:26.792 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:10:26.796 [info] > git status -z -uall [14ms]
+2025-08-10 02:10:31.838 [info] > git config --get commit.template [20ms]
+2025-08-10 02:10:31.839 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-08-10 02:10:31.853 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:10:31.855 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 02:10:31.872 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:10:31.875 [info] > git status -z -uall [13ms]
+2025-08-10 02:10:36.891 [info] > git config --get commit.template [5ms]
+2025-08-10 02:10:36.892 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-10 02:10:36.895 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:10:36.896 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:10:36.906 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:10:36.909 [info] > git status -z -uall [9ms]
+2025-08-10 02:10:41.946 [info] > git config --get commit.template [18ms]
+2025-08-10 02:10:41.952 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-08-10 02:10:41.963 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:10:41.965 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 02:10:41.978 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:10:41.980 [info] > git status -z -uall [9ms]
+2025-08-10 02:10:47.014 [info] > git config --get commit.template [16ms]
+2025-08-10 02:10:47.018 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:10:47.032 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:10:47.036 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:10:47.072 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-08-10 02:10:47.076 [info] > git status -z -uall [27ms]
+2025-08-10 02:10:52.100 [info] > git config --get commit.template [3ms]
+2025-08-10 02:10:52.119 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:10:52.133 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:10:52.137 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:10:52.173 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-08-10 02:10:52.176 [info] > git status -z -uall [26ms]
+2025-08-10 02:10:57.192 [info] > git config --get commit.template [3ms]
+2025-08-10 02:10:57.212 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-08-10 02:10:57.226 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:10:57.229 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-08-10 02:10:57.255 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:10:57.256 [info] > git status -z -uall [13ms]
+2025-08-10 02:11:31.266 [info] > git config --get commit.template [2ms]
+2025-08-10 02:11:31.279 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-08-10 02:11:31.289 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:11:31.291 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 02:11:31.317 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:11:31.320 [info] > git status -z -uall [20ms]
+2025-08-10 02:11:42.431 [info] > git config --get commit.template [18ms]
+2025-08-10 02:11:42.434 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:11:42.451 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:11:42.454 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:11:42.489 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:11:42.493 [info] > git status -z -uall [22ms]
+2025-08-10 02:11:47.658 [info] > git config --get commit.template [4ms]
+2025-08-10 02:11:47.678 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:11:47.692 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:11:47.694 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 02:11:47.718 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:11:47.721 [info] > git status -z -uall [16ms]
+2025-08-10 02:11:52.736 [info] > git config --get commit.template [5ms]
+2025-08-10 02:11:52.737 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 02:11:52.741 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:11:52.742 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:11:52.753 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:11:52.755 [info] > git status -z -uall [8ms]
+2025-08-10 02:11:57.732 [info] > git fetch [413ms]
+2025-08-10 02:11:57.744 [info] > git config --get commit.template [7ms]
+2025-08-10 02:11:57.744 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-10 02:11:57.749 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:11:57.750 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:11:57.761 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:11:57.761 [info] > git status -z -uall [6ms]
+2025-08-10 02:11:57.768 [info] > git config --get commit.template [1ms]
+2025-08-10 02:11:57.773 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 02:11:57.777 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:11:57.778 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:11:57.787 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:11:57.788 [info] > git status -z -uall [7ms]
+2025-08-10 02:11:58.970 [info] > git ls-files --stage -- HyDE-config.sh [3ms]
+2025-08-10 02:11:58.977 [info] > git cat-file -s 1723ba5c5e3e3545ff1cf98742fc6334fe1aef8c [2ms]
+2025-08-10 02:11:58.984 [info] > git show --textconv :HyDE-config.sh [1ms]
+2025-08-10 02:12:02.823 [info] > git config --get commit.template [16ms]
+2025-08-10 02:12:02.826 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 02:12:02.839 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:12:02.843 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:12:02.874 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:12:02.877 [info] > git status -z -uall [21ms]
+2025-08-10 02:12:07.913 [info] > git config --get commit.template [18ms]
+2025-08-10 02:12:07.917 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-08-10 02:12:07.932 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:12:07.936 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:12:07.965 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:12:07.968 [info] > git status -z -uall [17ms]
+2025-08-10 02:12:13.010 [info] > git config --get commit.template [21ms]
+2025-08-10 02:12:13.014 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-08-10 02:12:13.026 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:12:13.028 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 02:12:13.046 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:12:13.048 [info] > git status -z -uall [13ms]
+2025-08-10 02:12:22.153 [info] > git config --get commit.template [18ms]
+2025-08-10 02:12:22.155 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-10 02:12:22.170 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:12:22.174 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2025-08-10 02:12:22.211 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-08-10 02:12:22.213 [info] > git status -z -uall [24ms]
+2025-08-10 02:13:01.695 [info] > git config --get commit.template [18ms]
+2025-08-10 02:13:01.696 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-08-10 02:13:01.703 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:13:01.705 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 02:13:01.722 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:13:01.725 [info] > git status -z -uall [13ms]
+2025-08-10 02:13:07.276 [info] > git config --get commit.template [5ms]
+2025-08-10 02:13:07.277 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 02:13:07.282 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:13:07.283 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:13:07.295 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:13:07.296 [info] > git status -z -uall [8ms]
+2025-08-10 02:13:18.701 [info] > git config --get commit.template [16ms]
+2025-08-10 02:13:18.704 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 02:13:18.718 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:13:18.722 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:13:18.750 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:13:18.752 [info] > git status -z -uall [16ms]
+2025-08-10 02:15:37.226 [info] > git check-ignore -v -z --stdin [7ms]
+2025-08-10 02:15:38.103 [info] > git config --get commit.template [7ms]
+2025-08-10 02:15:38.104 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-10 02:15:38.110 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:15:38.111 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:15:38.123 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:15:38.124 [info] > git status -z -uall [8ms]
+2025-08-10 02:15:38.464 [info] > git fetch [379ms]
+2025-08-10 02:15:38.482 [info] > git config --get commit.template [8ms]
+2025-08-10 02:15:38.484 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-10 02:15:38.489 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:15:38.491 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:15:38.502 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:15:38.504 [info] > git status -z -uall [8ms]
+2025-08-10 02:15:39.706 [info] > git ls-files --stage -- HyDE-config.sh [4ms]
+2025-08-10 02:15:39.720 [info] > git cat-file -s 1723ba5c5e3e3545ff1cf98742fc6334fe1aef8c [3ms]
+2025-08-10 02:15:39.738 [info] > git show --textconv :HyDE-config.sh [5ms]
+2025-08-10 02:15:43.133 [info] > git config --get commit.template [1ms]
+2025-08-10 02:15:43.139 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 02:15:43.144 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:15:43.145 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:15:43.156 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:15:43.157 [info] > git status -z -uall [8ms]
+2025-08-10 02:16:09.656 [info] > git config --get commit.template [18ms]
+2025-08-10 02:16:09.659 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 02:16:09.667 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:16:09.669 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-08-10 02:16:09.684 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:16:09.685 [info] > git status -z -uall [10ms]
+2025-08-10 02:16:14.702 [info] > git config --get commit.template [2ms]
+2025-08-10 02:16:14.713 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-08-10 02:16:14.719 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:16:14.720 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:16:14.732 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-08-10 02:16:14.735 [info] > git status -z -uall [11ms]
+2025-08-10 02:16:19.771 [info] > git config --get commit.template [17ms]
+2025-08-10 02:16:19.774 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 02:16:19.789 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:16:19.793 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:16:19.816 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:16:19.818 [info] > git status -z -uall [12ms]
+2025-08-10 02:16:24.832 [info] > git config --get commit.template [4ms]
+2025-08-10 02:16:24.833 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-08-10 02:16:24.837 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:16:24.838 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-08-10 02:16:24.848 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-08-10 02:16:24.848 [info] > git status -z -uall [7ms]
+2025-08-10 02:16:56.699 [info] > git config --get commit.template [16ms]
+2025-08-10 02:16:56.702 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-08-10 02:16:56.716 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/hubert/Pobrane/.hydedots/.git/refs/remotes/origin/main'
+2025-08-10 02:16:56.720 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-08-10 02:16:56.749 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-08-10 02:16:56.751 [info] > git status -z -uall [18ms]

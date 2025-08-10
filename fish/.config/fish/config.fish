@@ -43,8 +43,8 @@ set -Ux FZF_DEFAULT_OPTS "\
 ### ALIASES ###
 
 # Aliases
-if [ -f $HOME/.config/fish/alias.fish ]
-source $HOME/.config/fish/alias.fish
+if [ -f $HOME/.dotfiles/fish/.config/fish/alias.fish ]
+source $HOME/.dotfiles/fish/.config/fish/alias.fish
 
 zoxide init fish | source
 zoxide init fish --hook prompt | source

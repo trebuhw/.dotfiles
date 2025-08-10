@@ -3,26 +3,31 @@
     "telemetry.machineId": "37b9024711381d2a08376bb7c529fbc09204d8e3a0604949d43c9d24d2cc918e",
     "telemetry.devDeviceId": "b210f2a1-db04-4b83-9f7d-388f890ece96",
     "backupWorkspaces": {
-        "workspaces": [],
-        "folders": [
+        "workspaces": [
             {
-                "folderUri": "file:///home/hubert/.config"
+                "id": "46f4c231d2c0614985eb754cd9f84c9f",
+                "configURIPath": "file:///home/hubert/.config/VSCodium/Workspaces/1754783452798/workspace.json"
             }
         ],
+        "folders": [],
         "emptyWindows": []
     },
     "profileAssociations": {
         "workspaces": {
             "file:///home/hubert/.config": "__default__profile__",
             "file:///home/hubert/.dotfiles": "__default__profile__",
-            "file:///home/hubert/.config/VSCodium/Workspaces/1754473493042/workspace.json": "__default__profile__"
+            "file:///home/hubert/.config/VSCodium/Workspaces/1754473493042/workspace.json": "__default__profile__",
+            "file:///home/hubert/.config/VSCodium/Workspaces/1754783452798/workspace.json": "__default__profile__"
         },
         "emptyWindows": {}
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/hubert/.config",
-            "backupPath": "/home/hubert/.config/VSCodium/Backups/fff566f21a4af27cd95c085eb447fe59",
+            "workspaceIdentifier": {
+                "id": "46f4c231d2c0614985eb754cd9f84c9f",
+                "configURIPath": "file:///home/hubert/.config/VSCodium/Workspaces/1754783452798/workspace.json"
+            },
+            "backupPath": "/home/hubert/.config/VSCodium/Backups/46f4c231d2c0614985eb754cd9f84c9f",
             "uiState": {
                 "mode": 1,
                 "x": 7,
@@ -1730,6 +1735,10 @@
                     "auxiliaryBarVisible": false
                 },
                 "54cf0c9acdc0809df7655c1cf78a0d0e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "46f4c231d2c0614985eb754cd9f84c9f": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 }
