@@ -1,7 +1,6 @@
 # A TOML linter such as https://taplo.tamasfe.dev/ can use this schema to validate your config.
 # If you encounter any issues, please make an issue at https://github.com/yazi-rs/schemas.
 "$schema" = "https://yazi-rs.github.io/schemas/yazi.json"
-
 [mgr]
 ratio          = [ 1, 4, 3 ]
 sort_by        = "alphabetical"
@@ -35,24 +34,66 @@ edit = [
 	{ run = 'code %*',    orphan = true, desc = "code",           for = "windows" },
 	{ run = 'code -w %*', block = true,  desc = "code (block)",   for = "windows" },
 ]
+
+# Edytor tekstu - nvim
 text = [
-	{ run = "nvim", block = true }
+	{ run = 'nvim "$@"', desc = "Edit with nvim", block = true, for = "unix" }
 ]
+
+# Przeglądarka obrazów - nsxiv
+image = [
+	{ run = 'nsxiv "$@"', desc = "View with nsxiv", orphan = true, for = "unix" },
+	{ run = 'nsxiv -f "$@"', desc = "View fullscreen with nsxiv", orphan = true, for = "unix" },
+	{ run = 'nsxiv -t "$@"', desc = "View thumbnails with nsxiv", orphan = true, for = "unix" }
+]
+
+# Przeglądarka PDF - zathura
+pdf = [
+	{ run = 'zathura "$@"', desc = "View with zathura", orphan = true, for = "unix" }
+]
+
+# Odtwarzacz wideo/audio
+video = [
+	{ run = 'mpv "$@"', desc = "Play with mpv", orphan = true, for = "unix" },
+	{ run = 'vlc "$@"', desc = "Play with VLC", orphan = true, for = "unix" }
+]
+
+# Dokumenty Office
+office = [
+	{ run = 'libreoffice "$@"', desc = "Open with LibreOffice", orphan = true, for = "unix" }
+]
+
+# Pliki archiwum
+archive = [
+	{ run = 'ark "$@"', desc = "Open with Ark", orphan = true, for = "unix" },
+	{ run = 'file-roller "$@"', desc = "Open with file-roller", orphan = true, for = "unix" }
+]
+
+# Przeglądarka web dla HTML
+web = [
+	{ run = 'firefox "$@"', desc = "Open with Firefox", orphan = true, for = "unix" },
+	{ run = 'google-chrome-stable "$@"', desc = "Open with Google Chrome", orphan = true, for = "unix" },
+	{ run = 'chromium "$@"', desc = "Open with Chromium", orphan = true, for = "unix" }
+]
+
 open = [
 	{ run = 'xdg-open "$1"',                desc = "Open", for = "linux" },
 	{ run = 'open "$@"',                    desc = "Open", for = "macos" },
 	{ run = 'start "" "%1"', orphan = true, desc = "Open", for = "windows" },
 ]
+
 reveal = [
 	{ run = 'xdg-open "$(dirname "$1")"',           desc = "Reveal", for = "linux" },
 	{ run = 'open -R "$1"',                         desc = "Reveal", for = "macos" },
 	{ run = 'explorer /select,"%1"', orphan = true, desc = "Reveal", for = "windows" },
 	{ run = '''exiftool "$1"; echo "Press enter to exit"; read _''', block = true, desc = "Show EXIF", for = "unix" },
 ]
+
 extract = [
 	{ run = 'ya pub extract --list "$@"', desc = "Extract here", for = "unix" },
 	{ run = 'ya pub extract --list %*',   desc = "Extract here", for = "windows" },
 ]
+
 play = [
 	{ run = 'mpv --force-window "$@"', orphan = true, for = "unix" },
 	{ run = 'mpv --force-window %*', orphan = true, for = "windows" },
@@ -63,20 +104,48 @@ play = [
 rules = [
 	# Folder
 	{ name = "*/", use = [ "edit", "open", "reveal" ] },
-	# Text
-	{ mime = "text/*", use = [ "edit", "reveal" ] },
-	# Image
-	{ mime = "image/*", use = [ "open", "reveal" ] },
-	# Media
-	{ mime = "{audio,video}/*", use = [ "play", "reveal" ] },
-	# Archive
-	{ mime = "application/{,g}zip", use = [ "extract", "reveal" ] },
-	{ mime = "application/x-{tar,bzip*,7z-compressed,xz,rar}", use = [ "extract", "reveal" ] },
+	
+	# Pliki tekstowe - nvim
+	{ mime = "text/*", use = [ "text", "edit", "reveal" ] },
+	{ name = "*.{txt,md,markdown,rst,org,conf,config,ini,cfg,log,json,yaml,yml,xml,toml}", use = [ "text", "edit", "reveal" ] },
+	
+	# Obrazy - nsxiv
+	{ mime = "image/*", use = [ "image", "open", "reveal" ] },
+	{ name = "*.{jpg,jpeg,png,gif,bmp,tiff,tif,webp,svg,ico,avif,heic,heif}", use = [ "image", "open", "reveal" ] },
+	
+	# PDF - zathura
+	{ mime = "application/pdf", use = [ "pdf", "open", "reveal" ] },
+	{ name = "*.pdf", use = [ "pdf", "open", "reveal" ] },
+	
+	# Wideo i audio - mpv
+	{ mime = "{audio,video}/*", use = [ "video", "play", "reveal" ] },
+	{ name = "*.{mp4,mkv,avi,mov,wmv,flv,webm,m4v,3gp,ogv}", use = [ "video", "play", "reveal" ] },
+	{ name = "*.{mp3,flac,ogg,wav,aac,m4a,opus,wma}", use = [ "video", "play", "reveal" ] },
+	
+	# Dokumenty Office
+	{ name = "*.{doc,docx,xls,xlsx,ppt,pptx,odt,ods,odp}", use = [ "office", "open", "reveal" ] },
+	
+	# HTML - przeglądarka
+	{ name = "*.{html,htm}", use = [ "web", "text", "open", "reveal" ] },
+	
+	# Archiwa
+	{ mime = "application/{,g}zip", use = [ "archive", "extract", "reveal" ] },
+	{ mime = "application/x-{tar,bzip*,7z-compressed,xz,rar}", use = [ "archive", "extract", "reveal" ] },
+	{ name = "*.{zip,rar,7z,tar,gz,bz2,xz,tar.gz,tar.bz2,tar.xz}", use = [ "archive", "extract", "reveal" ] },
+	
+	# Pliki wykonywalne
+	{ name = "*.{sh,py,pl,rb,js,ts}", use = [ "text", "edit", "reveal" ] },
+	
 	# JSON
-	{ mime = "application/{json,x-ndjson}", use = [ "edit", "reveal" ] },
-	{ mime = "*/javascript", use = [ "edit", "reveal" ] },
+	{ mime = "application/{json,x-ndjson}", use = [ "text", "edit", "reveal" ] },
+	{ mime = "*/javascript", use = [ "text", "edit", "reveal" ] },
+	
+	# Pliki systemowe
+	{ name = "*.{desktop,service}", use = [ "text", "edit", "reveal" ] },
+	
 	# Empty file
-	{ mime = "inode/x-empty", use = [ "edit", "reveal" ] },
+	{ mime = "inode/x-empty", use = [ "text", "edit", "reveal" ] },
+	
 	# Fallback
 	{ name = "*", use = [ "open", "reveal" ] },
 ]
@@ -90,7 +159,6 @@ image_bound      = [ 0, 0 ]
 suppress_preload = false
 
 [plugin]
-
 fetchers = [
 	# Mimetype
 	{ id = "mime", name = "*", run = "mime", if = "!mime", prio = "high" },
@@ -135,37 +203,30 @@ previewers = [
 
 [input]
 cursor_blink = false
-
 # cd
 cd_title  = "Change directory:"
 cd_origin = "top-center"
 cd_offset = [ 0, 2, 50, 3 ]
-
 # create
 create_title  = ["Create:", "Create (dir):"]
 create_origin = "top-center"
 create_offset = [ 0, 2, 50, 3 ]
-
 # rename
 rename_title  = "Rename:"
 rename_origin = "hovered"
 rename_offset = [ 0, 1, 50, 3 ]
-
 # filter
 filter_title  = "Filter:"
 filter_origin = "top-center"
 filter_offset = [ 0, 2, 50, 3 ]
-
 # find
 find_title  = [ "Find next:", "Find previous:" ]
 find_origin = "top-center"
 find_offset = [ 0, 2, 50, 3 ]
-
 # search
 search_title  = "Search via {n}:"
 search_origin = "top-center"
 search_offset = [ 0, 2, 50, 3 ]
-
 # shell
 shell_title  = [ "Shell:", "Shell (block):" ]
 shell_origin = "top-center"
@@ -176,18 +237,15 @@ shell_offset = [ 0, 2, 50, 3 ]
 trash_title 	= "Trash {n} selected file{s}?"
 trash_origin	= "center"
 trash_offset	= [ 0, 0, 70, 20 ]
-
 # delete
 delete_title 	= "Permanently delete {n} selected file{s}?"
 delete_origin	= "center"
 delete_offset	= [ 0, 0, 70, 20 ]
-
 # overwrite
 overwrite_title   = "Overwrite file?"
 overwrite_content = "Will overwrite the following file:"
 overwrite_origin  = "center"
 overwrite_offset  = [ 0, 0, 50, 15 ]
-
 # quit
 quit_title   = "Quit?"
 quit_content = "The following task is still running, are you sure you want to quit?"
