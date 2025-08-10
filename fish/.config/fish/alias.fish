@@ -203,6 +203,7 @@ alias dro='cd ~/Dropbox/ && ls'
 alias pcd='cd ~/pCloudDrive/ && ls'
 alias pno='cd ~/pCloudDrive/Notes/ && ls'
 alias dot='cd ~/.dotfiles/ && la'
+alias hdo='cd ~/.hydedots/ && la'
 alias con='cd ~/.config && ls'
 alias hyp='cd ~/.config/hypr/ && ls'
 alias fis='cd ~/.config/fish/ && ls'
@@ -272,5 +273,3 @@ alias nn='~/.local/share/bin/fzf-nn.sh'
 alias ou='omarchy-update'
 alias clean='sudo pacman -Scc; yay -Scc; sudo pacman -Rns $(pacman -Qtdq);rm -rf ~/.cache/*; sudo journalctl --vacuum-time=2weeks; trash-empty; sudo trash-empty'
 alias refup='sudo reflector --latest 30 --protocol https --sort rate --number 10 --verbose --save /etc/pacman.d/mirrorlist'
-
-
