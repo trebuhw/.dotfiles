@@ -5,7 +5,7 @@ source ~/.bash/functions
 source ~/.bash/prompt
 source ~/.bash/init
 source ~/.bash/envs
-source ~/.config/fish/alias.fish
+source ~/.dotfiles/fish/.config/fish/alias.fish
 
 # Run fish
 # if [[ -t 1 ]]; then exec fish fi
