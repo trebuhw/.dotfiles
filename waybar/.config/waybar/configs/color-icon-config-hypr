@@ -38,7 +38,7 @@
         "wireplumber",
         //"custom/storage",
         //"custom/pacman",
-        "battery",
+        //"battery",
         //"network",
         "tray"
         //"custom/screenshot_t",

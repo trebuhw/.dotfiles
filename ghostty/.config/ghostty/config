@@ -3,9 +3,10 @@ shell-integration = fish
 term = xterm-256color
 
 # fonts
-#font-family = CaskaydiaMono Nerd Font
-font-family = JetBrainsMono Nerd Font
-font-size = 12
+# font-family = CaskaydiaMono Nerd Font
+# font-family = JetBrainsMono Nerd Font
+font-family = SFMono Nerd Font Mono
+font-size = 13
 
 # theme
 theme = catppuccin-mocha

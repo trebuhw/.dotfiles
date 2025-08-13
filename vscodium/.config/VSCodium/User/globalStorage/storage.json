@@ -30,9 +30,9 @@
             "backupPath": "/home/hubert/.config/VSCodium/Backups/46f4c231d2c0614985eb754cd9f84c9f",
             "uiState": {
                 "mode": 1,
-                "x": 7,
-                "y": 48,
-                "width": 948,
+                "x": 5,
+                "y": 46,
+                "width": 1906,
                 "height": 1025
             }
         },
@@ -1680,7 +1680,7 @@
     "theme": "vs-dark",
     "themeBackground": "#1e1e2e",
     "windowSplash": {
-        "zoomLevel": 0,
+        "zoomLevel": 1,
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#cdd6f4",
@@ -1702,20 +1702,20 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 0,
-            "sideBarWidth": 341,
+            "sideBarWidth": 221,
             "auxiliaryBarWidth": 0,
             "statusBarHeight": 0,
             "windowBorder": false
         }
     },
-    "windowControlHeight": 35,
+    "windowControlHeight": 42,
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
             "auxiliarySideBarWidth": [
                 300,
                 []
             ],
-            "sideBarWidth": 341,
+            "sideBarWidth": 221,
             "auxiliaryBarWidth": 300,
             "workspaces": {
                 "566ebb168ddfb68b5c37779862a70509": {

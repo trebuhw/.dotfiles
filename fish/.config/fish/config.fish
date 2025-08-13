@@ -6,9 +6,10 @@ set fish_greeting
 starship init fish | source
 set -g STARSHIP_COMMAND_TIMEOUT 10
 set -gx EDITOR nvim
-#set -gx GDK_BACKEND x11 
-#set -gx QT_QPA_PLATFORMTHEMEgnome
+set -gx GDK_BACKEND x11 
+set -gx QT_QPA_PLATFORMTHEMEgnome
 #set -gx QT_QPA_PLATFORMTHEME qt5ct
+set -gx QT_QPA_PLATFORMTHEME qt6ct
 set -gx PATH $PATH /usr/bin
 set -gx PATH $PATH /usr/local/share/bin
 set -gx PATH $PATH ~/.config/hypr/scripts

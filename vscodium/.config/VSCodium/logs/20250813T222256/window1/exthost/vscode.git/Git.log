@@ -1,0 +1,144 @@
+2025-08-13 22:22:58.968 [info] [main] Log level: Info
+2025-08-13 22:22:58.968 [info] [main] Validating found git in: "git"
+2025-08-13 22:22:58.968 [info] [main] Using git "2.50.1" from "git"
+2025-08-13 22:22:58.968 [info] [Model][doInitialScan] Initial repository scan started
+2025-08-13 22:22:58.968 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/home/hubert/Pobrane/.hydedots': Error: ENOENT: no such file or directory, scandir '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:22:58.968 [info] > git rev-parse --show-toplevel [10ms]
+2025-08-13 22:22:58.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:58.968 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:22:58.968 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:58.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:58.968 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:58.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:58.968 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:58.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:58.968 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:58.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:58.968 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:58.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:58.968 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:58.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:58.968 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:58.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:58.968 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:58.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:58.968 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:58.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:58.968 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:58.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:58.968 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:58.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:58.968 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:58.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:58.980 [info] > git rev-parse --show-toplevel [9ms]
+2025-08-13 22:22:58.980 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.229 [info] > git rev-parse --show-toplevel [246ms]
+2025-08-13 22:22:59.229 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.276 [info] > git rev-parse --show-toplevel [9ms]
+2025-08-13 22:22:59.276 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.281 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-13 22:22:59.281 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.285 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:59.285 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.289 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:59.289 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.294 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-13 22:22:59.294 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.298 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:59.298 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.302 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:59.302 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.307 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:59.307 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.422 [info] > git rev-parse --show-toplevel [112ms]
+2025-08-13 22:22:59.422 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.434 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:59.434 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.453 [info] > git rev-parse --show-toplevel [16ms]
+2025-08-13 22:22:59.453 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.458 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:59.458 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.462 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:59.462 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.466 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:59.466 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.469 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:59.469 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.473 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:59.473 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.478 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:22:59.478 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:22:59.478 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-08-13 22:23:00.208 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-13 22:23:00.208 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:23:00.208 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:23:00.243 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:23:00.243 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:23:00.243 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:23:00.365 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:23:00.365 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:23:00.366 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:23:02.626 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:23:02.626 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:23:02.626 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:25:25.815 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:25:25.815 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:25:25.815 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:25:34.785 [info] > git rev-parse --show-toplevel [0ms]
+2025-08-13 22:25:34.785 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:25:34.786 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:25:45.621 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:25:45.621 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:25:45.621 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:26:01.494 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:26:01.494 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:26:01.494 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:26:13.586 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:26:13.586 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:26:13.586 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:26:18.211 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:26:18.211 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:26:18.211 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:26:30.054 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:26:30.054 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:26:30.054 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:27:19.428 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:27:19.433 [info] > git rev-parse --path-format=relative --show-toplevel [2ms]
+2025-08-13 22:27:30.242 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:27:30.242 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:27:30.243 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:27:41.093 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:27:41.093 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:27:41.093 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:27:46.799 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:27:46.799 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:27:46.800 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:27:48.402 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:27:48.402 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:27:48.402 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:27:49.684 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:27:49.684 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:27:49.684 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:27:51.159 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:27:51.159 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:27:51.159 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:27:55.328 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:27:55.328 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:27:55.329 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:28:00.328 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:28:00.332 [info] > git rev-parse --path-format=relative --show-toplevel [1ms]
+2025-08-13 22:28:10.389 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:28:10.389 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:28:10.389 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:28:11.483 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-13 22:28:11.489 [info] > git rev-parse --path-format=relative --show-toplevel [2ms]
+2025-08-13 22:28:22.197 [info] > git rev-parse --show-toplevel [1ms]
+2025-08-13 22:28:22.197 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:28:22.198 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:28:23.110 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-13 22:28:23.114 [info] > git rev-parse --path-format=relative --show-toplevel [1ms]
+2025-08-13 22:28:57.240 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-13 22:28:57.240 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-08-13 22:28:57.240 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/hubert/Pobrane/.hydedots". Error:Error: ENOENT: no such file or directory, realpath '/home/hubert/Pobrane/.hydedots'
+2025-08-13 22:30:15.817 [info] > git rev-parse --show-toplevel [2ms]
+2025-08-13 22:30:15.817 [info] fatal: not a git repository (or any of the parent directories): .git

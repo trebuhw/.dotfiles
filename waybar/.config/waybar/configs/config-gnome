@@ -35,7 +35,7 @@
 	"cpu",
 	"temperature", 
 	"memory", 
-	"battery",  
+	//"battery",  
 	"backlight",
 	"keyboard-state",
 	"pulseaudio",

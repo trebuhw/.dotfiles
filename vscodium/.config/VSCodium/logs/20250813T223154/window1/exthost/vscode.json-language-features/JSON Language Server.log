@@ -1,0 +1,5 @@
+2025-08-13 22:36:04.375 [info] read schema from vscode: vscode://schemas/settings/folder
+2025-08-13 22:36:04.508 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2025-08-13 22:36:05.498 [info] schema change detected vscode://schemas/settings/folder
+2025-08-13 22:36:05.501 [info] read schema from vscode: vscode://schemas/settings/folder
+2025-08-13 22:36:08.973 [info] schema change detected vscode://schemas/settings/folder
