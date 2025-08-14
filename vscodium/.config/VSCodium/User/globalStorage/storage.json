@@ -1680,7 +1680,7 @@
     "theme": "vs-dark",
     "themeBackground": "#1e1e2e",
     "windowSplash": {
-        "zoomLevel": 1,
+        "zoomLevel": 0.5,
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#cdd6f4",
@@ -1708,7 +1708,7 @@
             "windowBorder": false
         }
     },
-    "windowControlHeight": 42,
+    "windowControlHeight": 38,
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
             "auxiliarySideBarWidth": [

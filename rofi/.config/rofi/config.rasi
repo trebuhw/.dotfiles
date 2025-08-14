@@ -6,6 +6,6 @@ configuration {
   display-drun: "  ";
   display-window: "﩯 ";
   display-combi: "  ";
-  font: "SFMono Nerd Font Mono 12";
+  font: "JetBrainsMono Nerd Font 11";
 }
 @theme "/home/hubert/.local/share/rofi/themes/sidebar.rasi"
