@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=pCloud-Wrapper
+Comment=pCloud Drive
+Exec=/home/hubert/.local/bin/pcloud-wrapper.sh
+Type=Application
+Icon=pcloud
+Terminal=false
+Categories=Utility;FileTools;
+StartupNotify=true
