@@ -78,7 +78,7 @@ color = "#F5E0DC"
 style = "Beam"
 
 [font]
-size = 12
+size = 13
 
 [font.bold]
 family = "CaskaydiaMono Nerd Font"
