@@ -81,19 +81,19 @@ style = "Beam"
 size = 12
 
 [font.bold]
-family = "JetBrainsMono Nerd Font"
+family = "CaskaydiaMono Nerd Font"
 style = "Bold"
 
 [font.bold_italic]
-family = "JetBrainsMono Nerd Font"
+family = "CaskaydiaMono Nerd Font"
 style = "Bold Italic"
 
 [font.italic]
-family = "JetBrainsMono Nerd Font"
+family = "CaskaydiaMono Nerd Font"
 style = "Italic"
 
 [font.normal]
-family = "JetBrainsMono Nerd Font"
+family = "CaskaydiaMono Nerd Font"
 style = "Regular"
 
 [scrolling]
