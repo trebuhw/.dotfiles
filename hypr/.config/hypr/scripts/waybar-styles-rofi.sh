@@ -34,6 +34,7 @@ printf "7. RGB\n"
 printf "8. Simple\n"
 printf "9. Dark\n"
 printf "10. Default\n"
+printf "11. Omarchy\n"
 }
 
 main() {
@@ -41,7 +42,7 @@ main() {
     case $choice in
         1)
             ln -sf "$HOME/.config/waybar/style/color.style.css" "$WAYBARSTYLE" && ln -sf "$HOME/.config/waybar/configs/color.config-hypr" "$WAYBARCONFIG"
-            ;;
+            ;; 
         2)
             ln -sf "$HOME/.config/waybar/style/black.style.css" "$WAYBARSTYLE" && ln -sf "$HOME/.config/waybar/configs/all-config-hypr" "$WAYBARCONFIG"
             ;;
@@ -69,7 +70,10 @@ main() {
         10)
              ln -sf "$HOME/.config/waybar/style/style-default.css" "$WAYBARSTYLE" && ln -sf "$HOME/.config/waybar/configs/all-config-hypr" "$WAYBARCONFIG"
              ;;
-        11)    
+        11)
+             ln -sf "$HOME/.config/waybar/style/omarchy-style.css" "$WAYBARSTYLE" && ln -sf "$HOME/.config/waybar/configs/all-config-hypr" "$WAYBARCONFIG"
+             ;;
+        12)
 
              if pgrep -x "waybar" >/dev/null; then
                 killall waybar

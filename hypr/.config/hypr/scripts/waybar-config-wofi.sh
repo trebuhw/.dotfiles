@@ -32,6 +32,7 @@ printf "5. Dual\n"
 printf "6. Gnome\n"
 printf "7. Plasma\n"
 printf "8. Simple\n"
+printf "9. Omarchy\n"
 }
 
 main() {
@@ -62,6 +63,10 @@ main() {
              ln -sf "$HOME/.config/waybar/configs/config-simple" "$WAYBARCONFIG"
              ;;
         9)    
+             ln -sf "$HOME/.config/waybar/configs/omarchy.jsonc" "$WAYBARCONFIG"
+             ;;
+        10)    
+
 
              if pgrep -x "waybar" >/dev/null; then
                 killall waybar
