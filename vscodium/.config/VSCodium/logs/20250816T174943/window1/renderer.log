@@ -1,9 +1,9 @@
-2025-08-10 01:07:38.056 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2025-08-10 01:07:38.070 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2025-08-10 01:07:38.070 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2025-08-10 01:07:38.425 [info] Started local extension host with pid 28746.
-2025-08-10 01:07:41.613 [info] [perf] Render performance baseline is 25ms
-2025-08-10 01:07:41.721 [error] Error while getting the latest version for the extension naumovs.color-highlight from https://open-vsx.org/vscode/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://open-vsx.org/vscode/gallery/{publisher}/{name}/latest Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+2025-08-16 17:49:43.871 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 17:49:43.886 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 17:49:43.886 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-16 17:49:44.475 [info] Started local extension host with pid 30542.
+2025-08-16 17:49:47.195 [info] [perf] Render performance baseline is 23ms
+2025-08-16 17:49:48.189 [error] Error while getting the latest version for the extension catppuccin.catppuccin-vsc-icons from https://open-vsx.org/vscode/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://open-vsx.org/vscode/gallery/{publisher}/{name}/latest Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
 <!DOCTYPE html>
 <html lang="en">
 
@@ -54,7 +54,7 @@
 
 </html>
 
-2025-08-10 01:07:41.838 [error] Error while getting the latest version for the extension esbenp.prettier-vscode from https://open-vsx.org/vscode/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://open-vsx.org/vscode/gallery/{publisher}/{name}/latest Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+2025-08-16 17:49:48.317 [error] Error while getting the latest version for the extension catppuccin.catppuccin-vsc from https://open-vsx.org/vscode/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://open-vsx.org/vscode/gallery/{publisher}/{name}/latest Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
 <!DOCTYPE html>
 <html lang="en">
 
@@ -105,7 +105,7 @@
 
 </html>
 
-2025-08-10 01:07:41.957 [error] Error while getting the latest version for the extension catppuccin.catppuccin-vsc-icons from https://open-vsx.org/vscode/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://open-vsx.org/vscode/gallery/{publisher}/{name}/latest Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+2025-08-16 17:49:48.445 [error] Error while getting the latest version for the extension naumovs.color-highlight from https://open-vsx.org/vscode/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://open-vsx.org/vscode/gallery/{publisher}/{name}/latest Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
 <!DOCTYPE html>
 <html lang="en">
 
@@ -156,7 +156,7 @@
 
 </html>
 
-2025-08-10 01:07:42.081 [error] Error while getting the latest version for the extension catppuccin.catppuccin-vsc from https://open-vsx.org/vscode/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://open-vsx.org/vscode/gallery/{publisher}/{name}/latest Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+2025-08-16 17:49:48.597 [error] Error while getting the latest version for the extension pkief.material-icon-theme from https://open-vsx.org/vscode/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://open-vsx.org/vscode/gallery/{publisher}/{name}/latest Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
 <!DOCTYPE html>
 <html lang="en">
 
@@ -207,7 +207,7 @@
 
 </html>
 
-2025-08-10 01:07:42.206 [error] Error while getting the latest version for the extension yzhang.markdown-all-in-one from https://open-vsx.org/vscode/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://open-vsx.org/vscode/gallery/{publisher}/{name}/latest Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+2025-08-16 17:49:48.712 [error] Error while getting the latest version for the extension esbenp.prettier-vscode from https://open-vsx.org/vscode/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://open-vsx.org/vscode/gallery/{publisher}/{name}/latest Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
 <!DOCTYPE html>
 <html lang="en">
 
@@ -258,7 +258,7 @@
 
 </html>
 
-2025-08-10 01:07:42.332 [error] Error while getting the latest version for the extension pkief.material-icon-theme from https://open-vsx.org/vscode/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://open-vsx.org/vscode/gallery/{publisher}/{name}/latest Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+2025-08-16 17:49:49.848 [error] Error while getting the latest version for the extension yzhang.markdown-all-in-one from https://open-vsx.org/vscode/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://open-vsx.org/vscode/gallery/{publisher}/{name}/latest Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
 <!DOCTYPE html>
 <html lang="en">
 
@@ -309,3 +309,5 @@
 
 </html>
 
+2025-08-16 17:49:54.595 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-16 17:49:54.596 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList

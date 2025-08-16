@@ -3,10 +3,10 @@ shell-integration = fish
 term = xterm-256color
 
 # fonts
-font-family = CaskaydiaMono Nerd Font
-# font-family = JetBrainsMono Nerd Font
+# font-family = CaskaydiaMono Nerd Font
+font-family = JetBrainsMono Nerd Font
 # font-family = SFMono Nerd Font Mono
-font-size = 13
+font-size = 12
 
 # theme
 theme = catppuccin-mocha
@@ -18,7 +18,7 @@ cursor-style-blink = true
 cursor-color = cdd6f4
 
 # appearance
-adjust-cell-height = 5%
+# adjust-cell-height = 5%
 background-opacity = 0.90
 window-padding-balance = true
 # window-decoration = auto

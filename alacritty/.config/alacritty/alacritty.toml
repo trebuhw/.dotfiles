@@ -78,22 +78,22 @@ color = "#F5E0DC"
 style = "Beam"
 
 [font]
-size = 13
+size = 12
 
 [font.bold]
-family = "CaskaydiaMono Nerd Font"
+family = "JetBrainsMono Nerd Font"
 style = "Bold"
 
 [font.bold_italic]
-family = "CaskaydiaMono Nerd Font"
+family = "JetBrainsMono Nerd Font"
 style = "Bold Italic"
 
 [font.italic]
-family = "CaskaydiaMono Nerd Font"
+family = "JetBrainsMono Nerd Font"
 style = "Italic"
 
 [font.normal]
-family = "CaskaydiaMono Nerd Font"
+family = "JetBrainsMono Nerd Font"
 style = "Regular"
 
 [scrolling]

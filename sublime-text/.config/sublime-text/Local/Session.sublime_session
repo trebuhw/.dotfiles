@@ -9,9 +9,9 @@
 		"/home/hubert/.config"
 	],
 	"last_version": 4200,
-	"last_window_id": 4,
+	"last_window_id": 5,
 	"log_indexing": false,
-	"next_update_check": 1755287215,
+	"next_update_check": 1755445837,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -166,6 +166,14 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/hubert/.config/alacritty/alacritty.toml",
+					"settings":
+					{
+						"buffer_size": 1644,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -199,7 +207,8 @@
 			},
 			"expanded_folders":
 			[
-				"/home/hubert/.config"
+				"/home/hubert/.config",
+				"/home/hubert/.config/alacritty"
 			],
 			"file_history":
 			[
@@ -247,6 +256,53 @@
 				{
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/hubert/.config/alacritty/alacritty.toml",
+							"selected": true,
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 1644,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"color_helper.scan":
+									{
+										"allow_scanning": false,
+										"color_class":
+										[
+											{
+												"class": "css-level-4",
+												"scopes": ""
+											}
+										],
+										"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
+										"current_ext": ".toml",
+										"current_syntax": "TOML/TOML",
+										"enabled": true,
+										"last_updated": 1755359438.62,
+										"scanning": "-comment"
+									},
+									"syntax": "Packages/TOML/TOML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 450.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -289,7 +345,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,1906,1025,1920,1080,0",
+			"position": "0,1,0,0,0,0,0,1906,1034,1920,1080,0",
 			"project": "",
 			"replace":
 			{
