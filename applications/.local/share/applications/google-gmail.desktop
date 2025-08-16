@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Gmail
+Comment=Gmail
+Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://mail.google.com/mail/u/0/#inbox" --name="gmail" --class="gmail"
+Terminal=false
+Type=Application
+Icon=/home/hubert/.local/share/applications/icons/gmail.png
+StartupNotify=true

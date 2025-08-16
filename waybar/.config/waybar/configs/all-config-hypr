@@ -21,6 +21,7 @@
         "memory",
         "backlight",
         "pulseaudio",
+        "battery",
         "tray"
     ],
     // -------------------------------------------------------------------------
@@ -122,6 +123,24 @@
         },
         "on-click": "pavucontrol",
         "on-click-right": "amixer sset Master toggle"
+    },
+    "battery": {
+        "interval": 2,
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{capacity}%",
+        "format-charging": "{capacity}%",
+        "format-plugged": "{capacity}%",
+        "format-icons": [
+            " ",
+            " ",
+            " ",
+            " ",
+            " "
+        ]
     },
     "tray": {
         "icon-size": 15,

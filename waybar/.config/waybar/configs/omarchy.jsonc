@@ -54,7 +54,8 @@
     "interval": 5,
     "icon-size": 15,
     "format": "󰍛",
-    "on-click": "alacritty -e btop"
+    "on-click": "alacritty -e btop",
+    "on-click-right" : "~/.local/share/bin/sensors_monitor_ws.sh n"
   },
   "clock": {
     "format": "{:L%a %e %b %H:%M}",
@@ -128,7 +129,10 @@
     },
     "modules": [
       "custom/expand-icon",
-    "tray"
+        "temperature",
+        "memory",
+        "backlight",
+        "tray"
     ]
   },
   "custom/expand-icon": {
@@ -139,5 +143,38 @@
   "tray": {
     "icon-size": 15,
     "spacing": 14
-  }
+  },
+   "temperature": {
+        // "thermal-zone": 1,
+        "interval": 4,
+        "hwmon-path": "/sys/class/hwmon/hwmon4/temp1_input",
+        "critical-threshold": 80,
+        // "format-critical": "{temperatureC}°C",
+        "format-critical":"{temperatureC}°C",
+        "format": " {temperatureC}°C",
+        "format-icons": ["", "", ""],
+        //"max-length": 7,
+        //"min-length": 7,
+        //"on-click": "xsensors",
+        "on-click": "~/.local/share/bin/sensors_monitor_ws.sh n"
+        //"tooltip": false
+    },
+    "memory": {
+        "interval": 30,
+        "format": " {used:0.1f}GB",
+        //"format": "{used:0.2f} / {total:0.0f}GB",
+        "on-click": "alacritty -e btop"
+    },
+    "backlight": {
+        "device": "intel_backlight",
+        "format": " {percent}% ",
+        "format-alt": " {percent}% ",
+        "format-alt-click": "click-right",
+        //"format-icons": [" ", " "],
+        "format-icons": [" ", " "],
+        "on-scroll-down": "brightnessctl s 5%-",
+        "on-scroll-up": "brightnessctl s +5%",
+        //"tooltip": false,
+        "tooltip-format": "Jasność ekranu"
+    }
 }
