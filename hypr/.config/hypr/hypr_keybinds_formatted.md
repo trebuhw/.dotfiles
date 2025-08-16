@@ -32,7 +32,7 @@ SUPER + M → Selektor emoji
 SUPER + S → Schowek (rofi)
 SUPER + I → Menu WiFi
 SUPER + SHIFT + X → Menu zasilania
-        Print → Zrzut ekranu (ekran)
+        Print → Zrzut ekranu (ekranu)
 SUPER + Print → Zrzut ekranu (wynierz region)
 SUPER + SHIFT + Print → Zrzut ekranu (wskazane okno)
 
@@ -54,10 +54,10 @@ SUPER + Tab → Następne okno w grupie
 
 # ⌨️ NAWIGACJA
 SUPER + ←/→/↑/↓ → Zmień fokus
-SUPER + SHIFT + ←/→/↑/↓ → Przenieś okno
+SUPER + SHIFT + ←/→ → Przejdź do l/p workspace
 SUPER + 1-9,0 → Przejdź do workspace
-SUPER + CTRL + 1-9,0 → Przenieś okno do workspace
-SUPER + SHIFT + 1-9,0 → Przenieś okno (cicho)
+SUPER + SHIFT + 1-9,0 → Przenieś okno do workspace
+SUPER + CTRL + 1-9,0 → Przenieś okno (cicho)
 SUPER + , → Poprzedni workspace
 SUPER + . → Następny workspace
 SUPER + / → Ostatni workspace

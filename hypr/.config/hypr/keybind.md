@@ -55,7 +55,8 @@
 
     ## Workspaces
      + nr worspace             -> go nr workspace
-     + ctrl nr worspace        -> move to go nr workspace
+     + Shift nr worspace        -> move to go nr workspace
+     + ctrl nr worspace        -> move to silent nr workspace
      + ctrl + Shift + arrow    -> resize windows
      + mouse right             -> resize window
      + Shift + arrow           -> resize windows default 50/50
