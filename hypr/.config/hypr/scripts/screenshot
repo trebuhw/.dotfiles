@@ -1,3 +1,22 @@
-#!/usr/bin/bash
-grim -g "$(slurp)" - | wl-copy -t image/png
-notify-send "Screenshot copied to clipboard"
+#!/bin/bash
+
+# Ustawienie katalogu docelowego na ~/Obrazy/Screenshots
+OUTPUT_DIR="$HOME/Obrazy/Screenshots"
+
+# Utworzenie katalogu jeśli nie istnieje
+if [[ ! -d "$OUTPUT_DIR" ]]; then
+  mkdir -p "$OUTPUT_DIR"
+  if [[ $? -ne 0 ]]; then
+    notify-send "Nie można utworzyć katalogu screenshotów: $OUTPUT_DIR" -u critical -t 3000
+    exit 1
+  fi
+fi
+
+# Wykonanie screenshota
+pkill slurp || hyprshot -m ${1:-region} --raw |
+  satty --filename - \
+    --output-filename "$OUTPUT_DIR/screenshot-$(date +'%Y-%m-%d_%H-%M-%S').png" \
+    --early-exit \
+    --actions-on-enter save-to-clipboard \
+    --save-after-copy \
+    --copy-command 'wl-copy'

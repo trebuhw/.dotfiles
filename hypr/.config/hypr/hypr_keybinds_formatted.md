@@ -32,7 +32,9 @@ SUPER + M → Selektor emoji
 SUPER + S → Schowek (rofi)
 SUPER + I → Menu WiFi
 SUPER + SHIFT + X → Menu zasilania
-SUPER + Print → Zrzut ekranu
+        Print → Zrzut ekranu (ekran)
+SUPER + Print → Zrzut ekranu (wynierz region)
+SUPER + SHIFT + Print → Zrzut ekranu (wskazane okno)
 
 # 🔧 SYSTEM
 SUPER + Q → Zamknij okno

@@ -15,7 +15,9 @@
      + Shift + d               -> wofi full
      + c                       -> galculator
      + Shift + m               -> mocp
-     + print                   -> screnshots
+        print                   -> screnshots (ekran)
+     + print                   -> screnshots (wynierz region)
+     + Shift print             -> screnshots (wskazane okno)
      + s                       -> cliphist
      + m                       -> rofi emoji
      + i                       -> rofi wifi
