@@ -3,7 +3,7 @@
     "position": "top",
     "height": 14,
     "spacing": 0,
-    "modules-left": ["hyprland/workspaces", "hyprland/mode", "hyprland/window"],
+    "modules-left": ["hyprland/workspaces", "hyprland/window"],
     "modules-center": [],
     "modules-right": ["cpu", "custom/temperature", "memory", "backlight", "pulseaudio", "battery", "clock", "tray"],
     
@@ -25,12 +25,8 @@
         }
     },
     
-    "hyprland/mode": {
-        "format": "<span style=\"italic\">{}</span>"
-    },
-    
     "hyprland/window": {
-        "format": "{}",
+        "format": "[]= {}",
         "max-length": 50,
         "separate-outputs": true
     },
