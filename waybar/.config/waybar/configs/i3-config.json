@@ -5,7 +5,7 @@
     "spacing": 0,
     "modules-left": ["hyprland/workspaces", "hyprland/window"],
     "modules-center": [],
-    "modules-right": ["cpu", "custom/temperature", "memory", "backlight", "pulseaudio", "battery", "clock", "tray"],
+    "modules-right": ["group/tray-expander", "cpu", "custom/temperature", "memory", "backlight", "pulseaudio", "bluetooth" ,"network",  "battery", "clock"],
     
     "hyprland/workspaces": {
         "disable-scroll": true,
@@ -64,14 +64,22 @@
     },
     
     "network": {
-        "format-wifi": "WiFi {essid} ({signalStrength}%)",
+        "format-wifi": "WiFi {signalStrength}%",
         "format-ethernet": "ETH {ipaddr}/{cidr}",
-        "tooltip-format": "{ifname} via {gwaddr}",
+        "tooltip-format": "{essid} - {ipaddr}",
         "format-linked": "ETH (No IP)",
         "format-disconnected": "Disconnected",
         "format-alt": "{ifname}: {ipaddr}/{cidr}",
         "interval": 5
     },
+
+    "bluetooth": {
+        "format": "BLU {num_connections}",
+        "format-disabled": "BLU {num_connections}",
+        "format-connected": "BLU {num_connections}",
+        "tooltip-format": "Devices connected:\n{num_connections}. {device_alias}",
+        "on-click": "blueberry"
+  },
     
     "pulseaudio": {
         "format": "VOL {volume}%",
@@ -95,8 +103,29 @@
         "on-click": "~/.local/share/bin/sensors_monitor_ws.sh n"
     },
     
-    "tray": {
-        "icon-size": 15,
-        "spacing": 5
-    }
+    "group/tray-expander": {
+        "orientation": "inherit",
+        "drawer": {
+          "transition-duration": 600,
+          "children-class": "tray-group-item"
+    },
+    "modules": [
+      "custom/expand-icon",
+        "tray"
+    ]
+  },
+  "custom/expand-icon": {
+    "icon-size": 15,
+    "format": " ",
+    "tooltip": false
+  },
+  "tray": {
+    "icon-size": 15,
+    "spacing": 14
+  }
+    
+   // "tray": {
+   //     "icon-size": 15,
+   //     "spacing": 5
+   // }
 }
