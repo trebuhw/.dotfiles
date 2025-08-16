@@ -35,13 +35,14 @@
         "timezone": "Europe/Warsaw",
         "tooltip-format": "<big>{:L%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
         "format": "{:L%a %d %b %H:%M}",
-        "format-alt": "{:L%Y-%m-%d %H:%M:%S}"
+        "format-alt": "{:L%Y-%m-%d %H:%M:%S}",
+        "interval": 1
     },
     
     "battery": {
         "states": {
-            "warning": 30,
-            "critical": 15
+            "warning": 20,
+            "critical": 10
         },
         "format": "BAT {capacity}%",
         "format-charging": "CHR {capacity}%",
@@ -52,15 +53,16 @@
     
     "cpu": {
         "format": "CPU {usage}% ",
-        "tooltip": false,
+        "tooltip": true,
         "interval": 5,
-        "on-click": "alacritty -e btop"
+        "on-click": "kitty -e btop"
     },
     
     "memory": {
         /*"format": "MEM {percentage}%",*/
         "format": "MEM {used:0.1f}GB",
-        "tooltip-format": "RAM: {used:0.1f}G/{total:0.1f}G ({percentage}%)\nSwap: {swapUsed:0.1f}G/{swapTotal:0.1f}G ({swapPercentage}%)"
+        "tooltip-format": "RAM: {used:0.1f}G/{total:0.1f}G ({percentage}%)\nSwap: {swapUsed:0.1f}G/{swapTotal:0.1f}G ({swapPercentage}%)",
+        "on-click": "kitty -e btop"
     },
     
     "network": {
@@ -70,7 +72,8 @@
         "format-linked": "ETH (No IP)",
         "format-disconnected": "Disconnected",
         "format-alt": "{ifname}: {ipaddr}/{cidr}",
-        "interval": 5
+        "interval": 5,
+        "on-click-right": "kitty --class=Impala -e impala"
     },
 
     "bluetooth": {
@@ -88,12 +91,19 @@
         "format-muted": "MUTED",
         "format-source": "MIC {volume}%",
         "format-source-muted": "MIC OFF",
-        "on-click": "pavucontrol"
+        "on-click": "pavucontrol",
+        "on-click-right":  "kitty --class=Wiremix -e wiremix",
+        "on-click-middle": "pamixer -t",
+        "on-scroll-down": "pamixer -ud 5 && pamixer --get-volume > /tmp/$HYPRLAND_INSTANCE_SIGNATURE.wob",
+        "on-scroll-up": "pamixer -ui 5 && pamixer --get-volume > /tmp/$HYPRLAND_INSTANCE_SIGNATURE.wob"
+
     },
     
     "backlight": {
         "format": "BRT {percent}%",
-        "tooltip": false
+        "tooltip": true,
+        "on-scroll-down": "brightnessctl s 5%- ",
+        "on-scroll-up": "brightnessctl s +5%"
     },
     
     "custom/temperature": {
