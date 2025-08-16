@@ -1,7 +1,7 @@
 {
     "layer": "top",
     "position": "top",
-    "height": 20,
+    "height": 14,
     "spacing": 0,
     "modules-left": ["hyprland/workspaces", "hyprland/mode", "hyprland/window"],
     "modules-center": [],
@@ -55,7 +55,7 @@
     },
     
     "cpu": {
-        "format": "CPU {usage}%",
+        "format": "CPU {usage}% ",
         "tooltip": false,
         "interval": 5,
         "on-click": "alacritty -e btop"
@@ -79,8 +79,8 @@
     
     "pulseaudio": {
         "format": "VOL {volume}%",
-        "format-bluetooth": "VOL {volume}% ",
-        "format-bluetooth-muted": "MUTED ",
+        "format-bluetooth": "VOL {volume}%",
+        "format-bluetooth-muted": "MUTED",
         "format-muted": "MUTED",
         "format-source": "MIC {volume}%",
         "format-source-muted": "MIC OFF",
@@ -94,7 +94,7 @@
     
     "custom/temperature": {
         "exec": "sensors coretemp-isa-0000 | grep 'Package id 0:' | awk '{print $4}' | sed 's/+//'",
-        "format": "TEMP {}",
+        "format": "TEMP {} ",
         "interval": 5,
         "on-click": "~/.local/share/bin/sensors_monitor_ws.sh n"
     },
