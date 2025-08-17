@@ -74,7 +74,7 @@ main() {
     ln -sf "$HOME/.config/waybar/style/omarchy-style.css" "$WAYBARSTYLE" && ln -sf "$HOME/.config/waybar/configs/all-config-hypr" "$WAYBARCONFIG"
     ;;
   12)
-    ln -sf "$HOME/.config/waybar/style/i3-style.json" "$WAYBARSTYLE" && ln -sf "$HOME/.config/waybar/configs/all-config-hypr" "$WAYBARCONFIG"
+    ln -sf "$HOME/.config/waybar/style/i3-style.css" "$WAYBARSTYLE" && ln -sf "$HOME/.config/waybar/configs/all-config-hypr" "$WAYBARCONFIG"
     ;;
   13)
 

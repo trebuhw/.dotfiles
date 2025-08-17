@@ -1,7 +1,7 @@
 {
     "layer": "top",
     "position": "top",
-    "height": 14,
+    "height": 20,
     "spacing": 0,
     "modules-left": ["hyprland/workspaces", "hyprland/window"],
     "modules-center": [],
@@ -80,8 +80,8 @@
         "format": "BLU {num_connections}",
         "format-disabled": "BLU {num_connections}",
         "format-connected": "BLU {num_connections}",
-        "tooltip-format": "Devices connected:\n{num_connections}. {device_alias}",
-        "on-click": "blueberry"
+        "tooltip-format": "Devices connected:\n{num_connections}. {device_alias} {device_battery_percentage}%",
+        "on-click": "blueman-manager"
   },
     
     "pulseaudio": {
