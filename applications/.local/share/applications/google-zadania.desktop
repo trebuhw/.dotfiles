@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Google-zadania
+Comment=Google-zadania
+Exec=google-chrome-stable --new-window --ozone-platform=wayland --app=""https://calendar.google.com/calendar/u/0/r/tasks --name="zadania" --class="zadania"
+Terminal=false
+Type=Application
+Icon=/home/hubert/.local/share/applications/icons/google-zadania.png
+StartupNotify=true
