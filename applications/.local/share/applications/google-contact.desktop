@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Kontakty
+Comment=Kontakty
+Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://contacts.google.com/?hl=pl&tab=mC" --name="calendar" --class="calendar"
+Terminal=false
+Type=Application
+Icon=/home/hubert/.local/share/applications/icons/google-contacts.png
+StartupNotify=true

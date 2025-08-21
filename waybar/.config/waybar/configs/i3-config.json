@@ -108,7 +108,7 @@
     
     "custom/temperature": {
         "exec": "sensors coretemp-isa-0000 | grep 'Package id 0:' | awk '{print $4}' | sed 's/+//'",
-        "format": "TEMP {}",
+        "format": "TEM {}",
         "interval": 5,
         "on-click": "~/.local/share/bin/sensors_monitor_ws.sh n"
     },
