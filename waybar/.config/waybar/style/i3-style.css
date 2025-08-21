@@ -108,6 +108,7 @@ window#waybar {
 /* Zegar */
 #clock {
     color: @text;
+    padding: 0 5px;
 }
 
 /* Bateria */
