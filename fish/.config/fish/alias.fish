@@ -250,6 +250,7 @@ alias vpo='loginctl poweroff' # Potrzeba zainstalować i uruchomić usługę log
 # Rsync
 alias rs='rsync -ravz'
 alias rsd='rsync -ravz --delete'
+alias rswal='rsync -ravz --delete ~/Obrazy/Wallpaper/ ~/pCloudDrive/Obrazy/Wallpaper/'
 
 # SSH
 alias cpshh='scp -rv'
