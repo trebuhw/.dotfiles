@@ -28,6 +28,7 @@ SUPER + SHIFT + G → Przywróć odstępy
 SUPER + D → Rofi (aplikacje)
 SUPER + CTRL + D → Rofi (uruchom)
 SUPER + SHIFT + D → Pełne menu (wofi)
+SUPER + SHIFT + . → Window Switcher (fzf)
 SUPER + M → Selektor emoji
 SUPER + S → Schowek (rofi)
 SUPER + I → Menu WiFi

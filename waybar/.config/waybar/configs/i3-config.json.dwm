@@ -5,7 +5,7 @@
     "spacing": 0,
     "modules-left": ["hyprland/workspaces", "hyprland/window"],
     "modules-center": [],
-    "modules-right": ["group/tray-expander", "cpu", "custom/temperature", "memory", "clock"],
+    "modules-right": ["group/tray-expander", "cpu", "custom/temperature", "memory", "backlight", "pulseaudio", "bluetooth" ,"network",  "battery", "clock"],
     
     "hyprland/workspaces": {
         "disable-scroll": true,
@@ -47,13 +47,13 @@
 
      "memory": {
         /*"format": "MEM {percentage}%",*/
-        "format": "| {used:0.1f}GB ]",
+        "format": "| {used:0.1f}GB",
         "tooltip-format": "RAM: {used:0.1f}G/{total:0.1f}G ({percentage}%)\nSwap: {swapUsed:0.1f}G/{swapTotal:0.1f}G ({swapPercentage}%)",
         "on-click": "kitty -e btop"
     },
 
     "backlight": {
-        "format": "[ {percent}%",
+        "format": "| {percent}%",
         "tooltip": true,
         "on-scroll-down": "brightnessctl s 5%- ",
         "on-scroll-up": "brightnessctl s +5%"
@@ -121,12 +121,7 @@
     },
     "modules": [
       "custom/expand-icon",
-        "tray",
-        "backlight",
-        "pulseaudio",
-        "bluetooth",
-        "network",
-        "battery"
+        "tray"
     ]
     },
     "custom/expand-icon": {

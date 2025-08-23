@@ -10,6 +10,7 @@
      + CTRL + Return           -> subl
      + w                       -> google chrome
      + e                       -> thunar
+     + Shift + .               -> windows-swither (fzf)
      + d                       -> rofi (drun)
      + ctrl + d                -> rofi (run)
      + Shift + d               -> wofi full

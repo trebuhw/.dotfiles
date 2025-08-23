@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=CopilotMS AI
-Comment=CopilotMS AI
-Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://copilot.microsoft.com/chats/aCX8fNmai6WfDbGFd5knJ" --name="copilotms" --class="copilotms"
-Terminal=false
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/copilot.png
-StartupNotify=true
