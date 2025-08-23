@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=Keep
-Comment=Keep
-Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://keep.google.com/#home" --name="keep" --class="keep"
+Name=google-keep
+Comment=google-keep
+Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://keep.google.com/#home" --name="google-keep" --class="google-keep"
 Terminal=false
 Type=Application
 Icon=/home/hubert/.local/share/applications/icons/google-keep.png
