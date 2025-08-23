@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Alarmy
+Name[pl]=Alarmy
+Comment=Add end edit alarms
+Comment[pl]=Tworzy listę alarmów
+Exec=systemd-run --user --scope --setenv=__GLX_VENDOR_LIBRARY_NAME=nvidia --setenv=WAYLAND_DISPLAY=wayland-1 --setenv=DISPLAY=:1 /usr/bin/kitty -e /home/hubert/.local/share/bin/alarm_manager.sh
+Icon=alarm-clock
+Terminal=true
+Type=Application
+Categories=System;PackageManager;
+Keywords=arch;packages;backup;restore;
+StartupNotify=true
