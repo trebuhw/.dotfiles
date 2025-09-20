@@ -6,10 +6,11 @@ set fish_greeting
 starship init fish | source
 set -g STARSHIP_COMMAND_TIMEOUT 10
 set -gx EDITOR nvim
-set -gx GDK_BACKEND x11 
-set -gx QT_QPA_PLATFORMTHEMEgnome
-#set -gx QT_QPA_PLATFORMTHEME qt5ct
-set -gx QT_QPA_PLATFORMTHEME qt6ct
+set -gx GDK_BACKEND x11
+set -gx QT_QPA_PLATFORMTHEME gnome
+set -Ux QT_QPA_PLATFORMTHEME kvantum
+set -Ux QT_QPA_PLATFORMTHEME qt5ct
+set -Ux QT_QPA_PLATFORMTHEME qt6ct
 set -gx PATH $PATH /usr/bin
 set -gx PATH $PATH /usr/local/share/bin
 set -gx PATH $PATH ~/.config/hypr/scripts
@@ -27,10 +28,10 @@ export "MICRO_TRUECOLOR=1"
 # Dracula FZF color 
 
 #set -Ux FZF_DEFAULT_OPTS "\
-  #--color=fg:#f8f8f2,bg:#282a36,hl:#bd93f9 \
-  #--color=fg+:#f8f8f2,bg+:#44475a,hl+:#bd93f9 \
-  #--color=info:#ffb86c,prompt:#50fa7b,pointer:#ff79c6 \
-  #--color=marker:#ff79c6,spinner:#ffb86c,header:#6272a4"
+#--color=fg:#f8f8f2,bg:#282a36,hl:#bd93f9 \
+#--color=fg+:#f8f8f2,bg+:#44475a,hl+:#bd93f9 \
+#--color=info:#ffb86c,prompt:#50fa7b,pointer:#ff79c6 \
+#--color=marker:#ff79c6,spinner:#ffb86c,header:#6272a4"
 
 # Catppucin Mocha FZF color
 
@@ -45,11 +46,11 @@ set -Ux FZF_DEFAULT_OPTS "\
 
 # Aliases
 if [ -f $HOME/.dotfiles/fish/.config/fish/alias.fish ]
-source $HOME/.dotfiles/fish/.config/fish/alias.fish
+    source $HOME/.dotfiles/fish/.config/fish/alias.fish
 
-zoxide init fish | source
-zoxide init fish --hook prompt | source
-zoxide init fish --cmd j | source
+    zoxide init fish | source
+    zoxide init fish --hook prompt | source
+    zoxide init fish --cmd j | source
 end
 
 # Alias do klonowania z github po ssh wpisać tylko właściciela i nazwę repo> zastosownie np: gcs trebuhw/.dotfiles.git 
@@ -57,4 +58,3 @@ function gcs
     set repo $argv[1]
     git clone --depth=1 git@github.com:$repo
 end
-

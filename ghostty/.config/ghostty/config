@@ -7,7 +7,7 @@ font-family = JetBrainsMono Nerd Font
 font-size = 12
 
 # theme
-theme = catppuccin-mocha
+theme = Catppuccin Mocha
 shell-integration-features = no-cursor,sudo,no-title
 
 # cursor
