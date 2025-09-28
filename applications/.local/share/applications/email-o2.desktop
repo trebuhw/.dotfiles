@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=email-o2
+Comment=email-o2
+Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://poczta.o2.pl/w/mails?folder=classic.main" --name="email-o2" --class="email-o2"
+Terminal=false
+Type=Application
+Icon=/home/hubert/.local/share/applications/icons/email-o2.png
+StartupNotify=true
