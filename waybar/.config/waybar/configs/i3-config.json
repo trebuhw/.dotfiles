@@ -99,8 +99,8 @@
             "critical": 10
         },
         "format": "| {capacity}% ]",
-        "format-charging": "CHR {capacity}%",
-        "format-plugged": "AC {capacity}%",
+        "format-charging": "| {capacity}% ]",
+        "format-plugged": "| {capacity}% ]",
         "format-alt": "BAT {time}",
         "tooltip-format": "{timeTo} ({capacity}%)"
     },

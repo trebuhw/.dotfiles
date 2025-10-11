@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=proton-mail
-Comment=proton-mail
-Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://mail.proton.me/u/3/inbox" --name="proton-mail" --class="proton-mail"
-Terminal=false
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/protonmail.png
-StartupNotify=true
