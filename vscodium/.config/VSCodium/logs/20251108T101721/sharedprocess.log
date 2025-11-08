@@ -1,0 +1,18 @@
+2025-11-08 10:17:27.798 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2025-11-08 10:17:27.799 [info] Getting Manifest... catppuccin.catppuccin-vsc-icons
+2025-11-08 10:17:27.800 [info] Getting Manifest... pkief.material-icon-theme
+2025-11-08 10:17:28.434 [info] Installing extension: catppuccin.catppuccin-vsc-icons {"productVersion":{"version":"1.105.17075","date":"2025-10-21T20:24:03.344Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hubert/.vscode-oss/extensions/extensions.json","path":"/home/hubert/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-11-08 10:17:28.437 [info] Installing extension: catppuccin.catppuccin-vsc {"productVersion":{"version":"1.105.17075","date":"2025-10-21T20:24:03.344Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hubert/.vscode-oss/extensions/extensions.json","path":"/home/hubert/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-11-08 10:17:28.437 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.105.17075","date":"2025-10-21T20:24:03.344Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/hubert/.vscode-oss/extensions/extensions.json","path":"/home/hubert/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-11-08 10:17:28.835 [info] Extracted extension to file:///home/hubert/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.18.1-universal: catppuccin.catppuccin-vsc
+2025-11-08 10:17:28.839 [info] Renamed to /home/hubert/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.18.1-universal
+2025-11-08 10:17:28.849 [info] Marked extension as removed catppuccin.catppuccin-vsc-3.17.0-universal
+2025-11-08 10:17:28.853 [info] Extension installed successfully: catppuccin.catppuccin-vsc vscode-userdata:/home/hubert/.vscode-oss/extensions/extensions.json
+2025-11-08 10:17:30.153 [info] Extracted extension to file:///home/hubert/.vscode-oss/extensions/pkief.material-icon-theme-5.28.0-universal: pkief.material-icon-theme
+2025-11-08 10:17:30.201 [info] Renamed to /home/hubert/.vscode-oss/extensions/pkief.material-icon-theme-5.28.0-universal
+2025-11-08 10:17:30.217 [info] Marked extension as removed pkief.material-icon-theme-5.25.0-universal
+2025-11-08 10:17:30.218 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/hubert/.vscode-oss/extensions/extensions.json
+2025-11-08 10:17:30.984 [info] Extracted extension to file:///home/hubert/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-1.26.0-universal: catppuccin.catppuccin-vsc-icons
+2025-11-08 10:17:31.064 [info] Renamed to /home/hubert/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-1.26.0-universal
+2025-11-08 10:17:31.074 [info] Marked extension as removed catppuccin.catppuccin-vsc-icons-1.23.0-universal
+2025-11-08 10:17:31.079 [info] Extension installed successfully: catppuccin.catppuccin-vsc-icons vscode-userdata:/home/hubert/.vscode-oss/extensions/extensions.json
