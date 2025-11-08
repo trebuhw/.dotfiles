@@ -100,7 +100,7 @@ alias jctl="journalctl -p 3 -xb"
 #know what you do in these files
 alias ngrub="sudo $EDITOR /etc/default/grub"
 alias nconfgrub="sudo $EDITOR /boot/grub/grub.cfg"
-alias upgrub="grub-mkconfig -o /boot/grub/grub.cfg"
+alias upgrub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
 alias nmkinitcpio="sudo $EDITOR /etc/mkinitcpio.conf"
 alias nfstab="sudo $EDITOR /etc/fstab"
 alias nhosts="sudo $EDITOR /etc/hosts"
@@ -250,7 +250,7 @@ alias vpo='loginctl poweroff' # Potrzeba zainstalować i uruchomić usługę log
 # Rsync
 alias rs='rsync -ravz'
 alias rsd='rsync -ravz --delete'
-alias rswal='rsync -ravz --delete ~/Obrazy/Wallpaper/ ~/pCloudDrive/Obrazy/Wallpaper/'
+alias rswal='rsync -ravz --delete ~/Obrazy/Wallpaper/ ~/Cloud/PCloud/Obrazy/Wallpaper/'
 
 # SSH
 alias cpshh='scp -rv'
