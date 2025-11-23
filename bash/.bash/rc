@@ -8,7 +8,7 @@ source ~/.bash/envs
 source ~/.dotfiles/fish/.config/fish/alias.fish
 
 # Run fish
-# if [[ -t 1 ]]; then exec fish fi
+# if [[ -t 1 ]]; then exec fish; fi
 
 # Input
 [[ $- == *i* ]] && bind -f ~/.bash/inputrc
