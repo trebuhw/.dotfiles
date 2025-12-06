@@ -48,28 +48,28 @@ alias trm='trash-rm' #usówa pojedyńcze pliki z kosza
 alias mkdir='mkdir -vp'
 
 # zypper
-alias zyp='sudo zypper'
+alias z='sudo zypper'
 alias zup='sudo zypper refresh && sudo zypper update && sudo zypper dist-upgrade'
 alias zdup='sudo zypper refresh && sudo zypper dist-upgrade'
-alias zin='sudo zypper install --no-recommends'
-alias zrm='sudo zypper remove -u'
-alias zse='sudo zypper search'
-alias zsi='zypper search -i' # show installed Packages
-alias zre='sudo zypper repos'
-alias zrf='sudo zypper refresh'
-alias zdr='sudo zypper mr -d' #disablerepo, dr - Wyłączenie wybranego repozytorium podać nazwę
-alias zer='sudo zypper mr -e' #removerepo, er - Włączenie wybranego repozytorium podać nazwę
-alias zrr='sudo zypper rr' #removerepo, rr - Usuwanie wybranego repozytorium
-alias zcd='sudo zypper packages --unneeded' # Usówanie osieroconych pakietów
-alias zcl='sudo zypper clean --all' # Clean repo, key repo, cache
+alias i='sudo zypper install --no-recommends'
+alias r='sudo zypper remove -u'
+alias s='sudo zypper search'
+alias si='zypper search -i' # show installed Packages
+alias re='sudo zypper repos'
+alias rf='sudo zypper refresh'
+alias dr='sudo zypper mr -d' #disablerepo, dr - Wyłączenie wybranego repozytorium podać nazwę
+alias er='sudo zypper mr -e' #removerepo, er - Włączenie wybranego repozytorium podać nazwę
+alias rr='sudo zypper rr' #removerepo, rr - Usuwanie wybranego repozytorium
+alias ro='sudo zypper packages --unneeded' # Usówanie osieroconych pakietów
+alias rc='sudo zypper clean --all' # Clean repo, key repo, cache
 
 # Snapper
-alias ssl='sudo snapper list'
-alias ssd='sudo snapper -c root delete --sync ' # usówanie migawek podać numer np. 55 lub przedział np. 55-65
-alias ssc='sudo snapper create --desc ' # podać opis np. "231227 UPDATE OS QEMU "
-alias ssr='sudo snapper rollback' # Polecenie wydawane tylko w momencie kiedy system uruchomiony jest z migawki do przywrócenia
-alias ssba='sudo btrfs-assistant' # Graficzne narzedzie snappera
-alias ssg='sudo snapper-gui' # Graficzne narzędie snapper
+alias sl='sudo snapper list'
+alias sd='sudo snapper -c root delete --sync ' # usówanie migawek podać numer np. 55 lub przedział np. 55-65
+alias sc='sudo snapper create --desc ' # podać opis np. "231227 UPDATE OS QEMU "
+alias sr='sudo snapper rollback' # Polecenie wydawane tylko w momencie kiedy system uruchomiony jest z migawki do przywrócenia
+alias sa='sudo btrfs-assistant' # Graficzne narzedzie snappera
+alias sg='sudo snapper-gui' # Graficzne narzędie snapper
 
 ## Search
 alias find='find -name'
