@@ -33,7 +33,7 @@ alias vs4='amixer sset "Master" 40%' #ustawia volume na 40%
 alias bs3='brightnessctl set 30%' # ustawia brightness na 30%
 alias bi='brightnessctl i'
 alias am='alsamixer'
-alias sl='systemctl list-units'
+alias slu='systemctl list-units'
 
 #fix obvious typo's
 alias cd..='cd ..'
