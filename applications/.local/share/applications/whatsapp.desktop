@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Whatsapp
-Comment=Whatsapp
-Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://web.whatsapp.com" --name="whatsapp" --class="whatsapp"
-Terminal=false
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/whatsapp.png
-StartupNotify=true

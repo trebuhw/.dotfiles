@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=ChatGPT AI
-Comment=ChatGPT AI
-Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://chatgpt.com" --name="chatgpt" --class="chatgpt"
-Terminal=false
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/chatgpt.png
-StartupNotify=true
