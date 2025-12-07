@@ -48,20 +48,20 @@ alias trm='trash-rm' #usówa pojedyńcze pliki z kosza
 alias mkdir='mkdir -vp'
 
 # zypper
-alias z='sudo zypper'
-alias zup='sudo zypper refresh && sudo zypper update && sudo zypper dist-upgrade'
-alias zdup='sudo zypper refresh && sudo zypper dist-upgrade'
-alias i='sudo zypper install --no-recommends'
-alias r='sudo zypper remove -u'
-alias s='sudo zypper search'
-alias si='zypper search -i' # show installed Packages
-alias re='sudo zypper repos'
-alias rf='sudo zypper refresh'
-alias dr='sudo zypper mr -d' #disablerepo, dr - Wyłączenie wybranego repozytorium podać nazwę
-alias er='sudo zypper mr -e' #removerepo, er - Włączenie wybranego repozytorium podać nazwę
-alias rr='sudo zypper rr' #removerepo, rr - Usuwanie wybranego repozytorium
-alias ro='sudo zypper packages --unneeded' # Usówanie osieroconych pakietów
-alias rc='sudo zypper clean --all' # Clean repo, key repo, cache
+#alias z='sudo zypper'
+#alias zup='sudo zypper refresh && sudo zypper update && sudo zypper dist-upgrade'
+#alias zdup='sudo zypper refresh && sudo zypper dist-upgrade'
+#alias i='sudo zypper install --no-recommends'
+#alias r='sudo zypper remove -u'
+#alias s='sudo zypper search'
+#alias si='zypper search -i' # show installed Packages
+#alias re='sudo zypper repos'
+#alias rf='sudo zypper refresh'
+#alias dr='sudo zypper mr -d' #disablerepo, dr - Wyłączenie wybranego repozytorium podać nazwę
+#alias er='sudo zypper mr -e' #removerepo, er - Włączenie wybranego repozytorium podać nazwę
+#alias rr='sudo zypper rr' #removerepo, rr - Usuwanie wybranego repozytorium
+#alias ro='sudo zypper packages --unneeded' # Usówanie osieroconych pakietów
+#alias rc='sudo zypper clean --all' # Clean repo, key repo, cache
 
 # Snapper
 alias sl='sudo snapper list'
@@ -152,29 +152,38 @@ alias cl="clear"
 alias ag="bat ~/.config/fish/alias.fish | sort | grep"
 alias hg='history | grep '
 alias pogoda='curl wttr.in/Swidnica'
-alias paru='paru --bottomup'
-alias dup='yay -Syyu'
-alias up='sudo pacman -Syyu'
-alias spi='sudo pacman -S --needed'
-alias sps='pacman -Ss'
-alias pq='pacman -Q'
-alias pqe='pacman -Qe' # zainstalowane programy bez zależności i bibliotek
-alias pqi='pacman -Qei | grep' # zainstalowany program info
-alias pqa='pacman -Qem'
-alias pql='pacman -Sl | grep zainstalowano ' # wyswietla pakiety z info o repozytorium użyć ( | grep "nazwa repo") 
-alias spr='sudo pacman -Rns '
-alias spu='sudo pacman -Syyu'
-alias yup='yay -Syyu'
+
+# pacman
+alias u='sudo pacman -Syyu'
+alias i='sudo pacman -S --needed'
+alias s='pacman -Ss'
+alias qe='pacman -Qe' # zainstalowane programy bez zależności i bibliotek
+alias qi='pacman -Qei | grep' # zainstalowany program info
+alias qp='pacman -Qqet' # pacman - zainstalowane pakiety
+alias q='pacman -Q' # pacman - zainstalowane programy
+alias qa='pacman -Qem'
+alias ql='pacman -Sl | grep zainstalowano ' # wyswietla pakiety z info o repozytorium użyć ( | grep "nazwa repo") 
+alias r='sudo pacman -Rns '
+alias ro='pacman -Rsn $(pacman -Qdtq)' # usówanie osieroconych pakietów
+
+# yay
+alias ya='yay'
+alias ou='omarchy-update'
+alias yu='yay -Syyu'
 alias yf="yay -Slq | fzf --multi --preview 'yay -Sii {1}' --preview-window=down:50% | xargs -ro yay -S"
+
+# paru
+alias p='paru --bottomup'
 alias pf="paru -Slq | fzf --multi --preview 'yay -Sii {1}' --preview-window=down:50% | xargs -ro yay -S"
-alias pp='pacman -Qqet' # pacman - zainstalowane pakiety
-alias pq='pacman -Q' # pacman - zainstalowane programy
+
+# Omarchy
+alias ou='omarchy-update'
+
 alias oi="grep -i installed /var/log/pacman.log | bat"
 alias oiw="$HOME/.config/hypr/scripts/ostatnie-instalacje-wieksze.sh"
 alias oim="$HOME/.config/hypr/scripts/ostatnie-instalacje-mniejsze.sh"
 alias oip="$HOME/.config/hypr/scripts/ostatnie-instalacje-od-do.sh"
 alias oiz="$HOME/.config/hypr/scripts/ostatnie-instalacje-z-dnia.sh"
-alias uo='pacman -Rsn $(pacman -Qdtq)' # usówanie osieroconych pakietów
 alias power='powerprofilesctl' # Zarządzani power pc systemctl enable/start power-profiles-daemon.service
 alias rk='du -sh *'
 alias picker='hyprpicker -an'
