@@ -1,3 +1,6 @@
+# Dynamic theme colors
+config-file = ?"~/.config/omarchy/current/theme/ghostty.conf"
+
 # shell integration
 shell-integration = fish
 term = xterm-256color
@@ -7,8 +10,8 @@ font-family = JetBrainsMono Nerd Font
 font-size = 12
 
 # theme
-theme = Catppuccin Mocha
-shell-integration-features = no-cursor,sudo,no-title
+# theme = Catppuccin Mocha
+shell-integration-features = no-cursor,sudo,no-title,ssh-env
 
 # cursor
 cursor-style = bar
@@ -16,6 +19,7 @@ cursor-style-blink = true
 cursor-color = cdd6f4
 
 # appearance
+window-theme = ghostty
 # adjust-cell-height = 5%
 background-opacity = 0.90
 window-padding-balance = true
@@ -23,7 +27,7 @@ window-padding-balance = true
 window-decoration = none
 alpha-blending = native
 resize-overlay = never
-shell-integration-features = no-cursor,sudo,no-title
+gtk-toolbar-style = flat
 
 # mouse
 mouse-hide-while-typing = true
