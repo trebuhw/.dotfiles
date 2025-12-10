@@ -67,6 +67,7 @@
         "format-source": "| {volume}%",
         "format-source-muted": "MIC OFF",
         "on-click": "omarchy-launch-or-focus-tui wiremix",
+        "on-click-right":  "kitty --class=Wiremix -e wiremix",
         "on-click-middle": "pamixer -t",
         "on-scroll-down": "pamixer -ud 5 && pamixer --get-volume > /tmp/$HYPRLAND_INSTANCE_SIGNATURE.wob",
         "on-scroll-up": "pamixer -ui 5 && pamixer --get-volume > /tmp/$HYPRLAND_INSTANCE_SIGNATURE.wob"

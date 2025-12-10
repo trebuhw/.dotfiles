@@ -129,7 +129,7 @@ alias wg='xwininfo' # geometry winows
 alias bg='sxiv -t $HOME/Obrazy/Wallpaper/'
 alias sbg='cd $HOME/Obrazy/Wallpaper && sxiv'
 alias e="exit"
-alias pof="systemctl poweroff"
+alias po="systemctl poweroff"
 alias rb="systemctl reboot"
 alias rh="hyprctl dispatch exit"
 alias y='yazi'
@@ -165,19 +165,17 @@ alias qa='pacman -Qem'
 alias ql='pacman -Sl | grep zainstalowano ' # wyswietla pakiety z info o repozytorium użyć ( | grep "nazwa repo") 
 alias r='sudo pacman -Rns '
 alias ro='pacman -Rsn $(pacman -Qdtq)' # usówanie osieroconych pakietów
+alias clean='sudo pacman -Scc; yay -Scc; sudo pacman -Rns $(pacman -Qtdq);rm -rf ~/.cache/*; sudo journalctl --vacuum-time=2weeks; trash-empty; sudo trash-empty'
+alias refup='sudo reflector --latest 30 --protocol https --sort rate --number 10 --verbose --save /etc/pacman.d/mirrorlist'
 
 # yay
 alias ya='yay'
-alias ou='omarchy-update'
 alias yu='yay -Syyu'
 alias yf="yay -Slq | fzf --multi --preview 'yay -Sii {1}' --preview-window=down:50% | xargs -ro yay -S"
 
 # paru
 alias p='paru --bottomup'
 alias pf="paru -Slq | fzf --multi --preview 'yay -Sii {1}' --preview-window=down:50% | xargs -ro yay -S"
-
-# Omarchy
-alias ou='omarchy-update'
 
 alias oi="grep -i installed /var/log/pacman.log | bat"
 alias oiw="$HOME/.config/hypr/scripts/ostatnie-instalacje-wieksze.sh"
@@ -215,7 +213,7 @@ alias dot='cd ~/.dotfiles/ && la'
 alias hdo='cd ~/.hydedots/ && ls'
 alias con='cd ~/.config && ls'
 alias hyp='cd ~/.config/hypr/ && ls'
-alias fis='cd ~/.config/fish/ && ls'
+alias fis='cd ~/.dotfiles/fish/.config/fish/ && ls'
 alias dwm='cd ~/.config/suckless/dwm/ && ls'
 alias suc='cd ~/.config/suckless/ && ls'
 alias dbg='cd ~/.config/dwm/bg/ && ls'
@@ -281,5 +279,3 @@ alias nn='~/.local/share/bin/fzf-nn.sh'
 
 # omarchy
 alias ou='omarchy-update'
-alias clean='sudo pacman -Scc; yay -Scc; sudo pacman -Rns $(pacman -Qtdq);rm -rf ~/.cache/*; sudo journalctl --vacuum-time=2weeks; trash-empty; sudo trash-empty'
-alias refup='sudo reflector --latest 30 --protocol https --sort rate --number 10 --verbose --save /etc/pacman.d/mirrorlist'
