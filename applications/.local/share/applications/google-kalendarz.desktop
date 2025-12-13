@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=google-kalendarz
-Comment=google-kalendarz
-Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://calendar.google.com/calendar/u/0/r/month" --name="google-kalendarz" --class="google-kalendarz"
+Name=Kalendarz
+Comment=Kalendarz
+Exec=omarchy-launch-webapp "https://calendar.google.com/calendar/u/0/r/month"
 Terminal=false
 Type=Application
 Icon=/home/hubert/.local/share/applications/icons/google-calendar.png
