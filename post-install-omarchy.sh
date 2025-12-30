@@ -170,8 +170,8 @@ EOF
 ###  POWER / SERVICES (LAPTOP)
 ### =========================
 # msg "Configuring power management (TLP)"
-# sudo systemctl stop power-profiles-daemon.service 2>/dev/null || true
-# sudo systemctl disable power-profiles-daemon.service 2>/dev/null || true
+sudo systemctl stop power-profiles-daemon.service 2>/dev/null || true
+sudo systemctl disable power-profiles-daemon.service 2>/dev/null || true
 # enable_service_if_needed tlp.service
 
 ### =========================
