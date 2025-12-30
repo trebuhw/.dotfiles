@@ -75,7 +75,6 @@ STOW_PKGS=(
   bat
   bin
   chromium
-  etc
   fish
   ghostty
   hypr
