@@ -95,7 +95,7 @@ CONFIG_BACKUPS=(
   "$HOME/.local/share/omarchy/themes/catppuccin/backgrounds"
   "$HOME/.config/bat"
   "$HOME/.config/bin"
-  "$HOME/.config/chromium"
+  "$HOME/.config/chromium-flags.conf"
   "$HOME/.config/etc"
   "$HOME/.config/fish"
   "$HOME/.config/ghostty"
