@@ -166,12 +166,27 @@ FONT=lat2-Terminus16
 EOF
 
 ### =========================
-###  POWER / SERVICES (LAPTOP)
+###  POWER / SERVICES (TLP)
 ### =========================
-# msg "Configuring power management (TLP)"
+msg "Configuring power management (TLP)"
+
+# Backup istniejącego tlp.conf jeśli istnieje
+if [[ -f /etc/tlp.conf ]]; then
+    msg "Backing up existing /etc/tlp.conf to /etc/tlp.conf.bak"
+    sudo mv /etc/tlp.conf /etc/tlp.conf.bak
+fi
+
+# Skopiuj własny plik tlp.conf
+if [[ -f "$HOME/.dotfiles/etc/.config/tlp.conf" ]]; then
+    msg "Copying custom tlp.conf from dotfiles"
+    sudo cp "$HOME/.dotfiles/etc/.config/tlp.conf" /etc/tlp.conf
+fi
+
+# Włącz i uruchom usługę TLP
 sudo systemctl stop power-profiles-daemon.service 2>/dev/null || true
 sudo systemctl disable power-profiles-daemon.service 2>/dev/null || true
-# enable_service_if_needed tlp.service
+# sudo systemctl enable tlp.service --now
+# sudo systemctl start tlp.service
 
 ### =========================
 ###  REMOVE UNWANTED SOFTWARE
