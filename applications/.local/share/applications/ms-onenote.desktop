@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=ms-onenote
+Comment=ms-onenote
+Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://onedrive.live.com/edit.aspx?resid=F5436F54E0F0EC8!6312&migratedtospo=true&wd=target%28Szybkie%20notatki.one%7C622ede9d-84e3-4847-8a70-7ef668523fc4%2FNotatki%7Cb574080d-33ba-4c85-ad92-75af478adc64%2F%29&wdorigin=NavigationUrl" --name="ms-onenote" --class="ms-onenote"
+Terminal=false
+Type=Application
+Icon=/home/hubert/.local/share/applications/icons/ms-onenote.png
+StartupNotify=true

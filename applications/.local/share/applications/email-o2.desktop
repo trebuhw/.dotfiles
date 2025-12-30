@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=email-o2
+Comment=email-o2
+Exec=omarchy-launch-webapp https://poczta.o2.pl/w/mails?folder=classic.main
+Terminal=false
+Type=Application
+Icon=/home/hubert/.local/share/applications/icons/email-o2.png
+StartupNotify=true

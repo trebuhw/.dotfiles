@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Notes
+Comment=Notes
+Exec=/home/hubert/.local/share/bin/fzf-nn.sh
+Terminal=true
+Type=Application
+Icon=/home/hubert/.local/share/applications/icons/notes.png
+StartupNotify=true

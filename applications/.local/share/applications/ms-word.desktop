@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=ms-word
+Comment=ms-word
+Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://word.cloud.microsoft/?wdOrigin=OFFICECOM-WEB.APPBAR%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.SHELL.SIGNIN" --name="ms-word" --class="ms-word"
+Terminal=false
+Type=Application
+Icon=/home/hubert/.local/share/applications/icons/ms-word.png
+StartupNotify=true

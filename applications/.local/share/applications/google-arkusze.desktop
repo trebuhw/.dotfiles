@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=google-arkusze
+Comment=google-arkusze
+Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://docs.google.com/spreadsheets/d/1Rl73ORXLl3RnPMiSE5bEZ6-oMS2jrdi6GKPrdaDmGuo/edit?gid=0#gid=0" --name="googe-arkusze" --class="googe-arkusze"
+Terminal=false
+Type=Application
+Icon=/home/hubert/.local/share/applications/icons/google-sheets.png
+StartupNotify=true

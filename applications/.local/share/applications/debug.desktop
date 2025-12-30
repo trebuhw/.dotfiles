@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Debug Complete
+Exec=/bin/bash -c "exec > /tmp/rofi_debug.log 2>&1; echo 'USER:'; id; echo 'PWD:'; pwd; echo 'ENV:'; env | grep -E '(DISPLAY|WAYLAND|XDG|GL|EGL|MESA|NVIDIA|DRI|WLR)' | sort; echo 'DEVICES:'; ls -la /dev/dri/; echo 'GLXINFO:'; timeout 5s glxinfo -B; echo 'KITTY:'; timeout 5s kitty --version; echo 'DONE'; notify-send 'Debug complete'"
+Terminal=false
+Type=Application
+Categories=Development;
