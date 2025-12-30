@@ -243,7 +243,7 @@ sudo virsh net-start default || true
 ###  USER DIRS
 ### =========================
 msg "Updating XDG user directories"
-xdg-user-dirs-update --force
+LANG=pl_PL.UTF-8 xdg-user-dirs-update --force
 
 ### =========================
 ###  FINISH
