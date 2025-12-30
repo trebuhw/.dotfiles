@@ -245,6 +245,18 @@ msg "Updating XDG user directories"
 LANG=pl_PL.UTF-8 xdg-user-dirs-update --force
 
 ### =========================
+###  BOOTLOADER (LIMINE)
+### =========================
+# aby dodać na raz kilka bootloaderów wybierz numery 1 2 3 tylko spacja między numerami
+
+if command -v limine-scan &>/dev/null; then
+  msg "Scanning bootloaders (Limine)"
+  sudo limine-scan
+else
+  msg "limine-scan not found – skipping"
+fi
+
+### =========================
 ###  FINISH
 ### =========================
 msg "POST-INSTALL FINISHED ✔"
