@@ -7,7 +7,7 @@ term = xterm-256color
 
 # fonts
 font-family = JetBrainsMono Nerd Font
-font-size = 13
+font-size = 12
 
 # theme
 # theme = Catppuccin Mocha

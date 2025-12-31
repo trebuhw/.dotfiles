@@ -166,29 +166,6 @@ FONT=lat2-Terminus16
 EOF
 
 ### =========================
-###  POWER / SERVICES (TLP)
-### =========================
-msg "Configuring power management (TLP)"
-
-# Backup istniejącego tlp.conf jeśli istnieje
-if [[ -f /etc/tlp.conf ]]; then
-    msg "Backing up existing /etc/tlp.conf to /etc/tlp.conf.bak"
-    sudo mv /etc/tlp.conf /etc/tlp.conf.bak
-fi
-
-# Skopiuj własny plik tlp.conf
-if [[ -f "$HOME/.dotfiles/etc/.config/tlp.conf" ]]; then
-    msg "Copying custom tlp.conf from dotfiles"
-    sudo cp "$HOME/.dotfiles/etc/.config/tlp.conf" /etc/tlp.conf
-fi
-
-# Włącz i uruchom usługę TLP
-sudo systemctl stop power-profiles-daemon.service 2>/dev/null || true
-sudo systemctl disable power-profiles-daemon.service 2>/dev/null || true
-# sudo systemctl enable tlp.service --now
-# sudo systemctl start tlp.service
-
-### =========================
 ###  REMOVE UNWANTED SOFTWARE
 ### =========================
 msg "Removing docker stack and unused applications"
@@ -260,16 +237,39 @@ msg "Updating XDG user directories"
 LANG=pl_PL.UTF-8 xdg-user-dirs-update --force
 
 ### =========================
+###  POWER / SERVICES (TLP)
+### =========================
+msg "Configuring power management (TLP)"
+
+# Backup istniejącego tlp.conf jeśli istnieje
+if [[ -f /etc/tlp.conf ]]; then
+    msg "Backing up existing /etc/tlp.conf to /etc/tlp.conf.bak"
+    sudo mv /etc/tlp.conf /etc/tlp.conf.bak
+fi
+
+# Skopiuj własny plik tlp.conf
+if [[ -f "$HOME/.dotfiles/etc/.config/tlp.conf" ]]; then
+    msg "Copying custom tlp.conf from dotfiles"
+    sudo cp "$HOME/.dotfiles/etc/.config/tlp.conf" /etc/tlp.conf
+fi
+
+# Włącz i uruchom usługę TLP
+sudo systemctl stop power-profiles-daemon.service 2>/dev/null || true
+sudo systemctl disable power-profiles-daemon.service 2>/dev/null || true
+# sudo systemctl enable tlp.service --now
+# sudo systemctl start tlp.service
+
+### =========================
 ###  BOOTLOADER (LIMINE)
 ### =========================
 # aby dodać na raz kilka bootloaderów wybierz numery 1 2 3 tylko spacja między numerami
 
-if command -v limine-scan &>/dev/null; then
-  msg "Scanning bootloaders (Limine)"
-  sudo limine-scan
-else
-  msg "limine-scan not found – skipping"
-fi
+#if command -v limine-scan &>/dev/null; then
+#  msg "Scanning bootloaders (Limine)"
+#  sudo limine-scan
+#else
+#  msg "limine-scan not found – skipping"
+#fi
 
 ### =========================
 ###  FINISH
