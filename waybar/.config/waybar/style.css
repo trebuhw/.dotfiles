@@ -89,10 +89,7 @@ window#waybar {
 #bluetooth,
 #custom-temperature,
 #custom-expand-icon,
-#custom-update {
-  min-width: 12px;
-  margin: 0 7.5px;
-}
+#custom-update,
 #tray {
     background-color: transparent;
     color: @text;
@@ -162,7 +159,7 @@ window#waybar {
 }
 
 /* Temperatura */
-#temperature {
+#custom-temperature {
     color: @text;
 }
 
