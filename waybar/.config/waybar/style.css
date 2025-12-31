@@ -72,9 +72,7 @@ window#waybar {
 }
 
 #workspaces button.visible {
-    /*background-color: @surface1;*/
     color: @text;
-    /*border-color: @surface2;*/
 }
 
 /* Moduły - tylko tekst bez tła */
@@ -106,13 +104,11 @@ window#waybar {
 /* Tytuł okna */
 #window {
     color: @text;
-    font-weight: normal;
 }
 
 /* Zegar */
 #clock {
     color: @text;
-    padding: 0 5px;
 }
 
 /* Bateria */
