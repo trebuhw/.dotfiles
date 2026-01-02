@@ -222,15 +222,15 @@ done
 ### =========================
 ###  VIRTUALIZATION (LIBVIRT)
 ### =========================
-msg "Configuring libvirt / QEMU"
-sudo pacman -S --needed --noconfirm \
-  qemu-full qemu-img libvirt virt-install virt-manager virt-viewer \
-  edk2-ovmf swtpm guestfs-tools libosinfo dnsmasq iptables dmidecode
+#msg "Configuring libvirt / QEMU"
+#sudo pacman -S --needed --noconfirm \
+#  qemu-full qemu-img libvirt virt-install virt-manager virt-viewer \
+#  edk2-ovmf swtpm guestfs-tools libosinfo dnsmasq iptables dmidecode
 
-enable_service_if_needed libvirtd.service
-sudo usermod -aG libvirt "$USER_NAME"
-sudo virsh net-autostart default || true
-sudo virsh net-start default || true
+#enable_service_if_needed libvirtd.service
+#sudo usermod -aG libvirt "$USER_NAME"
+#sudo virsh net-autostart default || true
+#sudo virsh net-start default || true
 
 ### =========================
 ###  USER DIRS
