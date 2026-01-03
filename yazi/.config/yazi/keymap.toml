@@ -129,18 +129,17 @@ keymap = [
   # Goto
 	{ on = [ "g", "h" ],       run = "cd ~",             												desc = "Go to the Home directory" },
 	{ on = [ "g", "c" ],       run = "cd ~/.config",														desc = "Go to the .config directory" },
-	{ on = [ "g", "a" ],       run = "cd ~/Archiwum",											  	  desc = "Go to the Archiwum directory" },
 	{ on = [ "g", "d" ],       run = "cd ~/Dokumenty",												  desc = "Go to the Dokumenty directory" },
-	{ on = [ "g", "P" ],       run = "cd ~/pCloudDrive", 											  desc = "Go to the pCloud directory" },
-	{ on = [ "g", "n" ],       run = "cd ~/Dokumenty/Hubert/Notes/",                 desc = "Go to the Notes directory" },
+	{ on = [ "g", "n" ],       run = "cd ~/Dokumenty/Hubert/Notes",             desc = "Go to the Notes directory" },
 	{ on = [ "g", "D" ],       run = "cd ~/.dotfiles",             							desc = "Go to the My .dotfiles directory" },
-	{ on = [ "g", "O" ],       run = "cd ~/.local/share/omarchy",             							desc = "Go to the HyDE .hydedots directory" },
+	{ on = [ "g", "O" ],       run = "cd ~/.local/share/omarchy",             	desc = "Go to the Omarchy directory" },
 	{ on = [ "g", "m" ],       run = "cd ~/Muzyka",   													desc = "Go to the Muzyka directory" },
 	{ on = [ "g", "o" ],       run = "cd ~/Obrazy",   													desc = "Go to the Obrazy directory" },
-	{ on = [ "g", "w" ],       run = "cd ~/.config/omarchy/themes/catppuccin/backgrounds",  	                desc = "Go to the Wallpaper directory" },
+	{ on = [ "g", "w" ],       run = "cd ~/.config/omarchy/themes/catppuccin/backgrounds",  desc = "Go to the Wallpaper directory" },
 	{ on = [ "g", "p" ],       run = "cd ~/Pobrane",   													desc = "Go to the Pobrane directory" },
 	{ on = [ "g", "y" ],       run = "cd ~/Muzyka/yt-dlp",   									  desc = "Go to the yt-dlp directory" },
 	{ on = [ "g", "G" ],       run = "cd ~/Dokumenty/GitHub",     							desc = "Go to the GitHub directory" },
+	{ on = [ "g", "v" ],       run = "cd /run/media/hubert/Ventoy",							desc = "Go to the Ventoy directory" },
 	{ on = [ "g", "<Space>" ], run = "cd --interactive", 												desc = "Go to a directory interactively" },
 
 	# Tabs
