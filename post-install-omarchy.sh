@@ -75,6 +75,7 @@ STOW_PKGS=(
   bat
   bin
   chromium
+  fastfetch
   fcitx5
   fish
   ghostty
@@ -97,6 +98,7 @@ CONFIG_BACKUPS=(
   "$HOME/.config/bin"
   "$HOME/.config/chromium-flags.conf"
   "$HOME/.config/etc"
+  "$HOME/.config/fastfetch"
   "$HOME/.config/fcitx5"
   "$HOME/.config/fish"
   "$HOME/.config/ghostty"

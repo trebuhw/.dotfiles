@@ -19,6 +19,7 @@ alias lta='eza --tree -a --sort name --icons=auto' # drzewo z ukrytymi
 alias zl='zi; l' # przejdź przez zoxide i pokaż katalog
 alias ze='zi; fe' # zoxide + edycja pliku
 alias cd..='cd ..' # literówka
+alias e='exit'
 
 # -------------------------
 # Tree / system
@@ -26,10 +27,21 @@ alias cd..='cd ..' # literówka
 alias t='tree --sort name'
 alias ta='tree -aCsh --du --sort name'
 alias df='df -h'
+alias rk='du -sh *'
 alias free='free -mt'
 alias hw='hwinfo --short'
 alias ws='watch sensors'
 alias userlist='cut -d: -f1 /etc/passwd | sort'
+
+alias ns="nvidia-smi"
+alias pcinfo="inxi -Fxz"
+alias hw="hwinfo --short"
+
+alias power='powerprofilesctl' # Zarządzani power pc systemctl enable/start power-profiles-daemon.service
+alias slu='systemctl list-units'
+alias sysfailed='systemctl list-units --failed'
+alias probe='sudo -E hw-probe -all -upload'
+alias td='sudo hdparm -t' # test prędkości dysku użycie sudo hdparm -t /dev/sda
 
 # -------------------------
 # Audio / jasność
@@ -63,6 +75,8 @@ alias grep='grep --color=auto'
 alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
 alias rg='rg --sort path' # ripgrep
+alias rip="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -200 | nl"
+alias riplong="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -3000 | nl"
 alias find='find -name'
 alias locate='locate -b'
 alias jctl='journalctl -p 3 -xb' # błędy systemu
@@ -89,6 +103,19 @@ alias ro='sudo pacman -Rsn (pacman -Qdtq)'
 alias clean='~/.local/share/bin/clean.sh'
 
 # -------------------------
+# Yay / AUR (Arch)
+# -------------------------
+alias y='yay'
+alias yu='yay -Syyu'
+alias yf="yay -Slq | fzf --multi --preview 'yay -Sii {1}' --preview-window=down:50% | xargs -ro yay -S"
+
+# -------------------------
+# Paru / AUR (Arch)
+# -------------------------
+alias p='paru --bottomup'
+alias pf="paru -Slq | fzf --multi --preview 'yay -Sii {1}' --preview-window=down:50% | xargs -ro yay -S"
+
+# -------------------------
 # Snapper
 # -------------------------
 alias sl='sudo snapper list'
@@ -99,23 +126,29 @@ alias sa='sudo btrfs-assistant'
 alias sg='sudo snapper-gui'
 
 # -------------------------
-# System / power / info
+# Shell / System / power / info
 # -------------------------
-alias e='exit'
+alias tobash="sudo chsh $USER -s /bin/bash && echo 'Now log out.'"
+alias tofish="sudo chsh $USER -s /usr/bin/fish && echo 'Now log out.'"
+
 alias ff='fastfetch'
-alias ffm='fastfetch -c ~/.dotfiles/fastfetch/.config/fastfetch/hw-config.jsonc'
-alias ffn='fastfetch -l none -c ~/.dotfiles/fastfetch/.config/fastfetch/org-config.jsonc'
-alias ffo='fastfetch -l small -c ~/.dotfiles/fastfetch/.config/fastfetch/omarchy-config.jsonc'
+alias ffm='fastfetch -c ~/.config/fastfetch/hw-config.jsonc'
+alias ffn='fastfetch -l none -c ~/.config/fastfetch/org-config.jsonc'
+alias ffo='fastfetch -c ~/.config/fastfetch/omarchy-config.jsonc'
+alias ffs='fastfetch -l small -c ~/.config/fastfetch/omarchy-small-config.jsonc'
 
 alias po='systemctl poweroff'
 alias rb='systemctl reboot'
 alias rh='hyprctl dispatch exit'
 alias logout='pkill -KILL -u hubert'
-alias power='powerprofilesctl'
 
-alias probe='sudo -E hw-probe -all -upload'
-alias sysfailed='systemctl list-units --failed'
-alias pcinfo="inxi -Fxz"
+alias oi="grep -i installed /var/log/pacman.log | sort "
+alias oiw="$HOME/.local/share/bin/ostatnie-instalacje-wieksze.sh"
+alias oim="$HOME/.local/share/bin/ostatnie-instalacje-mniejsze.sh"
+alias oip="$HOME/.local/share/bin/ostatnie-instalacje-od-do.sh"
+alias oiz="$HOME/.local/share/bin/ostatnie-instalacje-z-dnia.sh"
+
+alias wget="wget -c"
 
 # -------------------------
 # Bluetooth
@@ -143,12 +176,12 @@ alias nv='nvim'
 alias f='yazi'
 alias ag="bat ~/.config/fish/alias.fish | sort | grep"
 alias hg='history | grep '
-
-alias hwi='hyprprop'
+alias wget="wget -c"
 alias app='hyprctl clients'
 alias picker='hyprpicker -an'
 alias bg='nsxiv -t /home/hubert/.dotfiles/backgrounds/.local/share/omarchy/themes/catppuccin/backgrounds/'
 alias fzf='fzf --preview "bat --color=always {}"'
+alias nn='~/.local/share/bin/fzf-nn.sh'
 alias fe='~/.local/share/bin/fzf-nvim.sh'
 alias fel='~/.local/share/bin/fzf-nvim.sh $(pwd)/'
 alias ffcp='cliphist list | fzf | cliphist decode | wl-copy'
@@ -204,7 +237,6 @@ alias mgpush='~/Dokumenty/Git/my-git-push.sh'
 alias mgpull='~/Dokumenty/Git/my-git-pull.sh'
 alias mgacp='~/Dokumenty/Git/my-git-acp.sh'
 alias gbf='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME fetch origin'
-alias nn='~/.local/share/bin/fzf-nn.sh'
 
 # -------------------------
 # Omarchy
