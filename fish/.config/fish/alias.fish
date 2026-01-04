@@ -132,10 +132,10 @@ alias tobash="sudo chsh $USER -s /bin/bash && echo 'Now log out.'"
 alias tofish="sudo chsh $USER -s /usr/bin/fish && echo 'Now log out.'"
 
 alias ff='fastfetch'
-alias ffm='fastfetch -c ~/.config/fastfetch/hw-config.jsonc'
-alias ffn='fastfetch -l none -c ~/.config/fastfetch/org-config.jsonc'
-alias ffo='fastfetch -c ~/.config/fastfetch/omarchy-config.jsonc'
-alias ffs='fastfetch -l small -c ~/.config/fastfetch/omarchy-small-config.jsonc'
+alias ffm='fastfetch -c ~/.dotfiles/fastfetch/.config/fastfetch/hw-config.jsonc'
+alias ffn='fastfetch -l none -c ~/.dotfiles/fastfetch/.config/fastfetch/no-logo-config.jsonc'
+alias ffo='fastfetch -c ~/.dotfiles/fastfetch/.config/fastfetch/omarchy-config.jsonc'
+alias ffs='fastfetch -l small -c ~/.dotfiles/fastfetch/.config/fastfetch/omarchy-small-config.jsonc'
 
 alias po='systemctl poweroff'
 alias rb='systemctl reboot'
