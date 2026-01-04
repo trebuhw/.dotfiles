@@ -115,6 +115,7 @@ alias power='powerprofilesctl'
 
 alias probe='sudo -E hw-probe -all -upload'
 alias sysfailed='systemctl list-units --failed'
+alias pcinfo="inxi -Fxz"
 
 # -------------------------
 # Bluetooth
@@ -140,19 +141,20 @@ alias dns='systemd-resolve --status' # status DNS
 # -------------------------
 alias nv='nvim'
 alias f='yazi'
+alias ag="bat ~/.config/fish/alias.fish | sort | grep"
+alias hg='history | grep '
+
 alias hwi='hyprprop'
 alias app='hyprctl clients'
 alias picker='hyprpicker -an'
-
 alias bg='nsxiv -t /home/hubert/.dotfiles/backgrounds/.local/share/omarchy/themes/catppuccin/backgrounds/'
-
 alias fzf='fzf --preview "bat --color=always {}"'
 alias fe='~/.local/share/bin/fzf-nvim.sh'
 alias fel='~/.local/share/bin/fzf-nvim.sh $(pwd)/'
 alias ffcp='cliphist list | fzf | cliphist decode | wl-copy'
 alias mocp='mocp -C $HOME/.moc/config'
 alias ytd='yt-dlp --extract-audio --audio-format mp3 --audio-quality 0'
-
+alias pogoda='curl wttr.in/Swidnica'
 alias c='cal -y'
 alias mpdf='gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile='
 alias ptt='pdftotext -layout'
