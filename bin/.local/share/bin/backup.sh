@@ -130,3 +130,5 @@ fi
 echo ">>> Backup zakończony"
 echo ">>> Szczegóły błędów (jeśli wystąpiły) w $LOG_FILE"
 
+bat $LOG_FILE
+

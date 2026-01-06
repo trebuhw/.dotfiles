@@ -117,8 +117,8 @@
     "clock": {
         "timezone": "Europe/Warsaw",
         "tooltip-format": "<big>{:L%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-        "format": "[ {:L%a %d %b ] [ %H:%M} ]",
-        "format-alt": "[ {:L%Y-%m-%d %H:%M:%S} ]",
+        "format": "[ {:L%a %d %b ] [ %H:%M} ] ",
+        "format-alt": "[ {:L%Y-%m-%d %H:%M:%S} ] ",
         "interval": 1,
         "on-click-right": "omarchy-launch-floating-terminal-with-presentation omarchy-tz-select"
     },
