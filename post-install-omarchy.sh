@@ -27,6 +27,7 @@ PACMAN_PKGS=(
   fish
   gnome-boxes
   htop
+  neovim
   nsxiv
   nwg-look
   qt5ct
