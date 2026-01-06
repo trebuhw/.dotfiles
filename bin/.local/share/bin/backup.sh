@@ -34,6 +34,8 @@ SOURCES=(
   "$HOME/.git-credentials $LOCAL_BACKUP/.git-credentials"
   "$HOME/.gitconfig $LOCAL_BACKUP/.gitconfig"
   "$HOME/.ssh $LOCAL_BACKUP/.ssh"
+  "$HOME/.local/share/bin/backup-restore.sh $LOCAL_BACKUP/"
+
 )
 
 # Wykluczenia dla każdego źródła (w tej samej kolejności co SOURCES)
@@ -130,5 +132,5 @@ fi
 echo ">>> Backup zakończony"
 echo ">>> Szczegóły błędów (jeśli wystąpiły) w $LOG_FILE"
 
-bat $LOG_FILE
+bat "$LOG_FILE" 2>/dev/null || cat "$LOG_FILE"
 
