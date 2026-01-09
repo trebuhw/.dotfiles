@@ -46,7 +46,6 @@
   opacity: 1;
 }
 
-#cpu,
 #battery,
 #pulseaudio,
 #custom-omarchy,
@@ -73,6 +72,12 @@
   margin-right: 5px;
   margin-left: 8px;
 }
+
+#cpu {
+  margin-right: 8px;
+  margin-left: 8px;
+}
+
 
 #custom-temperature {
   margin-right: 8px;

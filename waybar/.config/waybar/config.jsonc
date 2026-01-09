@@ -54,7 +54,8 @@
 
   "cpu": {
     "interval": 5,
-    "format": "󰍛 {usage:>2}%",
+    /*"format": "󰍛 {usage:>3}%",*/
+    "format": "󰍛  {usage}%",
     "on-click": "omarchy-launch-or-focus-tui btop"
   },
   
