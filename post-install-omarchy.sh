@@ -30,6 +30,8 @@ PACMAN_PKGS=(
   neovim
   nsxiv
   nwg-look
+  nvidia-580xx-dkms
+  nvidia-580xx-utils
   qt5ct
   qt6ct
   rsync
@@ -61,6 +63,7 @@ REMOVE_PKGS=(
   github-cli
   kdenlive
   lazydocker
+  #nvidia-open-dkms
   obs-studio
   power-profiles-daemon
   runc
