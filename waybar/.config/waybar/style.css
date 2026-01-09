@@ -3,7 +3,6 @@
 * {
   background-color: @background;
   color: @foreground;
-
   border: none;
   border-radius: 0;
   min-height: 0;
@@ -21,28 +20,30 @@
 
 #workspaces button {
   all: initial;
-  padding: 0 5px;
+  padding: 3px 5px;
   margin: 3px 2.5px;
   min-width: 9px;
+  font-weight: normal;
+  color: @foreground;
+  background-color: @background;
 }
 
 #workspaces button.empty {
-opacity: 0.25;
+  opacity: 0.25;
 }
 
-#workspaces button.active.hosting-monitor, #workspaces button.active.hosting-monitor label {
-  color: @background;
-  background-color: @foreground;
+#workspaces button.hosting-monitor:not(.active):not(.empty) {
+  color: @foreground;
+  background-color: @background;
+  font-weight: normal;
+  opacity: 0.8;
+}
+
+#workspaces button.active.hosting-monitor {
+  color: @foreground;
+  background-color: @background;
   font-weight: 900;
-  min-width: 9px;
-}
-
-#workspaces button.hosting-monitor:not(.empty) {
-  border: 1px solid #666;
-}
-#workspaces button.hosting-monitor.active {
-  background-color: @foreground;
-  border: none;
+  opacity: 1;
 }
 
 #cpu,
