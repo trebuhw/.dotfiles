@@ -8,8 +8,8 @@
   "modules-center": ["clock", "custom/update", "custom/screenrecording-indicator"],
   "modules-right": [
     "group/tray-expander",
-    "custom/temperature",
     "cpu",
+    "custom/temperature",
     "memory"
   ],
   "hyprland/workspaces": {
@@ -54,13 +54,13 @@
 
   "cpu": {
     "interval": 5,
-    "format": "{usage}%",
+    "format": "󰍛 {usage:>2}%",
     "on-click": "omarchy-launch-or-focus-tui btop"
   },
   
   "custom/temperature": {
     "exec": "sensors coretemp-isa-0000 | grep 'Package id 0:' | awk '{print $4}' | sed 's/+//; s/\\.[0-9]*°C/°C/'",
-    "format": "󰍛  {}",
+    "format": "{}",
     "tooltip-format": "{}",
     "interval": 5,
     "on-click": "~/.local/share/bin/sensors_monitor_ws.sh n"
@@ -74,7 +74,7 @@
     },
 
   "clock": {
-    "format": "{:L%A %H:%M}",
+    "format": "{:L%a %d %b %H:%M}",
     "format-alt": "{:L%d %B W%V %Y}",
     "tooltip-format": "{:L%d %B %Y}",
     "on-click-right": "omarchy-launch-floating-terminal-with-presentation omarchy-tz-select"
