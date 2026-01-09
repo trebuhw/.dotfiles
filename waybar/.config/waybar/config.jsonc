@@ -68,8 +68,8 @@
 
   "memory": {
     /*"format": "MEM {percentage}%",*/
-    "format": " {used:0.1f}GB ",
-    "tooltip-format": "   {used:0.1f}G/{total:0.1f}G ({percentage}%)\nSwap: {swapUsed:0.1f}G/{swapTotal:0.1f}G ({swapPercentage}%)",
+    "format": "{used:0.1f}GB",
+    "tooltip-format": "{used:0.1f}G/{total:0.1f}G ({percentage}%)\nSwap: {swapUsed:0.1f}G/{swapTotal:0.1f}G ({swapPercentage}%)",
     "on-click": "omarchy-launch-or-focus-tui btop"
     },
 
