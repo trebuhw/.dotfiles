@@ -32,6 +32,7 @@ alias free='free -mt'
 alias hw='hwinfo --short'
 alias ws='watch sensors'
 alias userlist='cut -d: -f1 /etc/passwd | sort'
+alias update-fc='sudo fc-cache -fv'
 
 alias ns="nvidia-smi"
 alias pcinfo="inxi -Fxz"
