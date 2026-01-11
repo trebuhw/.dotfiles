@@ -120,7 +120,7 @@
     "format-disabled": "󰂲",
     "format-connected": "󰂱 {num_connections}",
     "format-no-controller": "",
-    "tooltip-format": "Bluetoth: \nPołączono:  {num_connections}",
+    "tooltip-format": "Bluetoth: \nPołączono:  {num_connections} {device_alias}",
     "on-click": "omarchy-launch-bluetooth"
   },
   
