@@ -62,7 +62,7 @@
   "custom/temperature": {
     "exec": "sensors coretemp-isa-0000 | grep 'Package id 0:' | awk '{print $4}' | sed 's/+//; s/\\.[0-9]*°C/°C/'",
     "format": "{}",
-    "tooltip-format": "{}",
+    "tooltip-format": "Temperatura:\nCPU:  {}",
     "interval": 5,
     "on-click": "~/.local/share/bin/sensors_monitor_ws.sh n"
     },
@@ -70,7 +70,7 @@
   "memory": {
     /*"format": "MEM {percentage}%",*/
     "format": "{used:0.1f}GB",
-    "tooltip-format": "{used:0.1f}G/{total:0.1f}G ({percentage}%)\nSwap: {swapUsed:0.1f}G/{swapTotal:0.1f}G ({swapPercentage}%)",
+    "tooltip-format": "Pamięć: \nRam: {used:0.1f}G/{total:0.1f}G ({percentage}%)\nSwap: {swapUsed:0.1f}G/{swapTotal:0.1f}G ({swapPercentage}%)",
     "on-click": "omarchy-launch-or-focus-tui btop"
     },
 
@@ -80,19 +80,21 @@
     "tooltip-format": "{:L%d %B %Y}",
     "on-click-right": "omarchy-launch-floating-terminal-with-presentation omarchy-tz-select"
   },
+  
   "network": {
     "format-icons": ["󰤯", "󰤟", "󰤢", "󰤥", "󰤨"],
     "format": "{icon} {signalStrength}%",
     "format-wifi": "{icon} {signalStrength}%",
     "format-ethernet": "󰀂 {signalStrength}%",
     "format-disconnected": "󰤮",
-    "tooltip-format-wifi": "{essid} ({frequency} GHz)\n⇣{bandwidthDownBytes}  ⇡{bandwidthUpBytes}",
-    "tooltip-format-ethernet": "⇣{bandwidthDownBytes}  ⇡{bandwidthUpBytes}",
+    "tooltip-format-wifi": "Wifi: {icon} {essid} ({frequency} GHz)\nDane:  ⇣{bandwidthDownBytes}  ⇡{bandwidthUpBytes}",
+    "tooltip-format-ethernet": "Eth: 󰀂  ⇣{bandwidthDownBytes}  ⇡{bandwidthUpBytes}",
     "tooltip-format-disconnected": "Disconnected",
     "interval": 3,
     "spacing": 1,
     "on-click": "omarchy-launch-wifi"
   },
+  
   "battery": {
     "format": "{capacity}% {icon}",
     "format-discharging": "{icon}",
@@ -103,8 +105,8 @@
       "default": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"]
     },
     "format-full": "󰂅 {capacity}%",
-    "tooltip-format-discharging": "{power:>1.0f}W↓ {capacity}%",
-    "tooltip-format-charging": "{power:>1.0f}W↑ {capacity}%",
+    "tooltip-format-discharging": "Bateria: {power:>1.0f}W↓ {capacity}%",
+    "tooltip-format-charging": "Bateria: {power:>1.0f}W↑ {capacity}%",
     "interval": 5,
     "on-click": "omarchy-menu power",
     "states": {
@@ -112,19 +114,21 @@
       "critical": 10
     }
   },
+  
   "bluetooth": {
     "format": " {num_connections}",
     "format-disabled": "󰂲",
     "format-connected": "󰂱 {num_connections}",
     "format-no-controller": "",
-    "tooltip-format": "Devices connected: {num_connections}",
+    "tooltip-format": "Bluetoth: \nPołączono:  {num_connections}",
     "on-click": "omarchy-launch-bluetooth"
   },
+  
   "pulseaudio": {
     "format": "{icon} {volume}% ",
     "on-click": "omarchy-launch-or-focus-tui wiremix",
     "on-click-right": "pamixer -t",
-    "tooltip-format": "Playing at {volume}%",
+    "tooltip-format": "Głśność: {icon} {volume}%",
     "scroll-step": 5,
     "format-muted": "",
     "format-icons": {
@@ -134,7 +138,7 @@
 
   "backlight": {
     "format": "󰃟 {percent}%  ",
-    "tooltip": true,
+    "tooltip-format": "Ekran: 󰃟 {percent}%",
     "on-scroll-down": "brightnessctl s 5%- ",
     "on-scroll-up": "brightnessctl s +5%"
     },
