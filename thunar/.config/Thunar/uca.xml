@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Otwórz w termialu</name>
+	<submenu></submenu>
+	<unique-id>1768333899271035-1</unique-id>
+	<command>ghostty</command>
+	<description>Otwórz w termialu</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>meld</icon>
+	<name>Porównaj w Meld</name>
+	<submenu></submenu>
+	<unique-id>1768334728684630-1</unique-id>
+	<command>meld %F</command>
+	<description>Porównaj zaznaczone pliki lub katalogi w Meld</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<other-files/>
+	<text-files/>
+</action>
+</actions>

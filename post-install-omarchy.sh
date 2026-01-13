@@ -24,9 +24,13 @@ PACMAN_PKGS=(
   bat
   brightnessctl
   fcitx5-configtool
+  ffmpegthumbnailer
+  file-roller
   fish
   gnome-boxes
+  gvfs
   htop
+  meld
   neovim
   nsxiv
   nwg-look
@@ -37,8 +41,12 @@ PACMAN_PKGS=(
   rsync
   speedtest-cli
   stow
+  thunar
+  thunar-archive-plugin
+  thunar-volman
   tlp
   trash-cli
+  tumbler
   vlc
   xdg-user-dirs
   xorg-xrdb
@@ -86,9 +94,11 @@ STOW_PKGS=(
   Kvantum
   nsxiv
   nvim
+  thunar
   qt5ct
   qt6ct
   waybar
+  xfce4
   Xresources
   yazi
   zathura
