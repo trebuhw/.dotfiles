@@ -91,6 +91,7 @@ STOW_PKGS=(
   fish
   ghostty
   hypr
+  kitty
   Kvantum
   nsxiv
   nvim
@@ -115,6 +116,7 @@ CONFIG_BACKUPS=(
   "$HOME/.config/fish"
   "$HOME/.config/ghostty"
   "$HOME/.config/hypr"
+  "$HOME/.config/kitty"
   "$HOME/.config/Kvantum"
   "$HOME/.config/nsxiv"
   "$HOME/.config/nvim"
