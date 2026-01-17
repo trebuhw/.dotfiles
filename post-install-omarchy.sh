@@ -27,7 +27,7 @@ PACMAN_PKGS=(
   ffmpegthumbnailer
   file-roller
   fish
-  gnome-boxes
+  # gnome-boxes
   gvfs
   htop
   meld

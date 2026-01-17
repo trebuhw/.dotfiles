@@ -10,12 +10,18 @@
   font-size: 14px;
 }
 
+/* Globalne odstępy między modułami */
+.bar > * {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
 .modules-left {
   margin-left: 5px;
 }
 
 .modules-right {
-  margin-right: 8px;
+  margin-right: 5px;
 }
 
 #workspaces button {
@@ -46,70 +52,54 @@
   opacity: 1;
 }
 
+/* Moduły systemowe */
 #battery,
-#pulseaudio,
 #custom-omarchy,
 #custom-screenrecording-indicator,
-#custom-update {
-  min-width: 12px;
-  margin: 0 8px;
-}
-
-#tray {
-  margin-right: 8px;
-}
-
-#bluetooth {
-  margin-right: 8px;
+#custom-update,
+#tray,
+#bluetooth,
+#custom-volume,
+#backlight,
+#network,
+#memory,
+#cpu,
+#custom-temperature,
+#custom-expand-icon,
+#clock {
   margin-left: 8px;
-}
-
-#network {
   margin-right: 8px;
 }
 
-#memory {
-  margin-right: 5px;
-  margin-left: 8px;
-}
-
-#cpu {
-  margin-right: 8px;
-  margin-left: 8px;
-}
-
-
-#custom-temperature {
-  margin-right: 8px;
-  margin-left: 8px;
-}
-
-#custom-expand-icon {
-  margin-right: 8px;
-}
-
+/* Tooltip */
 #tooltip {
   padding: 2px;
 }
 
+/* Czcionki / rozmiary */
 #custom-update {
   font-size: 10px;
 }
 
-#clock {
-  margin-left: 8.75px;
-}
-
-.hidden {
-  opacity: 0;
-}
-
 #custom-screenrecording-indicator {
   min-width: 12px;
-  margin-left: 8px;
   font-size: 10px;
 }
 
 #custom-screenrecording-indicator.active {
   color: #a55555;
 }
+
+.hidden {
+  opacity: 0;
+}
+
+/* Wyjątki: pierwszy i ostatni moduł (opcjonalne) */
+.bar > *:first-child {
+  margin-left: 0;
+}
+
+.bar > *:last-child {
+  margin-right: 0;
+}
+
