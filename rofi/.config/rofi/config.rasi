@@ -1,0 +1,11 @@
+/** Basic config file **/
+
+configuration {
+  show-icons: true;
+  icon-theme: "Tela-circle-Dracula";
+  display-drun: "  ";
+  display-window: "﩯 ";
+  display-combi: "  ";
+  font: "JetBrainsMono Nerd Font 12";
+}
+@theme "/home/hubert/.local/share/rofi/themes/sidebar.rasi"

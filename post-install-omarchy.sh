@@ -23,6 +23,7 @@ PACMAN_PKGS=(
   baobab
   bat
   brightnessctl
+  cliphist
   fcitx5-configtool
   ffmpegthumbnailer
   file-roller
@@ -38,6 +39,7 @@ PACMAN_PKGS=(
   nvidia-580xx-utils
   qt5ct
   qt6ct
+  rofi
   rsync
   speedtest-cli
   stow
@@ -95,6 +97,7 @@ STOW_PKGS=(
   Kvantum
   nsxiv
   nvim
+  rofi
   thunar
   qt5ct
   qt6ct
@@ -120,6 +123,7 @@ CONFIG_BACKUPS=(
   "$HOME/.config/Kvantum"
   "$HOME/.config/nsxiv"
   "$HOME/.config/nvim"
+  "$HOME/.config/rofi"
   "$HOME/.config/qt5ct"
   "$HOME/.config/qt6ct"
   "$HOME/.config/waybar"

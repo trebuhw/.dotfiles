@@ -185,7 +185,6 @@ alias fzf='fzf --preview "bat --color=always {}"'
 alias nn='~/.local/share/bin/fzf-nn.sh'
 alias fe='~/.local/share/bin/fzf-nvim.sh'
 alias fel='~/.local/share/bin/fzf-nvim.sh $(pwd)/'
-alias ffcp='cliphist list | fzf | cliphist decode | wl-copy'
 alias mocp='mocp -C $HOME/.moc/config'
 alias ytd='yt-dlp --extract-audio --audio-format mp3 --audio-quality 0'
 alias pogoda='curl wttr.in/Swidnica'
@@ -211,6 +210,14 @@ alias oma='cd ~/.local/share/omarchy/ && l'
 alias hyp='cd ~/.config/hypr/ && l'
 alias fis='cd ~/.config/fish/ && l'
 alias bag='cd ~/.config/omarchy/themes/catppuccin/backgrounds && l'
+
+# -------------------------
+# Clipboard - kopiowanie / historia schowka
+# -------------------------
+alias ffcp='cliphist list | fzf | cliphist decode | wl-copy ' # Historia schowka uruchamiana w terminalu
+alias cc='rm /home/hubert/.cache/cliphist/db && ccw' # Clear list cliphist - historia kopiowania, numeracja elementów skopiowanych będzię kontynuowana 
+alias chwipe='cliphist wipe && ccw' # Clear list cliphist - historia kopiowania, numeracja elementów skopiowanych będzię kontynuowana 
+alias chdel='rm /home/hubert/.cache/cliphist/db && ccw' # Cliphist usunięcie  bazy - numeracja skopiowanych będzię kontynuowana od nowa
 
 # -------------------------
 # RSYNC / backup / SSH
@@ -244,3 +251,4 @@ alias gbf='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME fetch origi
 # Omarchy
 # -------------------------
 alias ou='omarchy-update'
+alias ccw='wl-copy < /dev/null && rm -rf ~/.cache/elephant && killall elephant' # Czyści historię schowka w Omarchy

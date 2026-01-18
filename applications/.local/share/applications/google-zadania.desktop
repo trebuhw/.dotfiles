@@ -2,7 +2,7 @@
 Version=1.0
 Name=google-zadania
 Comment=google-zadania
-Exec=google-chrome-stable --new-window --ozone-platform=wayland --app=""https://calendar.google.com/calendar/u/0/r/tasks --name="google-zadania" --class="google-zadania"
+Exec=omarchy-launch-webapp "https://calendar.google.com/calendar/u/0/r/tasks"
 Terminal=false
 Type=Application
 Icon=/home/hubert/.local/share/applications/icons/google-zadania.png
