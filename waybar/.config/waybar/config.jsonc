@@ -123,13 +123,25 @@
     "tooltip-format": "Bluetoth: \nPołączono:  {num_connections} {device_alias}",
     "on-click": "omarchy-launch-bluetooth"
   },
-  
-  "custom/volume": {
-    "exec": "vol=$(wpctl get-volume @DEFAULT_AUDIO_SINK@ | awk '{printf \"%d\", ($2*100)+0.5}'); if [ \"$vol\" -eq 0 ]; then echo ' 0%'; elif [ \"$vol\" -le 30 ]; then echo ' '\"$vol\"'%'; elif [ \"$vol\" -le 70 ]; then echo ' '\"$vol\"'%'; else echo ' '\"$vol\"'%'; fi",
-    "interval": 1,
+   
+  "pulseaudio": {
+    "format": "{icon} {volume}%",
     "on-click": "omarchy-launch-or-focus-tui wiremix",
-    "on-click-right": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle"
+    "on-click-right": "pamixer -t",
+    "tooltip-format": "Głśność: {icon} {volume}%",
+    "scroll-step": 5,
+    "format-muted": "",
+    "format-icons": {
+      "default": ["", "", ""]
+    }
   },
+  
+  //"custom/volume": {
+  //  "exec": "vol=$(wpctl get-volume @DEFAULT_AUDIO_SINK@ | awk '{printf \"%d\", ($2*100)+0.5}'); if [ \"$vol\" -eq 0 ]; then echo ' 0%'; elif [ \"$vol\" -le 30 ]; then echo ' '\"$vol\"'%'; elif [ \"$vol\" -le 70 ]; then echo ' '\"$vol\"'%'; else echo ' '\"$vol\"'%'; fi",
+  //  "interval": 1,
+  //  "on-click": "omarchy-launch-or-focus-tui wiremix",
+  //  "on-click-right": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle"
+  //},
     
   "backlight": {
     "format": "󰃟 {percent}%",
@@ -143,7 +155,7 @@
       "transition-duration": 600,
       "children-class": "tray-group-item"
     },
-    "modules": ["custom/expand-icon", "tray", "bluetooth", "custom/volume", "backlight", "network", "battery"]
+    "modules": ["custom/expand-icon", "tray", "bluetooth", "pulseaudio", "backlight", "network", "battery"]
   },
   "custom/expand-icon": {
     "format": "",

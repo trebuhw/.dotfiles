@@ -2,7 +2,7 @@
 Version=1.0
 Name=ms-copilot
 Comment=ms-copilot
-Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://copilot.microsoft.com/chats/aCX8fNmai6WfDbGFd5knJ" --name="ms-copilot" --class="ms-copilot"
+Exec=chromium --new-window --ozone-platform=wayland --app="https://copilot.microsoft.com/chats/aCX8fNmai6WfDbGFd5knJ" --name="ms-copilot" --class="ms-copilot"
 Terminal=false
 Type=Application
 Icon=/home/hubert/.local/share/applications/icons/copilot.png

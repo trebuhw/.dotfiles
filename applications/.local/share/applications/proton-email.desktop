@@ -2,7 +2,7 @@
 Version=1.0
 Name=proton-email
 Comment=proton-email
-Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://mail.proton.me/u/3/inbox" --name="proton-email" --class="proton-email"
+Exec=chromium --new-window --ozone-platform=wayland --app="https://mail.proton.me/u/3/inbox" --name="proton-email" --class="proton-email"
 Terminal=false
 Type=Application
 Icon=/home/hubert/.local/share/applications/icons/proton-email.png

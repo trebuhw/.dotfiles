@@ -2,7 +2,7 @@
 Version=1.0
 Name=proton-pass
 Comment=proton-pass
-Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://pass.proton.me/u/3/inbox" --name="proton-pass" --class="proton-pass"
+Exec=chromium --new-window --ozone-platform=wayland --app="https://pass.proton.me/u/3/inbox" --name="proton-pass" --class="proton-pass"
 Terminal=false
 Type=Application
 Icon=/home/hubert/.local/share/applications/icons/proton-pass.png

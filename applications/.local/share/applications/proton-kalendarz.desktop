@@ -2,7 +2,7 @@
 Version=1.0
 Name=proton-kalendarz
 Comment=proton-kalendarz
-Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://calendar.proton.me/u/3/" --name="proton-kalendarz" --class="proton-kalendarz"
+Exec=chromium --new-window --ozone-platform=wayland --app="https://calendar.proton.me/u/3/" --name="proton-kalendarz" --class="proton-kalendarz"
 Terminal=false
 Type=Application
 Icon=/home/hubert/.local/share/applications/icons/proton-calendar.png
