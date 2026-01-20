@@ -215,9 +215,9 @@ alias bag='cd ~/.config/omarchy/themes/catppuccin/backgrounds && l'
 # Clipboard - kopiowanie / historia schowka
 # -------------------------
 alias ffcp='cliphist list | fzf | cliphist decode | wl-copy ' # Historia schowka uruchamiana w terminalu
-alias ch='rm /home/hubert/.cache/cliphist/db && ccw' # Clear list cliphist - historia kopiowania, numeracja elementów skopiowanych będzię kontynuowana 
-alias chwipe='cliphist wipe && ccw' # Clear list cliphist - historia kopiowania, numeracja elementów skopiowanych będzię kontynuowana 
-alias chdel='rm /home/hubert/.cache/cliphist/db && ccw' # Cliphist usunięcie  bazy - numeracja skopiowanych będzię kontynuowana od nowa
+alias ch='rm /home/hubert/.cache/cliphist/db && chw' # Clear list cliphist - historia kopiowania, numeracja elementów skopiowanych będzię kontynuowana 
+alias chwipe='cliphist wipe && chw' # Clear list cliphist - historia kopiowania, numeracja elementów skopiowanych będzię kontynuowana 
+alias chdel='rm /home/hubert/.cache/cliphist/db && chw' # Cliphist usunięcie  bazy - numeracja skopiowanych będzię kontynuowana od nowa
 
 # -------------------------
 # RSYNC / backup / SSH
