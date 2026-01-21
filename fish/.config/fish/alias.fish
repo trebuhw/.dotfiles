@@ -173,6 +173,7 @@ alias dns='systemd-resolve --status' # status DNS
 # -------------------------
 # Twoje programy / Hyprland
 # -------------------------
+alias v='nvim'
 alias nv='nvim'
 alias f='yazi'
 alias ag="bat ~/.config/fish/alias.fish | sort | grep"
