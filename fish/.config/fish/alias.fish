@@ -252,4 +252,5 @@ alias gbf='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME fetch origi
 # Omarchy
 # -------------------------
 alias ou='omarchy-update'
+alias om='omarchy-migrate'
 alias chw='wl-copy < /dev/null && rm -rf ~/.cache/elephant && killall elephant' # Czyści historię schowka w Omarchy
