@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=ms-word
-Comment=ms-word
+Name=MS Word
+Comment=MS Word
 Exec=omarchy-launch-webapp "https://word.cloud.microsoft/?wdOrigin=OFFICECOM-WEB.APPBAR%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.SHELL.SIGNIN" --name="ms-word" --class="ms-word"
 Terminal=false
 Type=Application

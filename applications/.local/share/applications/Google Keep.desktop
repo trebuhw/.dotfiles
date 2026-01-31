@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=Keep
-Comment=Keep
+Name=Google Keep
+Comment=Google Keep
 Exec=omarchy-launch-webapp "https://keep.google.com/#home"
 Terminal=false
 Type=Application

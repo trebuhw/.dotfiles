@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=proton-pass
-Comment=proton-pass
+Name=Proton Pass
+Comment=Proton Pass
 Exec=omarchy-launch-webapp "https://pass.proton.me/u/3/inbox" --name="proton-pass" --class="proton-pass"
 Terminal=false
 Type=Application

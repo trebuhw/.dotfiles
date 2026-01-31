@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=bitwarden-web
-Comment=bitwarden
+Name=Bitwarden Web
+Comment=Bitwarden Web
 Exec=omarchy-launch-webapp "https://vault.bitwarden.com/#/vault"
 Terminal=false
 Type=Application

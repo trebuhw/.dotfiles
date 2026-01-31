@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=ms-outlook
-Comment=ms-outlook
+Name=MS Outlook
+Comment=MS Outlook
 Exec=omarchy-launch-webapp "https://outlook.live.com/mail/0/?ui=pl-PL&rs=PL&auth=1&login_hint=M%24Ejh4nOPoX3Fz5fuXze0nGIVkMkqTUotK9MqLqlKL8zITsx3yS0ty8vOz9ZLzcyWaD65sYwcABwMUfQ" --name="ms-outlook" --class="ms-outlook"
 Terminal=false
 Type=Application

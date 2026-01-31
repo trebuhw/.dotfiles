@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=ms-onedrive
-Comment=ms-onedrive
+Name=MS OneDrive
+Comment=MS OneDrive
 Exec=omarchy-launch-webapp "https://onedrive.live.com/?view=1" --name="ms-onedrive" --class="ms-onedrive"
 Terminal=false
 Type=Application

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=google-drive
-Comment=google-drive
+Name=Google Drive
+Comment=Google Drive
 Exec=omarchy-launch-webapp "https://drive.google.com/drive/starred" --name="google-drive" --class="google-drive"
 Terminal=false
 Type=Application

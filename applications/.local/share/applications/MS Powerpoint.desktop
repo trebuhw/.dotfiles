@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=ms-powerpoint
-Comment=ms-powerpoint
+Name=MS Powerpoint
+Comment=MS Pwerpoint
 Exec=omarchy-launch-webapp "https://powerpoint.cloud.microsoft/?wdOrigin=OFFICECOM-WEB.APPBAR%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.SHELL.SIGNIN" --name="ms-powerpoint" --class="ms-powerpoint"
 Terminal=false
 Type=Application

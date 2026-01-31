@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=ChatGPT
-Comment=ChatGPT
+Name=ChatGPT AI
+Comment=ChatGPT AI
 Exec=omarchy-launch-webapp https://chatgpt.com/
 Terminal=false
 Type=Application

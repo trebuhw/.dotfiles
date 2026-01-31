@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=Kalendarz
-Comment=Kalendarz
+Name=Google Kalendarz
+Comment=Google Kalendarz
 Exec=omarchy-launch-webapp "https://calendar.google.com/calendar/u/0/r/month"
 Terminal=false
 Type=Application

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=Kontakty
-Comment=Kontakty
+Name=Google Kontakty
+Comment=Google Kontakty
 Exec=omarchy-launch-webapp "https://contacts.google.com/?hl=pl&tab=mC"
 Terminal=false
 Type=Application

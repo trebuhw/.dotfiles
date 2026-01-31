@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=email-o2
-Comment=email-o2
+Name=Email o2
+Comment=Email o2
 Exec=omarchy-launch-webapp https://poczta.o2.pl/w/mails?folder=classic.main
 Terminal=false
 Type=Application

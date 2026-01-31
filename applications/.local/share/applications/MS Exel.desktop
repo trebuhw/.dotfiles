@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=ms-exel
-Comment=ms-exel
+Name=MS Exel
+Comment=MS Exel
 Exec=omarchy-launch-webapp "https://excel.cloud.microsoft/?wdOrigin=OFFICECOM-WEB.APPBAR%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.SHELL.SIGNIN" --name="ms-exel" --class="ms-exel"
 Terminal=false
 Type=Application

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=Google Photos
-Comment=Google Photos
+Name=Google Zdjęcia
+Comment=Google Zdjęcia
 Exec=omarchy-launch-webapp https://photos.google.com/
 Terminal=false
 Type=Application

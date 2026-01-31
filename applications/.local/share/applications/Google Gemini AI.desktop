@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=Gemini AI
-Comment=Gemini AI
+Name=Google Gemini AI
+Comment=Google Gemini AI
 Exec=omarchy-launch-webapp "https://gemini.google.com/app" --name="gemini" --class="gemini"
 Terminal=false
 Type=Application

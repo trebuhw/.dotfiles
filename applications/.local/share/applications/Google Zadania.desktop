@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=google-zadania
-Comment=google-zadania
+Name=Google Zadania
+Comment=Google Zadania
 Exec=omarchy-launch-webapp "https://calendar.google.com/calendar/u/0/r/tasks"
 Terminal=false
 Type=Application

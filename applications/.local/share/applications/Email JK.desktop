@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=email-jk
-Comment=email-jk
+Name=Email JK
+Comment=Email JK
 Exec=omarchy-launch-webapp https://poczta22599.domeny.host/?_task=mail&_mbox=INBOX
 #Exec=google-chrome-stable --new-window --ozone-platform=wayland --app="https://poczta22599.domeny.host/?_task=mail&_mbox=INBOX" --name="email-jk" --class="email-jk"
 Terminal=false

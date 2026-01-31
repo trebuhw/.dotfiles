@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
-Name=google-dokumenty
-Comment=google-dokumenty
+Name=Google Dokumenty
+Comment=Google Dokumenty
 Exec=omarchy-launch-webapp "https://docs.google.com/document/d/1H2ik0x9Z5sSVq-KeJNEUKs4TEAwGbXlz9zdWHvPHE7Q/edit?tab=t.0" --name="google-dokumenty" --class="google-dokumenty"
 Terminal=false
 Type=Application
