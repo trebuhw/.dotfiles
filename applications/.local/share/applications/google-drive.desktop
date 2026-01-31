@@ -2,7 +2,7 @@
 Version=1.0
 Name=google-drive
 Comment=google-drive
-Exec=chromium --new-window --ozone-platform=wayland --app="https://drive.google.com/drive/starred" --name="google-drive" --class="google-drive"
+Exec=omarchy-launch-webapp "https://drive.google.com/drive/starred" --name="google-drive" --class="google-drive"
 Terminal=false
 Type=Application
 Icon=/home/hubert/.local/share/applications/icons/google-drive.png

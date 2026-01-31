@@ -2,7 +2,7 @@
 Version=1.0
 Name=ms-outlook
 Comment=ms-outlook
-Exec=chromium --new-window --ozone-platform=wayland --app="https://outlook.live.com/mail/0/?ui=pl-PL&rs=PL&auth=1&login_hint=M%24Ejh4nOPoX3Fz5fuXze0nGIVkMkqTUotK9MqLqlKL8zITsx3yS0ty8vOz9ZLzcyWaD65sYwcABwMUfQ" --name="ms-outlook" --class="ms-outlook"
+Exec=omarchy-launch-webapp "https://outlook.live.com/mail/0/?ui=pl-PL&rs=PL&auth=1&login_hint=M%24Ejh4nOPoX3Fz5fuXze0nGIVkMkqTUotK9MqLqlKL8zITsx3yS0ty8vOz9ZLzcyWaD65sYwcABwMUfQ" --name="ms-outlook" --class="ms-outlook"
 Terminal=false
 Type=Application
 Icon=/home/hubert/.local/share/applications/icons/ms-outlook.png

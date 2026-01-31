@@ -2,8 +2,7 @@
 Version=1.0
 Name=google-arkusze
 Comment=google-arkusze
-Exec=chromium --new-window --ozone-platform=wayland --app="https://docs.google.com/spreadsheets/d/1Rl73ORXLl3RnPMiSE5bEZ6-oMS2jrdi6GKPrdaDmGuo/edit?gid=0#gid=0" --name="googe-arkusze" --class="googe-arkusze"
-Terminal=false
+Exec=omarchy-launch-webapp "https://docs.google.com/spreadsheets/d/1BtH4_tYbWwHqVxbqO_KVEL5JwuILayUT_wcDK7sASZY/edit?gid=0#gid=0"
 Type=Application
 Icon=/home/hubert/.local/share/applications/icons/google-sheets.png
 StartupNotify=true

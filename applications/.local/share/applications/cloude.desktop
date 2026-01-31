@@ -2,7 +2,7 @@
 Version=1.0
 Name=Claude AI
 Comment=Claude AI
-Exec=chromium --new-window --ozone-platform=wayland --app="https://claude.ai/new" --name="Claude AI" --class="WebApp-Claude"
+Exec=omarchy-launch-webapp "https://claude.ai/new" --name="Claude AI" --class="WebApp-Claude"
 Terminal=false
 Type=Application
 Icon=/home/hubert/.local/share/applications/icons/claude.png

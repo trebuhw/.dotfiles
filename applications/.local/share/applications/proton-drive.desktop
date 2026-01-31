@@ -2,7 +2,7 @@
 Version=1.0
 Name=proton-drive
 Comment=proton-drive
-Exec=chromium --new-window --ozone-platform=wayland --app="https://drive.proton.me/u/3/JNbBa_ukwCYOUsNrgjC7NhE1TsTyvLU-tZuh_RTQtyeiV2hjk3j5OAruml42nWjpcOrge1iElF6UVyKHu-SilQ==/folder/fEkbIq4z2ZyumVhjBlAWxywpCEezRyJVlIC7A4DHj-Z5DeQ5BI7jHi70gPtz86tYxl90tpn-Oa62sMgSM1mVfQ==" --name="proton-drive" --class="proton-drive"
+Exec=omarchy-launch-webapp "https://drive.proton.me/u/3/JNbBa_ukwCYOUsNrgjC7NhE1TsTyvLU-tZuh_RTQtyeiV2hjk3j5OAruml42nWjpcOrge1iElF6UVyKHu-SilQ==/folder/fEkbIq4z2ZyumVhjBlAWxywpCEezRyJVlIC7A4DHj-Z5DeQ5BI7jHi70gPtz86tYxl90tpn-Oa62sMgSM1mVfQ==" --name="proton-drive" --class="proton-drive"
 Terminal=false
 Type=Application
 Icon=/home/hubert/.local/share/applications/icons/proton-drive.png

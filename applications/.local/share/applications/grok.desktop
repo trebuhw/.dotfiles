@@ -2,7 +2,7 @@
 Version=1.0
 Name=Grok AI
 Comment=Grok AI
-Exec=chromium --new-window --ozone-platform=wayland --app="https://grok.com" --name="grok" --class="grok"
+Exec=omarchy-launch-webapp "https://grok.com" --name="grok" --class="grok"
 Terminal=false
 Type=Application
 Icon=/home/hubert/.local/share/applications/icons/grok.png

@@ -2,7 +2,7 @@
 Version=1.0
 Name=Gemini AI
 Comment=Gemini AI
-Exec=chromium --new-window --ozone-platform=wayland --app="https://gemini.google.com/app" --name="gemini" --class="gemini"
+Exec=omarchy-launch-webapp "https://gemini.google.com/app" --name="gemini" --class="gemini"
 Terminal=false
 Type=Application
 Icon=/home/hubert/.local/share/applications/icons/gemini.png
