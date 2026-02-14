@@ -89,6 +89,7 @@ STOW_PKGS=(
   bat
   bin
   chromium
+  chrome
   fcitx5
   fish
   ghostty
