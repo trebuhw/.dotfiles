@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=JK Koszty
+Comment=Google Forms
+Exec=omarchy-launch-webapp "https://forms.gle/4QdA7qZY5edHuJ4o8"
+Type=Application
+Icon=/home/hubert/.local/share/applications/icons/google-forms.png
+StartupNotify=true
