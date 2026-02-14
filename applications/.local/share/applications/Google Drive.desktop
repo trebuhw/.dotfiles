@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Google Drive
-Comment=Google Drive
-Exec=omarchy-launch-webapp "https://drive.google.com/drive/starred" --name="google-drive" --class="google-drive"
-Terminal=false
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/google-drive.png
-StartupNotify=true

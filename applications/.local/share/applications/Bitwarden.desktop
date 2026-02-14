@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Bitwarden Web
-Comment=Bitwarden Web
-Exec=omarchy-launch-webapp "https://vault.bitwarden.com/#/vault"
-Terminal=false
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/bitwarden.png
-StartupNotify=true

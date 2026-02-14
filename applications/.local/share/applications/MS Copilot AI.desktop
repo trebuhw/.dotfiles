@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=MS Copilot AI
-Comment=MS Copilot AI
-Exec=omarchy-launch-webapp "https://copilot.microsoft.com/chats/aCX8fNmai6WfDbGFd5knJ" --name="ms-copilot" --class="ms-copilot"
-Terminal=false
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/copilot.png
-StartupNotify=true

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Backup
-Comment=Uruchamia skrypt backupu
-Exec=/home/hubert/.local/share/bin/backup.sh
-Icon=folder-sync
-Terminal=true
-Type=Application
-Categories=Utility;
-

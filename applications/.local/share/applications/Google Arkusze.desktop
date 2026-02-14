@@ -1,8 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Google Arkusze
-Comment=Google Arkusze
-Exec=omarchy-launch-webapp "https://docs.google.com/spreadsheets/d/1BtH4_tYbWwHqVxbqO_KVEL5JwuILayUT_wcDK7sASZY/edit?gid=0#gid=0"
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/google-sheets.png
-StartupNotify=true

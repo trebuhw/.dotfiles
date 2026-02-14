@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Proton Email
-Comment=Proton Email
-Exec=omarchy-launch-webapp "https://mail.proton.me/u/3/inbox" --name="proton-email" --class="proton-email"
-Terminal=false
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/proton-email.png
-StartupNotify=true

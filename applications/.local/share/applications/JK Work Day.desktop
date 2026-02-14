@@ -1,8 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=JK Work Day
-Comment=Google Forms
-Exec=omarchy-launch-webapp "https://docs.google.com/forms/d/1Ma-IQ_dFNDP2-Ap30tMfoY4_FW_CfCeLCGB2oqJrLIQ/edit?pli=1"
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/google-forms.png
-StartupNotify=true

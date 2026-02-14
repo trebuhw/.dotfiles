@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Google Finanse
-Comment=Google Finanase
-Exec=omarchy-launch-webapp "https://docs.google.com/spreadsheets/d/1w5miZRcoDjCesc_UrBpX-H1-jbcggZuyfsrixS1xYTU/edit?gid=1443164808#gid=1443164808" --name="googe-arkusze" --class="googe-arkusze"
-Terminal=false
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/google-sheets.png
-StartupNotify=true

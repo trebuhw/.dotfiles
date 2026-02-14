@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Google Kalendarz
-Comment=Google Kalendarz
-Exec=omarchy-launch-webapp "https://calendar.google.com/calendar/u/0/r/month"
-Terminal=false
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/google-calendar.png
-StartupNotify=true

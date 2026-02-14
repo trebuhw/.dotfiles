@@ -1,8 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=JK Specyfikacja
-Comment=Google Forms
-Exec=omarchy-launch-webapp "https://forms.gle/Cunjk5BDuJepNPx99"
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/google-forms.png
-StartupNotify=true

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Google Keep Notes
-Comment=Google Keep Notes
-Exec=omarchy-launch-webapp "https://keep.google.com/#home"
-Terminal=false
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/google-keep.png
-StartupNotify=true

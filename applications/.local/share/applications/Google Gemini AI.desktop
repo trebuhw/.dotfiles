@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Google Gemini AI
-Comment=Google Gemini AI
-Exec=omarchy-launch-webapp "https://gemini.google.com/app" --name="gemini" --class="gemini"
-Terminal=false
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/gemini.png
-StartupNotify=true

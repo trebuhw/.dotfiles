@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Prime
-Comment=Prime
-Exec=omarchy-launch-webapp "https://www.primevideo.com/-/pl/region/eu/storefront/ref=atv_hom_pri_c_9zZ8D2_hom?language=pl_PL"
-Terminal=false
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/prime.png
-StartupNotify=true

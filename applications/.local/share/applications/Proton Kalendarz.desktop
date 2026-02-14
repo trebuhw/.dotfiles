@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Proton Kalendarz
-Comment=Proton Kalendarz
-Exec=omarchy-launch-webapp "https://calendar.proton.me/u/3/" --name="proton-kalendarz" --class="proton-kalendarz"
-Terminal=false
-Type=Application
-Icon=/home/hubert/.local/share/applications/icons/proton-calendar.png
-StartupNotify=true
