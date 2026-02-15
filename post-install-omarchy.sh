@@ -59,6 +59,7 @@ PACMAN_PKGS=(
 
 AUR_PKGS=(
   catppuccin-gtk-theme-mocha
+  hyprwat                           # Selector tapet
   kvantum-theme-catppuccin-git
   tela-circle-icon-theme-dracula
 )
