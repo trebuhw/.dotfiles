@@ -15,19 +15,19 @@
 # Wykluczenia można ustawić w EXCLUDES. Wykluczone pliki/katalogi nie będą usuwane.
 # ==========================================================
 
-set -o pipefail
-
 # =========================
 # KONFIGURACJA
 # =========================
 
-RSYNC_OPTS_LOCAL=(-av --delete)                                                       # backup lokalny z synchronizacją
-RSYNC_OPTS_REMOTE=(-av --delete --no-perms --no-owner --no-group --copy-unsafe-links) # backup na pendrive
+RSYNC_OPTS_LOCAL="-av --delete"                                                       # backup lokalny z synchronizacją
+RSYNC_OPTS_REMOTE="-av --delete --no-perms --no-owner --no-group --copy-unsafe-links" # backup na pendrive
 
 LOCAL_BACKUP="$HOME/Backup"
 REMOTE_BACKUP="${1:-/run/media/hubert/Ventoy/Omarchy/Backup}"
 
 SOURCES=(
+  "$HOME/.config/chromium $LOCAL_BACKUP/Chromium/.config"
+  "$HOME/.cache/chromium $LOCAL_BACKUP/Chromium/.cache"
   "$HOME/Szablony $LOCAL_BACKUP/Szablony"
   "$HOME/Dokumenty $LOCAL_BACKUP/Dokumenty"
   "$HOME/Obrazy $LOCAL_BACKUP/Obrazy"
@@ -35,18 +35,19 @@ SOURCES=(
   "$HOME/.gitconfig $LOCAL_BACKUP/.gitconfig"
   "$HOME/.ssh $LOCAL_BACKUP/.ssh"
   "$HOME/.local/share/bin/backup-restore.sh $LOCAL_BACKUP/"
+
 )
 
 # Wykluczenia dla każdego źródła (w tej samej kolejności co SOURCES)
 EXCLUDES=(
-  ""               # .config/chromium
-  ""               # Szablony
-  "tmp sekret.txt" # Dokumenty
-  ""               # Obrazy
-  ""               # .git-credentials
-  ""               # .gitconfig
-  ""               # .ssh
-  ""               # backup-restore.sh
+  ""                                                      # .config/chromium
+  "/home/hubert/.cache/chromium/Default/Cache/Cache_Data" # .cache/chromium
+  ""                                                      # Szablony
+  "tmp/ sekret.txt"                                       # Dokumenty - katalog tmp i plik sekret.txt
+  ""                                                      # Obrazy
+  ""                                                      # .git-credentials
+  ""                                                      # .gitconfig
+  ""                                                      # .ssh
 )
 
 # Wykluczenia dodatkowe dla pendrive (symlinki Chromium)
@@ -63,8 +64,8 @@ LOG_FILE="$HOME/Backup/backup_errors.log"
 # =========================
 backup_to() {
   local DEST="$1"
-  local -n OPTS="$2"
-  local -n P_EXCLUDES="$3"
+  local OPTS="$2"
+  local P_EXCLUDES=("${!3}")
 
   echo ">>> Backup do: $DEST"
 
@@ -95,24 +96,17 @@ backup_to() {
       mkdir -p "$(dirname "$TARGET")"
     fi
 
-    # przygotowanie wykluczeń jako tablica
-    RSYNC_EXCLUDES=()
-
-    for excl in ${EXCLUDES[$i]}; do
-      [[ -n "$excl" ]] && RSYNC_EXCLUDES+=(--exclude "$excl")
-    done
-
-    for excl in "${P_EXCLUDES[@]}"; do
-      [[ -n "$excl" ]] && RSYNC_EXCLUDES+=(--exclude "$excl")
+    # przygotowanie wykluczeń
+    RSYNC_EXCLUDES=""
+    for excl in ${EXCLUDES[$i]} ${P_EXCLUDES[@]}; do
+      RSYNC_EXCLUDES+=" --exclude '$excl'"
     done
 
     # wykonanie backupu i logowanie błędów
     if [[ -d "$SRC" ]]; then
-      rsync "${OPTS[@]}" "${RSYNC_EXCLUDES[@]}" \
-        "$SRC/" "$TARGET/" 2>>"$LOG_FILE"
+      eval rsync $OPTS $RSYNC_EXCLUDES "$SRC/" "$TARGET/" 2>>"$LOG_FILE"
     else
-      rsync "${OPTS[@]}" "${RSYNC_EXCLUDES[@]}" \
-        "$SRC" "$TARGET" 2>>"$LOG_FILE"
+      eval rsync $OPTS $RSYNC_EXCLUDES "$SRC" "$TARGET" 2>>"$LOG_FILE"
     fi
 
     echo "  ✔ Zakończono"
@@ -123,16 +117,14 @@ backup_to() {
 # BACKUP LOKALNY
 # =========================
 mkdir -p "$LOCAL_BACKUP"
-: >"$LOG_FILE"
-
-backup_to "$LOCAL_BACKUP" RSYNC_OPTS_LOCAL EXCLUDES
+backup_to "$LOCAL_BACKUP" "$RSYNC_OPTS_LOCAL"
 
 # =========================
 # BACKUP NA PENDRIVE (jeśli podłączony)
 # =========================
 if [[ -d "$(dirname "$REMOTE_BACKUP")" ]]; then
   mkdir -p "$REMOTE_BACKUP"
-  backup_to "$REMOTE_BACKUP" RSYNC_OPTS_REMOTE PENDRIVE_EXCLUDES
+  backup_to "$REMOTE_BACKUP" "$RSYNC_OPTS_REMOTE" PENDRIVE_EXCLUDES[@]
 else
   echo ">>> Pendrive nie jest podłączony. Backup tylko lokalny."
 fi

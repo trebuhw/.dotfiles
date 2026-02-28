@@ -20,10 +20,10 @@ SCRIPT_DIR="$(cd -- "$(dirname -- "$0")" && pwd)"
 SCRIPT_BASENAME="$(basename "$SCRIPT_DIR")"
 
 if [[ "$SCRIPT_BASENAME" != "Backup" ]]; then
-    echo "❌ BŁĄD LOKALIZACJI"
-    echo "Skrypt musi znajdować się w katalogu: Backup"
-    echo "Aktualna lokalizacja: $SCRIPT_DIR"
-    exit 1
+  echo "❌ BŁĄD LOKALIZACJI"
+  echo "Skrypt musi znajdować się w katalogu: Backup"
+  echo "Aktualna lokalizacja: $SCRIPT_DIR"
+  exit 1
 fi
 
 # =========================
@@ -31,8 +31,8 @@ fi
 # =========================
 
 if [[ ! -t 0 ]]; then
-    echo "❌ Brak interaktywnego terminala – przerwano"
-    exit 1
+  echo "❌ Brak interaktywnego terminala – przerwano"
+  exit 1
 fi
 
 echo
@@ -45,8 +45,8 @@ echo
 read -rp "Czy na pewno chcesz przywrócić pliki? Wpisz TAK aby kontynuować, NIE aby przerwać: " CONFIRM
 
 if [[ "$CONFIRM" != "TAK" ]]; then
-    echo "❌ Anulowano"
-    exit 0
+  echo "❌ Anulowano"
+  exit 0
 fi
 
 echo ">>> Potwierdzono – rozpoczynam restore"
@@ -67,8 +67,6 @@ LOG_FILE="$LOCAL_BACKUP/restore_errors.log"
 # =========================
 
 RESTORES=(
-  "$LOCAL_BACKUP/Chromium/.config $HOME/.config/chromium"
-  "$LOCAL_BACKUP/Chromium/.cache  $HOME/.cache/chromium"
   "$LOCAL_BACKUP/Szablony         $HOME/Szablony"
   "$LOCAL_BACKUP/Dokumenty       $HOME/Dokumenty"
   "$LOCAL_BACKUP/Obrazy           $HOME/Obrazy"
@@ -97,27 +95,27 @@ echo ">>> Przywracam dane do \$HOME"
 echo
 
 for entry in "${RESTORES[@]}"; do
-    SRC="${entry%% *}"
-    DEST="${entry##* }"
+  SRC="${entry%% *}"
+  DEST="${entry##* }"
 
-    if [[ ! -e "$SRC" ]]; then
-        echo "⚠ Pomijam – brak: $SRC"
-        continue
-    fi
+  if [[ ! -e "$SRC" ]]; then
+    echo "⚠ Pomijam – brak: $SRC"
+    continue
+  fi
 
-    echo "➜ Restore:"
-    echo "  Źródło : $SRC"
-    echo "  Cel    : $DEST"
+  echo "➜ Restore:"
+  echo "  Źródło : $SRC"
+  echo "  Cel    : $DEST"
 
-    if [[ -d "$SRC" ]]; then
-        mkdir -p "$DEST"
-        rsync $RESTORE_OPTS "$SRC/" "$DEST/" 2>> "$LOG_FILE"
-    else
-        mkdir -p "$(dirname "$DEST")"
-        rsync $RESTORE_OPTS "$SRC" "$DEST" 2>> "$LOG_FILE"
-    fi
+  if [[ -d "$SRC" ]]; then
+    mkdir -p "$DEST"
+    rsync $RESTORE_OPTS "$SRC/" "$DEST/" 2>>"$LOG_FILE"
+  else
+    mkdir -p "$(dirname "$DEST")"
+    rsync $RESTORE_OPTS "$SRC" "$DEST" 2>>"$LOG_FILE"
+  fi
 
-    echo "  ✔ Zakończono"
+  echo "  ✔ Zakończono"
 done
 
 # =========================
@@ -125,9 +123,9 @@ done
 # =========================
 
 if [[ -d "$HOME/.ssh" ]]; then
-    chmod 700 "$HOME/.ssh"
-    chmod 600 "$HOME/.ssh/"* 2>/dev/null || true
-    echo "✔ Uprawnienia ~/.ssh ustawione"
+  chmod 700 "$HOME/.ssh"
+  chmod 600 "$HOME/.ssh/"* 2>/dev/null || true
+  echo "✔ Uprawnienia ~/.ssh ustawione"
 fi
 
 # =========================
@@ -139,4 +137,3 @@ echo ">>> Restore zakończony"
 echo ">>> Log błędów: $LOG_FILE"
 
 bat "$LOG_FILE" 2>/dev/null || cat "$LOG_FILE"
-
