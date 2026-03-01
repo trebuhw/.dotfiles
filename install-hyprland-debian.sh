@@ -64,7 +64,8 @@ apt install -y \
   playerctl \
   thunar \
   thunar-archive-plugin \
-  file-roller
+  file-roller \
+  firefox-esr
 
 echo "=== Bluetooth (opcjonalnie) ==="
 apt install -y \
