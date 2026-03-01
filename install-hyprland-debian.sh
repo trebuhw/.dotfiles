@@ -56,6 +56,7 @@ apt install -y \
   mako-notifier \
   rofi-wayland \
   wofi \
+  waybar \
   swaybg \
   swaylock \
   swayidle \
