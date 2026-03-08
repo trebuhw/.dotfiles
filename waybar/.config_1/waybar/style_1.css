@@ -1,0 +1,106 @@
+@import "../omarchy/current/theme/waybar.css";
+
+* {
+  background-color: @background;
+  color: @foreground;
+  border: none;
+  border-radius: 0;
+  min-height: 0;
+  font-family: 'JetBrainsMono Nerd Font';
+  font-size: 14px;
+}
+
+/* Globalne odstępy między modułami */
+.bar > * {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.modules-left {
+  margin-left: 5px;
+}
+
+.modules-right {
+  margin-right: 5px;
+}
+
+#workspaces button {
+  all: initial;
+  padding: 3px 5px;
+  margin: 3px 2.5px;
+  min-width: 9px;
+  font-weight: normal;
+  color: @foreground;
+  background-color: @background;
+}
+
+#workspaces button.empty {
+  opacity: 0.25;
+}
+
+#workspaces button.hosting-monitor:not(.active):not(.empty) {
+  color: @foreground;
+  background-color: @background;
+  font-weight: normal;
+  opacity: 0.8;
+}
+
+#workspaces button.active.hosting-monitor {
+  color: @foreground;
+  background-color: @background;
+  font-weight: 900;
+  opacity: 1;
+}
+
+/* Moduły systemowe */
+#battery,
+#custom-omarchy,
+#custom-screenrecording-indicator,
+#custom-update,
+#tray,
+#bluetooth,
+#pulseaudio,
+#custom-volume,
+#backlight,
+#network,
+#memory,
+#cpu,
+#custom-temperature,
+#custom-expand-icon,
+#clock {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+/* Tooltip */
+#tooltip {
+  padding: 2px;
+}
+
+/* Czcionki / rozmiary */
+#custom-update {
+  font-size: 10px;
+}
+
+#custom-screenrecording-indicator {
+  min-width: 12px;
+  font-size: 10px;
+}
+
+#custom-screenrecording-indicator.active {
+  color: #a55555;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+/* Wyjątki: pierwszy i ostatni moduł (opcjonalne) */
+.bar > *:first-child {
+  margin-left: 0;
+}
+
+.bar > *:last-child {
+  margin-right: 0;
+}
+
