@@ -213,7 +213,7 @@ alias bin='cd ~/.local/share/bin/ && l'
 alias oma='cd ~/.local/share/omarchy/ && l'
 alias hyp='cd ~/.config/hypr/ && l'
 alias fis='cd ~/.config/fish/ && l'
-alias bag='cd ~/.config/omarchy/themes/catppuccin/backgrounds && l'
+alias bag='cd ~/.config/omarchy/backgrounds/catppuccin/ && l'
 
 # -------------------------
 # Clipboard - kopiowanie / historia schowka
