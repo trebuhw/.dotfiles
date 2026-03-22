@@ -59,7 +59,7 @@ PACMAN_PKGS=(
 
 AUR_PKGS=(
   catppuccin-gtk-theme-mocha
-  hyprwat                           # Selector tapet
+  hyprwat # Selector tapet
   kvantum-theme-catppuccin-git
   tela-circle-icon-theme-dracula
 )
@@ -236,7 +236,7 @@ for pkg in "${STOW_PKGS[@]}"; do
     backup_if_exists "$HOME/$file"
   done < <(
     stow -n --target="$HOME" "$pkg" 2>&1 |
-    awk '/existing target is neither a link nor a directory/ {print $NF}'
+      awk '/existing target is neither a link nor a directory/ {print $NF}'
   )
   stow --target="$HOME" "$pkg"
 done
@@ -267,14 +267,14 @@ msg "Configuring power management (TLP)"
 
 # Backup istniejącego tlp.conf jeśli istnieje
 if [[ -f /etc/tlp.conf ]]; then
-    msg "Backing up existing /etc/tlp.conf to /etc/tlp.conf.bak"
-    sudo mv /etc/tlp.conf /etc/tlp.conf.bak
+  msg "Backing up existing /etc/tlp.conf to /etc/tlp.conf.bak"
+  sudo mv /etc/tlp.conf /etc/tlp.conf.bak
 fi
 
 # Skopiuj własny plik tlp.conf
 if [[ -f "$HOME/.dotfiles/etc/.config/tlp.conf" ]]; then
-    msg "Copying custom tlp.conf from dotfiles"
-    sudo cp "$HOME/.dotfiles/etc/.config/tlp.conf" /etc/tlp.conf
+  msg "Copying custom tlp.conf from dotfiles"
+  sudo cp "$HOME/.dotfiles/etc/.config/tlp.conf" /etc/tlp.conf
 fi
 
 # Włącz i uruchom usługę TLP
@@ -308,4 +308,3 @@ if [[ "$REBOOT_CHOICE" =~ ^[Yy]$ ]]; then
 else
   msg "Restart pominięty. Zmiany zostaną w pełni zastosowane po kolejnym uruchomieniu."
 fi
-

@@ -40,6 +40,9 @@
 	"window.confirmSaveUntitledWorkspace": false,
 	"git.openRepositoryInParentFolders": "never",
 	"explorer.confirmDragAndDrop": false,
-	"workbench.activityBar.location": "top",
 	"window.zoomLevel": 0.5,
+	"workbench.secondarySideBar.defaultVisibility": "hidden",
+	"workbench.activityBar.location": "top",
+	"git.confirmSync": false,
+	"chat.fontSize": 14,
 }
