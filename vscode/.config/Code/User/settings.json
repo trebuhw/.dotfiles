@@ -45,4 +45,7 @@
 	"workbench.activityBar.location": "top",
 	"git.confirmSync": false,
 	"chat.fontSize": 14,
+	"editor.minimap.enabled": false,
+	"git.enableSmartCommit": true,
+	"chat.mcp.gallery.enabled": true,
 }
