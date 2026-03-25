@@ -194,6 +194,8 @@ alias pogoda='curl wttr.in/Swidnica'
 alias c='cal -y'
 alias mpdf='gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress -sOutputFile='
 alias ptt='pdftotext -layout'
+alias se='systemctl --user enable syncthing.service' # właczenie usługi syncthing
+alias ss='systemctl --user start syncthing.service' # właczenie usługi syncthing
 
 # -------------------------
 # Foldery / szybka nawigacja

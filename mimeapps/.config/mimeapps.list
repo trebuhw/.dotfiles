@@ -44,7 +44,7 @@ video/x-ogm+ogg=mpv.desktop
 video/x-theora+ogg=mpv.desktop
 application/ogg=mpv.desktop
 x-scheme-handler/mailto=opera.desktop
-inode/directory=org.gnome.Nautilus.desktop
+inode/directory=thunar.desktop
 x-scheme-handler/webcal=opera.desktop
 x-scheme-handler/beeper=beepertexts.desktop
 
@@ -52,4 +52,4 @@ x-scheme-handler/beeper=beepertexts.desktop
 application/x-zerosize=nvim.desktop;
 application/x-mozilla-bookmarks=nvim.desktop;
 application/json=nvim.desktop;
-inode/directory=org.gnome.Nautilus.desktop;
+inode/directory=thunar.desktop;
