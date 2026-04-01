@@ -37,6 +37,7 @@ alias update-fc='sudo fc-cache -fv'
 alias ns="nvidia-smi"
 alias pcinfo="inxi -Fxz"
 alias hw="hwinfo --short"
+alias batery='cat /sys/class/power_supply/BAT0/uevent'
 
 alias power='powerprofilesctl' # Zarządzani power pc systemctl enable/start power-profiles-daemon.service
 alias slu='systemctl list-units'

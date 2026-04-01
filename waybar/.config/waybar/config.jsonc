@@ -105,9 +105,9 @@
       "default": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"]
     },
     "format-full": "󰂅 {capacity}%",
-    "tooltip-format-full": "Bateria: {capacity}% {power:>1.0f}W↑",
-    "tooltip-format-discharging": "Bateria: {capacity}% {power:>1.0f}W↓",
-    "tooltip-format-charging": "Bateria: {capacity}% {power:>1.0f}W↑",
+    "tooltip-format-full": "Bateria: {power:>1.0f}W↑",
+    "tooltip-format-discharging": "Bateria: {time} / {power:>1.0f}W↓",
+    "tooltip-format-charging": "Bateria: {time} / {power:>1.0f}W↑",
     "interval": 5,
     "on-click": "omarchy-menu power",
     "states": {
