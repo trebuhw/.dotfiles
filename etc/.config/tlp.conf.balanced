@@ -1,0 +1,35 @@
+TLP_ENABLE=1
+
+
+# --- CPU ---
+CPU_ENERGY_PERF_POLICY_ON_AC=balance_performance
+CPU_ENERGY_PERF_POLICY_ON_BAT=balance_performance
+
+CPU_MIN_PERF_ON_AC=0
+CPU_MAX_PERF_ON_AC=85
+
+CPU_MIN_PERF_ON_BAT=0
+CPU_MAX_PERF_ON_BAT=65
+
+CPU_BOOST_ON_AC=0
+CPU_BOOST_ON_BAT=1
+
+
+# --- Platform profile ---
+PLATFORM_PROFILE_ON_AC=balanced
+PLATFORM_PROFILE_ON_BAT=low-power
+
+
+# --- PCIe runtime power management ---
+RUNTIME_PM_ON_AC=auto
+RUNTIME_PM_ON_BAT=auto
+
+
+# --- SATA ---
+SATA_LINKPWR_ON_AC="med_power_with_dipm"
+SATA_LINKPWR_ON_BAT="med_power_with_dipm"
+
+
+# --- USB ---
+USB_AUTOSUSPEND=0
+

@@ -48,4 +48,5 @@
 	"editor.minimap.enabled": false,
 	"git.enableSmartCommit": true,
 	"chat.mcp.gallery.enabled": true,
+	"editor.fontSize": 15,
 }

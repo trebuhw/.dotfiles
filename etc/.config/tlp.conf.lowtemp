@@ -1,0 +1,61 @@
+# ------------------------------------------------------------------------------
+# /etc/tlp.conf - TLP user configuration optimized for low temps and quiet operation
+# ------------------------------------------------------------------------------
+TLP_ENABLE=1
+
+# CPU energy/performance policy
+CPU_ENERGY_PERF_POLICY_ON_AC=balance_power
+CPU_ENERGY_PERF_POLICY_ON_BAT=balance_power
+
+# Intel CPU min/max P-state (%)
+CPU_MIN_PERF_ON_AC=0
+CPU_MAX_PERF_ON_AC=85
+CPU_MIN_PERF_ON_BAT=0
+CPU_MAX_PERF_ON_BAT=65
+
+# CPU turbo boost
+CPU_BOOST_ON_AC=0
+CPU_BOOST_ON_BAT=1
+
+# CPU dynamic boost
+CPU_HWP_DYN_BOOST_ON_AC=0
+CPU_HWP_DYN_BOOST_ON_BAT=1
+
+# SATA Link Power Management
+SATA_LINKPWR_ON_AC="med_power_with_dipm"
+SATA_LINKPWR_ON_BAT="max_performance"
+
+# Runtime Power Management for PCIe devices
+RUNTIME_PM_ON_AC=on
+RUNTIME_PM_ON_BAT=auto
+
+# AHCI Runtime Power Management (disks)
+AHCI_RUNTIME_PM_ON_AC=on
+AHCI_RUNTIME_PM_ON_BAT=auto
+AHCI_RUNTIME_PM_TIMEOUT=15
+
+# USB Autosuspend
+USB_AUTOSUSPEND=1
+
+# Wi-Fi / Bluetooth / Radios - default
+WIFI_PWR_ON_AC=off
+WIFI_PWR_ON_BAT=on
+
+# Sound power saving (Intel HDA)
+SOUND_POWER_SAVE_ON_AC=1
+SOUND_POWER_SAVE_ON_BAT=1
+SOUND_POWER_SAVE_CONTROLLER=Y
+
+# Memory sleep (suspend mode)
+MEM_SLEEP_ON_AC=s2idle
+MEM_SLEEP_ON_BAT=deep
+
+# Optional: Disable WOL to save power
+WOL_DISABLE=Y
+
+# Disk APM (if you have SATA HDDs, leave defaults)
+DISK_APM_LEVEL_ON_AC="254 254"
+DISK_APM_LEVEL_ON_BAT="128 128"
+DISK_DEVICES="sda sdb"
+
+# TLP defaults for all other parameters are left as intrinsic defaults
