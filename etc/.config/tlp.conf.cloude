@@ -1,0 +1,27 @@
+# /etc/tlp.conf (cloude-lowtemp)
+# Quiet + cool on AC, usable on battery
+
+TLP_ENABLE=1
+
+# --- CPU ---
+CPU_ENERGY_PERF_POLICY_ON_AC=balance_power
+CPU_ENERGY_PERF_POLICY_ON_BAT=balance_performance
+
+# profile
+PLATFORM_PROFILE_ON_AC=quiet
+PLATFORM_PROFILE_ON_BAT=quiet
+
+# turbo off everywhere - main reason for low temps on AC -- wyłączyłem w bios, odkomentować jeśli włączę boost w bios
+# CPU_BOOST_ON_AC=0
+# CPU_BOOST_ON_BAT=0
+
+# CPU_HWP_DYN_BOOST_ON_AC=0
+# CPU_HWP_DYN_BOOST_ON_BAT=0
+
+# --- PCIe Runtime PM ---
+RUNTIME_PM_ON_AC=auto
+RUNTIME_PM_ON_BAT=auto
+
+# --- USB ---
+# autosuspend off - avoids issues with peripherals
+USB_AUTOSUSPEND=0
