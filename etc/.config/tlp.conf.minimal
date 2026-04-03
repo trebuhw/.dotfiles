@@ -1,6 +1,6 @@
 # ------------------------------------------------------------------------------
-# /etc/tlp.conf (balanced) - TLP user configuration optimized for low temps and quiet operation
-# ------------------------------------------------------------------------------
+# /etc/tlp.conf (minimal) - TLP user configuration optimized for low temps and quiet operation
+#------------------------------------------------------------------------------
 TLP_ENABLE=1
 
 

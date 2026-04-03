@@ -40,6 +40,9 @@ alias hw="hwinfo --short"
 alias batery='cat /sys/class/power_supply/BAT0/uevent'
 
 alias power='powerprofilesctl' # Zarządzani power pc systemctl enable/start power-profiles-daemon.service
+alias powerlist='powerprofilesctl list' # Lista profili zasilania
+alias powerlist='powerprofilesctl get' # aktywny profil zasilania 
+alias powerlist='powerprofilesctl list' # ustawienie profilu  zasilania - power-save, balanced, performance 
 alias slu='systemctl list-units'
 alias sysfailed='systemctl list-units --failed'
 alias probe='sudo -E hw-probe -all -upload'

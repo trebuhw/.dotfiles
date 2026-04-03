@@ -1,5 +1,5 @@
 # ------------------------------------------------------------------------------
-# /etc/tlp.conf - TLP user configuration optimized for low temps and quiet operation
+# /etc/tlp.conf (lowtemp) - TLP user configuration optimized for low temps and quiet operation
 # ------------------------------------------------------------------------------
 TLP_ENABLE=1
 
