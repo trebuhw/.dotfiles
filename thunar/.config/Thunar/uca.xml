@@ -5,7 +5,7 @@
 	<name>Otwórz w termialu</name>
 	<submenu></submenu>
 	<unique-id>1768333899271035-1</unique-id>
-	<command>ghostty</command>
+	<command>ghostty --working-directory=%f</command>
 	<description>Otwórz w termialu</description>
 	<range></range>
 	<patterns>*</patterns>

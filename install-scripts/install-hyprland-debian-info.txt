@@ -1,0 +1,33 @@
+Co instaluje skrypt?
+
+✔ Hyprland
+✔ Wayland + XWayland
+✔ PipeWire (audio)
+✔ WirePlumber
+✔ Portal Wayland
+✔ SDDM (menedżer logowania)
+✔ Terminale
+✔ Schowek Wayland
+✔ Screenshot tools
+✔ Mako (powiadomienia)
+✔ Rofi/Wofi (launcher)
+✔ Thunar (menedżer plików)
+✔ Bluetooth
+✔ NetworkManager
+
+🧠 Dodatkowe uwagi (ważne)
+1️⃣ Jeśli masz NVIDIA
+
+W Hyprland na Debianie najlepiej używać sterowników:
+
+nvidia-driver
+
+i ustawić:
+
+options nvidia-drm modeset=1
+
+w /etc/modprobe.d/nvidia.conf
+
+2️⃣ Autostart PipeWire (gdyby nie działał)
+systemctl --user enable pipewire
+systemctl --user enable wireplumber

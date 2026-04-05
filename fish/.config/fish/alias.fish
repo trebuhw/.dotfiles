@@ -48,6 +48,8 @@ alias sysfailed='systemctl list-units --failed'
 alias probe='sudo -E hw-probe -all -upload'
 alias td='sudo hdparm -t' # test prędkości dysku użycie sudo hdparm -t /dev/sda
 
+alias pr='prime-run' # opalenie aplikacji na karcie nvidia po zainstalowaniu nvidia-prime
+
 # -------------------------
 # Audio / jasność
 # -------------------------
