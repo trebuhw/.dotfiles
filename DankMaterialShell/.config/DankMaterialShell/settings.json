@@ -423,7 +423,7 @@
         "battery",
         "controlCenterButton"
       ],
-      "spacing": 9,
+      "spacing": 7,
       "innerPadding": 4,
       "bottomGap": 0,
       "transparency": 1,
