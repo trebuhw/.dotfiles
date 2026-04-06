@@ -15,6 +15,7 @@ set -gx PATH $PATH /usr/bin
 set -gx PATH $PATH /usr/local/share/bin
 set -gx PATH $PATH ~/.config/hypr/scripts
 set -gx PATH $PATH ~/.config/suckless/scripts
+set -gx PATH $PATH ~/.config/bspwm/scripts
 set -gx PATH $PATH ~/.local/bin
 set -gx PATH $PATH ~/.local/share/bin
 
