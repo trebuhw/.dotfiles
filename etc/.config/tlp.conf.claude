@@ -1,4 +1,4 @@
-# /etc/tlp.conf (cloude-lowtemp)
+# /etc/tlp.conf (claude-lowtemp)
 # Quiet + cool on AC, usable on battery
 
 TLP_ENABLE=1
