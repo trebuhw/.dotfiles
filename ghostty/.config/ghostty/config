@@ -38,7 +38,7 @@ mouse-scroll-multiplier = 2
 keybind = alt+,=reload_config
 keybind = alt+x=close_surface
 
-keybind = alt+n=new_window
+#keybind = alt+n=new_window
 
 # tabs 
 keybind = alt+ctrl+t=new_tab
